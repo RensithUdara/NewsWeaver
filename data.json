@@ -1216,5 +1216,11 @@
         "url": "http://smalldatum.blogspot.com/2026/02/mariadb-innovation-vector-index.html",
         "timestamp": "2026-03-07T20:33:32.499376",
         "source": "Hacker News"
+    },
+    {
+        "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
+        "url": "https://github.com/karpathy/autoresearch",
+        "timestamp": "2026-03-07T20:33:32.499414",
+        "source": "Hacker News"
     }
 ]
