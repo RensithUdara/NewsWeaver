@@ -1858,5 +1858,11 @@
         "url": "https://github.com/HackStrix/herd",
         "timestamp": "2026-03-07T22:30:37.561523",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Brw – Browser automation for Claude Code agent teams",
+        "url": "https://github.com/sshh12/claude-plugins/blob/main/plugins/brw/README.md",
+        "timestamp": "2026-03-07T22:30:37.561592",
+        "source": "Hacker News"
     }
 ]
