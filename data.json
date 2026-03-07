@@ -964,5 +964,11 @@
         "url": "https://bringmethenews.com/minnesota-business/agtech-company-moves-headquarters-from-california-to-minnetonka",
         "timestamp": "2026-03-07T19:27:54.639056",
         "source": "Hacker News"
+    },
+    {
+        "title": "Purl – A curl-esque CLI for making HTTP requests that require payment",
+        "url": "https://github.com/stripe/purl",
+        "timestamp": "2026-03-07T19:27:54.639089",
+        "source": "Hacker News"
     }
 ]
