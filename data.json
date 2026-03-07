@@ -1210,5 +1210,11 @@
         "url": "https://mainichi.jp/english/articles/20260306/p2g/00m/0sp/020000c",
         "timestamp": "2026-03-07T20:33:32.499337",
         "source": "Hacker News"
+    },
+    {
+        "title": "MariaDB innovation: vector index performance",
+        "url": "http://smalldatum.blogspot.com/2026/02/mariadb-innovation-vector-index.html",
+        "timestamp": "2026-03-07T20:33:32.499376",
+        "source": "Hacker News"
     }
 ]
