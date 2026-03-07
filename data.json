@@ -2698,5 +2698,11 @@
         "url": "https://claude.com/community/ambassadors",
         "timestamp": "2026-03-07T15:57:28.047271",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLM-cpp: 26 single-header C++17 libraries for LLM integration",
+        "url": "https://github.com/Mattbusel/llm-cpp",
+        "timestamp": "2026-03-07T15:57:28.047305",
+        "source": "Hacker News"
     }
 ]
