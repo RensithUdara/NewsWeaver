@@ -3088,5 +3088,11 @@
         "url": "https://lpbacked.com",
         "timestamp": "2026-03-07T17:00:04.521413",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude-Tokenwise – CLI wrapper for efficient Claude token usage",
+        "url": "https://github.com/nniinnoo/claude-tokenwise",
+        "timestamp": "2026-03-07T17:00:04.521448",
+        "source": "Hacker News"
     }
 ]
