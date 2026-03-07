@@ -202,5 +202,11 @@
         "url": "https://github.com/razvan-mosanu/TermiVision",
         "timestamp": "2026-03-07T15:38:22.448023",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fooling Go's X.509 Certificate Verification",
+        "url": "https://danielmangum.com/posts/fooling-go-x509-certificate-verification/",
+        "timestamp": "2026-03-07T15:38:22.448023",
+        "source": "Hacker News"
     }
 ]
