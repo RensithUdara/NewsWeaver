@@ -802,5 +802,11 @@
         "url": "http://www.call-with-current-continuation.org/ma/README",
         "timestamp": "2026-03-07T16:53:40.620003",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: SPF Flattener Solves the 10-Lookup Limit using recursive DNS resolution",
+        "url": "https://spf1.com/",
+        "timestamp": "2026-03-07T16:53:40.620003",
+        "source": "Hacker News"
     }
 ]
