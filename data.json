@@ -2980,5 +2980,11 @@
         "url": "https://github.com/allaud/fix",
         "timestamp": "2026-03-07T16:39:10.085746",
         "source": "Hacker News"
+    },
+    {
+        "title": "Plan.md",
+        "url": "https://github.com/abnormal-ai/claude-plugins/blob/main/plugins/spec-tool/skills/build-spec-tool/references/plan_template.md",
+        "timestamp": "2026-03-07T16:39:10.085780",
+        "source": "Hacker News"
     }
 ]
