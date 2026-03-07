@@ -2068,5 +2068,11 @@
         "url": "https://notes.druchan.com/500-days-of-rdigest",
         "timestamp": "2026-03-07T13:50:29.003230",
         "source": "Hacker News"
+    },
+    {
+        "title": "Formal proof that a categorical phase-skip detector catches what CUSUM/GLR can't",
+        "url": "https://www.academia.edu/164981853/Resonant_Symbolic_Operator_Calculus_RSOC_Formal_Convergence_Proof_of_%CF%87_t_Under_Adversarial_Phase_Conditions_including_Lemma_5_One_Step_Simultaneous_Detection",
+        "timestamp": "2026-03-07T13:50:29.003264",
+        "source": "Hacker News"
     }
 ]
