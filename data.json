@@ -1108,5 +1108,11 @@
         "url": "https://www.derekthompson.org/p/three-reasons-to-be-a-parent",
         "timestamp": "2026-03-07T19:46:52.997890",
         "source": "Hacker News"
+    },
+    {
+        "title": "Knuth Claude's Cycles note update: problem now solved by LLMs",
+        "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf?updated",
+        "timestamp": "2026-03-07T19:46:52.997929",
+        "source": "Hacker News"
     }
 ]
