@@ -598,5 +598,11 @@
         "url": "https://docs.modular.com/mojo/manual/python-to-mojo/",
         "timestamp": "2026-03-07T10:43:34.949248",
         "source": "Hacker News"
+    },
+    {
+        "title": "MLP Memory: A Retriever-Pretrained Memory for Large Language Models",
+        "url": "https://arxiv.org/abs/2508.01832",
+        "timestamp": "2026-03-07T10:43:34.949284",
+        "source": "Hacker News"
     }
 ]
