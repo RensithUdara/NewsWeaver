@@ -2134,5 +2134,11 @@
         "url": "https://icebergmap.com/",
         "timestamp": "2026-03-07T23:56:50.999107",
         "source": "Hacker News"
+    },
+    {
+        "title": "High-performance Go web framework; Ships with OpenTelemetry, OpenAPI docs",
+        "url": "https://github.com/rivaas-dev/rivaas",
+        "timestamp": "2026-03-07T23:56:50.999146",
+        "source": "Hacker News"
     }
 ]
