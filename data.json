@@ -250,5 +250,11 @@
         "url": "https://leoloso.com/posts/escaping-the-lemonsqueezy-nightmare-migrating-my-ecommerce-elsewhere/",
         "timestamp": "2026-03-07T15:38:22.448023",
         "source": "Hacker News"
+    },
+    {
+        "title": "GoGogot – AI agent in Go, ~15 MB binary, ~10 MB RAM, MiniMax 2.5",
+        "url": "https://go-go-got.com",
+        "timestamp": "2026-03-07T15:38:22.448023",
+        "source": "Hacker News"
     }
 ]
