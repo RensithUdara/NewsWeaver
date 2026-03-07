@@ -2260,5 +2260,11 @@
         "url": "https://www.youtube.com/shorts/EM8NWE7_xFQ",
         "timestamp": "2026-03-07T14:30:58.357395",
         "source": "Hacker News"
+    },
+    {
+        "title": "Let's build a tool-using agent",
+        "url": "https://educatedguesswork.org/posts/tool-calling/",
+        "timestamp": "2026-03-07T14:30:58.357428",
+        "source": "Hacker News"
     }
 ]
