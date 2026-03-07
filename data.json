@@ -196,5 +196,11 @@
         "url": "https://keithcu.com/wordpress/?p=5060",
         "timestamp": "2026-03-07T18:47:06.168336",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: N8n-trace – Grafana-like observability for n8n workflows",
+        "url": "https://github.com/Mohammedaljer/n8nTrace",
+        "timestamp": "2026-03-07T18:47:06.168367",
+        "source": "Hacker News"
     }
 ]
