@@ -316,5 +316,11 @@
         "url": "https://cleantechnica.com/2026/03/06/while-hinkley-nuclear-was-being-built-the-uk-grid-decarbonized/",
         "timestamp": "2026-03-07T15:38:22.449022",
         "source": "Hacker News"
+    },
+    {
+        "title": "Simple Maturin Based Python Bindings to Scryer Prolog",
+        "url": "https://github.com/philzook58/scryerpy",
+        "timestamp": "2026-03-07T15:38:22.449022",
+        "source": "Hacker News"
     }
 ]
