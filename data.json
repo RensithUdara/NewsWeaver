@@ -856,5 +856,11 @@
         "url": "https://css-tricks.com/potentially-coming-to-a-browser-near-you/",
         "timestamp": "2026-03-07T18:47:08.639202",
         "source": "CSS-Tricks"
+    },
+    {
+        "title": "Distinguishing “Components” and “Utilities” in Tailwind",
+        "url": "https://css-tricks.com/distinguishing-components-and-utilities-in-tailwind/",
+        "timestamp": "2026-03-07T18:47:08.639206",
+        "source": "CSS-Tricks"
     }
 ]
