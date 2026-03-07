@@ -1120,5 +1120,11 @@
         "url": "https://github.com/gumlet/cli",
         "timestamp": "2026-03-07T19:46:52.997966",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Rust primitives for AI agents, LLM infrastructure, and financial data",
+        "url": "https://github.com/Mattbusel/rust-crates",
+        "timestamp": "2026-03-07T19:46:52.998002",
+        "source": "Hacker News"
     }
 ]
