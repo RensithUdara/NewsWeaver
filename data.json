@@ -580,5 +580,11 @@
         "url": "https://dreaming.press",
         "timestamp": "2026-03-07T10:43:34.949138",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ki Editor - an editor that operates on the AST",
+        "url": "https://ki-editor.org/",
+        "timestamp": "2026-03-07T10:43:34.949175",
+        "source": "Hacker News"
     }
 ]
