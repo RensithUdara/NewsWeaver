@@ -2374,5 +2374,11 @@
         "url": "http://rhaas.blogspot.com/2026/03/pgplanadvice-plan-stability-and-user.html",
         "timestamp": "2026-03-07T14:58:37.698159",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Fingerprinting Text Embedding Models via Floating-Point Artifacts",
+        "url": "https://colab.research.google.com/drive/1CTFltQrHRTViYSs3JLrwC4leSTWIrPc9",
+        "timestamp": "2026-03-07T14:58:37.698197",
+        "source": "Hacker News"
     }
 ]
