@@ -988,5 +988,11 @@
         "url": "https://news.ycombinator.com/item?id=47290531",
         "timestamp": "2026-03-07T19:27:54.639189",
         "source": "Hacker News"
+    },
+    {
+        "title": "Loxation flags: pig-butchering, grooming and social engineering",
+        "url": "https://www.loxation.com/blog/posts/blog_vector_db_learning_substrate/",
+        "timestamp": "2026-03-07T19:27:54.639222",
+        "source": "Hacker News"
     }
 ]
