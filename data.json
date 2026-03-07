@@ -3034,5 +3034,11 @@
         "url": "https://news.ycombinator.com/item?id=47289325",
         "timestamp": "2026-03-07T17:00:04.521077",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Decade of Docker Containers",
+        "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+        "timestamp": "2026-03-07T17:00:04.521113",
+        "source": "Hacker News"
     }
 ]
