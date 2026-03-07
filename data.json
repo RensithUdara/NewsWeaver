@@ -2368,5 +2368,11 @@
         "url": "https://sderosiaux.substack.com/p/algorithm-names-are-the-new-cognitive",
         "timestamp": "2026-03-07T14:58:37.698109",
         "source": "Hacker News"
+    },
+    {
+        "title": "Plan management patches for Postgres 19",
+        "url": "http://rhaas.blogspot.com/2026/03/pgplanadvice-plan-stability-and-user.html",
+        "timestamp": "2026-03-07T14:58:37.698159",
+        "source": "Hacker News"
     }
 ]
