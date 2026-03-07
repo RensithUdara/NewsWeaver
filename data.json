@@ -196,5 +196,11 @@
         "url": "https://home.journalit.app/blog/why-productivity-apps-fail",
         "timestamp": "2026-03-07T15:38:22.448023",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: TermiVision.A lock-free C++ terminal video player using Braille SSAA",
+        "url": "https://github.com/razvan-mosanu/TermiVision",
+        "timestamp": "2026-03-07T15:38:22.448023",
+        "source": "Hacker News"
     }
 ]
