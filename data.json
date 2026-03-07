@@ -2620,5 +2620,11 @@
         "url": "https://www.bbc.com/news/articles/c4gj39zk1k0o",
         "timestamp": "2026-03-07T15:33:43.002684",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI Accelerator Open-source platform for running AI systems in production",
+        "url": "https://pypi.org/project/ai-accelerator/",
+        "timestamp": "2026-03-07T15:33:43.002717",
+        "source": "Hacker News"
     }
 ]
