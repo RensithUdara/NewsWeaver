@@ -1024,5 +1024,11 @@
         "url": "https://www.typeui.sh/",
         "timestamp": "2026-03-07T19:27:54.639408",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Audit a Legacy Rails Codebase in the First Week",
+        "url": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/",
+        "timestamp": "2026-03-07T19:27:54.639444",
+        "source": "Hacker News"
     }
 ]
