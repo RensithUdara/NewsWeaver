@@ -1750,5 +1750,11 @@
         "url": "https://leadsfromurl.com",
         "timestamp": "2026-03-07T18:21:00.000420",
         "source": "Hacker News"
+    },
+    {
+        "title": "lsgit: List Git Repositories",
+        "url": "https://github.com/itinance/lsgit",
+        "timestamp": "2026-03-07T18:21:00.000420",
+        "source": "Hacker News"
     }
 ]
