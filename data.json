@@ -1726,5 +1726,11 @@
         "url": "https://www.phoronix.com/news/FreeBSD-15.1-Realtek-KDE-Wins",
         "timestamp": "2026-03-07T18:21:00.000420",
         "source": "Hacker News"
+    },
+    {
+        "title": "A curated list of papers on LLMs reasoning failures",
+        "url": "https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures",
+        "timestamp": "2026-03-07T18:21:00.000420",
+        "source": "Hacker News"
     }
 ]
