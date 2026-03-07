@@ -2398,5 +2398,11 @@
         "url": "https://vaultit.kids",
         "timestamp": "2026-03-07T14:58:37.698322",
         "source": "Hacker News"
+    },
+    {
+        "title": "AST-filtered eval() is not a sandbox: Severity 10 CVE-2026-26030, and others",
+        "url": "https://daridor.blog/2026/03/05/ast-filtered-eval-is-not-a-sandbox-remote-code-execution-in-microsoft-semantic-kernel-and-the-ai-infrastructure-pattern-behind-it/",
+        "timestamp": "2026-03-07T14:58:37.698360",
+        "source": "Hacker News"
     }
 ]
