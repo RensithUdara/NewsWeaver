@@ -1624,5 +1624,11 @@
         "url": "https://my.microbin.eu/",
         "timestamp": "2026-03-07T21:31:40.271573",
         "source": "Hacker News"
+    },
+    {
+        "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
+        "url": "https://arxiv.org/abs/2603.03823",
+        "timestamp": "2026-03-07T21:31:40.271606",
+        "source": "Hacker News"
     }
 ]
