@@ -3040,5 +3040,11 @@
         "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
         "timestamp": "2026-03-07T17:00:04.521113",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pushing and Pulling: Three Reactivity Algorithms",
+        "url": "https://jonathan-frere.com/posts/reactivity-algorithms/",
+        "timestamp": "2026-03-07T17:00:04.521149",
+        "source": "Hacker News"
     }
 ]
