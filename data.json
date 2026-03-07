@@ -1462,5 +1462,11 @@
         "url": "https://www.aicurate.news",
         "timestamp": "2026-03-07T20:58:38.567788",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Custom Git-receive-pack implementation",
+        "url": "https://github.com/runxiyu/furgit/tree/master/cmd/receivepack9418",
+        "timestamp": "2026-03-07T20:58:38.567824",
+        "source": "Hacker News"
     }
 ]
