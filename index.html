@@ -482,24 +482,30 @@
             border-color: rgba(0, 212, 255, 0.4);
             box-shadow: 0 25px 50px rgba(0, 212, 255, 0.2), inset 0 0 30px rgba(0, 212, 255, 0.05);
             transform: translateY(-12px);
-            background: linear-gradient(135deg, rgba(26, 32, 70, 0.9) 0%, rgba(42, 58, 107, 0.7) 100%);
+            backgroun5px 12px;
+            border-radius: 8px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.6px;
+            backdrop-filter: blur(10px);
+            transition: all 0.3s ease;
         }
 
-        .news-card-header {
-            padding: 20px;
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-            flex: 1;
+        .badge-source {
+            background: linear-gradient(135deg, rgba(0, 212, 255, 0.15) 0%, rgba(0, 212, 255, 0.05) 100%);
+            color: var(--accent-blue);
+            border: 1px solid rgba(0, 212, 255, 0.4);
         }
 
-        .news-card-badges {
-            display: flex;
-            gap: 8px;
-            flex-wrap: wrap;
+        .badge-category {
+            background: linear-gradient(135deg, rgba(168, 85, 247, 0.15) 0%, rgba(168, 85, 247, 0.05) 100%);
+            color: var(--accent-purple);
+            border: 1px solid rgba(168, 85, 247, 0.4);
         }
 
-        .badge {
+        .news-card:hover .badge {
+            transform: scale(1.05
             display: inline-block;
             padding: 4px 10px;
             border-radius: 6px;
