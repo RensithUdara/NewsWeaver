@@ -1696,5 +1696,11 @@
         "url": "https://github.com/emiliano-gandini-outeda/DBWarden",
         "timestamp": "2026-03-07T21:55:06.147375",
         "source": "Hacker News"
+    },
+    {
+        "title": "QRPC: Low Latency RPC over Link Layer",
+        "url": "https://github.com/malandrakisgeo/qRPC",
+        "timestamp": "2026-03-07T21:55:06.147408",
+        "source": "Hacker News"
     }
 ]
