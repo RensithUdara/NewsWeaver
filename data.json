@@ -3058,5 +3058,11 @@
         "url": "https://www.youtube.com/watch?v=lEOTKYxiIzs",
         "timestamp": "2026-03-07T17:00:04.521218",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: LLM agents that write Python to analyze execution traces at scale",
+        "url": "https://github.com/kayba-ai/agentic-context-engine/tree/main",
+        "timestamp": "2026-03-07T17:00:04.521271",
+        "source": "Hacker News"
     }
 ]
