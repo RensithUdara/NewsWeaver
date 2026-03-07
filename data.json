@@ -2830,5 +2830,11 @@
         "url": "https://www.businessinsider.com/tech-jobs-getting-demolished-great-recession-dot-com-era-2026-3",
         "timestamp": "2026-03-07T16:39:10.084841",
         "source": "Hacker News"
+    },
+    {
+        "title": "Matchmaker – a fzf program and library in Rust",
+        "url": "https://github.com/Squirreljetpack/matchmaker",
+        "timestamp": "2026-03-07T16:39:10.084878",
+        "source": "Hacker News"
     }
 ]
