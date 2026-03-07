@@ -2122,5 +2122,11 @@
         "url": "https://aitoolvs.com/",
         "timestamp": "2026-03-07T13:50:29.003575",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to stop fighting with coherence and start writing context-generic trait imp",
+        "url": "https://contextgeneric.dev/blog/rustlab-2025-coherence/",
+        "timestamp": "2026-03-07T13:50:29.003608",
+        "source": "Hacker News"
     }
 ]
