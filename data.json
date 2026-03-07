@@ -1276,5 +1276,11 @@
         "url": "https://news.ycombinator.com/item?id=47291012",
         "timestamp": "2026-03-07T20:33:32.499759",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agentic open-source local news comedian (Pydantic, Llama 3.1)",
+        "url": "https://github.com/jeffjbowie/Local-News-Comedian-Agent",
+        "timestamp": "2026-03-07T20:33:32.499794",
+        "source": "Hacker News"
     }
 ]
