@@ -2032,5 +2032,11 @@
         "url": "https://blog.alaindichiappari.dev/p/no-you-cant-build-it-in-a-day",
         "timestamp": "2026-03-07T18:57:48.789168",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Smelt – Extract structured data from PDFs and HTML using LLM",
+        "url": "https://github.com/akdavidsson/smelt",
+        "timestamp": "2026-03-07T18:57:48.789168",
+        "source": "Hacker News"
     }
 ]
