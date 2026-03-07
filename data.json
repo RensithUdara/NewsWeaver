@@ -2758,5 +2758,11 @@
         "url": "https://www.flowsub.ai/",
         "timestamp": "2026-03-07T15:57:28.047614",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tamper-evident audit trail for AI agent tool calls (MCP proxy)",
+        "url": "https://github.com/Born14/mcp-proxy",
+        "timestamp": "2026-03-07T15:57:28.047682",
+        "source": "Hacker News"
     }
 ]
