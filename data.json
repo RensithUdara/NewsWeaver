@@ -1672,5 +1672,11 @@
         "url": "https://antithesis.com/blog/2026/carcinization/",
         "timestamp": "2026-03-07T18:21:00.000420",
         "source": "Hacker News"
+    },
+    {
+        "title": "Better-CLI: A Skill that teaches agents best practices for improving CLIs",
+        "url": "https://github.com/yogin16/better-cli",
+        "timestamp": "2026-03-07T18:21:00.000420",
+        "source": "Hacker News"
     }
 ]
