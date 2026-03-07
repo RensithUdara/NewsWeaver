@@ -1264,5 +1264,11 @@
         "url": "https://www.nippon.com/en/news/yjj2026030600630/",
         "timestamp": "2026-03-07T20:33:32.499657",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: U-Boot Fw_env.config Bruteforcer",
+        "url": "https://github.com/nstarke/U-Boot-fw_env_scan",
+        "timestamp": "2026-03-07T20:33:32.499690",
+        "source": "Hacker News"
     }
 ]
