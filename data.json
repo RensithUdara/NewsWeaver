@@ -946,5 +946,11 @@
         "url": "https://reddit.com/r/programming/comments/1rmqcev/jank_is_off_to_a_great_start_in_2026/",
         "timestamp": "2026-03-07T16:53:41.654805",
         "source": "Reddit - programming"
+    },
+    {
+        "title": "A community spent weeks debugging an automerge bot. The final bug was a one-line GitHub permissions edge case.",
+        "url": "https://reddit.com/r/programming/comments/1rn5dbz/a_community_spent_weeks_debugging_an_automerge/",
+        "timestamp": "2026-03-07T16:53:41.654805",
+        "source": "Reddit - programming"
     }
 ]
