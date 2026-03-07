@@ -880,5 +880,11 @@
         "url": "https://reddit.com/r/programming/comments/1rn5az3/the_internals_of_postgresql/",
         "timestamp": "2026-03-07T16:53:41.654805",
         "source": "Reddit - programming"
+    },
+    {
+        "title": "[Implicit casting of] C# strings silently kill your SQL Server indexes in Dapper",
+        "url": "https://reddit.com/r/programming/comments/1rmw614/implicit_casting_of_c_strings_silently_kill_your/",
+        "timestamp": "2026-03-07T16:53:41.654805",
+        "source": "Reddit - programming"
     }
 ]
