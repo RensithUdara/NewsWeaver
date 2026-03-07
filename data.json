@@ -2644,5 +2644,11 @@
         "url": "https://news.ycombinator.com/item?id=47288220",
         "timestamp": "2026-03-07T15:33:43.002819",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: BunnyNet – A Modern Java SDK for BunnyCDN Storage",
+        "url": "https://github.com/range79/bunnynet-lib",
+        "timestamp": "2026-03-07T15:33:43.002853",
+        "source": "Hacker News"
     }
 ]
