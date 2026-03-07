@@ -19,17 +19,6 @@ SOURCES = [
         "parser": "hn",
         "name": "Hacker News - Newest"
     },
-    # Reddit (with v1 API endpoint)
-    {
-        "url": "https://www.reddit.com/r/programming/top/.json?t=day",
-        "parser": "reddit",
-        "name": "Reddit - r/programming (Top)"
-    },
-    {
-        "url": "https://www.reddit.com/r/technology/top/.json?t=day",
-        "parser": "reddit",
-        "name": "Reddit - r/technology (Top)"
-    },
     # Dev.to
     {
         "url": "https://dev.to/api/articles?top=7",
