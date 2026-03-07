@@ -2098,5 +2098,11 @@
         "url": "https://bensantora.com/posts/llms-solvers-vs-judges/",
         "timestamp": "2026-03-07T13:50:29.003440",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: iTerm2 tab status for Claude Code sessions – see which tab needs you",
+        "url": "https://github.com/JasperSui/claude-code-iterm2-tab-status",
+        "timestamp": "2026-03-07T13:50:29.003474",
+        "source": "Hacker News"
     }
 ]
