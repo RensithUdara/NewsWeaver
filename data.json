@@ -184,5 +184,11 @@
         "url": "https://miapi.uk",
         "timestamp": "2026-03-07T15:38:22.448023",
         "source": "Hacker News"
+    },
+    {
+        "title": "Things I miss about Spring Boot after switching to Go",
+        "url": "https://sushantdhiman.dev/things-i-miss-about-spring-boot-after-switching-to-go/",
+        "timestamp": "2026-03-07T15:38:22.448023",
+        "source": "Hacker News"
     }
 ]
