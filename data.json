@@ -160,5 +160,11 @@
         "url": "https://news.ycombinator.com/item?id=47282777",
         "timestamp": "2026-03-07T15:38:21.199576",
         "source": "Hacker News"
+    },
+    {
+        "title": "C# strings silently kill your SQL Server indexes in Dapper",
+        "url": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
+        "timestamp": "2026-03-07T15:38:21.199576",
+        "source": "Hacker News"
     }
 ]
