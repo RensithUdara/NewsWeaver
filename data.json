@@ -2356,5 +2356,11 @@
         "url": "https://news.ycombinator.com/item?id=47287720",
         "timestamp": "2026-03-07T14:30:58.357999",
         "source": "Hacker News"
+    },
+    {
+        "title": "Migrating from Heroku to Magic Containers",
+        "url": "https://bunny.net/blog/migrating-from-heroku-to-magic-containers/",
+        "timestamp": "2026-03-07T14:58:37.369840",
+        "source": "Hacker News"
     }
 ]
