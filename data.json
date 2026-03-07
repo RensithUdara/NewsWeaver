@@ -700,5 +700,11 @@
         "url": "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/",
         "timestamp": "2026-03-07T10:59:43.151550",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Vimalender a Vim style calendar for the terminal written in Go",
+        "url": "https://github.com/Sadoaz/vimalender",
+        "timestamp": "2026-03-07T10:59:43.151594",
+        "source": "Hacker News"
     }
 ]
