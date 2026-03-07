@@ -2116,5 +2116,11 @@
         "url": "https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/",
         "timestamp": "2026-03-07T23:56:50.699693",
         "source": "Hacker News"
+    },
+    {
+        "title": "Trampolining Nix with GenericClosure",
+        "url": "https://blog.kleisli.io/post/trampolining-nix-with-generic-closure",
+        "timestamp": "2026-03-07T23:56:50.699927",
+        "source": "Hacker News"
     }
 ]
