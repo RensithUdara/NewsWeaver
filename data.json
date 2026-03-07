@@ -1402,5 +1402,11 @@
         "url": "https://news.ycombinator.com/item?id=47291363",
         "timestamp": "2026-03-07T20:58:38.567368",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Luna Agent – Custom AI agent in ~2300 lines of Python, no frameworks",
+        "url": "https://nonatofabio.github.io/blog/post.html?slug=luna_agent",
+        "timestamp": "2026-03-07T20:58:38.567410",
+        "source": "Hacker News"
     }
 ]
