@@ -19,16 +19,16 @@ SOURCES = [
         "parser": "hn",
         "name": "Hacker News - Newest"
     },
-    # Reddit
+    # Reddit (with v1 API endpoint)
     {
-        "url": "https://www.reddit.com/r/programming/.json",
+        "url": "https://www.reddit.com/r/programming/top/.json?t=day",
         "parser": "reddit",
-        "name": "Reddit - r/programming"
+        "name": "Reddit - r/programming (Top)"
     },
     {
-        "url": "https://www.reddit.com/r/technology/.json",
+        "url": "https://www.reddit.com/r/technology/top/.json?t=day",
         "parser": "reddit",
-        "name": "Reddit - r/technology"
+        "name": "Reddit - r/technology (Top)"
     },
     # Dev.to
     {
@@ -38,15 +38,15 @@ SOURCES = [
     },
     # Product Hunt (RSS)
     {
-        "url": "https://www.producthunt.com/feed.xml",
+        "url": "https://www.producthunt.com/feed",
         "parser": "rss",
         "name": "Product Hunt - Latest"
     },
     # ArXiv Computer Science (RSS)
     {
-        "url": "http://arxiv.org/rss/cs.AI/recent",
+        "url": "http://arxiv.org/rss/cs/recent",
         "parser": "rss",
-        "name": "ArXiv - AI Papers"
+        "name": "ArXiv - CS Papers"
     }
 ]
 DATA_FILE = "data.json"
@@ -55,7 +55,11 @@ def fetch_data(url, headers=None):
     """Fetch data from URL with proper user agent"""
     try:
         default_headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.5',
+            'Referer': 'https://www.google.com/',
+            'Connection': 'keep-alive'
         }
         if headers:
             default_headers.update(headers)
