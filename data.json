@@ -3070,5 +3070,11 @@
         "url": "https://worksonmymachine.ai/p/the-ghost-in-the-funnel",
         "timestamp": "2026-03-07T17:00:04.521308",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Automate Claude in a work->review loop with cook",
+        "url": "https://github.com/rjcorwin/cook",
+        "timestamp": "2026-03-07T17:00:04.521344",
+        "source": "Hacker News"
     }
 ]
