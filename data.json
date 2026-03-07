@@ -2848,5 +2848,11 @@
         "url": "https://news.ycombinator.com/item?id=47289083",
         "timestamp": "2026-03-07T16:39:10.084988",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Native WebGPU / WebGL Profiler for Mac",
+        "url": "https://github.com/HarshdeepKahlon/native-webgpu-profiler",
+        "timestamp": "2026-03-07T16:39:10.085027",
+        "source": "Hacker News"
     }
 ]
