@@ -3280,5 +3280,11 @@
         "url": "https://seg6.space/posts/software-protection-system/",
         "timestamp": "2026-03-07T17:33:27.421337",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a site to browse and vote on LLMs across N dimensions",
+        "url": "https://llm-matrix.vercel.app/",
+        "timestamp": "2026-03-07T17:33:27.421370",
+        "source": "Hacker News"
     }
 ]
