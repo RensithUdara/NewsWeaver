@@ -165,12 +165,13 @@
             flex: 1;
             min-width: 300px;
             padding: 14px 18px;
-            background: var(--bg-secondary);
-            border: 1px solid var(--border);
-            border-radius: 10px;
+            background: rgba(26, 32, 70, 0.5);
+            border: 1.5px solid rgba(0, 212, 255, 0.2);
+            border-radius: 12px;
             font-size: 1rem;
             color: var(--text-primary);
-            transition: all 0.3s ease;
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            backdrop-filter: blur(10px);
         }
 
         .search-box::placeholder {
@@ -180,8 +181,8 @@
         .search-box:focus {
             outline: none;
             border-color: var(--accent-blue);
-            box-shadow: 0 0 20px rgba(0, 212, 255, 0.2);
-            background: var(--bg-tertiary);
+            background: rgba(26, 32, 70, 0.8);
+            box-shadow: 0 0 30px rgba(0, 212, 255, 0.3), inset 0 0 20px rgba(0, 212, 255, 0.05);
         }
 
         .btn-group {
