@@ -70,5 +70,11 @@
         "url": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
         "timestamp": "2026-03-07T15:38:21.199576",
         "source": "Hacker News"
+    },
+    {
+        "title": "Editing changes in patch format with Jujutsu",
+        "url": "https://www.knifepoint.net/~kat/kb-jj-patchedit.html",
+        "timestamp": "2026-03-07T15:38:21.199576",
+        "source": "Hacker News"
     }
 ]
