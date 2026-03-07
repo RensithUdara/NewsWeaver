@@ -82,5 +82,11 @@
         "url": "https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/",
         "timestamp": "2026-03-07T18:47:05.949482",
         "source": "Hacker News"
+    },
+    {
+        "title": "UUID package coming to Go standard library",
+        "url": "https://github.com/golang/go/issues/62026",
+        "timestamp": "2026-03-07T18:47:05.949512",
+        "source": "Hacker News"
     }
 ]
