@@ -2200,5 +2200,11 @@
         "url": "https://ente.io/ensu/",
         "timestamp": "2026-03-07T23:22:03.548751",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tessera – MCP server that gives Claude persistent memory and local RAG search",
+        "url": "https://github.com/besslframework-stack/project-tessera",
+        "timestamp": "2026-03-07T23:22:03.548751",
+        "source": "Hacker News"
     }
 ]
