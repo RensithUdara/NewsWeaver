@@ -42,12 +42,24 @@ SOURCES = [
         "parser": "rss",
         "name": "Product Hunt - Latest"
     },
-    # ArXiv Computer Science (RSS)
+    # TechCrunch (RSS)
     {
-        "url": "http://arxiv.org/rss/cs/recent",
+        "url": "https://techcrunch.com/feed/",
         "parser": "rss",
-        "name": "ArXiv - CS Papers"
-    }
+        "name": "TechCrunch - Latest"
+    },
+    # Smashing Magazine (RSS)
+    {
+        "url": "https://www.smashingmagazine.com/feed/",
+        "parser": "rss",
+        "name": "Smashing Magazine - Web Design"
+    },
+    # CSS-Tricks (RSS)
+    {
+        "url": "https://css-tricks.com/feed/",
+        "parser": "rss",
+        "name": "CSS-Tricks - Web Development"
+    },
 ]
 DATA_FILE = "data.json"
 
