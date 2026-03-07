@@ -334,5 +334,11 @@
         "url": "https://www.cv10x.com",
         "timestamp": "2026-03-07T15:38:22.449022",
         "source": "Hacker News"
+    },
+    {
+        "title": "Writing a simple VM in less than 125 lines of C (2021)",
+        "url": "https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c/",
+        "timestamp": "2026-03-07T15:38:22.449022",
+        "source": "Hacker News"
     }
 ]
