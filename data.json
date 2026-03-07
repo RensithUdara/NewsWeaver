@@ -178,5 +178,11 @@
         "url": "https://changelog.qgis.org/en/version/4.0/",
         "timestamp": "2026-03-07T18:47:05.949971",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: NovusNet, a C++ networking library for beginners",
+        "url": "https://github.com/Nullora/NovusNet",
+        "timestamp": "2026-03-07T18:47:06.168261",
+        "source": "Hacker News"
     }
 ]
