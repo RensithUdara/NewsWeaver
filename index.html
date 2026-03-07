@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -334,8 +335,13 @@
         }
 
         @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
         }
 
         /* Responsive */
@@ -376,6 +382,7 @@
                 opacity: 0;
                 transform: translateY(20px);
             }
+
             to {
                 opacity: 1;
                 transform: translateY(0);
@@ -386,14 +393,32 @@
             animation: fadeIn 0.5s ease forwards;
         }
 
-        .news-card:nth-child(1) { animation-delay: 0.05s; }
-        .news-card:nth-child(2) { animation-delay: 0.1s; }
-        .news-card:nth-child(3) { animation-delay: 0.15s; }
-        .news-card:nth-child(4) { animation-delay: 0.2s; }
-        .news-card:nth-child(5) { animation-delay: 0.25s; }
-        .news-card:nth-child(n+6) { animation-delay: 0.3s; }
+        .news-card:nth-child(1) {
+            animation-delay: 0.05s;
+        }
+
+        .news-card:nth-child(2) {
+            animation-delay: 0.1s;
+        }
+
+        .news-card:nth-child(3) {
+            animation-delay: 0.15s;
+        }
+
+        .news-card:nth-child(4) {
+            animation-delay: 0.2s;
+        }
+
+        .news-card:nth-child(5) {
+            animation-delay: 0.25s;
+        }
+
+        .news-card:nth-child(n+6) {
+            animation-delay: 0.3s;
+        }
     </style>
 </head>
+
 <body>
     <div class="header">
         <h1>📰 NewsWeaver</h1>
@@ -403,12 +428,7 @@
     <div class="container">
         <!-- Controls -->
         <div class="controls">
-            <input 
-                type="text" 
-                class="search-box" 
-                id="searchInput" 
-                placeholder="Search articles..."
-            >
+            <input type="text" class="search-box" id="searchInput" placeholder="Search articles...">
             <div style="position: relative;">
                 <button class="filter-btn" id="filterBtn">🔽 Filter by Source</button>
                 <div class="filters-dropdown" id="filtersDropdown">
@@ -456,7 +476,7 @@
                 const response = await fetch('data.json');
                 allArticles = await response.json();
                 filteredArticles = [...allArticles];
-                
+
                 initializeFilters();
                 updateStats();
                 renderArticles();
@@ -476,7 +496,7 @@
         function initializeFilters() {
             const sources = [...new Set(allArticles.map(a => a.source))].sort();
             const dropdown = document.getElementById('filtersDropdown');
-            
+
             dropdown.innerHTML = sources.map(source => `
                 <label class="filter-item">
                     <input type="checkbox" value="${source}" class="source-filter">
@@ -515,10 +535,10 @@
         // Apply all filters
         function applyFilters() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
-            
+
             filteredArticles = allArticles.filter(article => {
                 const matchesSearch = article.title.toLowerCase().includes(searchTerm) ||
-                                    article.url.toLowerCase().includes(searchTerm);
+                    article.url.toLowerCase().includes(searchTerm);
                 const matchesFilter = activeFilters.size === 0 || activeFilters.has(article.source);
                 return matchesSearch && matchesFilter;
             });
@@ -545,7 +565,7 @@
         // Render articles
         function renderArticles() {
             const grid = document.getElementById('newsGrid');
-            
+
             if (filteredArticles.length === 0) {
                 grid.innerHTML = `
                     <div class="empty-state">
@@ -560,7 +580,7 @@
             grid.innerHTML = filteredArticles.map(article => {
                 const date = new Date(article.timestamp);
                 const timeAgo = getTimeAgo(date);
-                
+
                 return `
                     <div class="news-card">
                         <div class="news-card-header">
@@ -581,7 +601,7 @@
             const sources = new Set(filteredArticles.map(a => a.source));
             document.getElementById('totalCount').textContent = filteredArticles.length;
             document.getElementById('sourceCount').textContent = sources.size;
-            
+
             if (allArticles.length > 0) {
                 const lastDate = new Date(allArticles[0].timestamp);
                 document.getElementById('lastUpdated').textContent = formatDate(lastDate);
@@ -592,12 +612,12 @@
         function getTimeAgo(date) {
             const now = new Date();
             const seconds = Math.floor((now - date) / 1000);
-            
+
             if (seconds < 60) return 'Just now';
             if (seconds < 3600) return Math.floor(seconds / 60) + 'm ago';
             if (seconds < 86400) return Math.floor(seconds / 3600) + 'h ago';
             if (seconds < 604800) return Math.floor(seconds / 86400) + 'd ago';
-            
+
             return formatDate(date);
         }
 
@@ -613,7 +633,7 @@
 
         // Update stats on filter change
         const originalRender = renderArticles;
-        renderArticles = function() {
+        renderArticles = function () {
             updateStats();
             originalRender();
         };
@@ -622,4 +642,5 @@
         loadArticles();
     </script>
 </body>
+
 </html>
