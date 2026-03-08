@@ -5170,5 +5170,11 @@
         "url": "https://github.com/janbjorge/gyml",
         "timestamp": "2026-03-08T22:58:47.247472",
         "source": "Hacker News"
+    },
+    {
+        "title": "Send secrets/tokens/env-files to teammates directly from CLI",
+        "url": "https://github.com/rel-s/stringphone",
+        "timestamp": "2026-03-08T22:58:47.247510",
+        "source": "Hacker News"
     }
 ]
