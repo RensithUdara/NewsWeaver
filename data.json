@@ -4,5 +4,11 @@
         "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
         "timestamp": "2026-03-08T13:09:00.840410",
         "source": "Hacker News"
+    },
+    {
+        "title": "\"Warn about PyPy being unmaintained\"",
+        "url": "https://github.com/astral-sh/uv/pull/17643",
+        "timestamp": "2026-03-08T13:09:00.840410",
+        "source": "Hacker News"
     }
 ]
