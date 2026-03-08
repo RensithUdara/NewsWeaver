@@ -1786,5 +1786,11 @@
         "url": "https://news.ycombinator.com/item?id=47296547",
         "timestamp": "2026-03-08T11:48:46.534896",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lazy JWT Key Rotation in .NET: Redis-Powered JWKS That Just Works",
+        "url": "https://www.aaronpina.com/lazy-jwt-key-rotation-in-net-redis-powered-jwks-that-just-works/",
+        "timestamp": "2026-03-08T11:48:46.534931",
+        "source": "Hacker News"
     }
 ]
