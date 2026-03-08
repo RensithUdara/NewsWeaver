@@ -1522,5 +1522,11 @@
         "url": "https://github.com/jay123anta/laravel-api-versionist",
         "timestamp": "2026-03-08T10:55:17.027276",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Laravel middleware that logs attacks-injection, XSS, bots, never blocks",
+        "url": "https://github.com/jay123anta/laravel-threat-detection",
+        "timestamp": "2026-03-08T10:55:17.027310",
+        "source": "Hacker News"
     }
 ]
