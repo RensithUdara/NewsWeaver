@@ -2710,5 +2710,11 @@
         "url": "https://xergioalex.com/blog/why-i-ditched-eslint-prettier-for-biome/",
         "timestamp": "2026-03-08T15:24:30.766277",
         "source": "Hacker News"
+    },
+    {
+        "title": "Skate: A personal key value store",
+        "url": "https://github.com/charmbracelet/skate",
+        "timestamp": "2026-03-08T15:24:30.766312",
+        "source": "Hacker News"
     }
 ]
