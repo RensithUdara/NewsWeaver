@@ -4042,5 +4042,11 @@
         "url": "https://wolfscale.org/",
         "timestamp": "2026-03-08T18:55:38.502115",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pg_plan_advice: Plan Stability and User Planner Control for PostgreSQL?",
+        "url": "http://rhaas.blogspot.com/2026/03/pgplanadvice-plan-stability-and-user.html",
+        "timestamp": "2026-03-08T18:55:38.502150",
+        "source": "Hacker News"
     }
 ]
