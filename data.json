@@ -5452,5 +5452,11 @@
         "url": "https://www.aricolaprete.com/2025/03/beyond-nirvana-principle.html",
         "timestamp": "2026-03-08T23:57:36.326276",
         "source": "Hacker News"
+    },
+    {
+        "title": "IPFS OCI Registry – now with federation policy and private swarm support",
+        "url": "https://github.com/fbongiovanni29/ipfs-oci-registry",
+        "timestamp": "2026-03-08T23:57:36.326310",
+        "source": "Hacker News"
     }
 ]
