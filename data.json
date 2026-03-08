@@ -928,5 +928,11 @@
         "url": "https://news.ycombinator.com/item?id=47295451",
         "timestamp": "2026-03-08T07:57:53.954723",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Synthetic Data Playbook: Generating Trillions of the Finest Tokens",
+        "url": "https://huggingface.co/spaces/HuggingFaceFW/finephrase",
+        "timestamp": "2026-03-08T07:57:53.954760",
+        "source": "Hacker News"
     }
 ]
