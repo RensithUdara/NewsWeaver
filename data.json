@@ -3628,5 +3628,11 @@
         "url": "https://satsapi.dev/",
         "timestamp": "2026-03-08T17:34:38.758340",
         "source": "Hacker News"
+    },
+    {
+        "title": "We Turned Our Wireshark Wizard into a Markdown File",
+        "url": "https://www.checklyhq.com/blog/building-an-ai-agent/",
+        "timestamp": "2026-03-08T17:52:51.159216",
+        "source": "Hacker News"
     }
 ]
