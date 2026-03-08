@@ -190,5 +190,11 @@
         "url": "https://zeteo.com/p/watch-now-gaza-doctors-under-attack",
         "timestamp": "2026-03-08T13:09:02.555701",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: TracePact – Catch tool-call regressions in AI agents before prod",
+        "url": "https://github.com/dcdeve/tracepact",
+        "timestamp": "2026-03-08T13:09:02.555701",
+        "source": "Hacker News"
     }
 ]
