@@ -1606,5 +1606,11 @@
         "url": "https://www.inc.com/maria-jose-gutierrez-chavez/scientists-taught-a-petri-dish-of-brain-cells-to-play-doom-theyre-getting-better/91312119",
         "timestamp": "2026-03-08T11:13:27.185316",
         "source": "Hacker News"
+    },
+    {
+        "title": "Proxs3: An S3 storage plugin for Proxmox",
+        "url": "https://github.com/sol1/proxs3",
+        "timestamp": "2026-03-08T11:13:27.185370",
+        "source": "Hacker News"
     }
 ]
