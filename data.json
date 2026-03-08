@@ -4630,5 +4630,11 @@
         "url": "https://basicappleguy.com/basicappleblog/lil-finder-guy",
         "timestamp": "2026-03-08T20:59:06.481189",
         "source": "Hacker News"
+    },
+    {
+        "title": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
+        "url": "https://github.com/Rabrg/artificial-life",
+        "timestamp": "2026-03-08T20:59:06.481223",
+        "source": "Hacker News"
     }
 ]
