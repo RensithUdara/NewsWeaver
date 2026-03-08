@@ -1318,5 +1318,11 @@
         "url": "https://github.com/gcv/julia-snail",
         "timestamp": "2026-03-08T09:50:05.043717",
         "source": "Hacker News"
+    },
+    {
+        "title": "Notes on Writing WASM",
+        "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+        "timestamp": "2026-03-08T09:50:05.043799",
+        "source": "Hacker News"
     }
 ]
