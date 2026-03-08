@@ -1912,5 +1912,11 @@
         "url": "https://safeparse.com",
         "timestamp": "2026-03-08T12:42:33.221882",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: SchemaSight – Chat with your database schema locally using Ollama",
+        "url": "https://github.com/Hitesh1326/schemasight",
+        "timestamp": "2026-03-08T12:42:33.221926",
+        "source": "Hacker News"
     }
 ]
