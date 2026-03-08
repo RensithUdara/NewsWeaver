@@ -2704,5 +2704,11 @@
         "url": "https://news.ycombinator.com/item?id=47297961",
         "timestamp": "2026-03-08T15:24:30.766241",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Ditched ESLint and Prettier for Biome",
+        "url": "https://xergioalex.com/blog/why-i-ditched-eslint-prettier-for-biome/",
+        "timestamp": "2026-03-08T15:24:30.766277",
+        "source": "Hacker News"
     }
 ]
