@@ -4942,5 +4942,11 @@
         "url": "https://blog.ebbypeter.com/2026/03/detection-is-not-protection-what-azure-waf-detection-mode-actually-does-and-doesnt/",
         "timestamp": "2026-03-08T22:16:52.388748",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Environment Variable Checker",
+        "url": "https://github.com/Chrilleweb/dotenv-diff",
+        "timestamp": "2026-03-08T22:16:52.703749",
+        "source": "Hacker News"
     }
 ]
