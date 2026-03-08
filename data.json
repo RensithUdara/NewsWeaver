@@ -4444,5 +4444,11 @@
         "url": "https://en.wikipedia.org/wiki/Monte_Testaccio",
         "timestamp": "2026-03-08T20:43:22.225449",
         "source": "Hacker News"
+    },
+    {
+        "title": "Could ternary weights make 500B models runnable on consumer hardware?",
+        "url": "https://opengraviton.github.io",
+        "timestamp": "2026-03-08T20:43:22.225486",
+        "source": "Hacker News"
     }
 ]
