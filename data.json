@@ -3100,5 +3100,11 @@
         "url": "https://pitchkit.dev/",
         "timestamp": "2026-03-08T16:23:10.460782",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Open-source Cursor cost tracker with anomaly detection and Slack alerts",
+        "url": "https://github.com/ofershap/cursor-usage-tracker",
+        "timestamp": "2026-03-08T16:23:10.460817",
+        "source": "Hacker News"
     }
 ]
