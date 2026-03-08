@@ -2674,5 +2674,11 @@
         "url": "https://www.roadtoheadliner.com/",
         "timestamp": "2026-03-08T04:48:44.631026",
         "source": "Hacker News"
+    },
+    {
+        "title": "Way-Shell: A GNOME-like shell for Wayland compositors",
+        "url": "https://github.com/ldelossa/way-shell",
+        "timestamp": "2026-03-08T04:48:44.631061",
+        "source": "Hacker News"
     }
 ]
