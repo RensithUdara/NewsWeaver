@@ -1750,5 +1750,11 @@
         "url": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
         "timestamp": "2026-03-08T11:48:46.287033",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Myrtle – modern email templating for Go",
+        "url": "https://github.com/gzuidhof/myrtle",
+        "timestamp": "2026-03-08T11:48:46.534703",
+        "source": "Hacker News"
     }
 ]
