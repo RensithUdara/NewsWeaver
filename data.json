@@ -4834,5 +4834,11 @@
         "url": "https://github.com/trianalab/pacto",
         "timestamp": "2026-03-08T21:43:05.741805",
         "source": "Hacker News"
+    },
+    {
+        "title": "FastFlowLM Docker – Run LLMs on AMD Ryzen AI NPU (Linux)",
+        "url": "https://github.com/hpenedones/fastflowlm-docker",
+        "timestamp": "2026-03-08T21:43:05.741840",
+        "source": "Hacker News"
     }
 ]
