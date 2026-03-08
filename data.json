@@ -5014,5 +5014,11 @@
         "url": "https://github.com/toloco/warp_cache",
         "timestamp": "2026-03-08T22:16:52.704158",
         "source": "Hacker News"
+    },
+    {
+        "title": "An Analysis of User-Space Idle State Instructions on x86 Processors",
+        "url": "https://dl.acm.org/doi/10.1145/3676151.3719370",
+        "timestamp": "2026-03-08T22:43:44.190579",
+        "source": "Hacker News"
     }
 ]
