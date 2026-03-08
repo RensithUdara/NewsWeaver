@@ -3268,5 +3268,11 @@
         "url": "https://arxiv.org/abs/2409.14545",
         "timestamp": "2026-03-08T16:49:47.004976",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Concryptor – Lock-free 1 GiB/s file encryption using io_uring in Rust",
+        "url": "https://github.com/FrogSnot/Concryptor",
+        "timestamp": "2026-03-08T16:49:47.005010",
+        "source": "Hacker News"
     }
 ]
