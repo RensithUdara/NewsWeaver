@@ -2044,5 +2044,11 @@
         "url": "https://old.reddit.com/r/BotBouncer/",
         "timestamp": "2026-03-08T13:29:29.916478",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zinc: An Express-style API framework for Go built on net/HTTP",
+        "url": "https://zinc.carbonsoft.sh",
+        "timestamp": "2026-03-08T13:29:29.916513",
+        "source": "Hacker News"
     }
 ]
