@@ -4534,5 +4534,11 @@
         "url": "https://spaquet.medium.com/how-llms-are-changing-the-way-we-write-code-0d3f43c61d64",
         "timestamp": "2026-03-08T20:43:22.226029",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built a tool to search 50K+ AI coding conversations in SQLite",
+        "url": "https://github.com/khaliqgant/ai-hist",
+        "timestamp": "2026-03-08T20:43:22.226063",
+        "source": "Hacker News"
     }
 ]
