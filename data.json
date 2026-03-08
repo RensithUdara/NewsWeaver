@@ -1336,5 +1336,11 @@
         "url": "https://code.claude.com/docs/en/scheduled-tasks",
         "timestamp": "2026-03-08T09:50:05.043917",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Open-source self-hosted Intercom and CCTV platform",
+        "url": "https://github.com/rosteleset/SmartYard-Server",
+        "timestamp": "2026-03-08T09:50:05.043961",
+        "source": "Hacker News"
     }
 ]
