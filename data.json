@@ -1066,5 +1066,11 @@
         "url": "https://github.com/jayasth/MindPlexa",
         "timestamp": "2026-03-08T08:29:11.910563",
         "source": "Hacker News"
+    },
+    {
+        "title": "SCRY 17-source research engine for Claude Code(no API keys, pure stdlib)",
+        "url": "https://github.com/Kastarter/scry",
+        "timestamp": "2026-03-08T08:29:11.910634",
+        "source": "Hacker News"
     }
 ]
