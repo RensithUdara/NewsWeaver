@@ -1300,5 +1300,11 @@
         "url": "https://news.ycombinator.com/item?id=47295871",
         "timestamp": "2026-03-08T09:50:05.043555",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: How are you handling persistent memory across local Ollama sessions",
+        "url": "https://news.ycombinator.com/item?id=47295866",
+        "timestamp": "2026-03-08T09:50:05.043641",
+        "source": "Hacker News"
     }
 ]
