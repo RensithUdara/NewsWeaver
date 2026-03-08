@@ -4978,5 +4978,11 @@
         "url": "https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html",
         "timestamp": "2026-03-08T22:16:52.703950",
         "source": "Hacker News"
+    },
+    {
+        "title": "A simple L7 proxy for vLLM that manages LoRA adapter storage via NVMes",
+        "url": "https://github.com/shayonj/loraplex",
+        "timestamp": "2026-03-08T22:16:52.703985",
+        "source": "Hacker News"
     }
 ]
