@@ -1090,5 +1090,11 @@
         "url": "https://en.wikipedia.org/wiki/Therac-25",
         "timestamp": "2026-03-08T08:55:29.231546",
         "source": "Hacker News"
+    },
+    {
+        "title": "Llm9p: LLM as a Plan 9 file system",
+        "url": "https://github.com/NERVsystems/llm9p",
+        "timestamp": "2026-03-08T08:55:29.231602",
+        "source": "Hacker News"
     }
 ]
