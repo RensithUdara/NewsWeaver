@@ -2416,5 +2416,11 @@
         "url": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
         "timestamp": "2026-03-08T07:08:50.724012",
         "source": "TechCrunch"
+    },
+    {
+        "title": "MonoGame: A .NET framework for making cross-platform games",
+        "url": "https://github.com/MonoGame/MonoGame",
+        "timestamp": "2026-03-08T12:56:53.667983",
+        "source": "Hacker News"
     }
 ]
