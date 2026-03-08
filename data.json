@@ -4522,5 +4522,11 @@
         "url": "https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/",
         "timestamp": "2026-03-08T20:43:22.225960",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ForgeTerm – Terminal for multi-project workflows with auto-tiling",
+        "url": "https://github.com/codama-dev/forgeterm",
+        "timestamp": "2026-03-08T20:43:22.225995",
+        "source": "Hacker News"
     }
 ]
