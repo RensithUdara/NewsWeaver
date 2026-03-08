@@ -2362,5 +2362,11 @@
         "url": "https://apnews.com/article/iran-war-desalination-water-oil-middle-east-12b23f2fa26ed5c4a10f80c4077e61ce",
         "timestamp": "2026-03-08T14:19:47.898224",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code driver using PTY (proof of concept)",
+        "url": "https://github.com/jensb1/jensagent",
+        "timestamp": "2026-03-08T14:19:47.898254",
+        "source": "Hacker News"
     }
 ]
