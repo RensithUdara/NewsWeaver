@@ -5020,5 +5020,11 @@
         "url": "https://dl.acm.org/doi/10.1145/3676151.3719370",
         "timestamp": "2026-03-08T22:43:44.190579",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLM-eliza – LLM plugin providing access to the ELIZA language model",
+        "url": "https://codeberg.org/EvanHahn/llm-eliza",
+        "timestamp": "2026-03-08T22:43:44.291433",
+        "source": "Hacker News"
     }
 ]
