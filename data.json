@@ -2524,5 +2524,11 @@
         "url": "https://www.dailydefense.ai",
         "timestamp": "2026-03-08T02:52:25.101703",
         "source": "Hacker News"
+    },
+    {
+        "title": "MonoGame: A .NET framework for making cross-platform games",
+        "url": "https://github.com/MonoGame/MonoGame",
+        "timestamp": "2026-03-08T02:52:25.101771",
+        "source": "Hacker News"
     }
 ]
