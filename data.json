@@ -1984,5 +1984,11 @@
         "url": "https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/",
         "timestamp": "2026-03-08T12:42:33.222306",
         "source": "Hacker News"
+    },
+    {
+        "title": "Real Environments for AI Agents",
+        "url": "https://emergent.sh/blog/real-environments-for-ai-agents-and-why-we-bet-on-kubernetes",
+        "timestamp": "2026-03-08T12:42:33.222341",
+        "source": "Hacker News"
     }
 ]
