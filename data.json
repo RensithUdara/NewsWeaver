@@ -1186,5 +1186,11 @@
         "url": "https://github.com/rustykuntz/termix",
         "timestamp": "2026-03-08T09:21:01.564751",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Cardea, SSH bastion with per-key ACLs, TPM keys and session recording",
+        "url": "https://github.com/hectorm/cardea",
+        "timestamp": "2026-03-08T09:21:01.564780",
+        "source": "Hacker News"
     }
 ]
