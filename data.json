@@ -1498,5 +1498,11 @@
         "url": "https://developerwithacat.com/blog/202603/block-bots-scraping-ways/",
         "timestamp": "2026-03-08T10:55:17.027134",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Deploy-logv – View Vercel and Netlify deployment logs from terminal",
+        "url": "https://www.npmjs.com/package/deploy-logv",
+        "timestamp": "2026-03-08T10:55:17.027172",
+        "source": "Hacker News"
     }
 ]
