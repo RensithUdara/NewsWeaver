@@ -4768,5 +4768,11 @@
         "url": "https://open.spotify.com/episode/2tIqXUuQFuIyIOuBkie6Sh",
         "timestamp": "2026-03-08T21:25:05.059106",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agent VM – Lima VMs for local agents and more",
+        "url": "https://github.com/sylvinus/agent-vm",
+        "timestamp": "2026-03-08T21:25:05.059141",
+        "source": "Hacker News"
     }
 ]
