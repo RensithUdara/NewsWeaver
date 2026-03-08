@@ -4516,5 +4516,11 @@
         "url": "https://toolkit.whysonil.dev",
         "timestamp": "2026-03-08T20:43:22.225925",
         "source": "Hacker News"
+    },
+    {
+        "title": "Prefix sums at gigabytes per second with ARM NEON",
+        "url": "https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/",
+        "timestamp": "2026-03-08T20:43:22.225960",
+        "source": "Hacker News"
     }
 ]
