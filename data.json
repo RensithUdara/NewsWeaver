@@ -4678,5 +4678,11 @@
         "url": "https://iptvplayer.stream/public-iptv-playlist",
         "timestamp": "2026-03-08T21:25:05.058560",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Admiran: a pure, lazy functional language and self-hosting compiler",
+        "url": "https://github.com/taolson/Admiran",
+        "timestamp": "2026-03-08T21:25:05.058594",
+        "source": "Hacker News"
     }
 ]
