@@ -4936,5 +4936,11 @@
         "url": "https://cachyos.org/blog/2603-march-release/",
         "timestamp": "2026-03-08T21:56:11.012240",
         "source": "Hacker News"
+    },
+    {
+        "title": "Detection Is Not Protection: What WAF Detection Mode Does (and Doesn't)",
+        "url": "https://blog.ebbypeter.com/2026/03/detection-is-not-protection-what-azure-waf-detection-mode-actually-does-and-doesnt/",
+        "timestamp": "2026-03-08T22:16:52.388748",
+        "source": "Hacker News"
     }
 ]
