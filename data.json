@@ -2182,5 +2182,11 @@
         "url": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
         "timestamp": "2026-03-08T13:56:24.868614",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bypassing Apache Fop PostScript Escaping to Reach GhostScript",
+        "url": "https://offsec.almond.consulting/bypassing-apache-fop-escaping-to-reach-ghostscript.html",
+        "timestamp": "2026-03-08T13:56:24.969475",
+        "source": "Hacker News"
     }
 ]
