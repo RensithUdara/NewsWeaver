@@ -4780,5 +4780,11 @@
         "url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-skill-is-not-what-you-think-it-is-5045",
         "timestamp": "2026-03-08T21:25:05.209170",
         "source": "Dev.to"
+    },
+    {
+        "title": "SQG (SQL to Code Generator) Now with Java Streams and List Type Support",
+        "url": "https://sqg.dev/blog/java-streams-and-list-types/",
+        "timestamp": "2026-03-08T21:43:05.438125",
+        "source": "Hacker News"
     }
 ]
