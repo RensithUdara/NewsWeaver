@@ -1426,5 +1426,11 @@
         "url": "https://www.macworld.com/article/3081039/tech-bros-are-lying-to-you-about-the-macbook-neo.html",
         "timestamp": "2026-03-08T10:38:01.411303",
         "source": "Hacker News"
+    },
+    {
+        "title": "Binding port 0 to avoid port collisions",
+        "url": "https://ntietz.com/blog/binding-ephemeral-port/",
+        "timestamp": "2026-03-08T10:38:01.411338",
+        "source": "Hacker News"
     }
 ]
