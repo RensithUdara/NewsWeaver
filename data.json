@@ -2662,5 +2662,11 @@
         "url": "https://worksonmymachine.ai/p/the-ghost-in-the-funnel",
         "timestamp": "2026-03-08T15:24:30.765985",
         "source": "Hacker News"
+    },
+    {
+        "title": "Designing a SIMD Algorithm from Scratch",
+        "url": "https://mcyoung.xyz/2023/11/27/simd-base64/",
+        "timestamp": "2026-03-08T15:24:30.766023",
+        "source": "Hacker News"
     }
 ]
