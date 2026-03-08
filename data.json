@@ -2800,5 +2800,11 @@
         "url": "https://www.theguardian.com/environment/2020/may/16/how-urban-planners-preference-for-male-trees-has-made-your-hay-fever-worse",
         "timestamp": "2026-03-08T15:24:30.766813",
         "source": "Hacker News"
+    },
+    {
+        "title": "Accessing inactive union members through char",
+        "url": "https://www.sandordargo.com/blog/2026/03/04/char-representation-and-UB",
+        "timestamp": "2026-03-08T15:43:24.083946",
+        "source": "Hacker News"
     }
 ]
