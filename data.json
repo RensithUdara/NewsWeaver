@@ -2614,5 +2614,11 @@
         "url": "https://news.ycombinator.com/item?id=47297811",
         "timestamp": "2026-03-08T14:58:48.099300",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: PythoC – write C in Python DSL and compile to native via LLVM",
+        "url": "https://github.com/1flei/PythoC",
+        "timestamp": "2026-03-08T14:58:48.099341",
+        "source": "Hacker News"
     }
 ]
