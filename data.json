@@ -4666,5 +4666,11 @@
         "url": "https://agentlytics.io",
         "timestamp": "2026-03-08T21:25:05.058489",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hacker News YouTube Videos",
+        "url": "https://eric-tyrrell22.github.io/hn-youtube-stats/",
+        "timestamp": "2026-03-08T21:25:05.058524",
+        "source": "Hacker News"
     }
 ]
