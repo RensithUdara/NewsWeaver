@@ -2428,5 +2428,11 @@
         "url": "https://hrnews1.substack.com/p/iranian-women-graduate-in-stem-at",
         "timestamp": "2026-03-08T02:52:24.999930",
         "source": "Hacker News"
+    },
+    {
+        "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
+        "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
+        "timestamp": "2026-03-08T02:52:25.000070",
+        "source": "Hacker News"
     }
 ]
