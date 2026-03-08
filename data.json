@@ -4618,5 +4618,11 @@
         "url": "https://www.seattletimes.com/seattle-news/times-watchdog/seattle-womans-911-calls-reveal-gaps-in-ambulance-service/",
         "timestamp": "2026-03-08T20:59:06.481120",
         "source": "Hacker News"
+    },
+    {
+        "title": "The case for running AI agents on Markdown files instead of MCP servers",
+        "url": "https://thenewstack.io/skills-vs-mcp-agent-architecture/",
+        "timestamp": "2026-03-08T20:59:06.481155",
+        "source": "Hacker News"
     }
 ]
