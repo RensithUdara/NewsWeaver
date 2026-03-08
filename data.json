@@ -1000,5 +1000,11 @@
         "url": "https://www.producthunt.com/products/getmimic",
         "timestamp": "2026-03-08T13:37:14.900873",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
+        "url": "https://arxiv.org/abs/2603.03823",
+        "timestamp": "2026-03-08T08:29:11.812751",
+        "source": "Hacker News"
     }
 ]
