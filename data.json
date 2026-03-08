@@ -2902,5 +2902,11 @@
         "url": "https://www.nytimes.com/2026/03/08/science/momath-reopening-mathematics.html",
         "timestamp": "2026-03-08T15:43:24.378584",
         "source": "Hacker News"
+    },
+    {
+        "title": "GeekBench 6.6 adds Vulkan on Arm GPU benchmarking on Linux",
+        "url": "https://www.primatelabs.com/release/geekbench6/",
+        "timestamp": "2026-03-08T15:43:24.378611",
+        "source": "Hacker News"
     }
 ]
