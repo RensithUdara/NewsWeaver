@@ -4600,5 +4600,11 @@
         "url": "https://app.exolio.com",
         "timestamp": "2026-03-08T20:59:06.480985",
         "source": "Hacker News"
+    },
+    {
+        "title": "Interpreting whiteout files in Docker image layers",
+        "url": "https://www.madebymikal.com/interpreting-whiteout-files-in-docker-image-layers/",
+        "timestamp": "2026-03-08T20:59:06.481019",
+        "source": "Hacker News"
     }
 ]
