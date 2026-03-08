@@ -2632,5 +2632,11 @@
         "url": "https://dev.to/the_nortern_dev/not-everyone-gets-to-be-a-beginner-in-tech-9a8",
         "timestamp": "2026-03-08T14:58:48.410878",
         "source": "Dev.to"
+    },
+    {
+        "title": "Show HN: Striq – Query lossy time series in C at 0.4µs without decompressing",
+        "url": "https://github.com/NahumResearch/striq",
+        "timestamp": "2026-03-08T15:24:30.765802",
+        "source": "Hacker News"
     }
 ]
