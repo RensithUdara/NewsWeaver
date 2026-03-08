@@ -2920,5 +2920,11 @@
         "url": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
         "timestamp": "2026-03-08T05:49:59.104207",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rethinking Syntax: Binding by Adjacency",
+        "url": "https://github.com/manifold-systems/manifold/blob/master/docs/articles/binding_exprs.md",
+        "timestamp": "2026-03-08T05:49:59.104237",
+        "source": "Hacker News"
     }
 ]
