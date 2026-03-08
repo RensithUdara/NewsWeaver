@@ -3952,5 +3952,11 @@
         "url": "https://news.ycombinator.com/item?id=47299856",
         "timestamp": "2026-03-08T18:55:38.501508",
         "source": "Hacker News"
+    },
+    {
+        "title": "Commitaai – An open-source CLI to generate conventional commits using AI",
+        "url": "https://github.com/vincentmuriuki/commitaai",
+        "timestamp": "2026-03-08T18:55:38.501544",
+        "source": "Hacker News"
     }
 ]
