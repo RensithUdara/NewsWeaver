@@ -940,5 +940,11 @@
         "url": "https://news.ycombinator.com/item?id=47295440",
         "timestamp": "2026-03-08T07:57:53.954797",
         "source": "Hacker News"
+    },
+    {
+        "title": "Revisiting Time: UT1, UTC, NTP and NTS",
+        "url": "https://www.potaroo.net/ispcol/2026-03/nts.html",
+        "timestamp": "2026-03-08T13:37:11.815412",
+        "source": "Hacker News"
     }
 ]
