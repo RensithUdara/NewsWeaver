@@ -1270,5 +1270,11 @@
         "url": "https://grimridge.net/blog/solving-compaction-with-lobotomy/",
         "timestamp": "2026-03-08T09:50:05.043211",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pushing and pulling: three reactivity algorithms",
+        "url": "https://jonathan-frere.com/posts/reactivity-algorithms/",
+        "timestamp": "2026-03-08T09:50:05.043249",
+        "source": "Hacker News"
     }
 ]
