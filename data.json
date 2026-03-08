@@ -5200,5 +5200,11 @@
         "url": "https://gzoo.ai/blog/building-ai-ready-data-foundations-that-scale",
         "timestamp": "2026-03-08T22:58:47.247653",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linux Internals: How /proc/self/mem writes to unwritable memory (2021)",
+        "url": "https://offlinemark.com/an-obscure-quirk-of-proc/",
+        "timestamp": "2026-03-08T22:58:47.247689",
+        "source": "Hacker News"
     }
 ]
