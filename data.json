@@ -4504,5 +4504,11 @@
         "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-exposes-bay-area-tax-evasion-scheme-involving-luxury",
         "timestamp": "2026-03-08T20:43:22.225854",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sanitize HTML up to x15 vs. DOMPurify",
+        "url": "https://github.com/ndrean/zanitizer",
+        "timestamp": "2026-03-08T20:43:22.225890",
+        "source": "Hacker News"
     }
 ]
