@@ -3100,5 +3100,11 @@
         "url": "https://joha-app.pages.dev/",
         "timestamp": "2026-03-08T07:06:47.184124",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Neural-Q-Forge – a Rust-native quantum circuit forging framework",
+        "url": "https://github.com/cleitonaugusto/nqf-community",
+        "timestamp": "2026-03-08T07:06:47.184158",
+        "source": "Hacker News"
     }
 ]
