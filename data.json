@@ -2074,5 +2074,11 @@
         "url": "https://www.youtube.com/watch?v=ZqJX1CTwdQk",
         "timestamp": "2026-03-08T13:29:29.916653",
         "source": "Hacker News"
+    },
+    {
+        "title": "Symbolic derivatives and the rust rewrite of RE",
+        "url": "https://iev.ee/blog/symbolic-derivatives-and-the-rust-rewrite-of-resharp/",
+        "timestamp": "2026-03-08T13:29:29.916689",
+        "source": "Hacker News"
     }
 ]
