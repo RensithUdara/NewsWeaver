@@ -2020,5 +2020,11 @@
         "url": "https://theconversation.com/blasted-out-at-20-times-the-force-of-gravity-what-ejection-from-a-fighter-jet-does-to-the-body-277388",
         "timestamp": "2026-03-08T13:29:29.916334",
         "source": "Hacker News"
+    },
+    {
+        "title": "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
+        "url": "https://github.com/kantord/blogtato",
+        "timestamp": "2026-03-08T13:29:29.916370",
+        "source": "Hacker News"
     }
 ]
