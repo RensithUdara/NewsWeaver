@@ -1960,5 +1960,11 @@
         "url": "https://arstechnica.com/security/2026/02/once-hobbled-lumma-stealer-is-back-with-lures-that-are-hard-to-resist/",
         "timestamp": "2026-03-08T12:42:33.222171",
         "source": "Hacker News"
+    },
+    {
+        "title": "Printf-Tac-Toe",
+        "url": "https://github.com/carlini/printf-tac-toe",
+        "timestamp": "2026-03-08T12:42:33.222204",
+        "source": "Hacker News"
     }
 ]
