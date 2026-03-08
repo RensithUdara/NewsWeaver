@@ -4216,5 +4216,11 @@
         "url": "https://www.marble.onl/posts/ai_doesnt_replace_work.html",
         "timestamp": "2026-03-08T19:18:15.767060",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: VoiceFlow – Sub-second (0.3s-0.6s) voice-to-text built in Rust",
+        "url": "https://voiceflow.szymonwira.pl",
+        "timestamp": "2026-03-08T19:18:15.767094",
+        "source": "Hacker News"
     }
 ]
