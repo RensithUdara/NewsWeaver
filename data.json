@@ -5122,5 +5122,11 @@
         "url": "https://clickhouse.com/blog/common-getting-started-issues-with-clickhouse",
         "timestamp": "2026-03-08T22:43:44.292030",
         "source": "Hacker News"
+    },
+    {
+        "title": "Threat-Modeling the OWASP Top for LLM Applications",
+        "url": "https://medium.com/system-weakness/threat-modeling-the-owasp-top-10-for-llm-applications-58e88255b11f",
+        "timestamp": "2026-03-08T22:43:44.292063",
+        "source": "Hacker News"
     }
 ]
