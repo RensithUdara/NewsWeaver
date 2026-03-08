@@ -2170,5 +2170,11 @@
         "url": "https://github.com/nagisanzenin/skyclaw",
         "timestamp": "2026-03-08T13:29:29.917242",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Ttylag – A userspace PTY wrapper to simulate slow/laggy terminals",
+        "url": "https://github.com/cbrunnkvist/ttylag",
+        "timestamp": "2026-03-08T13:29:29.917279",
+        "source": "Hacker News"
     }
 ]
