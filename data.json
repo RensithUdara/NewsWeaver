@@ -1366,5 +1366,11 @@
         "url": "https://news.ycombinator.com/item?id=47295954",
         "timestamp": "2026-03-08T10:01:13.797507",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sem – Semantic version control. Entity-level diffs on top of Git",
+        "url": "https://github.com/ataraxy-labs/sem",
+        "timestamp": "2026-03-08T10:38:01.038719",
+        "source": "Hacker News"
     }
 ]
