@@ -3532,5 +3532,11 @@
         "url": "https://blog.localstack.cloud/aws-deep-dives-sns/",
         "timestamp": "2026-03-08T17:34:38.757670",
         "source": "Hacker News"
+    },
+    {
+        "title": "It Was Never About the Database",
+        "url": "https://docs.eventsourcingdb.io/blog/2026/03/09/it-was-never-about-the-database/",
+        "timestamp": "2026-03-08T17:34:38.757705",
+        "source": "Hacker News"
     }
 ]
