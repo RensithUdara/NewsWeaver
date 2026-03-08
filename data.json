@@ -4984,5 +4984,11 @@
         "url": "https://github.com/shayonj/loraplex",
         "timestamp": "2026-03-08T22:16:52.703985",
         "source": "Hacker News"
+    },
+    {
+        "title": "BlackBird – a fast desktop media player built with Electron, Vite and SQLite",
+        "url": "https://github.com/jaccon/blackbird-player",
+        "timestamp": "2026-03-08T22:16:52.704021",
+        "source": "Hacker News"
     }
 ]
