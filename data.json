@@ -3160,5 +3160,11 @@
         "url": "https://voix.chat",
         "timestamp": "2026-03-08T16:23:10.461155",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Agentcheck – Check what an AI agent can access before you run it",
+        "url": "https://github.com/Pringled/agentcheck",
+        "timestamp": "2026-03-08T16:23:10.461189",
+        "source": "Hacker News"
     }
 ]
