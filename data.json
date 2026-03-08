@@ -2464,5 +2464,11 @@
         "url": "https://nexpul.blogspot.com/",
         "timestamp": "2026-03-08T02:52:25.101330",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I automated DJ Screw's chopped and screwed technique with Python+FFmpeg",
+        "url": "https://github.com/samuelfrench/dj-screw-video-generator",
+        "timestamp": "2026-03-08T02:52:25.101366",
+        "source": "Hacker News"
     }
 ]
