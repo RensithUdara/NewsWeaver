@@ -4798,5 +4798,11 @@
         "url": "https://www.nytimes.com/2026/02/14/technology/david-farber-dead.html",
         "timestamp": "2026-03-08T21:43:05.741593",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Fisheye – iOS 360° panorama video player library using Metal",
+        "url": "https://github.com/hanton/Fisheye",
+        "timestamp": "2026-03-08T21:43:05.741630",
+        "source": "Hacker News"
     }
 ]
