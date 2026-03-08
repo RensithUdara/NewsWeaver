@@ -2482,5 +2482,11 @@
         "url": "https://clawdiators.ai",
         "timestamp": "2026-03-08T02:52:25.101436",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: SiClaw – Open-source AIOps with a hypothesis-driven diagnostic engine",
+        "url": "https://github.com/scitix/siclaw",
+        "timestamp": "2026-03-08T02:52:25.101488",
+        "source": "Hacker News"
     }
 ]
