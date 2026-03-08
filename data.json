@@ -2962,5 +2962,11 @@
         "url": "https://sigbed.org/2022/08/22/the-toxic-culture-of-rejection-in-computer-science/",
         "timestamp": "2026-03-08T21:18:00.753380",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Claude Code Container – Zero-Config Docker Isolation for Claude Code",
+        "url": "https://github.com/Luxusio/claude-code-container",
+        "timestamp": "2026-03-08T21:18:00.753886",
+        "source": "Hacker News"
     }
 ]
