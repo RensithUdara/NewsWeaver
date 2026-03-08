@@ -2392,5 +2392,11 @@
         "url": "https://github.com/ErfanY/krust",
         "timestamp": "2026-03-08T14:19:47.898370",
         "source": "Hacker News"
+    },
+    {
+        "title": "NestJS is a bad TypeScript framework",
+        "url": "https://blog.skacekamen.dev/posts/nest-js-is-not-really-good/",
+        "timestamp": "2026-03-08T14:19:47.898399",
+        "source": "Hacker News"
     }
 ]
