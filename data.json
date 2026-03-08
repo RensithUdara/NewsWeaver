@@ -4642,5 +4642,11 @@
         "url": "https://www.youtube.com/watch?v=xQdtphHDq_A",
         "timestamp": "2026-03-08T21:25:05.058329",
         "source": "Hacker News"
+    },
+    {
+        "title": "Clang/LLVM static analyzer that detects microarchitectural hazards",
+        "url": "https://abokhalill.github.io/lshaz-writeup/writeups/abseil-deep-dive/",
+        "timestamp": "2026-03-08T21:25:05.058378",
+        "source": "Hacker News"
     }
 ]
