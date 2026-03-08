@@ -2056,5 +2056,11 @@
         "url": "https://www.army.mil/article/290599/an_innovative_new_bonus_auction_for_warrant_officers",
         "timestamp": "2026-03-08T13:29:29.916548",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: RAG-Ready Extractor – Structure-aware ingestion with semantic scoring",
+        "url": "https://github.com/CarlosManuelDiaz/rag-ready-extractor",
+        "timestamp": "2026-03-08T13:29:29.916583",
+        "source": "Hacker News"
     }
 ]
