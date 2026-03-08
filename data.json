@@ -2386,5 +2386,11 @@
         "url": "https://www.theguardian.com/technology/2026/mar/08/block-ai-layoffs-jack-dorsey",
         "timestamp": "2026-03-08T14:19:47.898341",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Krust – fast, open-source Kubernetes TUI in Rust (k9s-style UX)",
+        "url": "https://github.com/ErfanY/krust",
+        "timestamp": "2026-03-08T14:19:47.898370",
+        "source": "Hacker News"
     }
 ]
