@@ -1978,5 +1978,11 @@
         "url": "https://github.com/Abelo9996/Aivaro",
         "timestamp": "2026-03-08T12:42:33.222273",
         "source": "Hacker News"
+    },
+    {
+        "title": "About memory pressure, lock contention, and Data-oriented Design",
+        "url": "https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/",
+        "timestamp": "2026-03-08T12:42:33.222306",
+        "source": "Hacker News"
     }
 ]
