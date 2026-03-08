@@ -5338,5 +5338,11 @@
         "url": "https://news.ycombinator.com/item?id=47302553",
         "timestamp": "2026-03-08T23:24:50.455779",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: LANscape – a fast local network scanner in Python",
+        "url": "https://github.com/mdennis281/LANscape",
+        "timestamp": "2026-03-08T23:24:50.455814",
+        "source": "Hacker News"
     }
 ]
