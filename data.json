@@ -1330,5 +1330,11 @@
         "url": "https://joshua.hu/firefox-making-right-click-not-suck-even-more-with-userchrome",
         "timestamp": "2026-03-08T09:50:05.043840",
         "source": "Hacker News"
+    },
+    {
+        "title": "Run prompts on a schedule with Claude Code",
+        "url": "https://code.claude.com/docs/en/scheduled-tasks",
+        "timestamp": "2026-03-08T09:50:05.043917",
+        "source": "Hacker News"
     }
 ]
