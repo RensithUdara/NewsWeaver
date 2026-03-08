@@ -3442,5 +3442,11 @@
         "url": "https://www.halfhill.com/byte/1995-5_see-you.html",
         "timestamp": "2026-03-08T17:02:55.798018",
         "source": "Hacker News"
+    },
+    {
+        "title": "Effective Go",
+        "url": "https://go.dev/doc/effective_go",
+        "timestamp": "2026-03-08T17:02:55.798052",
+        "source": "Hacker News"
     }
 ]
