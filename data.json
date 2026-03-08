@@ -3550,5 +3550,11 @@
         "url": "https://vercel.com/changelog/vercel-flags-is-now-in-public-beta",
         "timestamp": "2026-03-08T17:34:38.757774",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Lightweight agent proxy for monitoring sensitive data exposure",
+        "url": "https://github.com/samirkhoja/agent-proxy",
+        "timestamp": "2026-03-08T17:34:38.757808",
+        "source": "Hacker News"
     }
 ]
