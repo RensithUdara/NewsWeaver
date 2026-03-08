@@ -5230,5 +5230,11 @@
         "url": "https://shawn.mn/blog/nobody-cares-about-quality-anymore",
         "timestamp": "2026-03-08T22:58:47.247884",
         "source": "Hacker News"
+    },
+    {
+        "title": "SQLite as an MCP context saver: stop cramming raw API data into your LLM",
+        "url": "https://dev.to/richardbaxter/sqlite-as-an-mcp-context-saver-stop-cramming-raw-api-data-into-your-llm-2oj4",
+        "timestamp": "2026-03-08T22:58:47.574971",
+        "source": "Dev.to"
     }
 ]
