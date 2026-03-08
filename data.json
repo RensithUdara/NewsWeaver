@@ -5290,5 +5290,11 @@
         "url": "https://toollaunchpad.com",
         "timestamp": "2026-03-08T23:24:50.455502",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ambient Light Sensor working on M2 MacBook in Asahi",
+        "url": "https://github.com/AsahiLinux/docs/issues/248",
+        "timestamp": "2026-03-08T23:24:50.455537",
+        "source": "Hacker News"
     }
 ]
