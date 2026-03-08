@@ -4060,5 +4060,11 @@
         "url": "https://www.youtube.com/watch?v=hHDP3GcAJAw",
         "timestamp": "2026-03-08T18:55:38.502217",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
+        "url": "https://github.com/BigBodyCobain/Shadowbroker",
+        "timestamp": "2026-03-08T19:18:15.674267",
+        "source": "Hacker News"
     }
 ]
