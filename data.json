@@ -2542,5 +2542,11 @@
         "url": "https://glad-ia-tor.com/",
         "timestamp": "2026-03-08T02:52:25.101839",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show setup modal with confetti on coverage page when no CI data exists",
+        "url": "https://news.ycombinator.com/item?id=47293650",
+        "timestamp": "2026-03-08T02:52:25.101875",
+        "source": "Hacker News"
     }
 ]
