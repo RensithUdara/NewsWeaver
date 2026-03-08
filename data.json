@@ -2326,5 +2326,11 @@
         "url": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
         "timestamp": "2026-03-08T14:19:47.898041",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: LLMTest – The pytest for LLMs with 22 built-in assertions",
+        "url": "https://llmtest.dev",
+        "timestamp": "2026-03-08T14:19:47.898071",
+        "source": "Hacker News"
     }
 ]
