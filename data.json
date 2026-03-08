@@ -2992,5 +2992,11 @@
         "url": "https://medium.com/@lei-ye/what-breaks-after-your-ai-demo-works-638ac910f9fa",
         "timestamp": "2026-03-08T06:27:02.430905",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sem – Semantic version control. Entity-level diffs on top of Git",
+        "url": "https://github.com/ataraxy-labs/sem",
+        "timestamp": "2026-03-08T06:27:02.430934",
+        "source": "Hacker News"
     }
 ]
