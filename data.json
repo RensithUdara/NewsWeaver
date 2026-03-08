@@ -1204,5 +1204,11 @@
         "url": "https://archive.aramcoworld.com/issue/196902/dinner.at.when.htm",
         "timestamp": "2026-03-08T09:21:01.564837",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a cloud-native, quorum-free RSM for the JVM atop S3",
+        "url": "https://github.com/io-s2c/s2c",
+        "timestamp": "2026-03-08T09:21:01.564865",
+        "source": "Hacker News"
     }
 ]
