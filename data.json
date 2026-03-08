@@ -5368,5 +5368,11 @@
         "url": "https://github.com/ibrahimhajjaj/wa-agent",
         "timestamp": "2026-03-08T23:43:42.876066",
         "source": "Hacker News"
+    },
+    {
+        "title": "Proposal for Union Types in C#",
+        "url": "https://github.com/dotnet/csharplang/blob/main/proposals/unions.md",
+        "timestamp": "2026-03-08T23:43:42.876097",
+        "source": "Hacker News"
     }
 ]
