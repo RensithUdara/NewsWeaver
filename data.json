@@ -2776,5 +2776,11 @@
         "url": "https://www.thespacereview.com/article/5170/1",
         "timestamp": "2026-03-08T15:24:30.766674",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Ket – quantum circuit simulator, TypeScript, 3 back ends, 14 formats",
+        "url": "https://github.com/dmvjs/ket",
+        "timestamp": "2026-03-08T15:24:30.766708",
+        "source": "Hacker News"
     }
 ]
