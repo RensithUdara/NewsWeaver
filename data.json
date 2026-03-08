@@ -1018,5 +1018,11 @@
         "url": "https://news.ycombinator.com/item?id=47295597",
         "timestamp": "2026-03-08T08:29:11.910267",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Flora – Compile-time Dependency Injection for Go without reflection",
+        "url": "https://github.com/soner3/flora",
+        "timestamp": "2026-03-08T08:29:11.910306",
+        "source": "Hacker News"
     }
 ]
