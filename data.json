@@ -1324,5 +1324,11 @@
         "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
         "timestamp": "2026-03-08T09:50:05.043799",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making Firefox's right-click not suck, more, with userChrome.css",
+        "url": "https://joshua.hu/firefox-making-right-click-not-suck-even-more-with-userchrome",
+        "timestamp": "2026-03-08T09:50:05.043840",
+        "source": "Hacker News"
     }
 ]
