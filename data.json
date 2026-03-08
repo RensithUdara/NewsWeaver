@@ -5026,5 +5026,11 @@
         "url": "https://codeberg.org/EvanHahn/llm-eliza",
         "timestamp": "2026-03-08T22:43:44.291433",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Engram — a brain-inspired context database for AI agents",
+        "url": "https://github.com/softmaxdata/engram",
+        "timestamp": "2026-03-08T22:43:44.291480",
+        "source": "Hacker News"
     }
 ]
