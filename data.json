@@ -10096,5 +10096,11 @@
         "url": "https://chromewebstore.google.com/detail/hn-focus-reader/ibhipggecnholemnbahigagpgifkphac",
         "timestamp": "2026-03-09T23:38:07.129631",
         "source": "Hacker News"
+    },
+    {
+        "title": "The emerging role of SRAM-centric chips in AI inference",
+        "url": "https://gimletlabs.ai/blog/sram-centric-chips",
+        "timestamp": "2026-03-09T23:38:07.129667",
+        "source": "Hacker News"
     }
 ]
