@@ -9070,5 +9070,11 @@
         "url": "https://auto-crm.com/en",
         "timestamp": "2026-03-10T01:39:25.048016",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Free open-source churn prediction for SaaS–Stripe and LLM interventions",
+        "url": "https://github.com/ShreyasDasari/churnguard-ai",
+        "timestamp": "2026-03-10T01:39:25.048016",
+        "source": "Hacker News"
     }
 ]
