@@ -7234,5 +7234,11 @@
         "url": "https://lore.kernel.org/lkml/20260309022013.5199-1-fmancera@suse.de/",
         "timestamp": "2026-03-09T11:53:38.080532",
         "source": "Hacker News"
+    },
+    {
+        "title": "InfluxDB",
+        "url": "https://www.influxdata.com/lp/influxdb-database/",
+        "timestamp": "2026-03-09T11:53:38.080569",
+        "source": "Hacker News"
     }
 ]
