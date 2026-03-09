@@ -8638,5 +8638,11 @@
         "url": "https://thenewstack.io/is-ai-killing-open-source-software/",
         "timestamp": "2026-03-09T19:06:33.453414",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ragflow: fuses RAG with Agent capabilities to create context layer for LLMs",
+        "url": "https://github.com/infiniflow/ragflow",
+        "timestamp": "2026-03-09T19:06:33.453442",
+        "source": "Hacker News"
     }
 ]
