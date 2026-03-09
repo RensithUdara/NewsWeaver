@@ -7138,5 +7138,11 @@
         "url": "https://kubeshark.com/",
         "timestamp": "2026-03-09T11:22:12.942270",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hermes Agent",
+        "url": "https://github.com/NousResearch/hermes-agent",
+        "timestamp": "2026-03-09T11:22:12.942303",
+        "source": "Hacker News"
     }
 ]
