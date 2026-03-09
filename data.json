@@ -5674,5 +5674,11 @@
         "url": "https://cfp.3mdeb.com/qubes-os-summit-2024/talk/FCENX9/",
         "timestamp": "2026-03-09T04:08:55.157014",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sandvault – Run AI agents isolated in a sandboxed macOS user account",
+        "url": "https://github.com/webcoyote/sandvault",
+        "timestamp": "2026-03-09T04:08:55.157053",
+        "source": "Hacker News"
     }
 ]
