@@ -7954,5 +7954,11 @@
         "url": "https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments",
         "timestamp": "2026-03-09T16:35:46.805385",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: GZOO Forge – persistent project memory as an MCP server for Claude Code",
+        "url": "https://github.com/gzoonet/forge",
+        "timestamp": "2026-03-09T16:35:47.102123",
+        "source": "Hacker News"
     }
 ]
