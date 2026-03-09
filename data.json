@@ -5812,5 +5812,11 @@
         "url": "https://alphaperch.com",
         "timestamp": "2026-03-09T04:08:55.157812",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Compose Launcher – A macOS app to run multiple Docker Compose files",
+        "url": "https://github.com/yingbo/compose-launcher",
+        "timestamp": "2026-03-09T04:08:55.157845",
+        "source": "Hacker News"
     }
 ]
