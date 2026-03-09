@@ -9028,5 +9028,11 @@
         "url": "https://codeberg.org/thgie/awesome-small-web-publishing",
         "timestamp": "2026-03-09T20:03:28.413859",
         "source": "Hacker News"
+    },
+    {
+        "title": "Self-hosted docs platform – 4 PHP files, no database, free GitBook alternative",
+        "url": "https://github.com/webstudio-ltd/docs",
+        "timestamp": "2026-03-09T20:03:28.413894",
+        "source": "Hacker News"
     }
 ]
