@@ -5656,5 +5656,11 @@
         "url": "https://apnews.com/article/baseball-cap-fox-news-trump-dover-dignified-transfer-29a8f2c1a4a6b2218d18daa2eb5109d9",
         "timestamp": "2026-03-09T01:55:35.118674",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: kvweb, a Web GUI for Redis/Valkey",
+        "url": "https://github.com/natrimmer/kvweb",
+        "timestamp": "2026-03-09T01:55:35.118709",
+        "source": "Hacker News"
     }
 ]
