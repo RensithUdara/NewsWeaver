@@ -7228,5 +7228,11 @@
         "url": "https://trustroi.online/",
         "timestamp": "2026-03-09T11:53:38.080497",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linux kernel proposal to drop IPv6 as a module",
+        "url": "https://lore.kernel.org/lkml/20260309022013.5199-1-fmancera@suse.de/",
+        "timestamp": "2026-03-09T11:53:38.080532",
+        "source": "Hacker News"
     }
 ]
