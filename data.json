@@ -8668,5 +8668,11 @@
         "url": "https://github.com/ixchio/agent-vcr",
         "timestamp": "2026-03-09T19:06:33.453554",
         "source": "Hacker News"
+    },
+    {
+        "title": "Autopsy – Open-source CLI that diagnoses production incidents in 30 seconds",
+        "url": "https://zaappy.github.io/autopsy-cli-web/",
+        "timestamp": "2026-03-09T19:06:33.453582",
+        "source": "Hacker News"
     }
 ]
