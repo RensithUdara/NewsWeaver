@@ -6052,5 +6052,11 @@
         "url": "https://kawasakirobotics.com/in/blog/202511_kaleido/",
         "timestamp": "2026-03-09T06:38:59.079552",
         "source": "Hacker News"
+    },
+    {
+        "title": "ANIP: An agent-native protocol with REST, GraphQL, and MCP adapters",
+        "url": "https://github.com/anip-protocol/anip",
+        "timestamp": "2026-03-09T06:38:59.390471",
+        "source": "Hacker News"
     }
 ]
