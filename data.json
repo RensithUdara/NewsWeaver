@@ -7756,5 +7756,11 @@
         "url": "https://taylor.town/finger-moon",
         "timestamp": "2026-03-09T15:37:17.593951",
         "source": "Hacker News"
+    },
+    {
+        "title": "P2P Rust Async+sync",
+        "url": "https://github.com/OmarPrampolini/Ouroboros",
+        "timestamp": "2026-03-09T15:37:17.697348",
+        "source": "Hacker News"
     }
 ]
