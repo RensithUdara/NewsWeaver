@@ -9310,5 +9310,11 @@
         "url": "https://yagnipedia.com/wiki/the-boring-technology-manifesto",
         "timestamp": "2026-03-09T21:17:21.096001",
         "source": "Hacker News"
+    },
+    {
+        "title": "Redacting Sensitive Data from Java Flight Recorder Files",
+        "url": "https://mostlynerdless.de/blog/2026/02/13/redacting-sensitive-data-from-java-flight-recorder-files/",
+        "timestamp": "2026-03-09T21:17:21.096029",
+        "source": "Hacker News"
     }
 ]
