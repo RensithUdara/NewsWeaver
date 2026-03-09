@@ -9544,5 +9544,11 @@
         "url": "https://www.theguardian.com/politics/2026/mar/09/key-takeaways-on-ai-phantom-investments-uk",
         "timestamp": "2026-03-09T21:48:55.466582",
         "source": "Hacker News"
+    },
+    {
+        "title": "Catching malicious contributions in Datadog's open source repos",
+        "url": "https://www.datadoghq.com/blog/engineering/stopping-hackerbot-claw-with-bewaire/",
+        "timestamp": "2026-03-09T21:48:55.466610",
+        "source": "Hacker News"
     }
 ]
