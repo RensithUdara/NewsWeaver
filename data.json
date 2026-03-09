@@ -6802,5 +6802,11 @@
         "url": "https://molted.email/blog/why-ai-agents-need-email-guardrails",
         "timestamp": "2026-03-09T09:51:23.726596",
         "source": "Hacker News"
+    },
+    {
+        "title": "SQLite: Query Result Formatting in the CLI",
+        "url": "https://www.sqlite.org/climode.html",
+        "timestamp": "2026-03-09T09:51:23.726625",
+        "source": "Hacker News"
     }
 ]
