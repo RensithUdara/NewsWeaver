@@ -5560,5 +5560,11 @@
         "url": "https://audiolabs.dev/",
         "timestamp": "2026-03-09T01:55:35.118012",
         "source": "Hacker News"
+    },
+    {
+        "title": "How real-time updates work in modern OLAP databases",
+        "url": "https://www.velodb.io/blog/apache-doris-excels-olap-deep-dive-realtime",
+        "timestamp": "2026-03-09T01:55:35.118045",
+        "source": "Hacker News"
     }
 ]
