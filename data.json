@@ -6832,5 +6832,11 @@
         "url": "https://www.minimax-music.com/minimax-music-2-5",
         "timestamp": "2026-03-09T09:51:23.726741",
         "source": "Hacker News"
+    },
+    {
+        "title": "Unlocking Python's Cores:Energy Implications of Removing the GIL",
+        "url": "https://arxiv.org/abs/2603.04782",
+        "timestamp": "2026-03-09T10:36:30.922800",
+        "source": "Hacker News"
     }
 ]
