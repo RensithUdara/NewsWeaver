@@ -10030,5 +10030,11 @@
         "url": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
         "timestamp": "2026-03-09T23:38:07.129175",
         "source": "Hacker News"
+    },
+    {
+        "title": "NVIDIA Triton Inference Server",
+        "url": "https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html",
+        "timestamp": "2026-03-09T23:38:07.129210",
+        "source": "Hacker News"
     }
 ]
