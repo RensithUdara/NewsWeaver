@@ -9910,5 +9910,11 @@
         "url": "https://developers.openai.com/api/docs/guides/rft-use-cases/",
         "timestamp": "2026-03-09T23:02:45.124078",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bromure: An ephemeral browser that runs in a disposable virtual machine on macOS",
+        "url": "https://github.com/rderaison/bromure",
+        "timestamp": "2026-03-09T23:02:45.124112",
+        "source": "Hacker News"
     }
 ]
