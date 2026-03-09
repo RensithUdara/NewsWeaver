@@ -9418,5 +9418,11 @@
         "url": "https://blog.siami.fr/smooth-ui-animations-on-server-rendered-html",
         "timestamp": "2026-03-09T21:17:21.096619",
         "source": "Hacker News"
+    },
+    {
+        "title": "Binex – Debuggable runtime for AI agent pipelines (YAML, trace, replay, diff)",
+        "url": "https://github.com/Alexli18/binex",
+        "timestamp": "2026-03-09T21:17:21.096661",
+        "source": "Hacker News"
     }
 ]
