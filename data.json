@@ -6202,5 +6202,11 @@
         "url": "https://underjord.io/shipping-grayscale-photos-at-small-scale.html",
         "timestamp": "2026-03-09T07:36:46.575539",
         "source": "Hacker News"
+    },
+    {
+        "title": "CodeRabbit: From a Simple PR to RCE and Write Access on 1M Repositories (2025)",
+        "url": "https://kudelskisecurity.com/research/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories",
+        "timestamp": "2026-03-09T07:36:46.575573",
+        "source": "Hacker News"
     }
 ]
