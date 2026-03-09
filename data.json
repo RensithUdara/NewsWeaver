@@ -5500,5 +5500,11 @@
         "url": "https://github.com/openai/symphony",
         "timestamp": "2026-03-09T01:55:35.117650",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zero Lines Written by a Human but 750 Pull Requests Later",
+        "url": "https://chatml.com/blog/we-built-entire-product-with-ai-750-pull-requests",
+        "timestamp": "2026-03-09T01:55:35.117701",
+        "source": "Hacker News"
     }
 ]
