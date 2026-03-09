@@ -7186,5 +7186,11 @@
         "url": "https://www.theregister.com/2026/03/09/grok_football_controvery/",
         "timestamp": "2026-03-09T11:53:38.080203",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Skills RCE – Code execution server for AI agent skills",
+        "url": "https://github.com/muxi-ai/skills-rce",
+        "timestamp": "2026-03-09T11:53:38.080251",
+        "source": "Hacker News"
     }
 ]
