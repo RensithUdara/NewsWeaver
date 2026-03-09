@@ -6574,5 +6574,11 @@
         "url": "https://github.com/ciderstack/Brew",
         "timestamp": "2026-03-09T08:58:23.330707",
         "source": "Hacker News"
+    },
+    {
+        "title": "MARL: Runtime Middleware That Reduces LLM Hallucination Without Fine-Tuning",
+        "url": "https://huggingface.co/blog/FINAL-Bench/marl-middleware",
+        "timestamp": "2026-03-09T08:58:23.330742",
+        "source": "Hacker News"
     }
 ]
