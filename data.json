@@ -9604,5 +9604,11 @@
         "url": "https://servereverything.dev/",
         "timestamp": "2026-03-09T21:48:55.466902",
         "source": "Hacker News"
+    },
+    {
+        "title": "Train Neural Network Using DirectCompute D11",
+        "url": "https://pypi.org/project/directcompute-nn/",
+        "timestamp": "2026-03-09T21:48:55.466932",
+        "source": "Hacker News"
     }
 ]
