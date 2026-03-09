@@ -6508,5 +6508,11 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
         "timestamp": "2026-03-09T08:58:23.226030",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude built a system in 3 rounds, latent bugs from round 1 exploded in round 3",
+        "url": "https://github.com/mycelium-clj/mycelium/blob/main/benchmarks/SCALING.md",
+        "timestamp": "2026-03-09T08:58:23.226447",
+        "source": "Hacker News"
     }
 ]
