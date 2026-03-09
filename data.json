@@ -5686,5 +5686,11 @@
         "url": "https://www.robpanico.com/articles/display/?entry_short=the-wrapper",
         "timestamp": "2026-03-09T04:08:55.157091",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Kroot – dependency-graph root cause analysis for Kubernetes",
+        "url": "https://github.com/AnonJon/kroot",
+        "timestamp": "2026-03-09T04:08:55.157127",
+        "source": "Hacker News"
     }
 ]
