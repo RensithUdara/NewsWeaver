@@ -8248,5 +8248,11 @@
         "url": "https://www.governance.fyi/p/wall-street-killed-the-wildcatters",
         "timestamp": "2026-03-09T17:28:34.511038",
         "source": "Hacker News"
+    },
+    {
+        "title": "Test Data Management with Greenmask and OpenEverest",
+        "url": "https://www.greenmask.io/blog/greenmask-openeverest-automating-safe-production-data",
+        "timestamp": "2026-03-09T17:28:34.511070",
+        "source": "Hacker News"
     }
 ]
