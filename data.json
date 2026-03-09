@@ -6898,5 +6898,11 @@
         "url": "https://jcs.org/2023/07/12/api",
         "timestamp": "2026-03-09T10:36:31.106233",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: TemplUI v1.7.0 – UI components for Go and templ, now with import mode",
+        "url": "https://github.com/templui/templui",
+        "timestamp": "2026-03-09T10:36:31.106269",
+        "source": "Hacker News"
     }
 ]
