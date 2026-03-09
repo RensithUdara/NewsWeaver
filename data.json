@@ -9688,5 +9688,11 @@
         "url": "https://github.com/lunal-dev/kettle",
         "timestamp": "2026-03-09T22:41:39.254736",
         "source": "Hacker News"
+    },
+    {
+        "title": "SDL_mixer 3.2.0 (stable) is out",
+        "url": "https://github.com/libsdl-org/SDL_mixer/releases/tag/release-3.2.0",
+        "timestamp": "2026-03-09T22:41:39.254785",
+        "source": "Hacker News"
     }
 ]
