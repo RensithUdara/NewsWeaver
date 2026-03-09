@@ -8938,5 +8938,11 @@
         "url": "https://news.ycombinator.com/item?id=47314092",
         "timestamp": "2026-03-09T19:47:36.031071",
         "source": "Hacker News"
+    },
+    {
+        "title": "Code-review-graph: persistent code graph that cuts Claude Code token usage",
+        "url": "https://github.com/tirth8205/code-review-graph",
+        "timestamp": "2026-03-09T19:47:36.031107",
+        "source": "Hacker News"
     }
 ]
