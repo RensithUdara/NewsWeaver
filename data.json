@@ -8572,5 +8572,11 @@
         "url": "https://www.wsj.com/business/energy-oil/oil-is-already-near-a-price-that-hurts-the-economy-3cebcfdc",
         "timestamp": "2026-03-09T19:06:33.155524",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rethinking Syntax: Binding by Adjacency",
+        "url": "https://github.com/manifold-systems/manifold/blob/master/docs/articles/binding_exprs.md",
+        "timestamp": "2026-03-09T19:06:33.155809",
+        "source": "Hacker News"
     }
 ]
