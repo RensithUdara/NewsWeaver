@@ -9730,5 +9730,11 @@
         "url": "https://www.heise.de/en/news/Paying-without-Google-New-consortium-wants-to-remove-custom-ROM-hurdles-11204037.html",
         "timestamp": "2026-03-09T22:41:39.254964",
         "source": "Hacker News"
+    },
+    {
+        "title": "Xygeni/xygeni-action GitHub Action is compromised – poisoned tag is still live",
+        "url": "https://www.stepsecurity.io/blog/xygeni-action-compromised-c2-reverse-shell-backdoor-injected-via-tag-poisoning",
+        "timestamp": "2026-03-09T22:41:39.254992",
+        "source": "Hacker News"
     }
 ]
