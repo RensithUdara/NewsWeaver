@@ -7582,5 +7582,11 @@
         "url": "https://news.ycombinator.com/item?id=47309684",
         "timestamp": "2026-03-09T14:38:05.128592",
         "source": "Hacker News"
+    },
+    {
+        "title": "Using WebAssembly to Overcome SaaS Limits for Interactive Simulation Platforms",
+        "url": "https://github.com/nima555/hawk-bt",
+        "timestamp": "2026-03-09T14:38:05.128630",
+        "source": "Hacker News"
     }
 ]
