@@ -6610,5 +6610,11 @@
         "url": "https://sylixide.com",
         "timestamp": "2026-03-09T08:58:23.330969",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building reproducible LLM agents with strict determinism guarantees",
+        "url": "https://github.com/crasofuentes-hub/deterministic-agent-system",
+        "timestamp": "2026-03-09T08:58:23.331038",
+        "source": "Hacker News"
     }
 ]
