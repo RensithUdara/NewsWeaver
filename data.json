@@ -5722,5 +5722,11 @@
         "url": "https://news.ycombinator.com/item?id=47304607",
         "timestamp": "2026-03-09T04:08:55.157303",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Using Isolation forests to flag anomalies in log patterns",
+        "url": "https://rocketgraph.app/ml",
+        "timestamp": "2026-03-09T04:08:55.157338",
+        "source": "Hacker News"
     }
 ]
