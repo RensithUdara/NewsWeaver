@@ -9682,5 +9682,11 @@
         "url": "https://news.ycombinator.com/item?id=47316018",
         "timestamp": "2026-03-09T22:02:35.918028",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kettle, open source tooling for TEE-attested builds",
+        "url": "https://github.com/lunal-dev/kettle",
+        "timestamp": "2026-03-09T22:41:39.254736",
+        "source": "Hacker News"
     }
 ]
