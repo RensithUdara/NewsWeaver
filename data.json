@@ -6424,5 +6424,11 @@
         "url": "https://word-cloud.net/",
         "timestamp": "2026-03-09T08:05:08.226028",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scaling Pedagogical Pre-Training: From Optimal Mixing to 10B Tokens",
+        "url": "https://huggingface.co/blog/codelion/scaling-pedagogical-pretraining-10-billion-tokens",
+        "timestamp": "2026-03-09T08:05:08.226129",
+        "source": "Hacker News"
     }
 ]
