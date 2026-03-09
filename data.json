@@ -6694,5 +6694,11 @@
         "url": "https://ndif.us/",
         "timestamp": "2026-03-09T09:51:23.726034",
         "source": "Hacker News"
+    },
+    {
+        "title": "Shockwave Player Reimplemented in Rust and WASM",
+        "url": "https://github.com/igorlira/dirplayer-rs",
+        "timestamp": "2026-03-09T09:51:23.726098",
+        "source": "Hacker News"
     }
 ]
