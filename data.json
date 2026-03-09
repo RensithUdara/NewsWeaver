@@ -5566,5 +5566,11 @@
         "url": "https://www.velodb.io/blog/apache-doris-excels-olap-deep-dive-realtime",
         "timestamp": "2026-03-09T01:55:35.118045",
         "source": "Hacker News"
+    },
+    {
+        "title": "CLI tool for deterministic linting of LLM output",
+        "url": "https://vale.sh",
+        "timestamp": "2026-03-09T01:55:35.118079",
+        "source": "Hacker News"
     }
 ]
