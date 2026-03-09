@@ -8032,5 +8032,11 @@
         "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.1.0_1.pdf",
         "timestamp": "2026-03-09T16:35:47.102555",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ApexStore – An embedded LSM-Tree storage engine written in Rust",
+        "url": "https://github.com/ElioNeto/ApexStore",
+        "timestamp": "2026-03-09T16:35:47.102589",
+        "source": "Hacker News"
     }
 ]
