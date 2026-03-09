@@ -7372,5 +7372,11 @@
         "url": "https://github.com/kaonashi-tyc/zi2zi-JiT",
         "timestamp": "2026-03-09T12:37:57.478387",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kubernetes 1.35 silently breaks AL2 EKS nodes that lost patches in November",
+        "url": "https://medium.com/@heinancabouly/i-upgraded-to-kubernetes-1-35-and-half-my-eks-nodes-couldnt-restart-801ceb789ee7",
+        "timestamp": "2026-03-09T12:37:57.478422",
+        "source": "Hacker News"
     }
 ]
