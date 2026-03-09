@@ -6940,5 +6940,11 @@
         "url": "https://ashti.ai",
         "timestamp": "2026-03-09T10:36:31.106473",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Generate HTTP and Jsonrpc from IDL",
+        "url": "https://github.com/xidl/xidl",
+        "timestamp": "2026-03-09T10:36:31.106507",
+        "source": "Hacker News"
     }
 ]
