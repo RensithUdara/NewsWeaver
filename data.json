@@ -5746,5 +5746,11 @@
         "url": "https://www.openverb.org/",
         "timestamp": "2026-03-09T04:08:55.157441",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: LLM-costs – Compare LLM API costs from terminal (npx, zero install)",
+        "url": "https://github.com/followtayeeb/llm-costs",
+        "timestamp": "2026-03-09T04:08:55.157475",
+        "source": "Hacker News"
     }
 ]
