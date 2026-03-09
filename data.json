@@ -8494,5 +8494,11 @@
         "url": "https://www.lesswrong.com/posts/mgjtEHeLgkhZZ3cEx/models-have-some-pretty-funny-attractor-states",
         "timestamp": "2026-03-09T18:06:31.707448",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: We built an MCP server so LLMs can self-correct against business rules",
+        "url": "https://www.rynko.dev/mcp",
+        "timestamp": "2026-03-09T18:06:31.707500",
+        "source": "Hacker News"
     }
 ]
