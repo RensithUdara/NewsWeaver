@@ -7072,5 +7072,11 @@
         "url": "https://inmydata.ai/blog/agentic-coding-discipline/",
         "timestamp": "2026-03-09T11:22:12.941862",
         "source": "Hacker News"
+    },
+    {
+        "title": "A 10% traffic spike took down a stable system in 3 minutes and 47 seconds",
+        "url": "https://www.orchenginex.com/publications/queue-collapse-traffic-spike",
+        "timestamp": "2026-03-09T11:22:12.941896",
+        "source": "Hacker News"
     }
 ]
