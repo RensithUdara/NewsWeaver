@@ -7780,5 +7780,11 @@
         "url": "https://fitfirst3.vercel.app/",
         "timestamp": "2026-03-09T15:37:17.697480",
         "source": "Hacker News"
+    },
+    {
+        "title": "Notes on blocking requests based on the HTTP protocol used",
+        "url": "https://boston.conman.org/2026/03/06.1",
+        "timestamp": "2026-03-09T15:37:17.697518",
+        "source": "Hacker News"
     }
 ]
