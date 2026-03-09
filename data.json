@@ -7546,5 +7546,11 @@
         "url": "https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol",
         "timestamp": "2026-03-09T14:38:04.820766",
         "source": "Hacker News"
+    },
+    {
+        "title": "FreeBSD Capsicum vs. Linux Seccomp Process Sandboxing",
+        "url": "https://vivianvoss.net/blog/capsicum-vs-seccomp",
+        "timestamp": "2026-03-09T14:38:04.820869",
+        "source": "Hacker News"
     }
 ]
