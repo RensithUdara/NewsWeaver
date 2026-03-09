@@ -6070,5 +6070,11 @@
         "url": "https://www.theregister.com/2026/03/09/lenovo_nintendo_sue_us_government/",
         "timestamp": "2026-03-09T06:38:59.390560",
         "source": "Hacker News"
+    },
+    {
+        "title": "MLShip – Deploy Streamlit/Gradio ML apps in 60 seconds, no Docker or AWS",
+        "url": "https://news.ycombinator.com/item?id=47305487",
+        "timestamp": "2026-03-09T06:38:59.390595",
+        "source": "Hacker News"
     }
 ]
