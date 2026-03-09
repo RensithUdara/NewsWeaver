@@ -6112,5 +6112,11 @@
         "url": "https://news.ycombinator.com/item?id=47305373",
         "timestamp": "2026-03-09T06:38:59.390839",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: XLA-based array computing framework for R",
+        "url": "https://github.com/r-xla/anvil",
+        "timestamp": "2026-03-09T06:38:59.390872",
+        "source": "Hacker News"
     }
 ]
