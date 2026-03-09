@@ -5950,5 +5950,11 @@
         "url": "https://www.bbc.com/news/articles/cwy92qpv424o",
         "timestamp": "2026-03-09T05:33:44.378672",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Entropick – Plug quantum/hardware RNGs into LLM token sampling",
+        "url": "https://github.com/amenti-labs/entropick/tree/main",
+        "timestamp": "2026-03-09T05:33:44.378707",
+        "source": "Hacker News"
     }
 ]
