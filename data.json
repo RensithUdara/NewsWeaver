@@ -8734,5 +8734,11 @@
         "url": "https://blog.alexisfox.dev/arcagi3",
         "timestamp": "2026-03-09T19:06:33.453878",
         "source": "Hacker News"
+    },
+    {
+        "title": "MXSS: Mutation cross-site scripting explained",
+        "url": "https://sonarsource.github.io/mxss-cheatsheet/explained/",
+        "timestamp": "2026-03-09T19:06:33.453910",
+        "source": "Hacker News"
     }
 ]
