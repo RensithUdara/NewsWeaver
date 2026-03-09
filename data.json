@@ -7918,5 +7918,11 @@
         "url": "https://getseagull.com",
         "timestamp": "2026-03-09T15:37:17.698360",
         "source": "Hacker News"
+    },
+    {
+        "title": "Vulnerabilities in Signal Sealed Sender and Usernames",
+        "url": "https://eprint.iacr.org/2026/484",
+        "timestamp": "2026-03-09T15:37:17.698396",
+        "source": "Hacker News"
     }
 ]
