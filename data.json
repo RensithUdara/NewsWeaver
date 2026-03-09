@@ -8746,5 +8746,11 @@
         "url": "https://blog.dbuglife.com/reverse-engineering-fichero-label-printer/",
         "timestamp": "2026-03-09T19:06:33.453939",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built an MCP server so Agents can launch RWAs and compliant tokens",
+        "url": "https://github.com/bitbond/token-tool-mcp",
+        "timestamp": "2026-03-09T19:06:33.453969",
+        "source": "Hacker News"
     }
 ]
