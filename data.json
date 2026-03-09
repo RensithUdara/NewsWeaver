@@ -8584,5 +8584,11 @@
         "url": "https://www.youtube.com/watch?v=BxIsPxBAxHQ",
         "timestamp": "2026-03-09T19:06:33.453099",
         "source": "Hacker News"
+    },
+    {
+        "title": "AWS SDK for Rust: Using S3-Compatible APIs with Other Clouds",
+        "url": "https://rup12.net/posts/s3-api-compatibility-is-awesome/",
+        "timestamp": "2026-03-09T19:06:33.453147",
+        "source": "Hacker News"
     }
 ]
