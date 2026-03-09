@@ -6316,5 +6316,11 @@
         "url": "https://localgpt.app/blog/world-as-skill/",
         "timestamp": "2026-03-09T07:36:46.576233",
         "source": "Hacker News"
+    },
+    {
+        "title": "Phi Guard – Open-Source HIPAA Phi Scanner for CI/CD Pipelines",
+        "url": "https://github.com/eddykim0118/phi-guard",
+        "timestamp": "2026-03-09T07:36:46.576265",
+        "source": "Hacker News"
     }
 ]
