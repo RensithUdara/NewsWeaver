@@ -10078,5 +10078,11 @@
         "url": "https://www.newyorker.com/magazine/2026/03/16/love-in-the-time-of-ai-companions",
         "timestamp": "2026-03-09T23:38:07.129488",
         "source": "Hacker News"
+    },
+    {
+        "title": "PRX Part 3 – Training a Text-to-Image Model in 24h",
+        "url": "https://huggingface.co/blog/Photoroom/prx-part3",
+        "timestamp": "2026-03-09T23:38:07.129560",
+        "source": "Hacker News"
     }
 ]
