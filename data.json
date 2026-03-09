@@ -6562,5 +6562,11 @@
         "url": "https://www.youtube.com/watch?v=wTK1exokBA8",
         "timestamp": "2026-03-09T08:58:23.330637",
         "source": "Hacker News"
+    },
+    {
+        "title": "A simple rule set that fixes Claude Code's worst habits",
+        "url": "https://github.com/akinalpfdn/claude-ground",
+        "timestamp": "2026-03-09T08:58:23.330671",
+        "source": "Hacker News"
     }
 ]
