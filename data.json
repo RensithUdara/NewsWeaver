@@ -6856,5 +6856,11 @@
         "url": "https://nafees.bearblog.dev/every-language-should-have-a-uuid-type/",
         "timestamp": "2026-03-09T10:36:31.105950",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a Stripe dashboard with an ESP32 desktop clock and Rust",
+        "url": "https://duggan.ie/posts/building-a-stripe-dashboard-with-an-esp32-desktop-clock-and-rust",
+        "timestamp": "2026-03-09T10:36:31.105986",
+        "source": "Hacker News"
     }
 ]
