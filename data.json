@@ -9742,5 +9742,11 @@
         "url": "https://news.ycombinator.com/item?id=47316630",
         "timestamp": "2026-03-09T22:41:39.255020",
         "source": "Hacker News"
+    },
+    {
+        "title": "Head to head: Claude Code (Opus 4.6 / 1M) vs. Cursor (Composer 1.5 / 200k)",
+        "url": "https://medium.com/@yoavaa/head-to-head-claude-code-opus-4-6-1m-vs-cursor-composer-1-5-200k-f15c537428ea",
+        "timestamp": "2026-03-09T22:41:39.255076",
+        "source": "Hacker News"
     }
 ]
