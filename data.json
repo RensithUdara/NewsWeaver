@@ -7768,5 +7768,11 @@
         "url": "https://news.ycombinator.com/item?id=47310428",
         "timestamp": "2026-03-09T15:37:17.697402",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Bear – enforcing architectural boundaries for agent-generated code",
+        "url": "https://github.com/rore/bear-cli",
+        "timestamp": "2026-03-09T15:37:17.697442",
+        "source": "Hacker News"
     }
 ]
