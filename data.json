@@ -9796,5 +9796,11 @@
         "url": "https://fedscoop.com/anthropic-says-trump-ban-puts-federal-contractor-partnerships-jeopardy/",
         "timestamp": "2026-03-09T22:41:39.255299",
         "source": "Hacker News"
+    },
+    {
+        "title": "Treat Agent Output Like Compiler Output",
+        "url": "https://skiplabs.io/blog/codegen_as_compiler",
+        "timestamp": "2026-03-09T22:41:39.255328",
+        "source": "Hacker News"
     }
 ]
