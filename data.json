@@ -9760,5 +9760,11 @@
         "url": "https://github.com/aatel-license/aatel-license.github.io",
         "timestamp": "2026-03-09T22:41:39.255132",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cinder CSI vs. Ceph RBD CSI in Kubernetes",
+        "url": "https://spot.rackspace.com/blogs/cinder-csi-vs-ceph-rbd-csi-in-kubernetes-an-analysis-of-persistent-volume-lifecycle-performance-on-rackspace-spot",
+        "timestamp": "2026-03-09T22:41:39.255159",
+        "source": "Hacker News"
     }
 ]
