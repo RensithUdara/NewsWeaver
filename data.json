@@ -9022,5 +9022,11 @@
         "url": "https://clarifydoc.xyz/",
         "timestamp": "2026-03-09T20:03:28.413823",
         "source": "Hacker News"
+    },
+    {
+        "title": "Small web publishing tools and frameworks",
+        "url": "https://codeberg.org/thgie/awesome-small-web-publishing",
+        "timestamp": "2026-03-09T20:03:28.413859",
+        "source": "Hacker News"
     }
 ]
