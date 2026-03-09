@@ -9250,5 +9250,11 @@
         "url": "https://www.datadoghq.com/blog/ai/harness-first-agents/",
         "timestamp": "2026-03-09T20:48:41.309592",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Efficient LLM Architectures for 32GB RAM (Ternary and Sparse Inference)",
+        "url": "https://github.com/opengraviton/graviton-native",
+        "timestamp": "2026-03-09T20:48:41.309626",
+        "source": "Hacker News"
     }
 ]
