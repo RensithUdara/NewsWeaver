@@ -9340,5 +9340,11 @@
         "url": "https://news.ycombinator.com/item?id=47315433",
         "timestamp": "2026-03-09T21:17:21.096170",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a Strict RFC 8259 JSON Parser: Acceptance Issues and Their Impact On",
+        "url": "https://lattice-substrate.github.io/blog/2026/02/26/strict-rfc8259-json-parser/",
+        "timestamp": "2026-03-09T21:17:21.096198",
+        "source": "Hacker News"
     }
 ]
