@@ -12196,5 +12196,11 @@
         "url": "https://sankalp.bearblog.dev/just-keep-doing-the-bit-karma-yoga-edition/",
         "timestamp": "2026-03-10T11:33:35.880403",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Sandboxing Agents on macOS and Linux with Nix",
+        "url": "https://github.com/archie-judd/agent-sandbox.nix",
+        "timestamp": "2026-03-10T11:33:35.880445",
+        "source": "Hacker News"
     }
 ]
