@@ -13684,5 +13684,11 @@
         "url": "https://www.cabinetmagazine.org/issues/71/khosravi.php",
         "timestamp": "2026-03-10T18:48:38.416607",
         "source": "Hacker News"
+    },
+    {
+        "title": "Surpassing vLLM with a Generated Inference Stack",
+        "url": "https://infinity.inc/case-studies/qwen3-optimization",
+        "timestamp": "2026-03-10T18:48:38.416676",
+        "source": "Hacker News"
     }
 ]
