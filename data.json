@@ -13552,5 +13552,11 @@
         "url": "https://www.kapa.ai/blog/remote-mcp-servers-hosting-authentication-best-practices",
         "timestamp": "2026-03-10T17:58:05.203649",
         "source": "Hacker News"
+    },
+    {
+        "title": "Giving our AI agent 100k tools made it worse",
+        "url": "https://getviktor.com/blog/what-breaks-when-your-agent-has-100000-tools",
+        "timestamp": "2026-03-10T17:58:05.203682",
+        "source": "Hacker News"
     }
 ]
