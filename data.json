@@ -10546,5 +10546,11 @@
         "url": "https://thehill.com/homenews/administration/5775642-trump-2028-presidential-race-poll/",
         "timestamp": "2026-03-10T08:56:48.593283",
         "source": "Hacker News"
+    },
+    {
+        "title": "Production MCP Server Starter Kit – Auth, Rate Limiting, AWS CDK, Docker",
+        "url": "https://github.com/tysoncung/mcp-server-starter",
+        "timestamp": "2026-03-10T08:56:48.608926",
+        "source": "Hacker News"
     }
 ]
