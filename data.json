@@ -11722,5 +11722,11 @@
         "url": "https://www.draft2final.app/",
         "timestamp": "2026-03-10T09:34:26.428255",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: Do you still run Redis and workers just for background jobs?",
+        "url": "https://news.ycombinator.com/item?id=47320768",
+        "timestamp": "2026-03-10T09:34:26.428288",
+        "source": "Hacker News"
     }
 ]
