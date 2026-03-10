@@ -13144,5 +13144,11 @@
         "url": "https://blog.nix-ci.com/post/2026-03-09_ci-should-fail-on-your-machine-first",
         "timestamp": "2026-03-10T16:09:51.623836",
         "source": "Hacker News"
+    },
+    {
+        "title": "Frequency – autonomous agent pipelines coordinating through shared state",
+        "url": "https://www.frequency.sh/blog/introducing-frequency/",
+        "timestamp": "2026-03-10T16:09:51.623872",
+        "source": "Hacker News"
     }
 ]
