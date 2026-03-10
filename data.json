@@ -11470,5 +11470,11 @@
         "url": "https://www.producthunt.com/products/macaly",
         "timestamp": "2026-03-10T08:00:09.617412",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "The hidden compile-time cost of C++26 reflection",
+        "url": "https://vittorioromeo.com/index/blog/refl_compiletime.html",
+        "timestamp": "2026-03-10T08:51:25.744515",
+        "source": "Hacker News"
     }
 ]
