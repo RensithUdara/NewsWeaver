@@ -14710,5 +14710,11 @@
         "url": "https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09/",
         "timestamp": "2026-03-10T21:28:10.140085",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scalable Training of Mixture-of-Experts Models with Megatron Core",
+        "url": "https://arxiv.org/abs/2603.07685",
+        "timestamp": "2026-03-10T21:28:10.140119",
+        "source": "Hacker News"
     }
 ]
