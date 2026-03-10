@@ -15424,5 +15424,11 @@
         "url": "https://github.com/coreutils/coreutils/commit/2b1c059e6",
         "timestamp": "2026-03-10T23:58:09.500247",
         "source": "Hacker News"
+    },
+    {
+        "title": "Log4j – Addressing AI-slop in security reports",
+        "url": "https://github.com/apache/logging-log4j2/discussions/4052",
+        "timestamp": "2026-03-10T23:58:09.500281",
+        "source": "Hacker News"
     }
 ]
