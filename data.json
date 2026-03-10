@@ -10756,5 +10756,11 @@
         "url": "https://www.youtube.com/watch?v=f1mTqVSqvvU",
         "timestamp": "2026-03-10T04:58:26.147349",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Sift – local hybrid search CLI in a single Rust binary",
+        "url": "https://www.alexdk.com/blog/introducing-sift",
+        "timestamp": "2026-03-10T04:58:26.147415",
+        "source": "Hacker News"
     }
 ]
