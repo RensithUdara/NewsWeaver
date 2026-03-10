@@ -12412,5 +12412,11 @@
         "url": "https://vertexclique.com/blog/kovan-from-prod-to-mr/",
         "timestamp": "2026-03-10T11:58:08.419692",
         "source": "Hacker News"
+    },
+    {
+        "title": "Caxlsx: Ruby gem for xlsx generation with charts, images, schema validation",
+        "url": "https://github.com/caxlsx/caxlsx",
+        "timestamp": "2026-03-10T12:57:48.930024",
+        "source": "Hacker News"
     }
 ]
