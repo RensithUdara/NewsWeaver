@@ -11584,5 +11584,11 @@
         "url": "https://www.sciencedaily.com/releases/2026/03/260309183208.htm",
         "timestamp": "2026-03-10T08:51:26.076816",
         "source": "Hacker News"
+    },
+    {
+        "title": "Heinzel – Guardrails that turn Claude Code into your sysadmin",
+        "url": "https://github.com/wintermeyer/heinzel",
+        "timestamp": "2026-03-10T08:51:26.076851",
+        "source": "Hacker News"
     }
 ]
