@@ -14170,5 +14170,11 @@
         "url": "https://stackoverflow.com/questions/235785/is-there-an-md5-fixed-point-where-md5x-x",
         "timestamp": "2026-03-10T19:57:10.428640",
         "source": "Hacker News"
+    },
+    {
+        "title": "GPT-4 leaks its own API internals through training data exposure",
+        "url": "https://news.ycombinator.com/item?id=47327833",
+        "timestamp": "2026-03-10T19:57:10.428675",
+        "source": "Hacker News"
     }
 ]
