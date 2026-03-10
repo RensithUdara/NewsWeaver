@@ -13138,5 +13138,11 @@
         "url": "https://github.com/cocoindex-io/cocoindex-code",
         "timestamp": "2026-03-10T16:09:51.623799",
         "source": "Hacker News"
+    },
+    {
+        "title": "CI should fail on your machine first",
+        "url": "https://blog.nix-ci.com/post/2026-03-09_ci-should-fail-on-your-machine-first",
+        "timestamp": "2026-03-10T16:09:51.623836",
+        "source": "Hacker News"
     }
 ]
