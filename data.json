@@ -13102,5 +13102,11 @@
         "url": "https://pixelnest.itch.io/cosmo-cargo",
         "timestamp": "2026-03-10T16:09:51.623552",
         "source": "Hacker News"
+    },
+    {
+        "title": "LiteParser: A fully featured embeddable SQLite parser",
+        "url": "https://github.com/sqliteai/liteparser",
+        "timestamp": "2026-03-10T16:09:51.623590",
+        "source": "Hacker News"
     }
 ]
