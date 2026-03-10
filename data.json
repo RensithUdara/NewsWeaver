@@ -10330,5 +10330,11 @@
         "url": "https://www.youtube.com/watch?v=KEApG5twaA4",
         "timestamp": "2026-03-10T01:07:47.615749",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: OxiGDAL – A pure Rust replacement for GDAL with zero C/C++ dependencies",
+        "url": "https://github.com/cool-japan/oxigdal",
+        "timestamp": "2026-03-10T01:07:47.615783",
+        "source": "Hacker News"
     }
 ]
