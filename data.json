@@ -13780,5 +13780,11 @@
         "url": "https://aiunbreakable.com/tools/prompt-vulnerability-scanner",
         "timestamp": "2026-03-10T18:48:38.517838",
         "source": "Hacker News"
+    },
+    {
+        "title": "TokenZip Protocol (TZP) – Passing pointers between LLMs instead of 10k tokens",
+        "url": "https://github.com/tokenzip/tokenzip",
+        "timestamp": "2026-03-10T18:48:38.517872",
+        "source": "Hacker News"
     }
 ]
