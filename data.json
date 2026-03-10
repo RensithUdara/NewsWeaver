@@ -13822,5 +13822,11 @@
         "url": "https://uattest.net/",
         "timestamp": "2026-03-10T18:48:38.518110",
         "source": "Hacker News"
+    },
+    {
+        "title": "Revise age verification terms for MidnightBSD",
+        "url": "https://github.com/MidnightBSD/src/commit/529b708846e30e8eb4fcec8dfc23176ec6a74bcf",
+        "timestamp": "2026-03-10T18:48:38.518144",
+        "source": "Hacker News"
     }
 ]
