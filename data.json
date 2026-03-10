@@ -14758,5 +14758,11 @@
         "url": "https://news.ycombinator.com/item?id=47329161",
         "timestamp": "2026-03-10T21:50:16.176106",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open-source DCF engine based on Damodaran's datasets with LLM narratives",
+        "url": "https://github.com/stockvaluation-io/stockvaluation_io",
+        "timestamp": "2026-03-10T21:50:16.176142",
+        "source": "Hacker News"
     }
 ]
