@@ -13300,5 +13300,11 @@
         "url": "https://reclaimthenet.org/microsoft-copilot-update-hijacks-default-browser-links",
         "timestamp": "2026-03-10T17:06:45.045850",
         "source": "Hacker News"
+    },
+    {
+        "title": "Starting to building an open-source tool to track how AI agents search the web",
+        "url": "https://github.com/clawpify/clawpify",
+        "timestamp": "2026-03-10T17:06:45.045921",
+        "source": "Hacker News"
     }
 ]
