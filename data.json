@@ -14566,5 +14566,11 @@
         "url": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
         "timestamp": "2026-03-10T20:58:20.639503",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Testing Nvidia's FP4: Running 70B LLMs on a Single RTX 5090 with Real Benchmarks",
+        "url": "https://ai.gopubby.com/fp4-quantization-nvfp4-blackwell-tutorial-13dfc854ed0c",
+        "timestamp": "2026-03-10T21:28:10.139186",
+        "source": "Hacker News"
     }
 ]
