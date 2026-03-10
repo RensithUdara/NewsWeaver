@@ -11668,5 +11668,11 @@
         "url": "https://www.eurekalert.org/news-releases/1118481",
         "timestamp": "2026-03-10T09:34:26.427936",
         "source": "Hacker News"
+    },
+    {
+        "title": "We got tired of ChatGPT confidently giving wrong answers about our SDK",
+        "url": "https://blog.leanmcp.com/blog/llms-getting-leanmcp-wrong",
+        "timestamp": "2026-03-10T09:34:26.427978",
+        "source": "Hacker News"
     }
 ]
