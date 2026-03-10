@@ -12220,5 +12220,11 @@
         "url": "https://gitlab.freedesktop.org/xdg/xdg-specs/-/merge_requests/113",
         "timestamp": "2026-03-10T11:33:35.880559",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Java library for extracting tables from Text-Based PDFs and scanned PDFs",
+        "url": "https://github.com/ExtractPDF4J/ExtractPDF4J",
+        "timestamp": "2026-03-10T11:33:35.880595",
+        "source": "Hacker News"
     }
 ]
