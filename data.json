@@ -13570,5 +13570,11 @@
         "url": "https://www.3dimli.com",
         "timestamp": "2026-03-10T17:58:05.203748",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hugging Face Storage Buckets: Mutable, non-versioned object storage at $12/TB",
+        "url": "https://huggingface.co/blog/storage-buckets",
+        "timestamp": "2026-03-10T17:58:05.203781",
+        "source": "Hacker News"
     }
 ]
