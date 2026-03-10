@@ -13612,5 +13612,11 @@
         "url": "https://www.nytimes.com/2026/03/09/movies/oscars-casting-award-auditions-movies.html",
         "timestamp": "2026-03-10T17:58:05.204016",
         "source": "Hacker News"
+    },
+    {
+        "title": "New multimodal Gemini embeddings from Google (videos and PDFs supported)",
+        "url": "https://haystack.deepset.ai/blog/multimodal-embeddings-gemini-haystack",
+        "timestamp": "2026-03-10T17:58:05.204050",
+        "source": "Hacker News"
     }
 ]
