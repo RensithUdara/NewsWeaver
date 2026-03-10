@@ -10606,5 +10606,11 @@
         "url": "https://www.applefirst50.com",
         "timestamp": "2026-03-10T08:56:48.608926",
         "source": "Hacker News"
+    },
+    {
+        "title": "CUDA-morph: PyTorch .cuda() code on AMD/Intel/Ascend without rewrites",
+        "url": "https://github.com/JosephAhn23/cuda-morph",
+        "timestamp": "2026-03-10T08:56:48.608926",
+        "source": "Hacker News"
     }
 ]
