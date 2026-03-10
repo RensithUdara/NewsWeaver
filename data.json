@@ -12034,5 +12034,11 @@
         "url": "https://news.ycombinator.com/item?id=47321576",
         "timestamp": "2026-03-10T10:58:51.944324",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open-Sourced IaC wrapper that automatically tags Git_sha, Git_repo, Git_branch",
+        "url": "https://github.com/trupositive-ai/trupositive",
+        "timestamp": "2026-03-10T10:58:51.944364",
+        "source": "Hacker News"
     }
 ]
