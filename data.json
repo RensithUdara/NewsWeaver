@@ -12820,5 +12820,11 @@
         "url": "https://github.com/initializ/forge",
         "timestamp": "2026-03-10T14:00:21.562028",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sutton and Barto, Ch. 11: Off-Policy Methods with Approximation (Personal Notes)",
+        "url": "https://chizkidd.github.io//2026/03/09/rl-sutton-barto-notes-ch011/",
+        "timestamp": "2026-03-10T14:00:21.562059",
+        "source": "Hacker News"
     }
 ]
