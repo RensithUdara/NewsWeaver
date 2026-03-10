@@ -10240,5 +10240,11 @@
         "url": "https://www.workshoplabs.ai/blog/open-weights-open-training",
         "timestamp": "2026-03-09T23:54:55.437184",
         "source": "Hacker News"
+    },
+    {
+        "title": "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor",
+        "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+        "timestamp": "2026-03-10T01:07:47.515855",
+        "source": "Hacker News"
     }
 ]
