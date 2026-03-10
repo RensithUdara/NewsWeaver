@@ -14614,5 +14614,11 @@
         "url": "https://developercertificate.org",
         "timestamp": "2026-03-10T21:28:10.139500",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Draxl, agent-native source code with stable AST node IDs",
+        "url": "https://github.com/draxl-org/draxl",
+        "timestamp": "2026-03-10T21:28:10.139543",
+        "source": "Hacker News"
     }
 ]
