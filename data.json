@@ -12430,5 +12430,11 @@
         "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
         "timestamp": "2026-03-10T12:57:49.274510",
         "source": "Hacker News"
+    },
+    {
+        "title": "Traffic from Russia to Cloudflare is 60% down from last year",
+        "url": "https://radar.cloudflare.com/traffic/ru?dateRange=52w",
+        "timestamp": "2026-03-10T12:57:49.274546",
+        "source": "Hacker News"
     }
 ]
