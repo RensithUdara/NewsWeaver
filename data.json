@@ -13000,5 +13000,11 @@
         "url": "https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/",
         "timestamp": "2026-03-10T15:03:11.941120",
         "source": "Hacker News"
+    },
+    {
+        "title": "Non-blocking SQLite for Node.js. Ported 100% of better-sqlite3 tests",
+        "url": "https://www.npmjs.com/package/better-sqlite3-pool",
+        "timestamp": "2026-03-10T15:03:11.941253",
+        "source": "Hacker News"
     }
 ]
