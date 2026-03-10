@@ -12406,5 +12406,11 @@
         "url": "https://k2xl.substack.com/p/the-canonical-document",
         "timestamp": "2026-03-10T11:58:08.419658",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kovan: From Production MVCC Systems to Wait-Free Memory Reclamation",
+        "url": "https://vertexclique.com/blog/kovan-from-prod-to-mr/",
+        "timestamp": "2026-03-10T11:58:08.419692",
+        "source": "Hacker News"
     }
 ]
