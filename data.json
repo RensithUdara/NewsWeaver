@@ -14806,5 +14806,11 @@
         "url": "https://news.ycombinator.com/item?id=47329091",
         "timestamp": "2026-03-10T21:50:16.176416",
         "source": "Hacker News"
+    },
+    {
+        "title": "Miguel: An AI agent that modifies its own source code, sandboxed in Docker",
+        "url": "https://github.com/soulfir/miguel",
+        "timestamp": "2026-03-10T21:50:16.176449",
+        "source": "Hacker News"
     }
 ]
