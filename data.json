@@ -13630,5 +13630,11 @@
         "url": "https://www.movealerts.ai/",
         "timestamp": "2026-03-10T17:58:05.204117",
         "source": "Hacker News"
+    },
+    {
+        "title": "SQLite Concurrency in Go: What We Learned Building a Desktop AI IDE",
+        "url": "https://chatml.com/blog/sqlite-concurrency-in-go-desktop-ai-ide",
+        "timestamp": "2026-03-10T17:58:05.204150",
+        "source": "Hacker News"
     }
 ]
