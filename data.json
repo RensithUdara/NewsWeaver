@@ -11980,5 +11980,11 @@
         "url": "https://unconcurrent.com/articles/SoloDB110.html",
         "timestamp": "2026-03-10T10:09:33.644253",
         "source": "Hacker News"
+    },
+    {
+        "title": "Stop using chat history as your agent's state store",
+        "url": "https://blog.raed.dev/posts/agentic-workflows-are-not-conversations/",
+        "timestamp": "2026-03-10T10:09:33.644287",
+        "source": "Hacker News"
     }
 ]
