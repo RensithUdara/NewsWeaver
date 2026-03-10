@@ -12298,5 +12298,11 @@
         "url": "https://www.loper-os.org/?p=1361",
         "timestamp": "2026-03-10T11:33:35.881061",
         "source": "Hacker News"
+    },
+    {
+        "title": "Practical Guide to Bare Metal C++",
+        "url": "https://arobenko.github.io/bare_metal_cpp/#_abstract_classes",
+        "timestamp": "2026-03-10T11:58:08.091304",
+        "source": "Hacker News"
     }
 ]
