@@ -11842,5 +11842,11 @@
         "url": "https://news.ycombinator.com/item?id=47321218",
         "timestamp": "2026-03-10T10:09:33.643448",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bash is all you need. A nano Claude Code–like agent, built from 0 to 1",
+        "url": "https://github.com/shareAI-lab/learn-claude-code",
+        "timestamp": "2026-03-10T10:09:33.643484",
+        "source": "Hacker News"
     }
 ]
