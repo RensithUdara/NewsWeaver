@@ -10906,5 +10906,11 @@
         "url": "https://www.japantimes.co.jp/news/2026/03/10/japan/politics/goundwater-land-ministry/",
         "timestamp": "2026-03-10T05:44:58.194403",
         "source": "Hacker News"
+    },
+    {
+        "title": "Prevent duplicate webhook executions in n8n (template)",
+        "url": "https://github.com/aari-ai/n8n-webhook-idempotency",
+        "timestamp": "2026-03-10T05:44:58.194469",
+        "source": "Hacker News"
     }
 ]
