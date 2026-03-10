@@ -12634,5 +12634,11 @@
         "url": "https://gultsch.de/posts/xmpp-via-http/",
         "timestamp": "2026-03-10T14:00:21.313142",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: DD Photos – open-source photo album site generator (Go and SvelteKit)",
+        "url": "https://github.com/dougdonohoe/ddphotos",
+        "timestamp": "2026-03-10T14:00:21.313305",
+        "source": "Hacker News"
     }
 ]
