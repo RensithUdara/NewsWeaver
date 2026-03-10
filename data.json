@@ -14992,5 +14992,11 @@
         "url": "https://www.buzzsprout.com/2469780/episodes/18778761-23-containers-what-s-in-the-box",
         "timestamp": "2026-03-10T22:18:46.762105",
         "source": "Hacker News"
+    },
+    {
+        "title": "Using directx shared surfaces as a kernel IPC channel",
+        "url": "https://afpereira.me/posts/dxsurflink/",
+        "timestamp": "2026-03-10T22:18:46.762138",
+        "source": "Hacker News"
     }
 ]
