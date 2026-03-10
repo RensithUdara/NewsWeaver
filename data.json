@@ -12022,5 +12022,11 @@
         "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
         "timestamp": "2026-03-10T10:58:51.834985",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenTelemetry for Rust Developers",
+        "url": "https://signoz.io/blog/opentelemetry-rust/",
+        "timestamp": "2026-03-10T10:58:51.944273",
+        "source": "Hacker News"
     }
 ]
