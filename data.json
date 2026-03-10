@@ -12736,5 +12736,11 @@
         "url": "https://news.ycombinator.com/item?id=47323236",
         "timestamp": "2026-03-10T14:00:21.561613",
         "source": "Hacker News"
+    },
+    {
+        "title": "An OpenClaw skill for think-tank style analysis of crises like the Iran war",
+        "url": "https://github.com/vassiliylakhonin/global-think-tank-analyst",
+        "timestamp": "2026-03-10T14:00:21.561641",
+        "source": "Hacker News"
     }
 ]
