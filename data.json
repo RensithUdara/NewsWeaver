@@ -10822,5 +10822,11 @@
         "url": "https://startups.rip/",
         "timestamp": "2026-03-10T04:58:26.147759",
         "source": "Hacker News"
+    },
+    {
+        "title": "How we optimized Top K in Postgres",
+        "url": "https://www.paradedb.com/blog/optimizing-top-k",
+        "timestamp": "2026-03-10T05:44:57.921377",
+        "source": "Hacker News"
     }
 ]
