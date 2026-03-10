@@ -12436,5 +12436,11 @@
         "url": "https://radar.cloudflare.com/traffic/ru?dateRange=52w",
         "timestamp": "2026-03-10T12:57:49.274546",
         "source": "Hacker News"
+    },
+    {
+        "title": "HN: 354M LLM with better epistemic calibration than GPT-2 Medium on OOD data",
+        "url": "https://truthagi.ai",
+        "timestamp": "2026-03-10T12:57:49.274582",
+        "source": "Hacker News"
     }
 ]
