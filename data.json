@@ -11356,5 +11356,11 @@
         "url": "https://steady.cates.fm/",
         "timestamp": "2026-03-10T08:00:09.398786",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI on a Budget: Recompiling Llama.cpp for Qwen3.5 Inference on an HP Z440",
+        "url": "https://jeanbaptistefleury.neocities.org/importance_of_inference_engines",
+        "timestamp": "2026-03-10T08:00:09.398822",
+        "source": "Hacker News"
     }
 ]
