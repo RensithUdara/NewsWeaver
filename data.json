@@ -13768,5 +13768,11 @@
         "url": "https://corbt.com/posts/codex-file-my-taxes-make-no-mistakes",
         "timestamp": "2026-03-10T18:48:38.517770",
         "source": "Hacker News"
+    },
+    {
+        "title": "Benchmarking rolvsparse on DeepSeek-R1 and Llama 4 – up to 82x vs. cuBLAS",
+        "url": "https://rolv.ai/",
+        "timestamp": "2026-03-10T18:48:38.517804",
+        "source": "Hacker News"
     }
 ]
