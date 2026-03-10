@@ -14956,5 +14956,11 @@
         "url": "https://news.ycombinator.com/item?id=47329343",
         "timestamp": "2026-03-10T22:18:46.761903",
         "source": "Hacker News"
+    },
+    {
+        "title": "What it costs to run 1M image search in production",
+        "url": "https://vecstore.app/blog/what-it-costs-to-search-1m-images",
+        "timestamp": "2026-03-10T22:18:46.761937",
+        "source": "Hacker News"
     }
 ]
