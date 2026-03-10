@@ -14146,5 +14146,11 @@
         "url": "https://www.got-timeline.com",
         "timestamp": "2026-03-10T19:57:10.428500",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code makes local LLMs 90% slower",
+        "url": "https://unsloth.ai/docs/basics/claude-code",
+        "timestamp": "2026-03-10T19:57:10.428538",
+        "source": "Hacker News"
     }
 ]
