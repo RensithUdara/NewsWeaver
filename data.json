@@ -10318,5 +10318,11 @@
         "url": "https://kiln.tech/blog/requirements_layer_your_ai_system_is_missing",
         "timestamp": "2026-03-10T01:07:47.615675",
         "source": "Hacker News"
+    },
+    {
+        "title": "Simulating Catalog and Table Conflicts in Iceberg",
+        "url": "https://cdouglas.github.io/posts/2026/03/catalog",
+        "timestamp": "2026-03-10T01:07:47.615714",
+        "source": "Hacker News"
     }
 ]
