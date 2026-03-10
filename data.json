@@ -11110,5 +11110,11 @@
         "url": "https://news.ycombinator.com/item?id=47320028",
         "timestamp": "2026-03-10T07:27:14.304844",
         "source": "Hacker News"
+    },
+    {
+        "title": "Emulation of the Drosophila Fly Brain",
+        "url": "https://github.com/eonsystemspbc/fly-brain",
+        "timestamp": "2026-03-10T07:27:14.304873",
+        "source": "Hacker News"
     }
 ]
