@@ -14164,5 +14164,11 @@
         "url": "https://medium.com/the-toit-take/why-doesnt-v8-fit-on-my-microcontroller-71dc6e2d8f5c",
         "timestamp": "2026-03-10T19:57:10.428607",
         "source": "Hacker News"
+    },
+    {
+        "title": "Is there an MD5 Fixed Point where MD5(x) == x?",
+        "url": "https://stackoverflow.com/questions/235785/is-there-an-md5-fixed-point-where-md5x-x",
+        "timestamp": "2026-03-10T19:57:10.428640",
+        "source": "Hacker News"
     }
 ]
