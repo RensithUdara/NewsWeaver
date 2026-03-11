@@ -18952,5 +18952,11 @@
         "url": "https://apps.apple.com/us/app/hyper-ai-for-real-talk/id6760206718",
         "timestamp": "2026-03-11T18:56:31.386776",
         "source": "Hacker News"
+    },
+    {
+        "title": "//go:fix inline and the source-level inliner",
+        "url": "https://go.dev/blog/inliner",
+        "timestamp": "2026-03-11T18:56:31.386810",
+        "source": "Hacker News"
     }
 ]
