@@ -17554,5 +17554,11 @@
         "url": "https://gists.sh",
         "timestamp": "2026-03-11T12:26:21.474164",
         "source": "Hacker News"
+    },
+    {
+        "title": "Give your AI agents reversibility and governance before they touch your host",
+        "url": "https://github.com/markamo/envpod-ce",
+        "timestamp": "2026-03-11T12:26:21.474202",
+        "source": "Hacker News"
     }
 ]
