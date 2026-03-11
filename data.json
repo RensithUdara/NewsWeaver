@@ -15760,5 +15760,11 @@
         "url": "https://www.youtube.com/watch?v=ZXs_9OXRnQo",
         "timestamp": "2026-03-11T04:01:23.140048",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tecto: An Opaque, Encrypted Token Protocol as an Alternative to JWT",
+        "url": "https://github.com/Zastinian/tecto",
+        "timestamp": "2026-03-11T04:01:23.140110",
+        "source": "Hacker News"
     }
 ]
