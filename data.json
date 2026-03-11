@@ -19204,5 +19204,11 @@
         "url": "https://apify.com/cryptosignals/hn-top-stories",
         "timestamp": "2026-03-11T19:38:03.929247",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bus travel from Lima to Rio de Janeiro",
+        "url": "https://kenschutte.com/lima-to-rio-by-bus/",
+        "timestamp": "2026-03-11T19:38:03.929282",
+        "source": "Hacker News"
     }
 ]
