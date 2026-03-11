@@ -20320,5 +20320,11 @@
         "url": "https://bsocial.site",
         "timestamp": "2026-03-11T22:55:16.989709",
         "source": "Hacker News"
+    },
+    {
+        "title": "Six-Day and IP Address Certificates Available in Certbot",
+        "url": "https://letsencrypt.org/2026/03/11/shorter-certs-certbot",
+        "timestamp": "2026-03-11T22:55:16.989741",
+        "source": "Hacker News"
     }
 ]
