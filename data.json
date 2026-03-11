@@ -19228,5 +19228,11 @@
         "url": "https://www.sciencedirect.com/science/article/pii/S2666821126000682",
         "timestamp": "2026-03-11T19:38:03.929391",
         "source": "Hacker News"
+    },
+    {
+        "title": "Exclusive scheduled jobs using database locks",
+        "url": "https://tkareine.org/articles/exclusive-scheduled-jobs-using-db-locks.html",
+        "timestamp": "2026-03-11T19:38:03.929455",
+        "source": "Hacker News"
     }
 ]
