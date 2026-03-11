@@ -19480,5 +19480,11 @@
         "url": "https://neal.fun/constellation-draw",
         "timestamp": "2026-03-11T20:46:37.920600",
         "source": "Hacker News"
+    },
+    {
+        "title": "Browserbase Fetch: Simple API for extracting web page content for AI agents",
+        "url": "https://www.browserbase.com/blog/fetch-api",
+        "timestamp": "2026-03-11T20:46:37.920633",
+        "source": "Hacker News"
     }
 ]
