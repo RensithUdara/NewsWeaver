@@ -17158,5 +17158,11 @@
         "url": "https://apnews.com/article/ai-trump-energy-transmission-lines-f1c6b1251054d2a7e193297e4111b8d1",
         "timestamp": "2026-03-11T11:19:20.933634",
         "source": "Hacker News"
+    },
+    {
+        "title": "Morse code converter CLI tool written in Rust",
+        "url": "https://github.com/zsphinxyz/zmorse-cli",
+        "timestamp": "2026-03-11T11:19:20.933671",
+        "source": "Hacker News"
     }
 ]
