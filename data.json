@@ -16462,5 +16462,11 @@
         "url": "https://news.ycombinator.com/item?id=47332532",
         "timestamp": "2026-03-11T07:51:41.372594",
         "source": "Hacker News"
+    },
+    {
+        "title": "White-Box Attacks on PhotoDNA Perceptual Hash Function",
+        "url": "https://eprint.iacr.org/2026/486",
+        "timestamp": "2026-03-11T07:51:41.372662",
+        "source": "Hacker News"
     }
 ]
