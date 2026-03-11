@@ -18370,5 +18370,11 @@
         "url": "https://defogwar.com",
         "timestamp": "2026-03-11T16:09:30.185142",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built an AI agent in Zig that runs on Windows XP with 64 MB RAM",
+        "url": "https://news.ycombinator.com/item?id=47337279",
+        "timestamp": "2026-03-11T16:09:30.185181",
+        "source": "Hacker News"
     }
 ]
