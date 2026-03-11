@@ -17914,5 +17914,11 @@
         "url": "https://zenodo.org/records/18958489",
         "timestamp": "2026-03-11T14:33:08.464752",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI bots spam GitHub repo with identical PRs",
+        "url": "https://github.com/pedroslopez/whatsapp-web.js/pulls",
+        "timestamp": "2026-03-11T14:33:08.464786",
+        "source": "Hacker News"
     }
 ]
