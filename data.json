@@ -18388,5 +18388,11 @@
         "url": "https://www.ravelin.com/blog/ai-powered-refund-abuse-dispute-fraud",
         "timestamp": "2026-03-11T16:09:30.185241",
         "source": "Hacker News"
+    },
+    {
+        "title": "Track idle, typing, and agent work time across Claude Code sessions",
+        "url": "https://github.com/martinambrus/claude_timings_wrapper",
+        "timestamp": "2026-03-11T16:09:30.185270",
+        "source": "Hacker News"
     }
 ]
