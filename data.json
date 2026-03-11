@@ -15898,5 +15898,11 @@
         "url": "https://news.ycombinator.com/item?id=47331824",
         "timestamp": "2026-03-11T05:15:43.271191",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making WebAssembly a first-class language on the Web",
+        "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+        "timestamp": "2026-03-11T05:15:43.271224",
+        "source": "Hacker News"
     }
 ]
