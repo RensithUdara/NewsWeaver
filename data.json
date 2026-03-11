@@ -15526,5 +15526,11 @@
         "url": "https://news.ycombinator.com/item?id=47330747",
         "timestamp": "2026-03-11T01:54:03.416047",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pristan: The simplest way to create a plugin infrastructure in Python",
+        "url": "https://github.com/mutating/pristan",
+        "timestamp": "2026-03-11T01:54:03.416081",
+        "source": "Hacker News"
     }
 ]
