@@ -15610,5 +15610,11 @@
         "url": "https://xergioalex.com/blog/series/aeo-from-invisible-to-cited/",
         "timestamp": "2026-03-11T01:54:03.416585",
         "source": "Hacker News"
+    },
+    {
+        "title": "Datafly – data agent that automatically understands any database you connect",
+        "url": "https://github.com/dkeviv/datafly",
+        "timestamp": "2026-03-11T01:54:03.416625",
+        "source": "Hacker News"
     }
 ]
