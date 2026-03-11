@@ -16108,5 +16108,11 @@
         "url": "https://www.cnbc.com/2026/03/10/a-24-year-old-who-ditched-her-smartphone-and-social-media-wants-you-to-be-appstinent-too.html",
         "timestamp": "2026-03-11T06:04:16.776984",
         "source": "Hacker News"
+    },
+    {
+        "title": "Support for Aquantia AQC113 and AQC113C Ethernet Controllers on FreeBSD",
+        "url": "https://github.com/Aquantia/aqtion-freebsd/issues/32",
+        "timestamp": "2026-03-11T07:08:13.225915",
+        "source": "Hacker News"
     }
 ]
