@@ -20596,5 +20596,11 @@
         "url": "https://www.percepta.ai/blog/can-llms-be-computers",
         "timestamp": "2026-03-11T23:43:35.428947",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A context-aware permission guard for Claude Code",
+        "url": "https://github.com/manuelschipper/nah/",
+        "timestamp": "2026-03-11T23:43:35.429016",
+        "source": "Hacker News"
     }
 ]
