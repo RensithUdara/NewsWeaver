@@ -18592,5 +18592,11 @@
         "url": "https://arxiv.org/abs/2111.11231",
         "timestamp": "2026-03-11T17:08:33.248499",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fault Tolerance Benchmark: Clockwork TorchPass, TorchFT and Checkpoint Restart",
+        "url": "https://clockwork.io/blog/keeping-distributed-training-running-through-failures/",
+        "timestamp": "2026-03-11T17:08:33.248535",
+        "source": "Hacker News"
     }
 ]
