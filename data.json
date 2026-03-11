@@ -16540,5 +16540,11 @@
         "url": "https://github.com/codeedu/wsl2-kubernetes",
         "timestamp": "2026-03-11T08:29:56.527859",
         "source": "Hacker News"
+    },
+    {
+        "title": "A static recompiler for original GameBoy ROMs",
+        "url": "https://github.com/arcanite24/gb-recompiled",
+        "timestamp": "2026-03-11T08:29:56.527893",
+        "source": "Hacker News"
     }
 ]
