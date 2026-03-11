@@ -16732,5 +16732,11 @@
         "url": "https://aistaffkit.com/claude-skills-guide",
         "timestamp": "2026-03-11T09:07:58.940751",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Colab pipeline for auto-labeling datasets with prompt and training YOLO",
+        "url": "https://github.com/useful-ai-tools/detect-anything",
+        "timestamp": "2026-03-11T09:07:58.940821",
+        "source": "Hacker News"
     }
 ]
