@@ -16138,5 +16138,11 @@
         "url": "https://writing.nikunjk.com/p/capital-isnt-destiny",
         "timestamp": "2026-03-11T07:08:13.548771",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: CLI and TUI for Elasticsearch and OpenSearch",
+        "url": "https://github.com/jillesvangurp/kt-search/tree/master/ktsearch-cli",
+        "timestamp": "2026-03-11T07:08:13.548820",
+        "source": "Hacker News"
     }
 ]
