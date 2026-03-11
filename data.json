@@ -16918,5 +16918,11 @@
         "url": "https://www.nytimes.com/2026/03/11/world/europe/ukraine-drones-china.html",
         "timestamp": "2026-03-11T09:58:24.683403",
         "source": "Hacker News"
+    },
+    {
+        "title": "Simple-Git NPM package has CVSS 9.8 RCE; 5M+ weekly downloads–check lockfiles",
+        "url": "https://www.codeant.ai/security-research/simple-git-remote-code-execution-cve-2026-28292",
+        "timestamp": "2026-03-11T09:58:24.683436",
+        "source": "Hacker News"
     }
 ]
