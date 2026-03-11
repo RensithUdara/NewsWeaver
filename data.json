@@ -16144,5 +16144,11 @@
         "url": "https://github.com/jillesvangurp/kt-search/tree/master/ktsearch-cli",
         "timestamp": "2026-03-11T07:08:13.548820",
         "source": "Hacker News"
+    },
+    {
+        "title": "FreeBSDKit: Swift Package to Write Capability-Aware FreeBSD Apps",
+        "url": "https://christiantietze.de/posts/2026/03/freebsdkit-swift-package-write-capability-aware-freebsd-apps/",
+        "timestamp": "2026-03-11T07:08:13.548856",
+        "source": "Hacker News"
     }
 ]
