@@ -20026,5 +20026,11 @@
         "url": "https://www.bbc.com/news/articles/c1mj1pyrzryo",
         "timestamp": "2026-03-11T22:02:22.922553",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I made a DAG MCP that supports complex tasks in Claude Code",
+        "url": "https://github.com/jkerdels/dependency-graph-mcp",
+        "timestamp": "2026-03-11T22:02:22.922590",
+        "source": "Hacker News"
     }
 ]
