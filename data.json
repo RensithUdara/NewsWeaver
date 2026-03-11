@@ -16366,5 +16366,11 @@
         "url": "https://www.ianbetteridge.com/zen-fascist-wi/",
         "timestamp": "2026-03-11T07:51:41.371992",
         "source": "Hacker News"
+    },
+    {
+        "title": "Compact-dict – a cache-local, linear probing hash map in Rust",
+        "url": "https://github.com/gustawdaniel/compact-dict",
+        "timestamp": "2026-03-11T07:51:41.372026",
+        "source": "Hacker News"
     }
 ]
