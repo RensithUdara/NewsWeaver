@@ -20356,5 +20356,11 @@
         "url": "https://www.ycombinator.com/companies",
         "timestamp": "2026-03-11T23:16:59.639283",
         "source": "Hacker News"
+    },
+    {
+        "title": "Conduit – Headless browser with SHA-256 hash chain and Ed25519 audit trails",
+        "url": "https://news.ycombinator.com/item?id=47343785",
+        "timestamp": "2026-03-11T23:16:59.639331",
+        "source": "Hacker News"
     }
 ]
