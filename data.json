@@ -19708,5 +19708,11 @@
         "url": "https://github.com/momentmaker/pancakemaker",
         "timestamp": "2026-03-11T21:16:41.498892",
         "source": "Hacker News"
+    },
+    {
+        "title": "A CLI wrapper for making Kubernetes commands much easier",
+        "url": "https://github.com/alaminopu/kctl",
+        "timestamp": "2026-03-11T21:16:41.498925",
+        "source": "Hacker News"
     }
 ]
