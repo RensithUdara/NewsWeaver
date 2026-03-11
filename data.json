@@ -17878,5 +17878,11 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12975128/",
         "timestamp": "2026-03-11T14:33:08.464527",
         "source": "Hacker News"
+    },
+    {
+        "title": "ShiftAPI – A nicer way to write Go APIs, with TypeScript types for free",
+        "url": "https://www.shiftapi.dev/",
+        "timestamp": "2026-03-11T14:33:08.464560",
+        "source": "Hacker News"
     }
 ]
