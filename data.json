@@ -16696,5 +16696,11 @@
         "url": "https://frog03-20494.wykr.es/devtools/",
         "timestamp": "2026-03-11T09:07:58.940540",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fooling Go's X.509 Certificate Verification",
+        "url": "https://danielmangum.com/posts/fooling-go-x509-certificate-verification/",
+        "timestamp": "2026-03-11T09:07:58.940576",
+        "source": "Hacker News"
     }
 ]
