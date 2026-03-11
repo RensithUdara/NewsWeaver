@@ -17824,5 +17824,11 @@
         "url": "https://www.seattletimes.com/seattle-news/politics/wa-income-tax-passes-house-after-24-hour-debate/",
         "timestamp": "2026-03-11T14:33:08.363019",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Custom Git-receive-pack implementation",
+        "url": "https://github.com/runxiyu/furgit/tree/master/cmd/receivepack9418",
+        "timestamp": "2026-03-11T14:33:08.363165",
+        "source": "Hacker News"
     }
 ]
