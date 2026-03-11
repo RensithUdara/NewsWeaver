@@ -16156,5 +16156,11 @@
         "url": "https://changkun.substack.com/p/at-the-boundary-of-self-reference",
         "timestamp": "2026-03-11T07:08:13.548891",
         "source": "Hacker News"
+    },
+    {
+        "title": "Decoupled by Design: Billion-Scale Vector Search",
+        "url": "https://www.databricks.com/blog/decoupled-design-billion-scale-vector-search",
+        "timestamp": "2026-03-11T07:08:13.548927",
+        "source": "Hacker News"
     }
 ]
