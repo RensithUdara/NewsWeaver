@@ -19186,5 +19186,11 @@
         "url": "https://restofworld.org/2026/gulf-overland-data-cables-europe-war/",
         "timestamp": "2026-03-11T19:38:03.929110",
         "source": "Hacker News"
+    },
+    {
+        "title": "Slicing an 80B MoE LLM into 40B domain specialists",
+        "url": "https://github.com/JThomas-CoE/College-of-Experts-AI/tree/main/CoE-Demo-v1.5",
+        "timestamp": "2026-03-11T19:38:03.929144",
+        "source": "Hacker News"
     }
 ]
