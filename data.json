@@ -16504,5 +16504,11 @@
         "url": "https://nonstructured.com/zen-of-ai-coding/",
         "timestamp": "2026-03-11T08:29:56.527638",
         "source": "Hacker News"
+    },
+    {
+        "title": "Unions merged into .NET 11 SDK Preview 3",
+        "url": "https://github.com/dotnet/roslyn/pull/82640",
+        "timestamp": "2026-03-11T08:29:56.527678",
+        "source": "Hacker News"
     }
 ]
