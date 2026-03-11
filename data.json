@@ -19198,5 +19198,11 @@
         "url": "https://www.phoronix.com/news/OpenSSL-4.0-Alpha-1",
         "timestamp": "2026-03-11T19:38:03.929213",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Free HN Top Stories Scraper – 500 stories with score/comment filters",
+        "url": "https://apify.com/cryptosignals/hn-top-stories",
+        "timestamp": "2026-03-11T19:38:03.929247",
+        "source": "Hacker News"
     }
 ]
