@@ -19264,5 +19264,11 @@
         "url": "https://www.perplexity.ai/personal-computer-waitlist",
         "timestamp": "2026-03-11T20:02:20.505977",
         "source": "Hacker News"
+    },
+    {
+        "title": "CRusTTY: A pedagogical C interpreter with time-travel debugging capabilities",
+        "url": "https://github.com/aicheye/crustty",
+        "timestamp": "2026-03-11T20:02:20.506014",
+        "source": "Hacker News"
     }
 ]
