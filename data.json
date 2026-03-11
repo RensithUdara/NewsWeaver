@@ -15778,5 +15778,11 @@
         "url": "https://apnews.com/article/sewage-overflows-potomac-epa-water-trump-baltimore-be71eea20324a911142e1d0dfe627fa4",
         "timestamp": "2026-03-11T04:01:23.140242",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gemini CLI as an agent harness for Google Workspace CLI (gws)",
+        "url": "https://github.com/kstonekuan/gemini-workspacer",
+        "timestamp": "2026-03-11T04:01:23.140306",
+        "source": "Hacker News"
     }
 ]
