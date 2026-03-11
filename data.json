@@ -17740,5 +17740,11 @@
         "url": "https://lyte2d.com/lyte.html?zip=public%2Flyte-intro.zip",
         "timestamp": "2026-03-11T13:42:33.698732",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why Mathematica does not simplify Sinh[ArcCosh[x]]",
+        "url": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
+        "timestamp": "2026-03-11T13:42:33.698765",
+        "source": "Hacker News"
     }
 ]
