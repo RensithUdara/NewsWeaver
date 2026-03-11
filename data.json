@@ -19870,5 +19870,11 @@
         "url": "https://c100k.eu/p/rebootx",
         "timestamp": "2026-03-11T21:49:07.084297",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: VSCode .env Autocomplete",
+        "url": "https://github.com/Chrilleweb/vscode-dotenv-diff",
+        "timestamp": "2026-03-11T21:49:07.084337",
+        "source": "Hacker News"
     }
 ]
