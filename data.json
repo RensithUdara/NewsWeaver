@@ -16636,5 +16636,11 @@
         "url": "https://www.youtube.com/watch?v=JaLAvoyjwoQ",
         "timestamp": "2026-03-11T08:29:56.528406",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: MD Serve – Serve a directory of Markdown files as rendered HTML",
+        "url": "https://github.com/nikolassv/md-serve",
+        "timestamp": "2026-03-11T08:29:56.528441",
+        "source": "Hacker News"
     }
 ]
