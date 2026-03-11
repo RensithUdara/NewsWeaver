@@ -19654,5 +19654,11 @@
         "url": "https://smallpotatoes.paulbloom.net/p/nobody-finishes-reading-my-books-eca",
         "timestamp": "2026-03-11T21:16:41.498513",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Updated My Embedding Model and My RAG Broke: A Post-Mortem",
+        "url": "https://decompressed.io/learn/rag-observability-postmortem",
+        "timestamp": "2026-03-11T21:16:41.498592",
+        "source": "Hacker News"
     }
 ]
