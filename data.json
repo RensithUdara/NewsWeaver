@@ -18394,5 +18394,11 @@
         "url": "https://github.com/martinambrus/claude_timings_wrapper",
         "timestamp": "2026-03-11T16:09:30.185270",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Rewriting Mongosh in Golang Using Claude",
+        "url": "https://github.com/adaptive-scale/go-mongosh",
+        "timestamp": "2026-03-11T16:09:30.185298",
+        "source": "Hacker News"
     }
 ]
