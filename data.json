@@ -16600,5 +16600,11 @@
         "url": "https://github.com/keminze/volo-data",
         "timestamp": "2026-03-11T08:29:56.528196",
         "source": "Hacker News"
+    },
+    {
+        "title": "Virtualizing an iPhone on Apple Silicon Macs Using Virtualization.framework",
+        "url": "https://github.com/Lakr233/vphone-cli",
+        "timestamp": "2026-03-11T08:29:56.528235",
+        "source": "Hacker News"
     }
 ]
