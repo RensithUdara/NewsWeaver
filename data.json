@@ -17542,5 +17542,11 @@
         "url": "https://github.com/remembra-ai/remembra",
         "timestamp": "2026-03-11T12:26:21.474064",
         "source": "Hacker News"
+    },
+    {
+        "title": "NVSentinel: Nvidia's open-source GPU resilience system for Kubernetes",
+        "url": "https://github.com/NVIDIA/NVSentinel/",
+        "timestamp": "2026-03-11T12:26:21.474123",
+        "source": "Hacker News"
     }
 ]
