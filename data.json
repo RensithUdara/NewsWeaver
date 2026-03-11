@@ -17788,5 +17788,11 @@
         "url": "https://yinka.dev/blog/why-vibe-coding-wont-build-more-successful-products/",
         "timestamp": "2026-03-11T13:42:33.699000",
         "source": "Hacker News"
+    },
+    {
+        "title": "Achieving deterministic 1µs latency in .NET 10 using Native AOT",
+        "url": "https://intelligentaudio.net/nexus",
+        "timestamp": "2026-03-11T13:42:33.699033",
+        "source": "Hacker News"
     }
 ]
