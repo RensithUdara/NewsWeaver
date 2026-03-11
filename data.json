@@ -18958,5 +18958,11 @@
         "url": "https://go.dev/blog/inliner",
         "timestamp": "2026-03-11T18:56:31.386810",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust is slowly but surely eating PostgreSQL: Deep dive into Neon, and more",
+        "url": "https://kerkour.com/rust-eating-postgres",
+        "timestamp": "2026-03-11T18:56:31.386846",
+        "source": "Hacker News"
     }
 ]
