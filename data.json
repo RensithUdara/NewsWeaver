@@ -19318,5 +19318,11 @@
         "url": "https://news.ycombinator.com/item?id=47340433",
         "timestamp": "2026-03-11T20:02:20.752026",
         "source": "Hacker News"
+    },
+    {
+        "title": "SQLi flaw in Elementor Ally plugin impacts 250k+ WordPress sites",
+        "url": "https://www.bleepingcomputer.com/news/security/sqli-flaw-in-elementor-ally-plugin-impacts-250k-plus-wordpress-sites/",
+        "timestamp": "2026-03-11T20:02:20.752061",
+        "source": "Hacker News"
     }
 ]
