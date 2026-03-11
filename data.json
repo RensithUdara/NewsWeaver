@@ -17530,5 +17530,11 @@
         "url": "https://1kb.club/",
         "timestamp": "2026-03-11T12:26:21.473955",
         "source": "Hacker News"
+    },
+    {
+        "title": "WinGet abused to deliver malicious payloads",
+        "url": "https://blog.compass-security.com/2026/03/winget-desired-state-initial-access-established/",
+        "timestamp": "2026-03-11T12:26:21.474027",
+        "source": "Hacker News"
     }
 ]
