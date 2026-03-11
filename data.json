@@ -20308,5 +20308,11 @@
         "url": "https://news.ycombinator.com/item?id=47343328",
         "timestamp": "2026-03-11T22:55:16.989643",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Google Home Camera to KDE Plasma Overlay Live Stream via WebRTC Demo",
+        "url": "https://github.com/hparadiz/camera-notif",
+        "timestamp": "2026-03-11T22:55:16.989676",
+        "source": "Hacker News"
     }
 ]
