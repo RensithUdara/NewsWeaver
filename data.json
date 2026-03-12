@@ -25426,5 +25426,11 @@
         "url": "https://slop-or-not.space",
         "timestamp": "2026-03-12T22:16:10.249760",
         "source": "Hacker News"
+    },
+    {
+        "title": "Verified orchestration and cost tracking for Copilot CLI",
+        "url": "https://github.com/moonrunnerkc/copilot-swarm-orchestrator",
+        "timestamp": "2026-03-12T22:16:10.249796",
+        "source": "Hacker News"
     }
 ]
