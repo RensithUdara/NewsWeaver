@@ -21346,5 +21346,11 @@
         "url": "https://www.wsj.com/tech/ai/ai-isnt-lightening-workloads-its-making-them-more-intense-e417dd2c",
         "timestamp": "2026-03-12T06:30:40.796191",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tracing Discord's Elixir Systems (Without Melting Everything)",
+        "url": "https://discord.com/blog/tracing-discords-elixir-systems-without-melting-everything",
+        "timestamp": "2026-03-12T06:30:40.796226",
+        "source": "Hacker News"
     }
 ]
