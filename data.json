@@ -24226,5 +24226,11 @@
         "url": "https://twitter.com/TW1NKD3STR0YER/status/2031954119208943638",
         "timestamp": "2026-03-12T17:59:49.106677",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: An application stack Claude coded directly in LLVM IR",
+        "url": "https://github.com/dot-matrix-labs/alien-stack",
+        "timestamp": "2026-03-12T17:59:49.106711",
+        "source": "Hacker News"
     }
 ]
