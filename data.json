@@ -24574,5 +24574,11 @@
         "url": "https://www.afterbabel.com/p/30-facts-about-childhood-today-that",
         "timestamp": "2026-03-12T19:42:38.414889",
         "source": "Hacker News"
+    },
+    {
+        "title": "A pure-Rust video codec that compiles to WASM, no FFI",
+        "url": "https://github.com/xhighway999/riv2/tree/main",
+        "timestamp": "2026-03-12T19:42:38.414959",
+        "source": "Hacker News"
     }
 ]
