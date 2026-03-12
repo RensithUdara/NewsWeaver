@@ -24622,5 +24622,11 @@
         "url": "https://medium.com/@ROCKYSHARAF/how-to-install-gemini-cli-on-termux-bypassing-the-native-build-error-ccfa59b80be8",
         "timestamp": "2026-03-12T19:42:38.415193",
         "source": "Hacker News"
+    },
+    {
+        "title": "MSVC's /experimental:constevalVfuncNoVtable is non-conforming",
+        "url": "https://quuxplusone.github.io/blog/2026/03/12/consteval-vfunc-no-vtable/",
+        "timestamp": "2026-03-12T19:42:38.415226",
+        "source": "Hacker News"
     }
 ]
