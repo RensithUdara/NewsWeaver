@@ -25276,5 +25276,11 @@
         "url": "https://polisen.se/aktuellt/nyheter/nationell/2026/mars/tanker-sea-owl-i-boarded-in-the-baltic-sea/",
         "timestamp": "2026-03-12T21:50:16.864390",
         "source": "Hacker News"
+    },
+    {
+        "title": "A 4 byte file can bypass permissions in a GraphQL package used for payments",
+        "url": "https://medium.com/@caplanmaor/prototype-pollution-in-graphql-upload-minimal-cve-2025-65587-a864873a6e1b",
+        "timestamp": "2026-03-12T21:50:16.864424",
+        "source": "Hacker News"
     }
 ]
