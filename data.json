@@ -21442,5 +21442,11 @@
         "url": "https://www.sfgate.com/sf-culture/article/sf-punk-singer-stroke-22063807.php",
         "timestamp": "2026-03-12T07:31:02.061126",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Jurassic Park Unix System Kubernetes Viewer",
+        "url": "https://github.com/jlandersen/k8s-unix-system",
+        "timestamp": "2026-03-12T07:31:02.061163",
+        "source": "Hacker News"
     }
 ]
