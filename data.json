@@ -25732,5 +25732,11 @@
         "url": "https://www.homecastr.com/app",
         "timestamp": "2026-03-12T23:37:55.769853",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bokuchi: A lightweight, cross-platform Markdown editor built with Tauri",
+        "url": "https://bokuchi.com/",
+        "timestamp": "2026-03-12T23:37:55.769886",
+        "source": "Hacker News"
     }
 ]
