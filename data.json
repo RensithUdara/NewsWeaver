@@ -25288,5 +25288,11 @@
         "url": "https://zjpea.substack.com/p/an-llm-will-never-say-thou",
         "timestamp": "2026-03-12T22:16:10.248859",
         "source": "Hacker News"
+    },
+    {
+        "title": "Using varlock to pull secrets from 1Password at runtime",
+        "url": "https://jesse.id/blog/posts/using-varlock-to-pull-secrets-from-1password-at-runtime",
+        "timestamp": "2026-03-12T22:16:10.248909",
+        "source": "Hacker News"
     }
 ]
