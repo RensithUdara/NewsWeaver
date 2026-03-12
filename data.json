@@ -23500,5 +23500,11 @@
         "url": "https://uselantern.dev",
         "timestamp": "2026-03-12T15:05:37.748700",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Mori – Test against production data, without ever touching production",
+        "url": "https://github.com/psrth/mori",
+        "timestamp": "2026-03-12T15:05:37.748735",
+        "source": "Hacker News"
     }
 ]
