@@ -22450,5 +22450,11 @@
         "url": "https://www.nbcnews.com/world/iran/iran-appears-conducted-significant-cyberattack-us-company-first-war-st-rcna263084",
         "timestamp": "2026-03-12T11:03:57.117961",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Detect when an LLM silently changes behavior for the same prompt",
+        "url": "https://github.com/aelitium-dev/aelitium-v3",
+        "timestamp": "2026-03-12T11:03:57.117995",
+        "source": "Hacker News"
     }
 ]
