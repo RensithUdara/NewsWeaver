@@ -24334,5 +24334,11 @@
         "url": "https://developer.nvidia.com/blog/validate-kubernetes-for-gpu-infrastructure-with-layered-reproducible-recipes/",
         "timestamp": "2026-03-12T18:58:49.375087",
         "source": "Hacker News"
+    },
+    {
+        "title": "NM framework on Karpathy's autoresearch factory",
+        "url": "https://nervousmachine.substack.com/p/3000-agents-are-running-experiments",
+        "timestamp": "2026-03-12T18:58:49.375127",
+        "source": "Hacker News"
     }
 ]
