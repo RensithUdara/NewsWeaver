@@ -21748,5 +21748,11 @@
         "url": "https://news.ycombinator.com/item?id=47347625",
         "timestamp": "2026-03-12T08:04:23.198405",
         "source": "Hacker News"
+    },
+    {
+        "title": "Behold The Power of std::meta::substitute",
+        "url": "https://brevzin.github.io/c++/2026/03/02/power-of-substitute/",
+        "timestamp": "2026-03-12T08:04:23.198455",
+        "source": "Hacker News"
     }
 ]
