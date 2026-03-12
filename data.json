@@ -20818,5 +20818,11 @@
         "url": "https://news.ycombinator.com/item?id=47345280",
         "timestamp": "2026-03-12T02:22:08.394356",
         "source": "Hacker News"
+    },
+    {
+        "title": "10 Years Later, I Reverse-Engineered iCloud's SyncToken by Brute Force",
+        "url": "https://robhooper.xyz/blog-synctoken.html",
+        "timestamp": "2026-03-12T02:22:08.394390",
+        "source": "Hacker News"
     }
 ]
