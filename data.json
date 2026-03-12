@@ -22768,5 +22768,11 @@
         "url": "https://elevators.ltd",
         "timestamp": "2026-03-12T11:42:22.905435",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: SpotVortex helps SRE teams push more Kubernetes capacity onto Spot",
+        "url": "https://github.com/softcane/spot-vortex-agent",
+        "timestamp": "2026-03-12T11:42:22.905469",
+        "source": "Hacker News"
     }
 ]
