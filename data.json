@@ -24364,5 +24364,11 @@
         "url": "https://news.ycombinator.com/item?id=47355313",
         "timestamp": "2026-03-12T18:58:49.375312",
         "source": "Hacker News"
+    },
+    {
+        "title": "A small CLI for stopping Git worktrees from fighting over ports",
+        "url": "https://github.com/johndockery/portlock",
+        "timestamp": "2026-03-12T18:58:49.375349",
+        "source": "Hacker News"
     }
 ]
