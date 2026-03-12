@@ -24640,5 +24640,11 @@
         "url": "https://ghuntley.com/frontier/",
         "timestamp": "2026-03-12T19:42:38.415293",
         "source": "Hacker News"
+    },
+    {
+        "title": "2M DNS domains compressed into 253 bytes – with proof of correctness",
+        "url": "https://proofcodec.github.io/proofcodec-verify/",
+        "timestamp": "2026-03-12T19:42:38.415361",
+        "source": "Hacker News"
     }
 ]
