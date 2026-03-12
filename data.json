@@ -24976,5 +24976,11 @@
         "url": "https://archerzhang.me/forcing-flash-attention-onto-a-tpu",
         "timestamp": "2026-03-12T21:18:59.727656",
         "source": "Hacker News"
+    },
+    {
+        "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
+        "url": "https://aminrj.com/posts/rag-document-poisoning/",
+        "timestamp": "2026-03-12T21:18:59.727885",
+        "source": "Hacker News"
     }
 ]
