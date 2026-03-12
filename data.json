@@ -25294,5 +25294,11 @@
         "url": "https://jesse.id/blog/posts/using-varlock-to-pull-secrets-from-1password-at-runtime",
         "timestamp": "2026-03-12T22:16:10.248909",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: NeuralForge – Fine-Tune LLMs on Your Mac Using Apple Neural Engine",
+        "url": "https://github.com/Khaeldur/NeuralForge",
+        "timestamp": "2026-03-12T22:16:10.248947",
+        "source": "Hacker News"
     }
 ]
