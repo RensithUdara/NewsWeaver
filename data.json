@@ -24970,5 +24970,11 @@
         "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
         "timestamp": "2026-03-12T21:18:59.727231",
         "source": "Hacker News"
+    },
+    {
+        "title": "Forcing Flash Attention onto a TPU and Learning the Hard Way",
+        "url": "https://archerzhang.me/forcing-flash-attention-onto-a-tpu",
+        "timestamp": "2026-03-12T21:18:59.727656",
+        "source": "Hacker News"
     }
 ]
