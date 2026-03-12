@@ -23920,5 +23920,11 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams",
         "timestamp": "2026-03-12T17:09:14.035918",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Verge Browser a self-hosted isolated browser sandbox for AI agents",
+        "url": "https://github.com/zzzgydi/verge-browser",
+        "timestamp": "2026-03-12T17:09:14.035951",
+        "source": "Hacker News"
     }
 ]
