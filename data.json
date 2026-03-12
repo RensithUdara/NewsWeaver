@@ -24376,5 +24376,11 @@
         "url": "https://svelte.dev/docs/svelte/best-practices",
         "timestamp": "2026-03-12T18:58:49.375384",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lowdown can translate Markdown to an mdoc manpage",
+        "url": "https://kristaps.bsd.lv/lowdown/mdoc.html",
+        "timestamp": "2026-03-12T18:58:49.375418",
+        "source": "Hacker News"
     }
 ]
