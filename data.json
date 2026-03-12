@@ -25792,5 +25792,11 @@
         "url": "https://datascienceweekly.substack.com/p/data-science-weekly-issue-642",
         "timestamp": "2026-03-12T23:37:55.770208",
         "source": "Hacker News"
+    },
+    {
+        "title": "Catching silent data loss using BigQuery's native ML and Write API",
+        "url": "https://robertsahlin.substack.com/p/your-pipeline-succeeded-your-data",
+        "timestamp": "2026-03-12T23:37:55.770240",
+        "source": "Hacker News"
     }
 ]
