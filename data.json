@@ -24304,5 +24304,11 @@
         "url": "https://status.mongodb.com/incidents/7g5qmxgkc2y4",
         "timestamp": "2026-03-12T18:58:49.374837",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Scan your dev machine for AI agents, MCP servers, and IDE extensions",
+        "url": "https://github.com/step-security/dev-machine-guard",
+        "timestamp": "2026-03-12T18:58:49.374885",
+        "source": "Hacker News"
     }
 ]
