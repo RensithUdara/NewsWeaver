@@ -23446,5 +23446,11 @@
         "url": "https://projects.kwon.nyc/internet-is-fun/",
         "timestamp": "2026-03-12T15:05:37.748332",
         "source": "Hacker News"
+    },
+    {
+        "title": "Anchor Engine – deterministic semantic memory for LLMs, <1GB RAM runs on a phone",
+        "url": "https://github.com/RSBalchII/anchor-engine-node",
+        "timestamp": "2026-03-12T15:05:37.748401",
+        "source": "Hacker News"
     }
 ]
