@@ -23104,5 +23104,11 @@
         "url": "https://thecloudlet.github.io/blog/project/emacs-03/",
         "timestamp": "2026-03-12T14:08:54.529079",
         "source": "Hacker News"
+    },
+    {
+        "title": "Declarative system management for any Linux machine using Nix",
+        "url": "https://system-manager.net/main/tutorials/getting-started/",
+        "timestamp": "2026-03-12T14:08:54.623728",
+        "source": "Hacker News"
     }
 ]
