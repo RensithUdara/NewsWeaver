@@ -23326,5 +23326,11 @@
         "url": "https://github.com/jrswab/axe",
         "timestamp": "2026-03-12T15:05:37.632455",
         "source": "Hacker News"
+    },
+    {
+        "title": "The purpose of Continuous Integration is to fail",
+        "url": "https://blog.nix-ci.com/post/2026-02-05_the-purpose-of-ci-is-to-fail",
+        "timestamp": "2026-03-12T15:05:37.632492",
+        "source": "Hacker News"
     }
 ]
