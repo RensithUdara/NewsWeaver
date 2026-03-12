@@ -22270,5 +22270,11 @@
         "url": "https://www.tasquery.com/",
         "timestamp": "2026-03-12T10:23:37.292657",
         "source": "Hacker News"
+    },
+    {
+        "title": "Blog, research and code without a LM or with A LM using Safeclaw",
+        "url": "https://github.com/princezuda/safeclaw",
+        "timestamp": "2026-03-12T10:23:37.292687",
+        "source": "Hacker News"
     }
 ]
