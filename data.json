@@ -24766,5 +24766,11 @@
         "url": "https://www.producthunt.com/products/revfirma",
         "timestamp": "2026-03-12T20:04:00.532615",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Bringing Chrome to ARM64 Linux Devices",
+        "url": "https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html",
+        "timestamp": "2026-03-12T20:49:35.204122",
+        "source": "Hacker News"
     }
 ]
