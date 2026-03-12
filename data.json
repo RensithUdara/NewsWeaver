@@ -25150,5 +25150,11 @@
         "url": "https://news.ycombinator.com/item?id=47357607",
         "timestamp": "2026-03-12T21:50:16.863581",
         "source": "Hacker News"
+    },
+    {
+        "title": "CrackArmor: Multiple Vulnerabilities in AppArmor",
+        "url": "https://cdn2.qualys.com/advisory/2026/03/10/crack-armor.txt",
+        "timestamp": "2026-03-12T21:50:16.863653",
+        "source": "Hacker News"
     }
 ]
