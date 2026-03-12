@@ -24526,5 +24526,11 @@
         "url": "https://github.com/TheUncharted/zapcode",
         "timestamp": "2026-03-12T19:42:38.414597",
         "source": "Hacker News"
+    },
+    {
+        "title": "Generator SFT and DPO datasets for tool-calling LoRA fine-tuning (no LLM needed)",
+        "url": "https://nothumanallowed.com/datasets",
+        "timestamp": "2026-03-12T19:42:38.414630",
+        "source": "Hacker News"
     }
 ]
