@@ -22372,5 +22372,11 @@
         "url": "https://openrouter.ai/openrouter/hunter-alpha",
         "timestamp": "2026-03-12T10:23:37.293215",
         "source": "Hacker News"
+    },
+    {
+        "title": "Byol – Bring Your Own LLM (Into an SSH Session with OpenCode)",
+        "url": "https://github.com/ivoras/byol",
+        "timestamp": "2026-03-12T10:23:37.293244",
+        "source": "Hacker News"
     }
 ]
