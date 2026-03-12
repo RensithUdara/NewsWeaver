@@ -22822,5 +22822,11 @@
         "url": "https://techcrunch.com/2026/03/12/when-startups-become-a-family-business/",
         "timestamp": "2026-03-12T11:42:23.342075",
         "source": "TechCrunch"
+    },
+    {
+        "title": "BIP-39 Passphrase is a \"Recovery Black Hole\" waiting to happen",
+        "url": "https://frozensecurity.com/blog/the-hidden-risks-of-using-a-bip-39-passphrase/",
+        "timestamp": "2026-03-12T12:00:04.446553",
+        "source": "Hacker News"
     }
 ]
