@@ -25690,5 +25690,11 @@
         "url": "https://news.ycombinator.com/item?id=47358750",
         "timestamp": "2026-03-12T23:37:55.769611",
         "source": "Hacker News"
+    },
+    {
+        "title": "Feedback on a local-first MCP memory system for AI assistants?",
+        "url": "https://github.com/ptobey/local-memory-mcp",
+        "timestamp": "2026-03-12T23:37:55.769649",
+        "source": "Hacker News"
     }
 ]
