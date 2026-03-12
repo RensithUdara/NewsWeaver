@@ -25030,5 +25030,11 @@
         "url": "https://tastefinder.io/",
         "timestamp": "2026-03-12T21:18:59.894430",
         "source": "Hacker News"
+    },
+    {
+        "title": "Killing the Serialization Tax: 1M Entity Ingestion in 11.8µs with C#",
+        "url": "https://intelligentaudio.net/nexus-pulse",
+        "timestamp": "2026-03-12T21:18:59.894471",
+        "source": "Hacker News"
     }
 ]
