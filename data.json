@@ -21394,5 +21394,11 @@
         "url": "https://lcamtuf.coredump.cx/blog/hn-ai/",
         "timestamp": "2026-03-12T06:30:40.796465",
         "source": "Hacker News"
+    },
+    {
+        "title": "ReqIf OPA SARIF – CI/CD semantically evaluated policy gates",
+        "url": "https://github.com/PromptExecution/reqif-opa-mcp",
+        "timestamp": "2026-03-12T06:30:40.796500",
+        "source": "Hacker News"
     }
 ]
