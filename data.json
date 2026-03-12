@@ -24328,5 +24328,11 @@
         "url": "https://ionrouter.io",
         "timestamp": "2026-03-12T18:58:49.375034",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI Cluster Runtime: Reproducible Configs for GPU-Accelerated Kubernetes Clusters",
+        "url": "https://developer.nvidia.com/blog/validate-kubernetes-for-gpu-infrastructure-with-layered-reproducible-recipes/",
+        "timestamp": "2026-03-12T18:58:49.375087",
+        "source": "Hacker News"
     }
 ]
