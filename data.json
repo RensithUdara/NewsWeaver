@@ -25828,5 +25828,11 @@
         "url": "https://www.oreilly.com/radar/steve-yegge-wants-you-to-stop-looking-at-your-code/",
         "timestamp": "2026-03-12T23:37:55.770422",
         "source": "Hacker News"
+    },
+    {
+        "title": "Anthropic and OpenAI just exposed SAST's structural blind spot with free tools",
+        "url": "https://venturebeat.com/security/anthropic-openai-sast-reasoning-scanners-security-directors-guide",
+        "timestamp": "2026-03-12T23:37:55.770461",
+        "source": "Hacker News"
     }
 ]
