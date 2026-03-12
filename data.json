@@ -23896,5 +23896,11 @@
         "url": "https://mydbanotebook.org/posts/work_mem-its-a-trap/",
         "timestamp": "2026-03-12T17:09:14.035781",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Fixing Agent / LLM Context Decay in VS Code with Git Worktrees",
+        "url": "https://www.appsoftware.com/blog/fixing-agent-llm-context-decay-in-vs-code-with-git-worktrees",
+        "timestamp": "2026-03-12T17:09:14.035816",
+        "source": "Hacker News"
     }
 ]
