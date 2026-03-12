@@ -23098,5 +23098,11 @@
         "url": "https://www.arcanoae.com/arcaos-5-1-2-now-available/",
         "timestamp": "2026-03-12T14:08:54.528973",
         "source": "Hacker News"
+    },
+    {
+        "title": "Emacs internals: Tagged pointers vs. C++ std:variant and LLVM (Part 3)",
+        "url": "https://thecloudlet.github.io/blog/project/emacs-03/",
+        "timestamp": "2026-03-12T14:08:54.529079",
+        "source": "Hacker News"
     }
 ]
