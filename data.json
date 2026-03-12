@@ -22084,5 +22084,11 @@
         "url": "https://super.myninja.ai/apps/6de082c7-a05f-4fc5-a7d3-ab56ccb48631",
         "timestamp": "2026-03-12T09:40:03.825974",
         "source": "Hacker News"
+    },
+    {
+        "title": "Seed – AI-growable firmware over HTTP API, single C file, tested on a PDP-11",
+        "url": "https://github.com/Awis13/seed",
+        "timestamp": "2026-03-12T09:40:03.826003",
+        "source": "Hacker News"
     }
 ]
