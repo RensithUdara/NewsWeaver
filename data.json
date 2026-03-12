@@ -23194,5 +23194,11 @@
         "url": "https://glad-ia-tor.com/",
         "timestamp": "2026-03-12T14:08:54.624288",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nagle's Algorithm",
+        "url": "https://en.wikipedia.org/wiki/Nagle%27s_algorithm",
+        "timestamp": "2026-03-12T14:08:54.624323",
+        "source": "Hacker News"
     }
 ]
