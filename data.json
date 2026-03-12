@@ -22126,5 +22126,11 @@
         "url": "https://clickhouse.com/blog/chdb.4-0-pandas-hex",
         "timestamp": "2026-03-12T09:40:03.826223",
         "source": "Hacker News"
+    },
+    {
+        "title": "Avoiding Trigonometry (2013)",
+        "url": "https://iquilezles.org/articles/noacos/",
+        "timestamp": "2026-03-12T09:40:03.826263",
+        "source": "Hacker News"
     }
 ]
