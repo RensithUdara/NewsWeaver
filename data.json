@@ -22774,5 +22774,11 @@
         "url": "https://github.com/softcane/spot-vortex-agent",
         "timestamp": "2026-03-12T11:42:22.905469",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cutile.jl Brings Nvidia CUDA Tile-Based Programming to Julia",
+        "url": "https://developer.nvidia.com/blog/cutile-jl-brings-nvidia-cuda-tile-based-programming-to-julia/",
+        "timestamp": "2026-03-12T11:42:22.905503",
+        "source": "Hacker News"
     }
 ]
