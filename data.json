@@ -23818,5 +23818,11 @@
         "url": "https://www.runconverge.com/careers/founding-platform-engineer",
         "timestamp": "2026-03-12T17:09:13.726300",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Cost of Indirection in Rust",
+        "url": "https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/",
+        "timestamp": "2026-03-12T17:09:13.726410",
+        "source": "Hacker News"
     }
 ]
