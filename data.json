@@ -24520,5 +24520,11 @@
         "url": "https://www.superblocks.com/blog/a-single-dev-workspace-for-ai-agents",
         "timestamp": "2026-03-12T19:42:38.414528",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zapcode: A TypeScript interpreter in Rust for AI agents (2µs start, sandbox)",
+        "url": "https://github.com/TheUncharted/zapcode",
+        "timestamp": "2026-03-12T19:42:38.414597",
+        "source": "Hacker News"
     }
 ]
