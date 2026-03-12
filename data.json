@@ -24046,5 +24046,11 @@
         "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
         "timestamp": "2026-03-12T17:59:48.802920",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scrt: A CLI secret manager for developers, sysadmins and DevOps",
+        "url": "https://github.com/loderunner/scrt",
+        "timestamp": "2026-03-12T17:59:48.803230",
+        "source": "Hacker News"
     }
 ]
