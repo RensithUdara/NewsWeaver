@@ -21490,5 +21490,11 @@
         "url": "https://robreid.substack.com/p/the-deep-lunacy-that-was-almost-deep",
         "timestamp": "2026-03-12T07:31:02.061417",
         "source": "Hacker News"
+    },
+    {
+        "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
+        "url": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
+        "timestamp": "2026-03-12T07:31:02.061453",
+        "source": "Hacker News"
     }
 ]
