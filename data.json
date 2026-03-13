@@ -28318,5 +28318,11 @@
         "url": "https://github.com/daisuke8000/coral",
         "timestamp": "2026-03-13T14:56:09.301630",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Built Google File System in Go: One File, Zero Dependencies",
+        "url": "https://jitesh117.github.io/blog/google-file-system-in-go/",
+        "timestamp": "2026-03-13T14:56:09.301691",
+        "source": "Hacker News"
     }
 ]
