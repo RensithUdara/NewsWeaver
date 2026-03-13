@@ -28126,5 +28126,11 @@
         "url": "https://news.ycombinator.com/item?id=47364395",
         "timestamp": "2026-03-13T14:01:20.630082",
         "source": "Hacker News"
+    },
+    {
+        "title": "Guzzle – The GUI LibFuzzer Wizard",
+        "url": "https://github.com/jabberwock/guzzle",
+        "timestamp": "2026-03-13T14:01:20.630116",
+        "source": "Hacker News"
     }
 ]
