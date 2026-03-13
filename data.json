@@ -30394,5 +30394,11 @@
         "url": "https://clickhouse.com/blog/metrics-layer-with-fiveonefour",
         "timestamp": "2026-03-13T21:33:30.346010",
         "source": "Hacker News"
+    },
+    {
+        "title": "`mcpx` – MCP in a CLI",
+        "url": "https://github.com/evantahler/mcpx",
+        "timestamp": "2026-03-13T21:33:30.346039",
+        "source": "Hacker News"
     }
 ]
