@@ -28186,5 +28186,11 @@
         "url": "https://csa-scientist-open-letter.org/ageverif-Feb2026",
         "timestamp": "2026-03-13T14:01:20.630536",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Oxyde – Pydantic-native async ORM with a Rust core",
+        "url": "https://github.com/mr-fatalyst/oxyde",
+        "timestamp": "2026-03-13T14:01:20.630572",
+        "source": "Hacker News"
     }
 ]
