@@ -30040,5 +30040,11 @@
         "url": "https://support.claude.com/en/articles/13641943-visual-and-interactive-content",
         "timestamp": "2026-03-13T20:23:15.083005",
         "source": "Hacker News"
+    },
+    {
+        "title": "Accidental complexity, essential complexity, and Kubernetes (2022)",
+        "url": "https://jamsocket.com/blog/complexity-kubernetes",
+        "timestamp": "2026-03-13T20:23:15.083038",
+        "source": "Hacker News"
     }
 ]
