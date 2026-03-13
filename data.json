@@ -30328,5 +30328,11 @@
         "url": "https://github.com/pugjs/pug/releases",
         "timestamp": "2026-03-13T21:33:30.345685",
         "source": "Hacker News"
+    },
+    {
+        "title": "AutoHarness: Improving LLM agents by automatically synthesizing a code harness",
+        "url": "https://arxiv.org/abs/2603.03329",
+        "timestamp": "2026-03-13T21:33:30.345712",
+        "source": "Hacker News"
     }
 ]
