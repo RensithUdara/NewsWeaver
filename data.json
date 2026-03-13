@@ -30454,5 +30454,11 @@
         "url": "https://www.plough.com/en/topics/life/beauty/the-moral-beauty-of-middlemarch",
         "timestamp": "2026-03-13T21:58:58.648993",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open-source LLM-as-judge eval suite with root cause analysis and failure mining",
+        "url": "https://github.com/colingfly/cane-eval",
+        "timestamp": "2026-03-13T21:58:58.649042",
+        "source": "Hacker News"
     }
 ]
