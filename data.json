@@ -27274,5 +27274,11 @@
         "url": "https://blog.rezvov.com/rust-and-llms-the-compiler-does-what-code-review-shouldnt-have-to",
         "timestamp": "2026-03-13T09:53:28.856439",
         "source": "Hacker News"
+    },
+    {
+        "title": "SBOM Adoption on PyPI Is at 1.58%. We Can Do Better",
+        "url": "https://sbomify.com/2026/03/12/pypi-sbom-analysis/",
+        "timestamp": "2026-03-13T09:53:28.856473",
+        "source": "Hacker News"
     }
 ]
