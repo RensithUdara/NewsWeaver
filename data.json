@@ -28078,5 +28078,11 @@
         "url": "https://www.figlet.org/",
         "timestamp": "2026-03-13T14:01:20.629706",
         "source": "Hacker News"
+    },
+    {
+        "title": "Disallow usage of generative AI to write code",
+        "url": "https://github.com/systemd/systemd/issues/41085",
+        "timestamp": "2026-03-13T14:01:20.629742",
+        "source": "Hacker News"
     }
 ]
