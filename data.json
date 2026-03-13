@@ -26140,5 +26140,11 @@
         "url": "https://9to5google.com/2026/03/12/google-maps-immersive-navigation/",
         "timestamp": "2026-03-13T03:37:48.096651",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agent harness for building analytics into your app on top of ClickHouse",
+        "url": "https://github.com/514-labs/moosestack",
+        "timestamp": "2026-03-13T03:37:48.096758",
+        "source": "Hacker News"
     }
 ]
