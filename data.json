@@ -27496,5 +27496,11 @@
         "url": "https://github.com/TareqRafed/fork",
         "timestamp": "2026-03-13T11:03:12.392287",
         "source": "Hacker News"
+    },
+    {
+        "title": "I mass-replaced FFmpeg's MJPEG decoder with Claude Code – 4K LOC, 8% the speed",
+        "url": "https://github.com/0xD8C4A475/liberated-mjpeg",
+        "timestamp": "2026-03-13T11:03:12.392322",
+        "source": "Hacker News"
     }
 ]
