@@ -30016,5 +30016,11 @@
         "url": "https://harpers.org/archive/1941/08/who-goes-nazi/",
         "timestamp": "2026-03-13T20:23:15.082874",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reverse-engineering Claude's generative UI – then building it for the terminal",
+        "url": "https://michaellivs.com/blog/reverse-engineering-claude-generative-ui/",
+        "timestamp": "2026-03-13T20:23:15.082906",
+        "source": "Hacker News"
     }
 ]
