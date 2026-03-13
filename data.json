@@ -27940,5 +27940,11 @@
         "url": "https://news.ycombinator.com/item?id=47363740",
         "timestamp": "2026-03-13T12:59:33.310049",
         "source": "Hacker News"
+    },
+    {
+        "title": "A self-contained parser for SQLite statements",
+        "url": "https://marcobambini.substack.com/p/liteparser-a-fast-embeddable-sqlite",
+        "timestamp": "2026-03-13T12:59:33.310118",
+        "source": "Hacker News"
     }
 ]
