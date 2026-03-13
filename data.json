@@ -26170,5 +26170,11 @@
         "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/",
         "timestamp": "2026-03-13T03:37:48.096899",
         "source": "Hacker News"
+    },
+    {
+        "title": "Document retrieval that navigates structure instead of chunking",
+        "url": "https://github.com/theeufj/RNSR",
+        "timestamp": "2026-03-13T03:37:48.096934",
+        "source": "Hacker News"
     }
 ]
