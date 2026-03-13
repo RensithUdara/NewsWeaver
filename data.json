@@ -26788,5 +26788,11 @@
         "url": "https://news.ycombinator.com/item?id=47361482",
         "timestamp": "2026-03-13T07:43:59.662098",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLMs: Using a single Unix-style tool instead of multiple tools/function calling",
+        "url": "https://old.reddit.com/r/LocalLLaMA/comments/1rrisqn/i_was_backend_lead_at_manus_after_building_agents/",
+        "timestamp": "2026-03-13T07:43:59.662141",
+        "source": "Hacker News"
     }
 ]
