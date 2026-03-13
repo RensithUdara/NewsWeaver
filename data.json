@@ -27388,5 +27388,11 @@
         "url": "https://reutersinstitute.politics.ox.ac.uk/news/advertising-was-always-going-come-ai-chatbots-real-question-how",
         "timestamp": "2026-03-13T10:26:29.761322",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I forked Python's Requests to add HTTP/3, async, and multiplexing",
+        "url": "https://github.com/jawah/niquests/tree/v3.18.2",
+        "timestamp": "2026-03-13T10:26:29.761355",
+        "source": "Hacker News"
     }
 ]
