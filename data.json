@@ -27364,5 +27364,11 @@
         "url": "https://news.ycombinator.com/item?id=47362497",
         "timestamp": "2026-03-13T10:26:29.761179",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: fftool – A Terminal UI for FFmpeg – Shows Command Before It Runs",
+        "url": "https://bensantora.com/posts/fftool-ffmpeg-tui-go/",
+        "timestamp": "2026-03-13T10:26:29.761220",
+        "source": "Hacker News"
     }
 ]
