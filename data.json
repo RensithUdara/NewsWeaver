@@ -29050,5 +29050,11 @@
         "url": "https://www.wsj.com/tech/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-d68bce3a",
         "timestamp": "2026-03-13T17:27:21.610312",
         "source": "Hacker News"
+    },
+    {
+        "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+        "url": "https://claude.com/blog/1m-context-ga",
+        "timestamp": "2026-03-13T17:27:21.610414",
+        "source": "Hacker News"
     }
 ]
