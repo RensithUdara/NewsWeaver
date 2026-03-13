@@ -27592,5 +27592,11 @@
         "url": "https://news.ycombinator.com/item?id=47363065",
         "timestamp": "2026-03-13T11:39:48.196905",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Bonsai – A tiny sandboxed expression engine for TypeScript",
+        "url": "https://danfry1.github.io/bonsai-js/",
+        "timestamp": "2026-03-13T11:39:48.196983",
+        "source": "Hacker News"
     }
 ]
