@@ -30766,5 +30766,11 @@
         "url": "https://longreads.com/2026/03/12/into-the-darkness/",
         "timestamp": "2026-03-13T22:28:58.446858",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
+        "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+        "timestamp": "2026-03-13T22:52:56.542191",
+        "source": "Hacker News"
     }
 ]
