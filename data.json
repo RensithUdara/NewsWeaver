@@ -27598,5 +27598,11 @@
         "url": "https://danfry1.github.io/bonsai-js/",
         "timestamp": "2026-03-13T11:39:48.196983",
         "source": "Hacker News"
+    },
+    {
+        "title": "Evolving our real-time timeseries storage again: Built in Rust (2025)",
+        "url": "https://www.datadoghq.com/blog/engineering/rust-timeseries-engine/",
+        "timestamp": "2026-03-13T11:39:48.197020",
+        "source": "Hacker News"
     }
 ]
