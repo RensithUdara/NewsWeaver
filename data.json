@@ -26668,5 +26668,11 @@
         "url": "https://gixo.ai/gixo-briefs",
         "timestamp": "2026-03-13T06:58:20.231899",
         "source": "Hacker News"
+    },
+    {
+        "title": "Chrome extension adjusts video speed based on how fast the speaker is talking",
+        "url": "https://github.com/ywong137/speech-speed",
+        "timestamp": "2026-03-13T06:58:20.231927",
+        "source": "Hacker News"
     }
 ]
