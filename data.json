@@ -29356,5 +29356,11 @@
         "url": "https://medhir.com/blog/your-phone-is-an-entire-computer",
         "timestamp": "2026-03-13T18:42:02.466020",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
+        "url": "https://github.com/Compresr-ai/Context-Gateway",
+        "timestamp": "2026-03-13T18:42:02.466160",
+        "source": "Hacker News"
     }
 ]
