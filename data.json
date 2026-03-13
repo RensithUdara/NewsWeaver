@@ -28780,5 +28780,11 @@
         "url": "https://stardate.fun",
         "timestamp": "2026-03-13T16:06:01.243425",
         "source": "Hacker News"
+    },
+    {
+        "title": "OVH forgot they donated documentation hosting to Pandas",
+        "url": "https://github.com/pandas-dev/pandas/issues/64584",
+        "timestamp": "2026-03-13T16:54:38.046077",
+        "source": "Hacker News"
     }
 ]
