@@ -27520,5 +27520,11 @@
         "url": "https://www.bbc.co.uk/news/articles/clyg4wx6nxgo",
         "timestamp": "2026-03-13T11:03:12.392431",
         "source": "Hacker News"
+    },
+    {
+        "title": "9B parameter coding agent model fine-tuned on top of Qwen3.5-9B",
+        "url": "https://huggingface.co/Tesslate/OmniCoder-9B",
+        "timestamp": "2026-03-13T11:03:12.392466",
+        "source": "Hacker News"
     }
 ]
