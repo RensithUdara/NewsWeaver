@@ -28372,5 +28372,11 @@
         "url": "https://github.com/evgenii-engineer/openLight",
         "timestamp": "2026-03-13T14:56:09.302250",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Cloudflare Worker that generates dynamic SVG bar charts of your traffic",
+        "url": "https://github.com/sd416/cloudflare-worker-stats",
+        "timestamp": "2026-03-13T14:56:09.302322",
+        "source": "Hacker News"
     }
 ]
