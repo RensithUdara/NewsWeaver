@@ -29386,5 +29386,11 @@
         "url": "https://rsnodgrass.substack.com/p/your-cli-has-a-new-super-user",
         "timestamp": "2026-03-13T18:42:02.650206",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: AgentLog – a lightweight event bus for AI agents using JSONL logs",
+        "url": "https://github.com/sumant1122/agentlog",
+        "timestamp": "2026-03-13T18:42:02.650245",
+        "source": "Hacker News"
     }
 ]
