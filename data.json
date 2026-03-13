@@ -26584,5 +26584,11 @@
         "url": "https://geofilterx.com/",
         "timestamp": "2026-03-13T06:58:20.231498",
         "source": "Hacker News"
+    },
+    {
+        "title": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
+        "url": "https://simonwillison.net/2026/Mar/13/liquid/",
+        "timestamp": "2026-03-13T06:58:20.231527",
+        "source": "Hacker News"
     }
 ]
