@@ -30172,5 +30172,11 @@
         "url": "https://news.ycombinator.com/item?id=47369531",
         "timestamp": "2026-03-13T20:58:39.149042",
         "source": "Hacker News"
+    },
+    {
+        "title": "Opus now defaults to 1M context (GA)",
+        "url": "https://claude.com/fr-fr/blog/1m-context-ga",
+        "timestamp": "2026-03-13T20:58:39.149076",
+        "source": "Hacker News"
     }
 ]
