@@ -29494,5 +29494,11 @@
         "url": "https://joostboer.com/google-quality-of-life",
         "timestamp": "2026-03-13T18:42:02.650936",
         "source": "Hacker News"
+    },
+    {
+        "title": "Troubleshooting Kubectl \"No Route to Host\" on a Mac",
+        "url": "https://lizhaoliu.github.io/posts/troubleshooting-kubectl-local-network.html",
+        "timestamp": "2026-03-13T18:42:02.650969",
+        "source": "Hacker News"
     }
 ]
