@@ -26026,5 +26026,11 @@
         "url": "https://blog.staysaasy.com/p/management-in-the-age-of-ai",
         "timestamp": "2026-03-13T01:20:01.519464",
         "source": "Hacker News"
+    },
+    {
+        "title": "To Sparsify or to Quantize: A Hardware Architecture View",
+        "url": "https://www.sigarch.org/to-sparsify-or-to-quantize-a-hardware-architecture-view/",
+        "timestamp": "2026-03-13T01:20:01.519551",
+        "source": "Hacker News"
     }
 ]
