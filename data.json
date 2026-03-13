@@ -28978,5 +28978,11 @@
         "url": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
         "timestamp": "2026-03-13T17:27:21.275139",
         "source": "Hacker News"
+    },
+    {
+        "title": "Removing recursion via explicit callstack simulation",
+        "url": "https://jnkr.tech/blog/removing-recursion",
+        "timestamp": "2026-03-13T17:27:21.275431",
+        "source": "Hacker News"
     }
 ]
