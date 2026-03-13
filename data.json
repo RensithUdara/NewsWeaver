@@ -29632,5 +29632,11 @@
         "url": "https://aws.amazon.com/blogs/aws/introducing-account-regional-namespaces-for-amazon-s3-general-purpose-buckets/",
         "timestamp": "2026-03-13T19:21:39.089167",
         "source": "Hacker News"
+    },
+    {
+        "title": "How we built a prompt optimization agent",
+        "url": "https://www.extend.ai/resources/how-we-built-composer",
+        "timestamp": "2026-03-13T19:21:39.089200",
+        "source": "Hacker News"
     }
 ]
