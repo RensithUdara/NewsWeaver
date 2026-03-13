@@ -30346,5 +30346,11 @@
         "url": "https://bsky.app/profile/niedermeyer.online/post/3mgxbqti3yc22",
         "timestamp": "2026-03-13T21:33:30.345769",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A single CLI to manage llama.cpp/vLLM/Ollama models",
+        "url": "https://github.com/av/harbor/releases/tag/v0.4.4",
+        "timestamp": "2026-03-13T21:33:30.345797",
+        "source": "Hacker News"
     }
 ]
