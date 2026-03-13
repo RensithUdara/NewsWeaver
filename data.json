@@ -27244,5 +27244,11 @@
         "url": "https://engineering.taktile.com/blog/five-layers-from-writing-code-to-writing-companies/",
         "timestamp": "2026-03-13T09:53:28.856247",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hackable single-file console file manager powered by uv with S3/GCS support",
+        "url": "https://github.com/begoon/xc",
+        "timestamp": "2026-03-13T09:53:28.856281",
+        "source": "Hacker News"
     }
 ]
