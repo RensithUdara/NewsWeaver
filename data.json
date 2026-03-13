@@ -30472,5 +30472,11 @@
         "url": "https://arxiv.org/abs/2602.00803",
         "timestamp": "2026-03-13T21:58:58.649119",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Plotting mathematical functions in Ruby inside Jupyter with Ruby-libgd",
+        "url": "https://github.com/ggerman/ruby-libgd/tree/main/examples/jupyter-notebooks",
+        "timestamp": "2026-03-13T21:58:58.649155",
+        "source": "Hacker News"
     }
 ]
