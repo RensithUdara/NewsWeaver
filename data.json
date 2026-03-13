@@ -30730,5 +30730,11 @@
         "url": "https://www.nytimes.com/2026/03/13/us/politics/wall-street-access-pentagon.html",
         "timestamp": "2026-03-13T22:28:58.446672",
         "source": "Hacker News"
+    },
+    {
+        "title": "An Agent Skill that lets coding agents render rich interactive visuals",
+        "url": "https://github.com/bentossell/visualise",
+        "timestamp": "2026-03-13T22:28:58.446701",
+        "source": "Hacker News"
     }
 ]
