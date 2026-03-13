@@ -27196,5 +27196,11 @@
         "url": "https://www.theregister.com/2026/03/13/palantirs_maven_smart_system_iran/",
         "timestamp": "2026-03-13T09:53:28.855867",
         "source": "Hacker News"
+    },
+    {
+        "title": "Major Outage in Datadog Web Application",
+        "url": "https://status.datadoghq.com",
+        "timestamp": "2026-03-13T09:53:28.855902",
+        "source": "Hacker News"
     }
 ]
