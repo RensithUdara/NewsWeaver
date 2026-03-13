@@ -27508,5 +27508,11 @@
         "url": "https://news.ycombinator.com/item?id=47362697",
         "timestamp": "2026-03-13T11:03:12.392357",
         "source": "Hacker News"
+    },
+    {
+        "title": "The AI-Powered Kubernetes IDE",
+        "url": "https://github.com/koreide/Kore",
+        "timestamp": "2026-03-13T11:03:12.392391",
+        "source": "Hacker News"
     }
 ]
