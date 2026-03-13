@@ -30832,5 +30832,11 @@
         "url": "https://viterbischool.usc.edu/news/2026/03/the-ai-that-taught-itself-usc-researchers-show-how-artificial-intelligence-can-learn-what-it-never-knew/",
         "timestamp": "2026-03-13T23:19:24.904346",
         "source": "Hacker News"
+    },
+    {
+        "title": "Execwall – firewall to stop ModelScope CVE-2026-2256 (AI agent command injectn)",
+        "url": "https://news.ycombinator.com/item?id=47371292",
+        "timestamp": "2026-03-13T23:19:24.904398",
+        "source": "Hacker News"
     }
 ]
