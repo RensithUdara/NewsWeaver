@@ -28942,5 +28942,11 @@
         "url": "https://olshansky.info/posts/2026-03-10-how-we-automate-tests-for-the-grove-api",
         "timestamp": "2026-03-13T16:54:38.376905",
         "source": "Hacker News"
+    },
+    {
+        "title": "PocketSSH: A pocket-sized ESP32-based SSH terminal",
+        "url": "https://github.com/0015/PocketSSH",
+        "timestamp": "2026-03-13T16:54:38.376973",
+        "source": "Hacker News"
     }
 ]
