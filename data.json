@@ -26770,5 +26770,11 @@
         "url": "https://daniel.haxx.se/blog/2026/03/12/chicken-nuget/",
         "timestamp": "2026-03-13T07:43:59.661973",
         "source": "Hacker News"
+    },
+    {
+        "title": "Private LLM Inference on Consumer Blackwell GPUs",
+        "url": "https://arxiv.org/abs/2601.09527",
+        "timestamp": "2026-03-13T07:43:59.662012",
+        "source": "Hacker News"
     }
 ]
