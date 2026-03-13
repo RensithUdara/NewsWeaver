@@ -26350,5 +26350,11 @@
         "url": "https://news.ycombinator.com/item?id=47360676",
         "timestamp": "2026-03-13T05:03:14.913177",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI-generated passwords aren't random, it just looks that way",
+        "url": "https://www.theregister.com/2026/02/18/generating_passwords_with_llms/",
+        "timestamp": "2026-03-13T05:03:14.913210",
+        "source": "Hacker News"
     }
 ]
