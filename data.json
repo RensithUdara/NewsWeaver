@@ -27580,5 +27580,11 @@
         "url": "https://88mph.fm/",
         "timestamp": "2026-03-13T11:39:48.012562",
         "source": "Hacker News"
+    },
+    {
+        "title": "Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)",
+        "url": "https://prompt-caching.ai/",
+        "timestamp": "2026-03-13T11:39:48.196857",
+        "source": "Hacker News"
     }
 ]
