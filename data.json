@@ -28816,5 +28816,11 @@
         "url": "https://www.nytimes.com/interactive/2026/03/09/business/ai-writing-quiz.html",
         "timestamp": "2026-03-13T16:54:38.376119",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: MaximusLLM, Breaking transformer's O(N^2) and O(V) scaling bottlenecks",
+        "url": "https://github.com/yousef-rafat/MaximusLLM/tree/main",
+        "timestamp": "2026-03-13T16:54:38.376155",
+        "source": "Hacker News"
     }
 ]
