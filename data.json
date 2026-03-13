@@ -30580,5 +30580,11 @@
         "url": "https://www.vox.com/future-perfect/482363/nih-medical-research-grants-cut-2025",
         "timestamp": "2026-03-13T21:58:58.649798",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Hardened OpenClaw on AWS with Terraform",
+        "url": "https://github.com/infrahouse/terraform-aws-openclaw",
+        "timestamp": "2026-03-13T21:58:58.649835",
+        "source": "Hacker News"
     }
 ]
