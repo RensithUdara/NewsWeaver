@@ -28120,5 +28120,11 @@
         "url": "https://a2a-protocol.org/latest/announcing-1.0/",
         "timestamp": "2026-03-13T14:01:20.630008",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: How do you detect configuration drift between environments?",
+        "url": "https://news.ycombinator.com/item?id=47364395",
+        "timestamp": "2026-03-13T14:01:20.630082",
+        "source": "Hacker News"
     }
 ]
