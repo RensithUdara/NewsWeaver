@@ -27952,5 +27952,11 @@
         "url": "https://www.nytimes.com/2026/03/12/world/europe/ukraine-drones-ai-models-training.html",
         "timestamp": "2026-03-13T12:59:33.310153",
         "source": "Hacker News"
+    },
+    {
+        "title": "The state of Rust memory allocators in 2026",
+        "url": "https://cetra3.github.io/blog/state-of-allocators-2026/",
+        "timestamp": "2026-03-13T12:59:33.310228",
+        "source": "Hacker News"
     }
 ]
