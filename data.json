@@ -30388,5 +30388,11 @@
         "url": "https://www.urlert.com/blog/announcing-urlert-guard",
         "timestamp": "2026-03-13T21:33:30.345982",
         "source": "Hacker News"
+    },
+    {
+        "title": "Define once, use everywhere: a metrics layer for ClickHouse with MooseStack",
+        "url": "https://clickhouse.com/blog/metrics-layer-with-fiveonefour",
+        "timestamp": "2026-03-13T21:33:30.346010",
+        "source": "Hacker News"
     }
 ]
