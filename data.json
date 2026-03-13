@@ -27040,5 +27040,11 @@
         "url": "https://labs.davidbauer.ch/outsmart/",
         "timestamp": "2026-03-13T09:03:41.743478",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A small macOS app to send push notifications to the iOS Simulator",
+        "url": "https://github.com/gogson/ios-simulator-push-notifier",
+        "timestamp": "2026-03-13T09:03:41.743572",
+        "source": "Hacker News"
     }
 ]
