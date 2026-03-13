@@ -29590,5 +29590,11 @@
         "url": "https://www.cnbc.com/2026/03/13/elon-musk-xai-co-founders-spacex-ipo.html",
         "timestamp": "2026-03-13T19:21:39.088933",
         "source": "Hacker News"
+    },
+    {
+        "title": "Practical dependency tracking for Python function calls",
+        "url": "https://amakelov.github.io/mandala/blog/02_deps/",
+        "timestamp": "2026-03-13T19:21:39.088968",
+        "source": "Hacker News"
     }
 ]
