@@ -35518,5 +35518,11 @@
         "url": "https://github.com/vigil-agency/vigil",
         "timestamp": "2026-03-14T22:15:54.311334",
         "source": "Hacker News"
+    },
+    {
+        "title": "Anti-Slop: A GitHub action that detects and automatically closes AI slop PRs",
+        "url": "https://github.com/peakoss/anti-slop",
+        "timestamp": "2026-03-14T22:15:54.311361",
+        "source": "Hacker News"
     }
 ]
