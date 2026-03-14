@@ -33196,5 +33196,11 @@
         "url": "https://www.accuweather.com/en/severe-weather/nighttime-tornadoes-are-2-5-times-more-deadly-6-dangerous-myths-to-stop-believing/1871480",
         "timestamp": "2026-03-14T14:32:50.340568",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scaling Postgres Connections with Pgbouncer",
+        "url": "https://planetscale.com/blog/scaling-postgres-connections-with-pgbouncer",
+        "timestamp": "2026-03-14T14:32:50.340606",
+        "source": "Hacker News"
     }
 ]
