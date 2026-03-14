@@ -31924,5 +31924,11 @@
         "url": "https://www.bejarano.io/hardening-macos/",
         "timestamp": "2026-03-14T07:44:21.751933",
         "source": "Hacker News"
+    },
+    {
+        "title": "Torturing Rustc by Emulating HKTs",
+        "url": "https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/",
+        "timestamp": "2026-03-14T07:44:21.751966",
+        "source": "Hacker News"
     }
 ]
