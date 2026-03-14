@@ -33730,5 +33730,11 @@
         "url": "https://news.ycombinator.com/item?id=47377954",
         "timestamp": "2026-03-14T16:02:16.018689",
         "source": "Hacker News"
+    },
+    {
+        "title": "Parsing semiconductor datasheets into structured register maps for under $0.25",
+        "url": "https://regforge.dev/blog/datasheet-parsing",
+        "timestamp": "2026-03-14T16:02:16.018742",
+        "source": "Hacker News"
     }
 ]
