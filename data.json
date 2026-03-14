@@ -33802,5 +33802,11 @@
         "url": "https://news.ycombinator.com/item?id=47378448",
         "timestamp": "2026-03-14T16:45:20.616271",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hundreds of GitHub Python Repos Compromised via Account Takeover and Force-Push",
+        "url": "https://www.stepsecurity.io/blog/forcememo-hundreds-of-github-python-repos-compromised-via-account-takeover-and-force-push",
+        "timestamp": "2026-03-14T16:45:20.616306",
+        "source": "Hacker News"
     }
 ]
