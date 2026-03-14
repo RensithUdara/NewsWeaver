@@ -34192,5 +34192,11 @@
         "url": "https://github.com/sallywhite-git/FrontierWildWatch",
         "timestamp": "2026-03-14T17:38:05.077128",
         "source": "Hacker News"
+    },
+    {
+        "title": "cuTile Rust: a safe, tile-based kernel programming DSL for Rust",
+        "url": "https://github.com/NVlabs/cutile-rs",
+        "timestamp": "2026-03-14T17:38:05.077163",
+        "source": "Hacker News"
     }
 ]
