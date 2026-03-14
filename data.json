@@ -34678,5 +34678,11 @@
         "url": "https://pluralistic.net/2026/03/12/normal-technology/#bubble-exceptionalism",
         "timestamp": "2026-03-14T19:36:13.608121",
         "source": "Hacker News"
+    },
+    {
+        "title": "Vim experience in Excel: An add-in that brings Vim's key bindings to Excel",
+        "url": "https://github.com/sha5010/vim.xlam",
+        "timestamp": "2026-03-14T19:36:13.608156",
+        "source": "Hacker News"
     }
 ]
