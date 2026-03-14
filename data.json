@@ -34204,5 +34204,11 @@
         "url": "https://ajpaganiv.substack.com/p/a-brain-in-a-jar-in-a-computer",
         "timestamp": "2026-03-14T17:38:05.077196",
         "source": "Hacker News"
+    },
+    {
+        "title": "KernelBlaster: A framework for in context learning for code optimization",
+        "url": "https://github.com/NVlabs/KernelBlaster",
+        "timestamp": "2026-03-14T17:38:05.077261",
+        "source": "Hacker News"
     }
 ]
