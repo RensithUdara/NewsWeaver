@@ -31462,5 +31462,11 @@
         "url": "https://arxiv.org/abs/2603.00402",
         "timestamp": "2026-03-14T04:24:41.749011",
         "source": "Hacker News"
+    },
+    {
+        "title": "Discli – Discord CLI for AI agents to manage servers from the terminal",
+        "url": "https://pypi.org/project/discord-cli-agent/",
+        "timestamp": "2026-03-14T04:24:41.749044",
+        "source": "Hacker News"
     }
 ]
