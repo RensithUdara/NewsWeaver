@@ -32992,5 +32992,11 @@
         "url": "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(25)00396-7/abstract",
         "timestamp": "2026-03-14T13:27:48.861215",
         "source": "Hacker News"
+    },
+    {
+        "title": "Security log analyser in Rust with CVSS 3.1 scoring and AI threat detection",
+        "url": "https://github.com/Senaraufi/Security-Log-Analyser",
+        "timestamp": "2026-03-14T13:27:48.861250",
+        "source": "Hacker News"
     }
 ]
