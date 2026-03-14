@@ -34696,5 +34696,11 @@
         "url": "https://www.bbc.com/news/articles/c875zd7de5xo",
         "timestamp": "2026-03-14T19:36:13.608222",
         "source": "Hacker News"
+    },
+    {
+        "title": "Can RL Improve Generalization of LLM Agents? An Empirical Study",
+        "url": "https://arxiv.org/abs/2603.12011",
+        "timestamp": "2026-03-14T19:36:13.608254",
+        "source": "Hacker News"
     }
 ]
