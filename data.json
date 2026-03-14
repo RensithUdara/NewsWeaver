@@ -32956,5 +32956,11 @@
         "url": "https://news.ycombinator.com/item?id=47376296",
         "timestamp": "2026-03-14T13:27:48.860994",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Lean-pq a typesafe PostgreSQL connector for lean",
+        "url": "https://github.com/typednotes/lean-pq",
+        "timestamp": "2026-03-14T13:27:48.861027",
+        "source": "Hacker News"
     }
 ]
