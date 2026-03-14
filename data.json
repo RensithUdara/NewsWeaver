@@ -31174,5 +31174,11 @@
         "url": "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/",
         "timestamp": "2026-03-14T02:47:39.591496",
         "source": "Hacker News"
+    },
+    {
+        "title": "Z-Order: The Clustered Index of the Data Lake",
+        "url": "https://www.arnaudp.dev/how-z-order-cut-my-databricks-etl-time-in-half/",
+        "timestamp": "2026-03-14T02:47:39.836000",
+        "source": "Hacker News"
     }
 ]
