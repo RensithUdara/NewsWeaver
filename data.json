@@ -35230,5 +35230,11 @@
         "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
         "timestamp": "2026-03-14T21:02:32.686566",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Show HN: Han – A Korean programming language written in Rust",
+        "url": "https://github.com/xodn348/han",
+        "timestamp": "2026-03-14T21:36:31.974419",
+        "source": "Hacker News"
     }
 ]
