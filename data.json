@@ -34582,5 +34582,11 @@
         "url": "http://url:ube.com",
         "timestamp": "2026-03-14T19:05:00.994829",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open-source dataset of 10 thousand hours of computer-use recordings",
+        "url": "https://huggingface.co/datasets/markov-ai/computer-use-large",
+        "timestamp": "2026-03-14T19:05:00.994904",
+        "source": "Hacker News"
     }
 ]
