@@ -32482,5 +32482,11 @@
         "url": "https://www.scmp.com/tech/tech-trends/article/3346513/inside-openclaw-mania-gripping-china-security-fears-surge-alongside-enthusiasm",
         "timestamp": "2026-03-14T10:49:20.436436",
         "source": "Hacker News"
+    },
+    {
+        "title": "Faster Data Migrations for Postgres",
+        "url": "https://clickhouse.com/blog/practical-postgres-migrations-at-scale-peerdb",
+        "timestamp": "2026-03-14T10:49:20.436473",
+        "source": "Hacker News"
     }
 ]
