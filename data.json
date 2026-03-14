@@ -35140,5 +35140,11 @@
         "url": "https://viggy28.dev/article/postgres-gateway-drug/",
         "timestamp": "2026-03-14T20:46:35.742573",
         "source": "Hacker News"
+    },
+    {
+        "title": "Back End Aggregation Enables Gigawatt-Scale AI Clusters",
+        "url": "https://engineering.fb.com/2026/02/09/data-center-engineering/building-prometheus-how-backend-aggregation-enables-gigawatt-scale-ai-clusters/",
+        "timestamp": "2026-03-14T20:46:35.742608",
+        "source": "Hacker News"
     }
 ]
