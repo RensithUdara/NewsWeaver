@@ -31900,5 +31900,11 @@
         "url": "https://www.museumofquackery.com/",
         "timestamp": "2026-03-14T07:44:21.751796",
         "source": "Hacker News"
+    },
+    {
+        "title": "Race conditions in generated code (tested across 10 models, 5 runs)",
+        "url": "https://forward.deployed.agency/blog/check-call-deduct",
+        "timestamp": "2026-03-14T07:44:21.751831",
+        "source": "Hacker News"
     }
 ]
