@@ -34588,5 +34588,11 @@
         "url": "https://huggingface.co/datasets/markov-ai/computer-use-large",
         "timestamp": "2026-03-14T19:05:00.994904",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Iris – first MCP-native eval and observability tool for AI agents",
+        "url": "https://github.com/iris-eval/mcp-server",
+        "timestamp": "2026-03-14T19:05:00.994939",
+        "source": "Hacker News"
     }
 ]
