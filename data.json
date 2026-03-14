@@ -31180,5 +31180,11 @@
         "url": "https://www.arnaudp.dev/how-z-order-cut-my-databricks-etl-time-in-half/",
         "timestamp": "2026-03-14T02:47:39.836000",
         "source": "Hacker News"
+    },
+    {
+        "title": "Demystifying and Improving Lazy Promotion in Cache Eviction [pdf]",
+        "url": "https://www.vldb.org/pvldb/vol19/p549-yang.pdf",
+        "timestamp": "2026-03-14T02:47:39.836051",
+        "source": "Hacker News"
     }
 ]
