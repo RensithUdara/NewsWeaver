@@ -32872,5 +32872,11 @@
         "url": "https://news.ycombinator.com/item?id=47376451",
         "timestamp": "2026-03-14T13:27:48.860441",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: QKD eavesdropper detector using Krylov complexity-open source Python",
+        "url": "https://github.com/quantumspiritresearch-crypto/qkd-krylov-detector",
+        "timestamp": "2026-03-14T13:27:48.860493",
+        "source": "Hacker News"
     }
 ]
