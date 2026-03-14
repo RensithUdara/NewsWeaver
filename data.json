@@ -34264,5 +34264,11 @@
         "url": "https://www.gallup.com/workplace/702983/adoption-rapidly-growing-public-sector.aspx",
         "timestamp": "2026-03-14T17:56:49.535363",
         "source": "Hacker News"
+    },
+    {
+        "title": "GitHome: Local Git repository management at scale",
+        "url": "https://crates.io/crates/githome",
+        "timestamp": "2026-03-14T17:56:49.535415",
+        "source": "Hacker News"
     }
 ]
