@@ -34894,5 +34894,11 @@
         "url": "https://mlbenchmarks.org/00-preface.html",
         "timestamp": "2026-03-14T20:17:26.886828",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pipechart – pipe any JSON into your terminal and get a chart, zero dependencies",
+        "url": "https://github.com/davitotty/pipechart",
+        "timestamp": "2026-03-14T20:17:26.886885",
+        "source": "Hacker News"
     }
 ]
