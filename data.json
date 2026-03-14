@@ -33778,5 +33778,11 @@
         "url": "https://nmap.org/movies/",
         "timestamp": "2026-03-14T16:45:20.367271",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Effect-log – Semantic crash recovery for AI agent side effects",
+        "url": "https://github.com/xudong963/effect-log/blob/master/blog/show-hn.md",
+        "timestamp": "2026-03-14T16:45:20.616145",
+        "source": "Hacker News"
     }
 ]
