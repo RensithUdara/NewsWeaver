@@ -33640,5 +33640,11 @@
         "url": "https://namegrid.app/",
         "timestamp": "2026-03-14T15:49:01.468993",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postgres Time Series (Open Source) Stack with Iceberg",
+        "url": "https://www.snowflake.com/en/engineering-blog/postgres-time-series-iceberg/",
+        "timestamp": "2026-03-14T15:49:01.469027",
+        "source": "Hacker News"
     }
 ]
