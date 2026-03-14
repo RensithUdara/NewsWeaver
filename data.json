@@ -35242,5 +35242,11 @@
         "url": "https://news.ycombinator.com/item?id=47381471",
         "timestamp": "2026-03-14T21:36:32.239017",
         "source": "Hacker News"
+    },
+    {
+        "title": "Validation is your agent's bottleneck",
+        "url": "https://www.nicowil.me/posts/the-missing-validation-layer/",
+        "timestamp": "2026-03-14T21:36:32.239061",
+        "source": "Hacker News"
     }
 ]
