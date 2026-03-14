@@ -34438,5 +34438,11 @@
         "url": "https://getpiqe.com",
         "timestamp": "2026-03-14T18:30:39.291755",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linux Page Faults, MMAP, and userfaultfd for faster VM restores",
+        "url": "https://www.shayon.dev/post/2026/65/linux-page-faults-mmap-and-userfaultfd/",
+        "timestamp": "2026-03-14T18:30:39.291789",
+        "source": "Hacker News"
     }
 ]
