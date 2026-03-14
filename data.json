@@ -31336,5 +31336,11 @@
         "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
         "timestamp": "2026-03-14T02:47:40.346435",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Wool – A no-nonsense distributed Python runtime",
+        "url": "https://github.com/wool-labs/wool",
+        "timestamp": "2026-03-14T04:24:41.748215",
+        "source": "Hacker News"
     }
 ]
