@@ -35050,5 +35050,11 @@
         "url": "https://www.youtube.com/watch?v=qiAZd_Ut9sg",
         "timestamp": "2026-03-14T20:46:35.741992",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reddit Post 3",
+        "url": "https://old.reddit.com/r/PisequaltoNP/comments/1rtu4j5/solving_monotone_sat_in_om_log_n_via_binary/",
+        "timestamp": "2026-03-14T20:46:35.742028",
+        "source": "Hacker News"
     }
 ]
