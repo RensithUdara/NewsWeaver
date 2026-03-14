@@ -34768,5 +34768,11 @@
         "url": "https://news.ycombinator.com/item?id=47380019",
         "timestamp": "2026-03-14T19:36:13.608658",
         "source": "Hacker News"
+    },
+    {
+        "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
+        "url": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/",
+        "timestamp": "2026-03-14T19:36:13.608692",
+        "source": "Hacker News"
     }
 ]
