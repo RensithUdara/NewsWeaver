@@ -31528,5 +31528,11 @@
         "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/10/teaching-ai-what-i-learned",
         "timestamp": "2026-03-14T05:28:54.232029",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Ffetch v5 – TypeScript-first fetch client",
+        "url": "https://www.npmjs.com/package/@fetchkit/ffetch",
+        "timestamp": "2026-03-14T05:28:54.232063",
+        "source": "Hacker News"
     }
 ]
