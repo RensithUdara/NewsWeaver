@@ -39028,5 +39028,11 @@
         "url": "https://www.bbc.com/news/articles/cx28z4zypkno",
         "timestamp": "2026-03-15T17:48:20.583537",
         "source": "Hacker News"
+    },
+    {
+        "title": "Processes Are All You Need for AI Sandboxing",
+        "url": "https://multikernel.io/2026/03/14/introducing-sandlock/",
+        "timestamp": "2026-03-15T17:48:20.583608",
+        "source": "Hacker News"
     }
 ]
