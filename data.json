@@ -37420,5 +37420,11 @@
         "url": "https://news.ycombinator.com/item?id=47386476",
         "timestamp": "2026-03-15T11:57:33.801504",
         "source": "Hacker News"
+    },
+    {
+        "title": "Termix v2.0.0 – RDP, VNC, and Telnet Support (self-hosted Termius alternative)",
+        "url": "https://github.com/Termix-SSH/Termix",
+        "timestamp": "2026-03-15T11:57:33.801540",
+        "source": "Hacker News"
     }
 ]
