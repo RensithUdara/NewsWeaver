@@ -37312,5 +37312,11 @@
         "url": "https://blog.daniil.it/2026/03/15/php-community-a-faster-moving-community-driven-php/",
         "timestamp": "2026-03-15T11:18:06.228218",
         "source": "Hacker News"
+    },
+    {
+        "title": "From Demo JWT to Production JWT: Adding Proper Audience Validation in .NET",
+        "url": "https://www.aaronpina.com/from-demo-jwt-to-production-jwt-adding-proper-audience-validation/",
+        "timestamp": "2026-03-15T11:18:06.228254",
+        "source": "Hacker News"
     }
 ]
