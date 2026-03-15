@@ -37732,5 +37732,11 @@
         "url": "https://news.ycombinator.com/item?id=47387054",
         "timestamp": "2026-03-15T13:36:12.510035",
         "source": "Hacker News"
+    },
+    {
+        "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
+        "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
+        "timestamp": "2026-03-15T13:36:12.510069",
+        "source": "Hacker News"
     }
 ]
