@@ -39760,5 +39760,11 @@
         "url": "https://eiou.org/",
         "timestamp": "2026-03-15T20:42:09.530240",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: HypergraphZ – A Hypergraph Implementation in Zig",
+        "url": "https://github.com/yamafaktory/hypergraphz",
+        "timestamp": "2026-03-15T20:42:09.530273",
+        "source": "Hacker News"
     }
 ]
