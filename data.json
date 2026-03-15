@@ -38908,5 +38908,11 @@
         "url": "https://news.ycombinator.com/item?id=47389411",
         "timestamp": "2026-03-15T17:20:08.749681",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Crabby, open source web+API synthetic monitoring",
+        "url": "https://github.com/chrissnell/crabby",
+        "timestamp": "2026-03-15T17:20:08.749715",
+        "source": "Hacker News"
     }
 ]
