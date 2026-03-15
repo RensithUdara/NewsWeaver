@@ -38692,5 +38692,11 @@
         "url": "https://capitalbnews.org/secret-data-center-deal-marion-county-south-carolina/",
         "timestamp": "2026-03-15T16:26:28.659391",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+        "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+        "timestamp": "2026-03-15T16:26:28.659428",
+        "source": "Hacker News"
     }
 ]
