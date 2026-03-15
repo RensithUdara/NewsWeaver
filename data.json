@@ -38056,5 +38056,11 @@
         "url": "https://globaldex.ai",
         "timestamp": "2026-03-15T14:44:28.087679",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Execute local LLM prompts in remote SSH shell sessions",
+        "url": "https://github.com/tgalal/promptcmd",
+        "timestamp": "2026-03-15T14:44:28.087715",
+        "source": "Hacker News"
     }
 ]
