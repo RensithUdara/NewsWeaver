@@ -39268,5 +39268,11 @@
         "url": "https://pudding.cool/2026/02/happy-map/",
         "timestamp": "2026-03-15T18:56:09.181211",
         "source": "Hacker News"
+    },
+    {
+        "title": "Solving AI Sprawl: Using Git Worktrees and ADRs to Govern Parallel Agents",
+        "url": "https://www.arnaudp.dev/solving-ai-sprawl-using-git-worktrees-and-adrs-to-govern-parallel-agents-2/",
+        "timestamp": "2026-03-15T18:56:09.181245",
+        "source": "Hacker News"
     }
 ]
