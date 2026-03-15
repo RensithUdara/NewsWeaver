@@ -39070,5 +39070,11 @@
         "url": "https://codeberg.org/lucaas-d3v/flint",
         "timestamp": "2026-03-15T17:48:20.583864",
         "source": "Hacker News"
+    },
+    {
+        "title": "My GPS app makes zero HTTP requests",
+        "url": "https://redgridtactical.github.io/RedGridMGRS/blog/zero-network-architecture.html",
+        "timestamp": "2026-03-15T17:48:20.583918",
+        "source": "Hacker News"
     }
 ]
