@@ -37378,5 +37378,11 @@
         "url": "https://news.ycombinator.com/item?id=47386354",
         "timestamp": "2026-03-15T11:42:58.193988",
         "source": "Hacker News"
+    },
+    {
+        "title": "CrackArmor: Critical AppArmor Flaws Enable Local Privilege Escalation to Root",
+        "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/12/crackarmor-critical-apparmor-flaws-enable-local-privilege-escalation-to-root",
+        "timestamp": "2026-03-15T11:42:58.194024",
+        "source": "Hacker News"
     }
 ]
