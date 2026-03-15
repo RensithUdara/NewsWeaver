@@ -38572,5 +38572,11 @@
         "url": "https://shukla.io/blog/2026-03/sway.html",
         "timestamp": "2026-03-15T16:26:28.658623",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sandboxing AI-Authored Code in GitHub Actions",
+        "url": "https://haulos.com/blog/sandboxing-github-actions/",
+        "timestamp": "2026-03-15T16:26:28.658657",
+        "source": "Hacker News"
     }
 ]
