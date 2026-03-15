@@ -37606,5 +37606,11 @@
         "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
         "timestamp": "2026-03-15T12:46:15.706773",
         "source": "Hacker News"
+    },
+    {
+        "title": "Session-bridge plugin for Claude Code",
+        "url": "https://github.com/PatilShreyas/claude-code-session-bridge",
+        "timestamp": "2026-03-15T12:46:15.706807",
+        "source": "Hacker News"
     }
 ]
