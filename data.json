@@ -40408,5 +40408,11 @@
         "url": "https://www.ontimer.app",
         "timestamp": "2026-03-15T22:49:45.534293",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building observable file systems for agents",
+        "url": "https://blog.chudioranu.com/posts/agent-file-systems-observability/",
+        "timestamp": "2026-03-15T22:49:45.534409",
+        "source": "Hacker News"
     }
 ]
