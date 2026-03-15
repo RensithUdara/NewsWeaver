@@ -38272,5 +38272,11 @@
         "url": "https://nanonets.com/blog/ai-agent-hacks-mckinsey/",
         "timestamp": "2026-03-15T15:39:23.758394",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tokenization Is Killing Our Multilingual LLM Dream",
+        "url": "https://huggingface.co/blog/omarkamali/tokenization",
+        "timestamp": "2026-03-15T15:39:23.758432",
+        "source": "Hacker News"
     }
 ]
