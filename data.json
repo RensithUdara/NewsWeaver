@@ -39220,5 +39220,11 @@
         "url": "https://skywriter.blue/@emily.gorcen.ski/3mh24do2prk2h",
         "timestamp": "2026-03-15T18:56:09.180928",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenLobster – Go Rewrite of OpenClaw with Neo4j, OAuth 2.1, Proper RBAC",
+        "url": "https://github.com/Neirth/OpenLobster",
+        "timestamp": "2026-03-15T18:56:09.180964",
+        "source": "Hacker News"
     }
 ]
