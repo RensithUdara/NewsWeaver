@@ -40006,5 +40006,11 @@
         "url": "https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-reading",
         "timestamp": "2026-03-15T21:37:40.844470",
         "source": "Hacker News"
+    },
+    {
+        "title": "DriverExplorer – Windows kernel driver loader and viewer in Rust",
+        "url": "https://github.com/orinimron123/DriverExplorer",
+        "timestamp": "2026-03-15T21:37:40.844540",
+        "source": "Hacker News"
     }
 ]
