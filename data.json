@@ -35956,5 +35956,11 @@
         "url": "https://serpentsquiggles.neocities.org/posts/markdown-wishes",
         "timestamp": "2026-03-15T01:53:05.398758",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Git command for creating snapshot commits on a not checked-out branch",
+        "url": "https://github.com/meribold/git-snap",
+        "timestamp": "2026-03-15T01:53:05.398807",
+        "source": "Hacker News"
     }
 ]
