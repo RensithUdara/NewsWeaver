@@ -39520,5 +39520,11 @@
         "url": "https://community.openai.com/t/are-we-getting-nsfw-chatgpt/1376809",
         "timestamp": "2026-03-15T19:47:00.276230",
         "source": "Hacker News"
+    },
+    {
+        "title": "DNS-over-QUIC in Unbound",
+        "url": "https://blog.nlnetlabs.nl/dns-over-quic-in-unbound/",
+        "timestamp": "2026-03-15T19:47:00.276314",
+        "source": "Hacker News"
     }
 ]
