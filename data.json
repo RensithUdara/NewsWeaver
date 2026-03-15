@@ -38362,5 +38362,11 @@
         "url": "https://news.ycombinator.com/item?id=47388256",
         "timestamp": "2026-03-15T15:39:23.758953",
         "source": "Hacker News"
+    },
+    {
+        "title": "MLX: CUDA",
+        "url": "https://ml-explore.github.io/mlx/build/html/install.html#cuda",
+        "timestamp": "2026-03-15T15:39:23.758987",
+        "source": "Hacker News"
     }
 ]
