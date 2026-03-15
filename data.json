@@ -37276,5 +37276,11 @@
         "url": "https://news.ycombinator.com/item?id=47386284",
         "timestamp": "2026-03-15T11:18:06.227950",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: An OpenClaw skill to access Grok without an API Key",
+        "url": "https://github.com/aquarius-wing/grok-scraper",
+        "timestamp": "2026-03-15T11:18:06.228021",
+        "source": "Hacker News"
     }
 ]
