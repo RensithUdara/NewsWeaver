@@ -38656,5 +38656,11 @@
         "url": "https://www.theguardian.com/world/2026/mar/15/cairo-fishers-catching-plastic-bottles",
         "timestamp": "2026-03-15T16:26:28.659170",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: OpenClaw plugin – hard budget limits for agent tool calls",
+        "url": "https://github.com/runcycles/cycles-openclaw-budget-guard",
+        "timestamp": "2026-03-15T16:26:28.659205",
+        "source": "Hacker News"
     }
 ]
