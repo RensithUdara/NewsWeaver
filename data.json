@@ -40030,5 +40030,11 @@
         "url": "https://github.com/xmonader/wizaskdo",
         "timestamp": "2026-03-15T21:37:40.844662",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Lux – Drop-in Redis replacement in Rust. 5.6x faster, ~1MB Docker image",
+        "url": "https://github.com/lux-db/lux",
+        "timestamp": "2026-03-15T21:37:40.844697",
+        "source": "Hacker News"
     }
 ]
