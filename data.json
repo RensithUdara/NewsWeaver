@@ -36916,5 +36916,11 @@
         "url": "https://news.ycombinator.com/item?id=47385639",
         "timestamp": "2026-03-15T09:24:45.314933",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Voice-tracked teleprompter using on-device ASR in the browser",
+        "url": "https://github.com/larsbaunwall/promptme-ai",
+        "timestamp": "2026-03-15T09:24:45.314965",
+        "source": "Hacker News"
     }
 ]
