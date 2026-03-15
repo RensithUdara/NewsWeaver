@@ -38638,5 +38638,11 @@
         "url": "https://blog.raed.dev/posts/langgraph-hitl/",
         "timestamp": "2026-03-15T16:26:28.659066",
         "source": "Hacker News"
+    },
+    {
+        "title": "I let Claude Code configure my Arch install",
+        "url": "https://www.willmorrison.com/blog/03-15-2026-llm-dotfiles",
+        "timestamp": "2026-03-15T16:26:28.659101",
+        "source": "Hacker News"
     }
 ]
