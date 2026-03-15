@@ -37060,5 +37060,11 @@
         "url": "https://base44.com/blog/base44-backend-platform",
         "timestamp": "2026-03-15T09:54:52.503206",
         "source": "Hacker News"
+    },
+    {
+        "title": "LocalCowork",
+        "url": "https://github.com/Liquid4All/cookbook/tree/main/examples/localcowork",
+        "timestamp": "2026-03-15T09:54:52.503242",
+        "source": "Hacker News"
     }
 ]
