@@ -39646,5 +39646,11 @@
         "url": "https://fusionauth.io/articles/ai/securing-ai-agents",
         "timestamp": "2026-03-15T20:00:38.206696",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Quell, a local security layer to stop AI IDEs leaking your secrets",
+        "url": "https://github.com/Sonofg0tham/Quell",
+        "timestamp": "2026-03-15T20:00:38.206728",
+        "source": "Hacker News"
     }
 ]
