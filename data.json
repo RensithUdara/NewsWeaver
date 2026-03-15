@@ -37156,5 +37156,11 @@
         "url": "https://news.ycombinator.com/item?id=47385822",
         "timestamp": "2026-03-15T10:19:47.878083",
         "source": "Hacker News"
+    },
+    {
+        "title": "Manufacturing IoT Hardening browser sessions for factory kiosks and Smart TVs",
+        "url": "https://andonalert.net/dev-blog/hardening-long-lived-browser-sessions-for-factory-iot",
+        "timestamp": "2026-03-15T10:52:32.238660",
+        "source": "Hacker News"
     }
 ]
