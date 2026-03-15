@@ -39430,5 +39430,11 @@
         "url": "https://devblogs.microsoft.com/directx/directstorage-1-4-release-adds-support-for-zstandard/",
         "timestamp": "2026-03-15T19:22:58.192764",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Deathwatch, a CLI to detect abandoned dependencies",
+        "url": "https://github.com/davitotty/deathwatch",
+        "timestamp": "2026-03-15T19:22:58.192831",
+        "source": "Hacker News"
     }
 ]
