@@ -38464,5 +38464,11 @@
         "url": "https://arxiv.org/abs/2602.18515",
         "timestamp": "2026-03-15T15:56:58.487746",
         "source": "Hacker News"
+    },
+    {
+        "title": "Compile TypeScript directly to JVM bytecode and run it at native Java speed",
+        "url": "https://blog.caoccao.com/compile-typescript-to-jvm-bytecode-with-swc4j-45dd05561028",
+        "timestamp": "2026-03-15T15:56:58.487783",
+        "source": "Hacker News"
     }
 ]
