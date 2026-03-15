@@ -37138,5 +37138,11 @@
         "url": "https://soorf.xyz",
         "timestamp": "2026-03-15T10:19:47.877994",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pm2-manager: A modern, real-time web dashboard for your PM2 processes",
+        "url": "https://github.com/orangecoding/pm2-manager",
+        "timestamp": "2026-03-15T10:19:47.878024",
+        "source": "Hacker News"
     }
 ]
