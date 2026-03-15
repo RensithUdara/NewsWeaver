@@ -38854,5 +38854,11 @@
         "url": "https://www.afterbabel.com/p/your-marriage-has-a-third",
         "timestamp": "2026-03-15T17:20:08.749298",
         "source": "Hacker News"
+    },
+    {
+        "title": "Frameserve – self-hosted digital photo frame served over the web (Go, Docker)",
+        "url": "https://github.com/davidhfrankelcodes/frameserve",
+        "timestamp": "2026-03-15T17:20:08.749352",
+        "source": "Hacker News"
     }
 ]
