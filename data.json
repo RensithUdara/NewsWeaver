@@ -36004,5 +36004,11 @@
         "url": "https://www.panoit.com",
         "timestamp": "2026-03-15T01:53:05.399093",
         "source": "Hacker News"
+    },
+    {
+        "title": "The CPL Icon Loading Vulnerability",
+        "url": "https://www.geoffchappell.com/notes/security/stuxnet/ctrlfldr.htm",
+        "timestamp": "2026-03-15T01:53:05.399127",
+        "source": "Hacker News"
     }
 ]
