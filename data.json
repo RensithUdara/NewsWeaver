@@ -36256,5 +36256,11 @@
         "url": "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm",
         "timestamp": "2026-03-15T05:48:51.555821",
         "source": "Hacker News"
+    },
+    {
+        "title": "RSpotify enters maintenance mode: Spotify now requires Premium to test their API",
+        "url": "https://github.com/ramsayleung/rspotify/issues/550",
+        "timestamp": "2026-03-15T05:48:51.555870",
+        "source": "Hacker News"
     }
 ]
