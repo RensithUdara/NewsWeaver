@@ -40114,5 +40114,11 @@
         "url": "https://www.youtube.com/watch?v=dl2fnWIlDZg",
         "timestamp": "2026-03-15T21:55:10.018202",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Tmux-nvim-navigator – Seamless navigation with zero Neovim config",
+        "url": "https://github.com/sindrip/tmux-nvim-navigator",
+        "timestamp": "2026-03-15T21:55:10.018236",
+        "source": "Hacker News"
     }
 ]
