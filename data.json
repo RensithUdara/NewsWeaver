@@ -36586,5 +36586,11 @@
         "url": "https://github.com/jtsylve/spice-crypt",
         "timestamp": "2026-03-15T07:31:35.510804",
         "source": "Hacker News"
+    },
+    {
+        "title": "Python → native x86-64, no runtime, no GIL, NO LLVM",
+        "url": "https://github.com/AndreeSalazar/PyDead-BIB",
+        "timestamp": "2026-03-15T07:31:35.510856",
+        "source": "Hacker News"
     }
 ]
