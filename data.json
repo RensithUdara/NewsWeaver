@@ -36460,5 +36460,11 @@
         "url": "https://www.bookmarksos.com/",
         "timestamp": "2026-03-15T06:40:06.935625",
         "source": "Hacker News"
+    },
+    {
+        "title": "PgBouncer: Lightweight Connection Pooler for PostgreSQL",
+        "url": "https://www.pgbouncer.org/",
+        "timestamp": "2026-03-15T06:40:06.935660",
+        "source": "Hacker News"
     }
 ]
