@@ -38398,5 +38398,11 @@
         "url": "https://news.ycombinator.com/item?id=47388183",
         "timestamp": "2026-03-15T15:39:23.759205",
         "source": "Hacker News"
+    },
+    {
+        "title": "Separating the Wayland Compositor and Window Manager",
+        "url": "https://isaacfreund.com/blog/river-window-management/",
+        "timestamp": "2026-03-15T15:39:23.759281",
+        "source": "Hacker News"
     }
 ]
