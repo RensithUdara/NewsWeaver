@@ -38374,5 +38374,11 @@
         "url": "https://www.gocomics.com/calvinandhobbes/2026/03/15",
         "timestamp": "2026-03-15T15:39:23.759021",
         "source": "Hacker News"
+    },
+    {
+        "title": "Migrating from Server Actions to oRPC in Next.js",
+        "url": "https://screenshotone.com/blog/migration-to-orpc-in-nextjs/",
+        "timestamp": "2026-03-15T15:39:23.759056",
+        "source": "Hacker News"
     }
 ]
