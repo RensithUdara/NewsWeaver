@@ -37012,5 +37012,11 @@
         "url": "https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8",
         "timestamp": "2026-03-15T09:24:45.740475",
         "source": "Dev.to"
+    },
+    {
+        "title": "Shield Messenger A Tor-native,P2P encrypted messenger with built-in Solana/Zcash",
+        "url": "https://github.com/abokenan444/shield-messenger",
+        "timestamp": "2026-03-15T09:54:52.502881",
+        "source": "Hacker News"
     }
 ]
