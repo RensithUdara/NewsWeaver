@@ -37336,5 +37336,11 @@
         "url": "https://hn-job-trends.gantryops.dev",
         "timestamp": "2026-03-15T11:42:58.193679",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Minimap – a local UI for repo roadmap files",
+        "url": "https://github.com/rore/minimap",
+        "timestamp": "2026-03-15T11:42:58.193731",
+        "source": "Hacker News"
     }
 ]
