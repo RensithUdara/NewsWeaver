@@ -40516,5 +40516,11 @@
         "url": "https://ai.nobl.io",
         "timestamp": "2026-03-15T23:45:32.431755",
         "source": "Hacker News"
+    },
+    {
+        "title": "Excel incorrectly assumes that the year 1900 is a leap year",
+        "url": "https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/excel/wrongly-assumes-1900-is-leap-year",
+        "timestamp": "2026-03-15T23:45:32.431792",
+        "source": "Hacker News"
     }
 ]
