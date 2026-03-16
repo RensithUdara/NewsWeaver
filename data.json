@@ -43942,5 +43942,11 @@
         "url": "https://www.theregister.com/2026/03/16/nvidia_wraps_its_nemoclaw_around/",
         "timestamp": "2026-03-16T20:53:09.091366",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gitblurb – CLI tool that generates PR descriptions from your Git diff",
+        "url": "https://github.com/hkeycc/gitblurb",
+        "timestamp": "2026-03-16T20:53:09.091400",
+        "source": "Hacker News"
     }
 ]
