@@ -43900,5 +43900,11 @@
         "url": "https://www.cnbc.com/2026/03/16/nvidia-chips-orbital-data-centers-space-ai.html",
         "timestamp": "2026-03-16T20:53:09.091132",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Godom – a Go framework for local apps using the browser as the UI",
+        "url": "https://github.com/anupshinde/godom",
+        "timestamp": "2026-03-16T20:53:09.091166",
+        "source": "Hacker News"
     }
 ]
