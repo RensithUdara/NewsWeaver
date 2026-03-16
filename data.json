@@ -44440,5 +44440,11 @@
         "url": "https://contextforge.dev/blog/github-copilot-now-supports-mcp-here-s-how-to-give-it-persistent-memory",
         "timestamp": "2026-03-16T22:47:53.073117",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Created a tool that prevents accidental pasting of PII in AI prompts",
+        "url": "https://github.com/thomscoder/shhh",
+        "timestamp": "2026-03-16T22:47:53.073145",
+        "source": "Hacker News"
     }
 ]
