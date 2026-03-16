@@ -43702,5 +43702,11 @@
         "url": "https://handrive.ai",
         "timestamp": "2026-03-16T20:03:54.737932",
         "source": "Hacker News"
+    },
+    {
+        "title": "ZFS NAS Chezmoi – A One Binary ZFS Management Portal (Golang)",
+        "url": "https://github.com/macgaver/zfsnas-chezmoi",
+        "timestamp": "2026-03-16T20:03:54.737966",
+        "source": "Hacker News"
     }
 ]
