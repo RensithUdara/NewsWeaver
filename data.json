@@ -44398,5 +44398,11 @@
         "url": "https://stagex.tools/",
         "timestamp": "2026-03-16T22:47:53.072919",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenAI Codex Game Studio Plugin",
+        "url": "https://github.com/openai/plugins/pull/26",
+        "timestamp": "2026-03-16T22:47:53.072947",
+        "source": "Hacker News"
     }
 ]
