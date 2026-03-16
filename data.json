@@ -42892,5 +42892,11 @@
         "url": "https://dev.jimgrey.net/2026/03/04/the-invisible-foundation-of-engineering-transformation/",
         "timestamp": "2026-03-16T16:43:38.587852",
         "source": "Hacker News"
+    },
+    {
+        "title": "Relational signal compression across your data lake",
+        "url": "https://kurve.ai/blog/how-kurve-handles-relational-signal-compression",
+        "timestamp": "2026-03-16T16:43:38.587886",
+        "source": "Hacker News"
     }
 ]
