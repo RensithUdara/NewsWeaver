@@ -40882,5 +40882,11 @@
         "url": "https://www.youtube.com/watch?v=0SELRtaciaI",
         "timestamp": "2026-03-16T05:31:15.541041",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pgtui, a Postgres TUI Client",
+        "url": "https://kdwarn.net/programming/blog/227",
+        "timestamp": "2026-03-16T05:31:15.541089",
+        "source": "Hacker News"
     }
 ]
