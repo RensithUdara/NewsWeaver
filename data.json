@@ -43834,5 +43834,11 @@
         "url": "https://mistral.ai/news/mistral-small-4",
         "timestamp": "2026-03-16T20:53:09.090753",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenShell: Nvidia's sandbox for AI agents like OpenClaw",
+        "url": "https://github.com/NVIDIA/OpenShell",
+        "timestamp": "2026-03-16T20:53:09.090786",
+        "source": "Hacker News"
     }
 ]
