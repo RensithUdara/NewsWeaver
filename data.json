@@ -42532,5 +42532,11 @@
         "url": "https://pluralistic.net/2026/03/16/whittle-a-webserver/",
         "timestamp": "2026-03-16T14:37:48.331543",
         "source": "Hacker News"
+    },
+    {
+        "title": "Event Publisher enables event integration between Keycloak and OpenFGA",
+        "url": "https://github.com/embesozzi/keycloak-openfga-event-publisher",
+        "timestamp": "2026-03-16T14:37:48.331599",
+        "source": "Hacker News"
     }
 ]
