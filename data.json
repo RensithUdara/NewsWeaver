@@ -42094,5 +42094,11 @@
         "url": "https://stoffregen.io/posts/countryle/",
         "timestamp": "2026-03-16T11:58:14.784209",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: AI agent autonomously used BoTorch to predict CFPB enforcement actions",
+        "url": "https://github.com/sign-of-fourier/cfpb-complaint-enforcement",
+        "timestamp": "2026-03-16T11:58:14.784244",
+        "source": "Hacker News"
     }
 ]
