@@ -40942,5 +40942,11 @@
         "url": "https://www.gasnearme.in/",
         "timestamp": "2026-03-16T05:31:15.541481",
         "source": "Hacker News"
+    },
+    {
+        "title": "Performance: 53% faster parse+render, 61% fewer allocations",
+        "url": "https://github.com/Shopify/liquid/pull/2056",
+        "timestamp": "2026-03-16T05:31:15.541519",
+        "source": "Hacker News"
     }
 ]
