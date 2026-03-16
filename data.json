@@ -43240,5 +43240,11 @@
         "url": "https://www.japantimes.co.jp/sports/2026/02/22/more-sports/yukigassen-olympic-dreams/",
         "timestamp": "2026-03-16T18:39:09.799481",
         "source": "Hacker News"
+    },
+    {
+        "title": "A bare-metal 3D engine in Go with custom software/OpenGL rasterizers",
+        "url": "https://github.com/markel1974/godoom",
+        "timestamp": "2026-03-16T18:39:09.799515",
+        "source": "Hacker News"
     }
 ]
