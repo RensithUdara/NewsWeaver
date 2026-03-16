@@ -44332,5 +44332,11 @@
         "url": "https://ffmpeg.org/download.html#release_8.1",
         "timestamp": "2026-03-16T22:47:53.072606",
         "source": "Hacker News"
+    },
+    {
+        "title": "API tests as files instead of Postman collections (Skivvy)",
+        "url": "https://github.com/hyrfilm/skivvy",
+        "timestamp": "2026-03-16T22:47:53.072636",
+        "source": "Hacker News"
     }
 ]
