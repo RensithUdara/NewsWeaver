@@ -43054,5 +43054,11 @@
         "url": "https://zero-human-labs.com",
         "timestamp": "2026-03-16T17:45:31.248720",
         "source": "Hacker News"
+    },
+    {
+        "title": "ReadyPC: An open-source Windows optimizer for speed and gaming – built with Rust",
+        "url": "https://github.com/Gloom-Team/ReadyPC",
+        "timestamp": "2026-03-16T17:45:31.248755",
+        "source": "Hacker News"
     }
 ]
