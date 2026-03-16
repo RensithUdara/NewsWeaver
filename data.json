@@ -43510,5 +43510,11 @@
         "url": "https://news.ycombinator.com/item?id=47403527",
         "timestamp": "2026-03-16T19:38:51.652816",
         "source": "Hacker News"
+    },
+    {
+        "title": "How we Built Private Post-Training and Inference for Frontier Models",
+        "url": "https://www.workshoplabs.ai/blog/private-post-training",
+        "timestamp": "2026-03-16T19:38:51.652845",
+        "source": "Hacker News"
     }
 ]
