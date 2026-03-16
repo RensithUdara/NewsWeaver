@@ -44122,5 +44122,11 @@
         "url": "https://idiallo.com/blog/stopped-sleeping-started-hallucinating",
         "timestamp": "2026-03-16T21:30:26.262950",
         "source": "Hacker News"
+    },
+    {
+        "title": "Vt100wasm – Python and JavaScript bindings for Rust vt100 compiled to WASM",
+        "url": "https://github.com/indent-com/vt100wasm",
+        "timestamp": "2026-03-16T21:30:26.262986",
+        "source": "Hacker News"
     }
 ]
