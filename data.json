@@ -42586,5 +42586,11 @@
         "url": "https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/",
         "timestamp": "2026-03-16T14:37:51.278272",
         "source": "CSS-Tricks"
+    },
+    {
+        "title": "MCP Server Is Eating Your Context Window. There's a Simpler Way",
+        "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
+        "timestamp": "2026-03-16T15:43:25.025397",
+        "source": "Hacker News"
     }
 ]
