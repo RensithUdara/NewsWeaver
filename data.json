@@ -43036,5 +43036,11 @@
         "url": "https://vovanz.github.io/conways-life-music/",
         "timestamp": "2026-03-16T17:45:31.248615",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code's permission system misses compound commands – here's a fix",
+        "url": "https://github.com/liberzon/claude-hooks",
+        "timestamp": "2026-03-16T17:45:31.248651",
+        "source": "Hacker News"
     }
 ]
