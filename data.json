@@ -41800,5 +41800,11 @@
         "url": "https://news.ycombinator.com/item?id=47397190",
         "timestamp": "2026-03-16T11:12:46.691601",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linux 7.1 to Retire UDP-Lite – Allows for Better Performance with Cleansed Code",
+        "url": "https://www.phoronix.com/news/Linux-7.1-Retiring-UDP-Lite",
+        "timestamp": "2026-03-16T11:12:46.692169",
+        "source": "Hacker News"
     }
 ]
