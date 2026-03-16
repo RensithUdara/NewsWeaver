@@ -43930,5 +43930,11 @@
         "url": "https://www.commitstrip.com/en/2016/08/25/a-very-comprehensive-and-precise-spec/",
         "timestamp": "2026-03-16T20:53:09.091299",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gluey – an open-source DSL for declaring data pipelines instead of coding them",
+        "url": "https://gluey.sh/",
+        "timestamp": "2026-03-16T20:53:09.091333",
+        "source": "Hacker News"
     }
 ]
