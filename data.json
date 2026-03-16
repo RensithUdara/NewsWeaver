@@ -41542,5 +41542,11 @@
         "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
         "timestamp": "2026-03-16T09:10:40.634368",
         "source": "Hacker News"
+    },
+    {
+        "title": "Apache Iggy: thread-per-core with io_uring in Rust",
+        "url": "https://iggy.apache.org/blogs/2026/02/27/thread-per-core-io_uring/",
+        "timestamp": "2026-03-16T09:10:40.634409",
+        "source": "Hacker News"
     }
 ]
