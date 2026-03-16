@@ -44530,5 +44530,11 @@
         "url": "https://www.cnbc.com/2026/03/16/apple-acquires-video-editing-company-motionvfx-to-boost-subscribers.html",
         "timestamp": "2026-03-16T23:15:42.957576",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: pg_typescript, a Postgres extension for writing functions in TypeScript",
+        "url": "https://github.com/isaacd9/pg_typescript",
+        "timestamp": "2026-03-16T23:15:42.957610",
+        "source": "Hacker News"
     }
 ]
