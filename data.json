@@ -43372,5 +43372,11 @@
         "url": "https://belaycpp.com/2021/06/22/dont-use-raw-loops/",
         "timestamp": "2026-03-16T18:39:09.800354",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Rambles on Compile-Time C++",
+        "url": "https://github.com/DaveFlater/ConstexpRambles",
+        "timestamp": "2026-03-16T18:39:09.800391",
+        "source": "Hacker News"
     }
 ]
