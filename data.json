@@ -40750,5 +40750,11 @@
         "url": "https://www.sciencedirect.com/science/article/pii/S2589965125001679",
         "timestamp": "2026-03-16T03:30:24.456387",
         "source": "Hacker News"
+    },
+    {
+        "title": "Clock-accurate FPGA replacement for NES PPU",
+        "url": "https://github.com/andkorzh/PPU-LITE",
+        "timestamp": "2026-03-16T03:30:24.456438",
+        "source": "Hacker News"
     }
 ]
