@@ -42598,5 +42598,11 @@
         "url": "https://discoverbsd.com/p/8a7660c31b",
         "timestamp": "2026-03-16T15:43:25.026234",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Codex Orchestrator: coordinate OpenAI Codex CLI across multiple repos",
+        "url": "https://github.com/yeutterg/codex-orchestrator",
+        "timestamp": "2026-03-16T15:43:25.277835",
+        "source": "Hacker News"
     }
 ]
