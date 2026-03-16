@@ -44386,5 +44386,11 @@
         "url": "https://cursor.com/blog/security-agents",
         "timestamp": "2026-03-16T22:47:53.072866",
         "source": "Hacker News"
+    },
+    {
+        "title": "An AI agent improved OWASP CRS detection by 80% in 20 autonomous experiments",
+        "url": "https://wafplanet.com/blog/autoresearch-crs-regex/",
+        "timestamp": "2026-03-16T22:47:53.072892",
+        "source": "Hacker News"
     }
 ]
