@@ -42964,5 +42964,11 @@
         "url": "https://www.hackthebox.com",
         "timestamp": "2026-03-16T16:43:38.588329",
         "source": "Hacker News"
+    },
+    {
+        "title": "Raglogs – explain incidents from logs (deterministic, LLM optional)",
+        "url": "https://github.com/leo-aa88/raglogs",
+        "timestamp": "2026-03-16T16:43:38.588367",
+        "source": "Hacker News"
     }
 ]
