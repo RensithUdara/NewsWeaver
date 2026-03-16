@@ -44080,5 +44080,11 @@
         "url": "https://www.crusoe.ai/resources/blog/reducing-ttft-by-cpumaxxing-tokenization",
         "timestamp": "2026-03-16T21:30:26.262666",
         "source": "Hacker News"
+    },
+    {
+        "title": "Don't template YAML, poke it",
+        "url": "https://github.com/tomontime/datapoke",
+        "timestamp": "2026-03-16T21:30:26.262701",
+        "source": "Hacker News"
     }
 ]
