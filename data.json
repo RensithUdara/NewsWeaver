@@ -41824,5 +41824,11 @@
         "url": "https://esm.sh/",
         "timestamp": "2026-03-16T11:12:46.790061",
         "source": "Hacker News"
+    },
+    {
+        "title": "Perfex CRM: Unauthenticated RCE via PHP's S: deserialization format",
+        "url": "https://nullcathedral.com/posts/2026-03-16-perfex-crm-unauthenticated-rce-insecure-deserialization/",
+        "timestamp": "2026-03-16T11:12:46.790096",
+        "source": "Hacker News"
     }
 ]
