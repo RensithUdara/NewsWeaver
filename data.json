@@ -43636,5 +43636,11 @@
         "url": "https://www.simplymacro.xyz/oil-price-timeline/",
         "timestamp": "2026-03-16T20:03:54.737524",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: MaximusLLM – Train 262k-vocab LLMs on a single 16GB GPU",
+        "url": "https://github.com/yousef-rafat/MaximusLLM/blob/main/README.md",
+        "timestamp": "2026-03-16T20:03:54.737559",
+        "source": "Hacker News"
     }
 ]
