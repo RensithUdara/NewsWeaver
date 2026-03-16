@@ -42352,5 +42352,11 @@
         "url": "https://16bpp.net/blog/post/even-faster-asin-was-staring-right-at-me/",
         "timestamp": "2026-03-16T14:37:48.136589",
         "source": "Hacker News"
+    },
+    {
+        "title": "Comparing Python Type Checkers: Typing Spec Conformance",
+        "url": "https://pyrefly.org/blog/typing-conformance-comparison/",
+        "timestamp": "2026-03-16T14:37:48.136673",
+        "source": "Hacker News"
     }
 ]
