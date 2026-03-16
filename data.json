@@ -42934,5 +42934,11 @@
         "url": "https://mkennedy.codes/posts/will-ai-kill-open-source/",
         "timestamp": "2026-03-16T16:43:38.588131",
         "source": "Hacker News"
+    },
+    {
+        "title": "Prod Forge – reference project for running a NestJS service in production",
+        "url": "https://github.com/prod-forge/backend",
+        "timestamp": "2026-03-16T16:43:38.588167",
+        "source": "Hacker News"
     }
 ]
