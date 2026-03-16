@@ -41548,5 +41548,11 @@
         "url": "https://iggy.apache.org/blogs/2026/02/27/thread-per-core-io_uring/",
         "timestamp": "2026-03-16T09:10:40.634409",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bb-browser – Turn the web into agent-friendly CLI",
+        "url": "https://github.com/epiral/bb-browser",
+        "timestamp": "2026-03-16T09:10:40.634437",
+        "source": "Hacker News"
     }
 ]
