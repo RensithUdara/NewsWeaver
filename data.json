@@ -41566,5 +41566,11 @@
         "url": "https://github.com/PatrickJS/awesome-cursorrules",
         "timestamp": "2026-03-16T09:10:40.634493",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a blog with Git-crypt for private posts in a public repo",
+        "url": "https://thobiasn.dev/posts/a-pragmatic-blog",
+        "timestamp": "2026-03-16T09:10:40.634521",
+        "source": "Hacker News"
     }
 ]
