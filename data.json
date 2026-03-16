@@ -44590,5 +44590,11 @@
         "url": "https://signoz.io/docs/openclaw-monitoring/",
         "timestamp": "2026-03-16T23:15:42.957943",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cnsplots: A Python library for Cell, Nature, and Science quality plots",
+        "url": "https://github.com/faridrashidi/cnsplots",
+        "timestamp": "2026-03-16T23:15:42.957977",
+        "source": "Hacker News"
     }
 ]
