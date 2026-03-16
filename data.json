@@ -44692,5 +44692,11 @@
         "url": "https://browse-your-way.vercel.app/news.ycombinator.com",
         "timestamp": "2026-03-16T23:44:53.219978",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nvidia DGX Station",
+        "url": "https://www.nvidia.com/en-us/products/workstations/dgx-station/",
+        "timestamp": "2026-03-16T23:44:53.220014",
+        "source": "Hacker News"
     }
 ]
