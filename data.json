@@ -42910,5 +42910,11 @@
         "url": "https://phys.org/news/2026-03-archaeologists-untangle-bronze-age-textiles.html",
         "timestamp": "2026-03-16T16:43:38.587959",
         "source": "Hacker News"
+    },
+    {
+        "title": "Beating Aider's 20% pass rate on local Qwen 32B using deterministic RAG",
+        "url": "https://fararoni.dev/publicacion/caso-estudio-qwen",
+        "timestamp": "2026-03-16T16:43:38.587993",
+        "source": "Hacker News"
     }
 ]
