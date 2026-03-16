@@ -44506,5 +44506,11 @@
         "url": "https://www.cfr.org/articles/securing-ukraines-future-in-europe-ukraines-defense-industrial-base-an-anchor-for-economic-renewal-and-european-security",
         "timestamp": "2026-03-16T23:15:42.957434",
         "source": "Hacker News"
+    },
+    {
+        "title": "Technical Analysis of CVE-2025-14500: IceWarp Webmail Pre-Auth RCE Chain",
+        "url": "https://mileniumsec.com/blog/cve-2025-14500-icewarp-analysis",
+        "timestamp": "2026-03-16T23:15:42.957470",
+        "source": "Hacker News"
     }
 ]
