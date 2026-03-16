@@ -42394,5 +42394,11 @@
         "url": "https://github.com/unixfox/opencode-claude-code-plugin",
         "timestamp": "2026-03-16T14:37:48.330671",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nvidia NeMo Retriever's Generalizable Agentic Retrieval Pipeline",
+        "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
+        "timestamp": "2026-03-16T14:37:48.330711",
+        "source": "Hacker News"
     }
 ]
