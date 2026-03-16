@@ -42250,5 +42250,11 @@
         "url": "https://github.com/aiwebb/llmonster-rancher",
         "timestamp": "2026-03-16T13:09:41.697448",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ur-Scheme: A GPL self-hosting compiler from a subset of Scheme to x86 asm (2008)",
+        "url": "http://canonical.org/~kragen/sw/urscheme/",
+        "timestamp": "2026-03-16T13:09:41.697476",
+        "source": "Hacker News"
     }
 ]
