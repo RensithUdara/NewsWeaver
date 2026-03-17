@@ -46702,5 +46702,11 @@
         "url": "https://christoph-rumpel.com/2026/3/the-agentic-artisan",
         "timestamp": "2026-03-17T13:20:44.640655",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making Emacs output true 24-bit color in the terminal: a two-line terminfo fix",
+        "url": "https://old.reddit.com/r/emacs/comments/1rw2kbv/making_emacs_output_true_24bit_color_in_the/",
+        "timestamp": "2026-03-17T13:20:44.640684",
+        "source": "Hacker News"
     }
 ]
