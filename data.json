@@ -46534,5 +46534,11 @@
         "url": "https://github.com/shea256/autofoundry",
         "timestamp": "2026-03-17T12:00:02.243275",
         "source": "Hacker News"
+    },
+    {
+        "title": "Django Studio: generator for modern Django projects",
+        "url": "https://github.com/danjac/django-studio",
+        "timestamp": "2026-03-17T12:00:02.243302",
+        "source": "Hacker News"
     }
 ]
