@@ -45016,5 +45016,11 @@
         "url": "https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2",
         "timestamp": "2026-03-17T04:29:34.107465",
         "source": "Hacker News"
+    },
+    {
+        "title": "RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback",
+        "url": "https://github.com/zhangxy-2019/RetroAgent",
+        "timestamp": "2026-03-17T04:29:34.411194",
+        "source": "Hacker News"
     }
 ]
