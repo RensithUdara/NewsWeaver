@@ -45436,5 +45436,11 @@
         "url": "https://www.riav.org/",
         "timestamp": "2026-03-17T06:44:30.324773",
         "source": "Hacker News"
+    },
+    {
+        "title": "Llmgate – call any LLM via YAML config, 2 dependencies",
+        "url": "https://github.com/kesiee/llmgate",
+        "timestamp": "2026-03-17T06:44:30.324808",
+        "source": "Hacker News"
     }
 ]
