@@ -46540,5 +46540,11 @@
         "url": "https://github.com/danjac/django-studio",
         "timestamp": "2026-03-17T12:00:02.243302",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scheduling seems simple until you try to build it",
+        "url": "https://www.slotflow.dev/blog/scheduling-complexity-ai-agents",
+        "timestamp": "2026-03-17T12:00:02.243329",
+        "source": "Hacker News"
     }
 ]
