@@ -44848,5 +44848,11 @@
         "url": "https://www.buysellram.com/blog/the-agentic-ai-era-how-nvidia-rubin-vera-cpu-groq-3-lpus-bluefield-4-redefine-the-inference-factory/",
         "timestamp": "2026-03-17T02:29:03.447629",
         "source": "Hacker News"
+    },
+    {
+        "title": "I fixed a segfault in Triton that broke every RTX 5070/5080/5090",
+        "url": "https://github.com/triton-lang/triton/pull/9734",
+        "timestamp": "2026-03-17T02:29:03.447704",
+        "source": "Hacker News"
     }
 ]
