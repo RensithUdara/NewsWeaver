@@ -47944,5 +47944,11 @@
         "url": "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox",
         "timestamp": "2026-03-17T19:38:36.241699",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust",
+        "url": "https://github.com/peters/horizon",
+        "timestamp": "2026-03-17T19:38:36.242161",
+        "source": "Hacker News"
     }
 ]
