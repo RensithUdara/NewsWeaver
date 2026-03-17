@@ -47518,5 +47518,11 @@
         "url": "https://peterlavigne.com/writing/verifying-ai-generated-code",
         "timestamp": "2026-03-17T17:43:14.491762",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Crust – A CLI framework for TypeScript and Bun",
+        "url": "https://github.com/chenxin-yan/crust",
+        "timestamp": "2026-03-17T17:43:14.491824",
+        "source": "Hacker News"
     }
 ]
