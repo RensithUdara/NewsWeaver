@@ -45832,5 +45832,11 @@
         "url": "https://www.brookings.edu/articles/china-is-running-multiple-ai-races/",
         "timestamp": "2026-03-17T08:33:06.504340",
         "source": "Hacker News"
+    },
+    {
+        "title": "Velvet-auth – Production-ready auth plugin for Elysia and Bun",
+        "url": "https://github.com/raloonsoc/velvet-auth",
+        "timestamp": "2026-03-17T08:33:06.504374",
+        "source": "Hacker News"
     }
 ]
