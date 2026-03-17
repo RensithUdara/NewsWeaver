@@ -47224,5 +47224,11 @@
         "url": "https://icesus.org/",
         "timestamp": "2026-03-17T15:41:44.479708",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Open-source Playwright reporter for debugging CI failures",
+        "url": "https://github.com/adnangradascevic/playwright-reporter",
+        "timestamp": "2026-03-17T15:41:44.479748",
+        "source": "Hacker News"
     }
 ]
