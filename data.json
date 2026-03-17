@@ -46168,5 +46168,11 @@
         "url": "https://news.mit.edu/2026/ocean-bacteria-break-down-biodegradable-plastic-0316",
         "timestamp": "2026-03-17T10:29:21.651157",
         "source": "Hacker News"
+    },
+    {
+        "title": "Automated Deployments with GitHub Actions for Amazon ECS Express Mode",
+        "url": "https://aws.amazon.com/blogs/containers/automated-deployments-with-github-actions-for-amazon-ecs-express-mode/",
+        "timestamp": "2026-03-17T10:29:21.651185",
+        "source": "Hacker News"
     }
 ]
