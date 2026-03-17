@@ -46120,5 +46120,11 @@
         "url": "https://engineering.nyu.edu/news/new-method-data-center-cooling-could-dramatically-decrease-electricity-use",
         "timestamp": "2026-03-17T10:29:21.650926",
         "source": "Hacker News"
+    },
+    {
+        "title": "Elevated errors on Claude Opus 4.6 and Sonnet 4.6",
+        "url": "https://status.claude.com/incidents/h04m7sftmtk5",
+        "timestamp": "2026-03-17T10:29:21.650954",
+        "source": "Hacker News"
     }
 ]
