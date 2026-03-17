@@ -47542,5 +47542,11 @@
         "url": "https://vaos.sh/blog/i-built-a-7-agent-ai-marketing-crew",
         "timestamp": "2026-03-17T17:43:14.750575",
         "source": "Hacker News"
+    },
+    {
+        "title": "Real-World Industrial-Scale Verification: LLM-Driven Theorem Proving on SeL4",
+        "url": "https://arxiv.org/abs/2602.08384",
+        "timestamp": "2026-03-17T17:43:14.750619",
+        "source": "Hacker News"
     }
 ]
