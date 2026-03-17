@@ -45082,5 +45082,11 @@
         "url": "https://pixeldust.se/monkey-island-project",
         "timestamp": "2026-03-17T04:29:34.411628",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reverse engineering a no-name Chinese smartwatch BLE protocol (Jieli chipset)",
+        "url": "https://github.com/TruthGh0st/C30-20-Pro-BLE-Reverse-Engineering",
+        "timestamp": "2026-03-17T04:29:34.411662",
+        "source": "Hacker News"
     }
 ]
