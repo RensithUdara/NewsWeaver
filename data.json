@@ -46948,5 +46948,11 @@
         "url": "http://oldvcr.blogspot.com/2026/03/hedley-davis-has-died.html",
         "timestamp": "2026-03-17T14:37:41.099989",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why Node.js needs a virtual file system",
+        "url": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
+        "timestamp": "2026-03-17T14:37:41.100024",
+        "source": "Hacker News"
     }
 ]
