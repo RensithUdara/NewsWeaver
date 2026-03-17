@@ -47440,5 +47440,11 @@
         "url": "https://xcancel.com/danveloper/status/2033940538563445236",
         "timestamp": "2026-03-17T16:45:26.687222",
         "source": "Hacker News"
+    },
+    {
+        "title": "Deploy Apache Airflow on Kubernetes Using Spot Instances",
+        "url": "https://spot.rackspace.com/blogs/deploy-apache-airflow-on-kubernetes-using-spot-instances",
+        "timestamp": "2026-03-17T16:45:26.687256",
+        "source": "Hacker News"
     }
 ]
