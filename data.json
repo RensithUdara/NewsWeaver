@@ -46444,5 +46444,11 @@
         "url": "https://news.ycombinator.com/item?id=47410933",
         "timestamp": "2026-03-17T11:23:40.958549",
         "source": "Hacker News"
+    },
+    {
+        "title": "I formally verified AI-generated code. All 4 bugs were in the integration layer",
+        "url": "https://brainflow.substack.com/p/formally-verifying-the-easy-part",
+        "timestamp": "2026-03-17T12:00:02.242852",
+        "source": "Hacker News"
     }
 ]
