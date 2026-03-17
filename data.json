@@ -46780,5 +46780,11 @@
         "url": "https://woodblock.com/michener.html",
         "timestamp": "2026-03-17T13:20:44.641047",
         "source": "Hacker News"
+    },
+    {
+        "title": "A 43-second failover caused cross-user data exposure in a distributed system",
+        "url": "https://www.orchenginex.com/publications/github-43-second-failover",
+        "timestamp": "2026-03-17T13:20:44.641078",
+        "source": "Hacker News"
     }
 ]
