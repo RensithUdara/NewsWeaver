@@ -48712,5 +48712,11 @@
         "url": "https://leadprompt.sh/a/728-The-Delegation-Dilemma,-When-AI-Becomes-Your-Best-Employee-2026w8",
         "timestamp": "2026-03-17T22:01:10.864359",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-31900, my 0-click RCE in the psf/black GitHub Action",
+        "url": "https://medium.com/securitycertcommunity/cve-2026-31900-50800bafafba",
+        "timestamp": "2026-03-17T22:01:10.864411",
+        "source": "Hacker News"
     }
 ]
