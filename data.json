@@ -46426,5 +46426,11 @@
         "url": "https://apps.microsoft.com/detail/9nxjlhdsgl6l?hl=en-US&gl=US",
         "timestamp": "2026-03-17T11:23:40.958423",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kimi introduces Attention Residuals: 1.25x compute performance at <2% overhead",
+        "url": "https://arxiv.org/abs/2603.15031",
+        "timestamp": "2026-03-17T11:23:40.958456",
+        "source": "Hacker News"
     }
 ]
