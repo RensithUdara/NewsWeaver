@@ -45988,5 +45988,11 @@
         "url": "https://www.telegraph.co.uk/global-health/women-and-girls/women-burned-at-the-stake-in-papua-new-guinea-witch-trials/",
         "timestamp": "2026-03-17T09:33:13.421819",
         "source": "Hacker News"
+    },
+    {
+        "title": "Morgan Stanley: Running Flux on 500 clusters with 100k+ containers",
+        "url": "https://fluxcd.io/blog/2026/03/stairway-to-gitops-morgan-stanley/",
+        "timestamp": "2026-03-17T09:33:13.421846",
+        "source": "Hacker News"
     }
 ]
