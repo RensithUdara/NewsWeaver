@@ -45886,5 +45886,11 @@
         "url": "https://www.producthunt.com/products/manus",
         "timestamp": "2026-03-17T08:33:06.814413",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Most GitHub Actions OIDC trust policies allow any repo to assume AWS IAM roles",
+        "url": "https://haitmg.pl/blog/github-actions-oidc-aws-backdoor/",
+        "timestamp": "2026-03-17T09:33:13.421308",
+        "source": "Hacker News"
     }
 ]
