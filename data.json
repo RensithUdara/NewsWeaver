@@ -47182,5 +47182,11 @@
         "url": "https://javiergonzalez.io/blog/the-economics-of-slop/",
         "timestamp": "2026-03-17T15:41:44.479457",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Fuzzer for the Toy Optimizer",
+        "url": "https://bernsteinbear.com/blog/toy-fuzzer/",
+        "timestamp": "2026-03-17T15:41:44.479490",
+        "source": "Hacker News"
     }
 ]
