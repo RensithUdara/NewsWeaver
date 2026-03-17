@@ -45208,5 +45208,11 @@
         "url": "https://vivekhaldar.com/articles/surprising-a-model/",
         "timestamp": "2026-03-17T05:42:32.296509",
         "source": "Hacker News"
+    },
+    {
+        "title": "PMetal – (Powdered Metal) LLM Fine-Tuning Framework for Apple Silicon",
+        "url": "https://github.com/Epistates/pmetal",
+        "timestamp": "2026-03-17T05:42:32.296545",
+        "source": "Hacker News"
     }
 ]
