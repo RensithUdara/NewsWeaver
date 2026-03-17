@@ -46900,5 +46900,11 @@
         "url": "https://www.ybuffet.com/",
         "timestamp": "2026-03-17T14:37:41.099702",
         "source": "Hacker News"
+    },
+    {
+        "title": "How I Built a Security Scanner That Writes its own Exploits",
+        "url": "https://attackerview.com/blog/how-i-used-claude-code-to-automate-exploit-creation-within-24hrs-of-a-new-cve-getting-released",
+        "timestamp": "2026-03-17T14:37:41.099738",
+        "source": "Hacker News"
     }
 ]
