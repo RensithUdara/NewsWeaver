@@ -48994,5 +48994,11 @@
         "url": "https://huggingface.co/datasets/open-index/hacker-news",
         "timestamp": "2026-03-17T22:47:54.218753",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Score your GitHub repo for AI coding agents",
+        "url": "https://twill.ai/scorecard",
+        "timestamp": "2026-03-17T22:47:54.218790",
+        "source": "Hacker News"
     }
 ]
