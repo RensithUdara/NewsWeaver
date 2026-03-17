@@ -45226,5 +45226,11 @@
         "url": "https://news.ycombinator.com/item?id=47408999",
         "timestamp": "2026-03-17T05:42:32.296621",
         "source": "Hacker News"
+    },
+    {
+        "title": "Loom – a zero-dependency C++20 blog engine (one binary, one command)",
+        "url": "https://github.com/1ay1/loom",
+        "timestamp": "2026-03-17T05:42:32.296655",
+        "source": "Hacker News"
     }
 ]
