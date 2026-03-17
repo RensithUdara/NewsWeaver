@@ -44902,5 +44902,11 @@
         "url": "https://markopolo.ai/newsroom/athena/",
         "timestamp": "2026-03-17T02:29:03.448018",
         "source": "Hacker News"
+    },
+    {
+        "title": "LightProto: Zero-alloc Protobuf for Java, up to 8x faster than Google's protobuf",
+        "url": "https://github.com/streamnative/lightproto",
+        "timestamp": "2026-03-17T02:29:03.448057",
+        "source": "Hacker News"
     }
 ]
