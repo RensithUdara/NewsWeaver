@@ -48460,5 +48460,11 @@
         "url": "https://midwesthumble.substack.com/p/a-wave-is-coming",
         "timestamp": "2026-03-17T20:52:56.453767",
         "source": "Hacker News"
+    },
+    {
+        "title": "We built a runtime security layer for AI agents (instead of prompt filtering)",
+        "url": "https://github.com/AriKernel/arikernel",
+        "timestamp": "2026-03-17T20:52:56.453803",
+        "source": "Hacker News"
     }
 ]
