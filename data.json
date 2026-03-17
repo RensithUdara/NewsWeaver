@@ -49096,5 +49096,11 @@
         "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/",
         "timestamp": "2026-03-17T23:17:36.398473",
         "source": "Hacker News"
+    },
+    {
+        "title": "Conductor – Multi-agent AI workflows in YAML with parallelism and human gate",
+        "url": "https://github.com/microsoft/conductor",
+        "timestamp": "2026-03-17T23:17:36.398508",
+        "source": "Hacker News"
     }
 ]
