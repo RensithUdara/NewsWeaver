@@ -47380,5 +47380,11 @@
         "url": "https://qz.com/openai-coding-enterprise-anthropic",
         "timestamp": "2026-03-17T16:45:26.686878",
         "source": "Hacker News"
+    },
+    {
+        "title": "I deploy my projects to a single VPS with Gitea, Nginx and Docker",
+        "url": "https://rogs.me/2026/03/how-i-deploy-my-projects-to-a-single-vps-with-gitea-nginx-and-docker/",
+        "timestamp": "2026-03-17T16:45:26.686911",
+        "source": "Hacker News"
     }
 ]
