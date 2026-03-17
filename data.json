@@ -48754,5 +48754,11 @@
         "url": "https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html",
         "timestamp": "2026-03-17T22:01:10.864629",
         "source": "Hacker News"
+    },
+    {
+        "title": "RustCFML – A CFML interpreter written in Rust",
+        "url": "https://github.com/pixl8/RustCFML",
+        "timestamp": "2026-03-17T22:01:10.864668",
+        "source": "Hacker News"
     }
 ]
