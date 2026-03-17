@@ -45010,5 +45010,11 @@
         "url": "https://apenwarr.ca/log/20260316",
         "timestamp": "2026-03-17T04:29:34.107386",
         "source": "Hacker News"
+    },
+    {
+        "title": "Jepsen: MariaDB Galera Cluster 12.1.2",
+        "url": "https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2",
+        "timestamp": "2026-03-17T04:29:34.107465",
+        "source": "Hacker News"
     }
 ]
