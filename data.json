@@ -46714,5 +46714,11 @@
         "url": "https://news.ycombinator.com/item?id=47412133",
         "timestamp": "2026-03-17T13:20:44.640715",
         "source": "Hacker News"
+    },
+    {
+        "title": "Loom: A components framework with signals for Go",
+        "url": "https://loomui.dev/blog/introducing-loom/",
+        "timestamp": "2026-03-17T13:20:44.640744",
+        "source": "Hacker News"
     }
 ]
