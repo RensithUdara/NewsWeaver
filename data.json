@@ -49126,5 +49126,11 @@
         "url": "https://dev.to/cdnsteve/setting-up-cocoindex-with-docker-and-pgvector-a-practical-guide-3mag",
         "timestamp": "2026-03-17T23:17:36.517471",
         "source": "Dev.to"
+    },
+    {
+        "title": "Show HN: Fatal Core Dump – a debugging murder mystery played with GDB",
+        "url": "https://www.robopenguins.com/fatal_core_dump/",
+        "timestamp": "2026-03-17T23:48:39.066068",
+        "source": "Hacker News"
     }
 ]
