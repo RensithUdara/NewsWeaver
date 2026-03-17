@@ -48766,5 +48766,11 @@
         "url": "https://news.ycombinator.com/item?id=47418632",
         "timestamp": "2026-03-17T22:01:10.864703",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a screen-free, storytelling toy with an ESP32",
+        "url": "https://github.com/akdeb/open-toys/blob/main/app/README.md",
+        "timestamp": "2026-03-17T22:01:10.864738",
+        "source": "Hacker News"
     }
 ]
