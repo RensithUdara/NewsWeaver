@@ -48328,5 +48328,11 @@
         "url": "https://snyk.io/blog/cursor-security-agent-prompts/",
         "timestamp": "2026-03-17T20:52:56.452945",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Wombat, a Unix-style rwxd permissions for MCP tool calls",
+        "url": "https://github.com/usewombat/gateway",
+        "timestamp": "2026-03-17T20:52:56.452980",
+        "source": "Hacker News"
     }
 ]
