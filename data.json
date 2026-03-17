@@ -46360,5 +46360,11 @@
         "url": "https://github.com/nicholascarroll/emil",
         "timestamp": "2026-03-17T11:23:40.958043",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a product analytics warehouse on vanilla Postgres",
+        "url": "https://xata.io/blog/postgres-data-warehouse",
+        "timestamp": "2026-03-17T11:23:40.958076",
+        "source": "Hacker News"
     }
 ]
