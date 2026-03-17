@@ -47098,5 +47098,11 @@
         "url": "https://claude.ai/public/artifacts/35a91fb5-89d6-4545-9682-50bc732f8e9c",
         "timestamp": "2026-03-17T15:41:44.478929",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Touchenv – store ENV master keys in macOS keychain",
+        "url": "https://github.com/tillcarlos/touchenv",
+        "timestamp": "2026-03-17T15:41:44.478975",
+        "source": "Hacker News"
     }
 ]
