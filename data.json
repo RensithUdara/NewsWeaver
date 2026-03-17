@@ -45934,5 +45934,11 @@
         "url": "https://marketphysics.eu/",
         "timestamp": "2026-03-17T09:33:13.421567",
         "source": "Hacker News"
+    },
+    {
+        "title": "Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg 8.1",
+        "url": "https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg",
+        "timestamp": "2026-03-17T09:33:13.421596",
+        "source": "Hacker News"
     }
 ]
