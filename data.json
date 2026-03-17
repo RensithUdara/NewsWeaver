@@ -45820,5 +45820,11 @@
         "url": "https://github.com/saemeon/busdayaxis",
         "timestamp": "2026-03-17T08:33:06.504271",
         "source": "Hacker News"
+    },
+    {
+        "title": "40k-line AI platform built solo with Rails, self-hosted GPU, and an agent",
+        "url": "https://austn.net/blog/building-an-ai-native-web-platform",
+        "timestamp": "2026-03-17T08:33:06.504307",
+        "source": "Hacker News"
     }
 ]
