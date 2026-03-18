@@ -50302,5 +50302,11 @@
         "url": "https://github.com/rcarmo/piclaw/releases/tag/v1.5.3",
         "timestamp": "2026-03-18T08:02:11.177936",
         "source": "Hacker News"
+    },
+    {
+        "title": "ZCA: Slice-Isolated Execution for Coding Agents",
+        "url": "https://github.com/operatorstack/slice-agent-bench",
+        "timestamp": "2026-03-18T08:02:11.177967",
+        "source": "Hacker News"
     }
 ]
