@@ -50698,5 +50698,11 @@
         "url": "https://news.ycombinator.com/item?id=47423583",
         "timestamp": "2026-03-18T10:06:28.735544",
         "source": "Hacker News"
+    },
+    {
+        "title": "firecracker-containerd",
+        "url": "https://github.com/firecracker-microvm/firecracker-containerd",
+        "timestamp": "2026-03-18T10:06:28.735578",
+        "source": "Hacker News"
     }
 ]
