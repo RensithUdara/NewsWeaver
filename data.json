@@ -51502,5 +51502,11 @@
         "url": "https://lowercaseopinions.com/post/useful-values",
         "timestamp": "2026-03-18T14:08:36.772026",
         "source": "Hacker News"
+    },
+    {
+        "title": "Machine Payments",
+        "url": "https://docs.stripe.com/payments/machine",
+        "timestamp": "2026-03-18T14:08:36.772064",
+        "source": "Hacker News"
     }
 ]
