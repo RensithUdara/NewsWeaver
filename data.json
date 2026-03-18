@@ -51394,5 +51394,11 @@
         "url": "https://github.com/Don-Yin/apple-mail",
         "timestamp": "2026-03-18T14:08:36.771360",
         "source": "Hacker News"
+    },
+    {
+        "title": "A drop-in binary replacement to migrate from MinIO to RustFS",
+        "url": "https://github.com/rustfs/rustfs/issues/2212",
+        "timestamp": "2026-03-18T14:08:36.771396",
+        "source": "Hacker News"
     }
 ]
