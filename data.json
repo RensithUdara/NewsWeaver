@@ -49816,5 +49816,11 @@
         "url": "https://news.ycombinator.com/item?id=47421489",
         "timestamp": "2026-03-18T05:15:59.906458",
         "source": "Hacker News"
+    },
+    {
+        "title": "SSH has no Host header",
+        "url": "https://blog.exe.dev/ssh-host-header",
+        "timestamp": "2026-03-18T06:15:08.248974",
+        "source": "Hacker News"
     }
 ]
