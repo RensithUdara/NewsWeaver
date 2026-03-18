@@ -51676,5 +51676,11 @@
         "url": "https://phys.org/news/2026-03-snail-derived-compound-safer-anticoagulant.html",
         "timestamp": "2026-03-18T15:22:28.862044",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: PlanckClaw an AI agent in 6832 bytes of x86-64 assembly",
+        "url": "https://github.com/frntn/planckclaw",
+        "timestamp": "2026-03-18T15:22:28.862083",
+        "source": "Hacker News"
     }
 ]
