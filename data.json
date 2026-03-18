@@ -53572,5 +53572,11 @@
         "url": "https://www.stateofdocs.com/2026",
         "timestamp": "2026-03-18T23:25:57.379059",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Blobsearch – Object storage and DuckDB based Elasticsearch alternative",
+        "url": "https://github.com/amr8t/blobsearch",
+        "timestamp": "2026-03-18T23:25:57.379094",
+        "source": "Hacker News"
     }
 ]
