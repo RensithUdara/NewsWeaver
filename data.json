@@ -51424,5 +51424,11 @@
         "url": "https://blog.xoria.org/boolean-types/",
         "timestamp": "2026-03-18T14:08:36.771545",
         "source": "Hacker News"
+    },
+    {
+        "title": "Side-Effectful Expressions in C (2023)",
+        "url": "https://blog.xoria.org/expr-stmt-c/",
+        "timestamp": "2026-03-18T14:08:36.771581",
+        "source": "Hacker News"
     }
 ]
