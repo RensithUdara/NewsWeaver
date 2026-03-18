@@ -50470,5 +50470,11 @@
         "url": "https://www.youtube.com/watch?v=kegwwB4RHgA",
         "timestamp": "2026-03-18T09:02:38.857343",
         "source": "Hacker News"
+    },
+    {
+        "title": "Adventures in Decoding Outlook's Hxstore",
+        "url": "https://johnson.fyi/post/reverse-engineering-outlook-hxstore",
+        "timestamp": "2026-03-18T09:02:38.857379",
+        "source": "Hacker News"
     }
 ]
