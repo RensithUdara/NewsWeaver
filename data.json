@@ -52462,5 +52462,11 @@
         "url": "https://marcrandolph.substack.com/p/the-myth-of-never-giving-up",
         "timestamp": "2026-03-18T19:36:44.004957",
         "source": "Hacker News"
+    },
+    {
+        "title": "Go SDK for Claude Agents",
+        "url": "https://github.com/character-ai/claude-agent-sdk-go",
+        "timestamp": "2026-03-18T19:36:44.004993",
+        "source": "Hacker News"
     }
 ]
