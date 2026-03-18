@@ -50206,5 +50206,11 @@
         "url": "https://www.producthunt.com/products/databox",
         "timestamp": "2026-03-18T07:18:38.024419",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Show HN: Pgit – A Git-like CLI backed by PostgreSQL",
+        "url": "https://oseifert.ch/blog/building-pgit",
+        "timestamp": "2026-03-18T08:02:11.083237",
+        "source": "Hacker News"
     }
 ]
