@@ -52636,5 +52636,11 @@
         "url": "https://www.movesmart.co/",
         "timestamp": "2026-03-18T20:03:30.084966",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: HF-agents, CLI extension to find the best model/quant for your hardware",
+        "url": "https://github.com/huggingface/hf-agents",
+        "timestamp": "2026-03-18T20:03:30.084999",
+        "source": "Hacker News"
     }
 ]
