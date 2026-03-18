@@ -52108,5 +52108,11 @@
         "url": "https://github.com/kwesting4/wake-up-protocol",
         "timestamp": "2026-03-18T17:40:51.456154",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scaling Btrfs to petabytes in production: a 74% cost reduction story",
+        "url": "https://thenewstack.io/btrfs-petabyte-cost-reduction/",
+        "timestamp": "2026-03-18T17:40:51.456184",
+        "source": "Hacker News"
     }
 ]
