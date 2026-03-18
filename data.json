@@ -50896,5 +50896,11 @@
         "url": "https://huggingface.co/pthinc/cicikus_classic",
         "timestamp": "2026-03-18T11:04:41.996624",
         "source": "Hacker News"
+    },
+    {
+        "title": "Standardization of the conda ecosystem",
+        "url": "https://conda.org/blog/2026-03-11-conda-standards-ceps/",
+        "timestamp": "2026-03-18T11:04:41.996658",
+        "source": "Hacker News"
     }
 ]
