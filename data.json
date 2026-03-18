@@ -51028,5 +51028,11 @@
         "url": "https://news.ycombinator.com/item?id=47424450",
         "timestamp": "2026-03-18T11:54:08.402149",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Airlock – container agents should never hold credentials",
+        "url": "https://github.com/calebfaruki/airlock",
+        "timestamp": "2026-03-18T11:54:08.402181",
+        "source": "Hacker News"
     }
 ]
