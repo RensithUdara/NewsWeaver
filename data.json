@@ -49834,5 +49834,11 @@
         "url": "https://theaugmentedinvestigator.substack.com/p/echoes-of-1987-how-solows-computer",
         "timestamp": "2026-03-18T06:15:08.432665",
         "source": "Hacker News"
+    },
+    {
+        "title": "Snap-confine and systemd-tmpfiles = root (CVE-2026-3888)",
+        "url": "https://www.openwall.com/lists/oss-security/2026/03/17/8",
+        "timestamp": "2026-03-18T06:15:08.432723",
+        "source": "Hacker News"
     }
 ]
