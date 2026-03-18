@@ -50068,5 +50068,11 @@
         "url": "https://circleid.com/posts/the-hyperscale-ipv4-moat-analyzing-awss-latest-9m-address-acquisition",
         "timestamp": "2026-03-18T07:18:37.584584",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2025-71263: Unix fourth edition buffer overflow vulnerability",
+        "url": "https://www.cve.org/CVERecord?id=CVE-2025-71263",
+        "timestamp": "2026-03-18T07:18:37.584658",
+        "source": "Hacker News"
     }
 ]
