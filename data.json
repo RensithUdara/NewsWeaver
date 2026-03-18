@@ -52204,5 +52204,11 @@
         "url": "https://www.bbc.com/news/articles/c78x83lpgngo",
         "timestamp": "2026-03-18T18:38:01.445223",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
+        "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
+        "timestamp": "2026-03-18T18:38:01.445257",
+        "source": "Hacker News"
     }
 ]
