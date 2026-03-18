@@ -50080,5 +50080,11 @@
         "url": "https://hedgehogreview.com/web-features/thr/posts/the-end-of-political-hypocrisy",
         "timestamp": "2026-03-18T07:18:37.584693",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I wrote a macOS C++ audio driver to fix HDMI volume controls",
+        "url": "https://github.com/chenjy16/SoundBridge",
+        "timestamp": "2026-03-18T07:18:37.584728",
+        "source": "Hacker News"
     }
 ]
