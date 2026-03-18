@@ -52570,5 +52570,11 @@
         "url": "https://tristan.st/blog/in_search_of_falsehood",
         "timestamp": "2026-03-18T19:36:44.005562",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zebra – A simple, fast, all-in-one config loader for Zig",
+        "url": "https://github.com/omkar-foss/zebra",
+        "timestamp": "2026-03-18T19:36:44.005601",
+        "source": "Hacker News"
     }
 ]
