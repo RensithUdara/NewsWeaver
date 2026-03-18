@@ -52900,5 +52900,11 @@
         "url": "https://relistd.com",
         "timestamp": "2026-03-18T20:52:19.773757",
         "source": "Hacker News"
+    },
+    {
+        "title": "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
+        "url": "https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/",
+        "timestamp": "2026-03-18T20:52:19.773791",
+        "source": "Hacker News"
     }
 ]
