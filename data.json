@@ -49822,5 +49822,11 @@
         "url": "https://blog.exe.dev/ssh-host-header",
         "timestamp": "2026-03-18T06:15:08.248974",
         "source": "Hacker News"
+    },
+    {
+        "title": "Apache Fory C++: 10x faster serialization than protobuf",
+        "url": "https://fory.apache.org/blog/fory_cpp_blazing_fast_serialization_framework/",
+        "timestamp": "2026-03-18T06:15:08.432609",
+        "source": "Hacker News"
     }
 ]
