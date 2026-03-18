@@ -50656,5 +50656,11 @@
         "url": "https://norwegianscitechnews.com/2026/03/swapping-batteries-for-hydrogen-gives-drones-a-whole-new-range/",
         "timestamp": "2026-03-18T10:06:28.735301",
         "source": "Hacker News"
+    },
+    {
+        "title": "Loft – a statically typed language where null propagates instead of crashes",
+        "url": "https://github.com/jjstwerff/loft",
+        "timestamp": "2026-03-18T10:06:28.735336",
+        "source": "Hacker News"
     }
 ]
