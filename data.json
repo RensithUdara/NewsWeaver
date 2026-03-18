@@ -52984,5 +52984,11 @@
         "url": "https://developer.nvidia.com/blog/nvidia-dynamo-1-production-ready/",
         "timestamp": "2026-03-18T21:26:25.143934",
         "source": "Hacker News"
+    },
+    {
+        "title": "VibePod adds Ollama/vLLM back end support for Claude Code and Codex",
+        "url": "https://vibepod.dev/docs/llm/",
+        "timestamp": "2026-03-18T21:26:25.144028",
+        "source": "Hacker News"
     }
 ]
