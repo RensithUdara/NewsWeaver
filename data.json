@@ -53224,5 +53224,11 @@
         "url": "https://www.nature.com/articles/s41586-025-10094-y",
         "timestamp": "2026-03-18T21:56:44.177467",
         "source": "Hacker News"
+    },
+    {
+        "title": "ZJIT removes redundant object loads and stores",
+        "url": "https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/",
+        "timestamp": "2026-03-18T21:56:44.177501",
+        "source": "Hacker News"
     }
 ]
