@@ -52654,5 +52654,11 @@
         "url": "https://www.joopiter.com/stories/trey-the-triceratops",
         "timestamp": "2026-03-18T20:03:30.085066",
         "source": "Hacker News"
+    },
+    {
+        "title": "TigerFS – A Filesystem Backed by PostgreSQL",
+        "url": "https://tigerfs.io",
+        "timestamp": "2026-03-18T20:03:30.085104",
+        "source": "Hacker News"
     }
 ]
