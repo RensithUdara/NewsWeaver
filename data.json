@@ -53314,5 +53314,11 @@
         "url": "https://www.businessinsider.com/tim-cook-response-trump-relationship-criticism-2026-3",
         "timestamp": "2026-03-18T22:27:31.841291",
         "source": "Hacker News"
+    },
+    {
+        "title": "FastAPI-compatible Python framework with Zig HTTP core; 7x faster",
+        "url": "https://github.com/justrach/turboAPI",
+        "timestamp": "2026-03-18T22:27:31.841326",
+        "source": "Hacker News"
     }
 ]
