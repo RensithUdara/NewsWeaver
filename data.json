@@ -50020,5 +50020,11 @@
         "url": "https://www.echoo.ai/",
         "timestamp": "2026-03-18T07:18:37.584307",
         "source": "Hacker News"
+    },
+    {
+        "title": "Run any LLM on any hardware. Auto-detects your GPU, checks if the model fits",
+        "url": "https://github.com/Julienbase/uniinfer",
+        "timestamp": "2026-03-18T07:18:37.584341",
+        "source": "Hacker News"
     }
 ]
