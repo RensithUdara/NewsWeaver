@@ -52978,5 +52978,11 @@
         "url": "https://www.politico.com/news/2026/03/18/fbi-buying-data-track-people-patel-00834080",
         "timestamp": "2026-03-18T21:26:25.143884",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nvidia Dynamo 1.0 Powers Multi-Node Inference at Production Scale",
+        "url": "https://developer.nvidia.com/blog/nvidia-dynamo-1-production-ready/",
+        "timestamp": "2026-03-18T21:26:25.143934",
+        "source": "Hacker News"
     }
 ]
