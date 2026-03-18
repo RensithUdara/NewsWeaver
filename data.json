@@ -53368,5 +53368,11 @@
         "url": "https://s2.dev/blog/video-conferencing",
         "timestamp": "2026-03-18T22:56:22.253464",
         "source": "Hacker News"
+    },
+    {
+        "title": "Amazon ECR now supports pull through cache for Chainguard",
+        "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecr-pull-through-cache-chainguard/",
+        "timestamp": "2026-03-18T22:56:22.253499",
+        "source": "Hacker News"
     }
 ]
