@@ -53338,5 +53338,11 @@
         "url": "https://old.reddit.com/r/Anthropic/comments/1rx1z5c/anthropic_launched_a_new_cowork_feature_called/",
         "timestamp": "2026-03-18T22:56:22.253264",
         "source": "Hacker News"
+    },
+    {
+        "title": "Userdb: Add birthDate field to JSON user records",
+        "url": "https://github.com/systemd/systemd/pull/40954",
+        "timestamp": "2026-03-18T22:56:22.253315",
+        "source": "Hacker News"
     }
 ]
