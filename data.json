@@ -52780,5 +52780,11 @@
         "url": "https://news.ycombinator.com/item?id=47431245",
         "timestamp": "2026-03-18T20:52:19.772915",
         "source": "Hacker News"
+    },
+    {
+        "title": "Phantom – A memory system for local LLMs that enriches itself while you sleep",
+        "url": "https://github.com/MidasMulli/phantom-memory",
+        "timestamp": "2026-03-18T20:52:19.772990",
+        "source": "Hacker News"
     }
 ]
