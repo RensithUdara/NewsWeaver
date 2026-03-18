@@ -51994,5 +51994,11 @@
         "url": "https://blog.alcazarsec.com/tech/posts/wide-logging",
         "timestamp": "2026-03-18T17:40:51.145381",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Snare – honeytokens that fire at credential resolution, not API call",
+        "url": "https://github.com/peg/snare",
+        "timestamp": "2026-03-18T17:40:51.455596",
+        "source": "Hacker News"
     }
 ]
