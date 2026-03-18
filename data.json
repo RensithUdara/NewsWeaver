@@ -51370,5 +51370,11 @@
         "url": "https://konbiniapi.com",
         "timestamp": "2026-03-18T14:08:36.771221",
         "source": "Hacker News"
+    },
+    {
+        "title": "A ngrok-style secure tunnel server written in Rust and Open Source",
+        "url": "https://github.com/joaoh82/rustunnel",
+        "timestamp": "2026-03-18T14:08:36.771254",
+        "source": "Hacker News"
     }
 ]
