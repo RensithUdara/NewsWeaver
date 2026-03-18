@@ -49798,5 +49798,11 @@
         "url": "https://www.nature.com/articles/d41586-026-00854-9",
         "timestamp": "2026-03-18T05:15:59.906341",
         "source": "Hacker News"
+    },
+    {
+        "title": "SQLite WAL-reset database corruption bug",
+        "url": "https://sqlite.org/wal.html#walresetbug",
+        "timestamp": "2026-03-18T05:15:59.906382",
+        "source": "Hacker News"
     }
 ]
