@@ -53344,5 +53344,11 @@
         "url": "https://github.com/systemd/systemd/pull/40954",
         "timestamp": "2026-03-18T22:56:22.253315",
         "source": "Hacker News"
+    },
+    {
+        "title": "Shared databases are not modular, they are just a weakness",
+        "url": "https://news.ycombinator.com/item?id=47432372",
+        "timestamp": "2026-03-18T22:56:22.253354",
+        "source": "Hacker News"
     }
 ]
