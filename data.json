@@ -49300,5 +49300,11 @@
         "url": "https://www.nationalreview.com/2026/03/why-were-joining-tiktok/",
         "timestamp": "2026-03-18T00:58:37.238719",
         "source": "Hacker News"
+    },
+    {
+        "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
+        "url": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
+        "timestamp": "2026-03-18T00:58:37.238756",
+        "source": "Hacker News"
     }
 ]
