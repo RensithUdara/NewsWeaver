@@ -52546,5 +52546,11 @@
         "url": "https://www.sencha.com/blog/sencha-ext-js-is-moving-to-subscription-only-licensing-what-you-need-to-know/",
         "timestamp": "2026-03-18T19:36:44.005427",
         "source": "Hacker News"
+    },
+    {
+        "title": "I replaced FastAPI's HTTP core with Zig",
+        "url": "https://twitter.com/rachpradhan/status/2034191434182738096",
+        "timestamp": "2026-03-18T19:36:44.005460",
+        "source": "Hacker News"
     }
 ]
