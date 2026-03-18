@@ -50620,5 +50620,11 @@
         "url": "https://nightingale.cafe/",
         "timestamp": "2026-03-18T10:06:28.634516",
         "source": "Hacker News"
+    },
+    {
+        "title": "Amiga DevBench connects a modern host machine to an emulated (or real) Amiga",
+        "url": "https://github.com/geekychris/amiga_mcp",
+        "timestamp": "2026-03-18T10:06:28.735097",
+        "source": "Hacker News"
     }
 ]
