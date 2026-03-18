@@ -53668,5 +53668,11 @@
         "url": "https://aristotle.harmonic.fun/",
         "timestamp": "2026-03-18T23:50:37.988464",
         "source": "Hacker News"
+    },
+    {
+        "title": "PondDB – Self-hosted agent memory database built on DuckDB",
+        "url": "https://github.com/pond-db/pond-db",
+        "timestamp": "2026-03-18T23:50:37.988531",
+        "source": "Hacker News"
     }
 ]
