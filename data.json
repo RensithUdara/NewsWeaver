@@ -52762,5 +52762,11 @@
         "url": "https://twitter.com/toddsaunders/status/2034243420147859716",
         "timestamp": "2026-03-18T20:52:19.772743",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Real-time local TTS (31M params, 5.6x CPU, voice cloning, ONNX)",
+        "url": "https://github.com/ZDisket/vits-evo",
+        "timestamp": "2026-03-18T20:52:19.772792",
+        "source": "Hacker News"
     }
 ]
