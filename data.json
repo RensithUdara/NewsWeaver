@@ -56476,5 +56476,11 @@
         "url": "https://takes.jamesomalley.co.uk/p/britains-geospatial-data-is-a-mess",
         "timestamp": "2026-03-19T16:29:18.739131",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Dual-API Bash Weather CLI for Waybar and Hyprland (Wttr.in+Open-Meteo)",
+        "url": "https://github.com/jimishol/weather-cli-dualprovider",
+        "timestamp": "2026-03-19T16:29:18.739167",
+        "source": "Hacker News"
     }
 ]
