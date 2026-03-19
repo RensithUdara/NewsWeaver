@@ -58168,5 +58168,11 @@
         "url": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/",
         "timestamp": "2026-03-19T22:50:07.188450",
         "source": "Hacker News"
+    },
+    {
+        "title": "Generalized Dot-Product Attention: Tackling Real-World Challenges in GPU Kernels",
+        "url": "https://pytorch.org/blog/generalized-dot-product-attention-tackling-real-world-challenges-in-gpu-training-kernels/",
+        "timestamp": "2026-03-19T22:50:07.188485",
+        "source": "Hacker News"
     }
 ]
