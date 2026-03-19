@@ -57778,5 +57778,11 @@
         "url": "https://mooracle.io/blog/inverse-cognitive-maneuver/",
         "timestamp": "2026-03-19T21:20:07.720817",
         "source": "Hacker News"
+    },
+    {
+        "title": "Speed-Of-Light ExecBench: A benchmark of real-world DL kernel problems",
+        "url": "https://github.com/nvidia/sol-execbench",
+        "timestamp": "2026-03-19T21:20:07.720852",
+        "source": "Hacker News"
     }
 ]
