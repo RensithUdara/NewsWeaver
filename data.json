@@ -56074,5 +56074,11 @@
         "url": "https://bench.evidra.cc/",
         "timestamp": "2026-03-19T14:31:56.062403",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: M33mu – Cortex-M33 emulation with TrustZone, reverse stepping, and GDB",
+        "url": "https://github.com/danielinux/m33mu",
+        "timestamp": "2026-03-19T14:31:56.062444",
+        "source": "Hacker News"
     }
 ]
