@@ -57046,5 +57046,11 @@
         "url": "https://news.ycombinator.com/item?id=47443390",
         "timestamp": "2026-03-19T18:29:13.435667",
         "source": "Hacker News"
+    },
+    {
+        "title": "AgentBPF: eBPF-based observability for LLM agent trajectories",
+        "url": "https://github.com/pandyamarut/AgentBPF",
+        "timestamp": "2026-03-19T18:29:13.435702",
+        "source": "Hacker News"
     }
 ]
