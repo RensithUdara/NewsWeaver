@@ -55054,5 +55054,11 @@
         "url": "https://designexplained.substack.com/p/taste-at-scale",
         "timestamp": "2026-03-19T09:25:25.099829",
         "source": "Hacker News"
+    },
+    {
+        "title": "Context Engineering for Coding Agents",
+        "url": "https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html",
+        "timestamp": "2026-03-19T09:25:25.099862",
+        "source": "Hacker News"
     }
 ]
