@@ -54256,5 +54256,11 @@
         "url": "https://archive.org/details/spectre-1977",
         "timestamp": "2026-03-19T05:19:20.859750",
         "source": "Hacker News"
+    },
+    {
+        "title": "Secure Exec – secure Node.js execution without a sandbox",
+        "url": "https://secureexec.dev/",
+        "timestamp": "2026-03-19T06:13:03.439688",
+        "source": "Hacker News"
     }
 ]
