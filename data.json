@@ -53860,5 +53860,11 @@
         "url": "https://www.bbc.com/news/articles/c2d1drzgxzyo",
         "timestamp": "2026-03-19T01:17:48.866610",
         "source": "Hacker News"
+    },
+    {
+        "title": "Autoresearch for SAT Solvers",
+        "url": "https://github.com/iliazintchenko/agent-sat",
+        "timestamp": "2026-03-19T01:17:48.866644",
+        "source": "Hacker News"
     }
 ]
