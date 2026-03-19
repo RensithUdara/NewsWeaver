@@ -57652,5 +57652,11 @@
         "url": "https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf",
         "timestamp": "2026-03-19T21:20:07.410937",
         "source": "Hacker News"
+    },
+    {
+        "title": "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
+        "url": "https://esolang-bench.vercel.app/",
+        "timestamp": "2026-03-19T21:20:07.411421",
+        "source": "Hacker News"
     }
 ]
