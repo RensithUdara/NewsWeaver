@@ -57994,5 +57994,11 @@
         "url": "https://openinapp.link/taskybear-app",
         "timestamp": "2026-03-19T22:18:34.595292",
         "source": "Hacker News"
+    },
+    {
+        "title": "PostgreSQL extension to set connection to read-only mode (for AI agents and MCP)",
+        "url": "https://github.com/danolivo/safesession",
+        "timestamp": "2026-03-19T22:18:34.595325",
+        "source": "Hacker News"
     }
 ]
