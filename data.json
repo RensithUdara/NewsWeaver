@@ -58162,5 +58162,11 @@
         "url": "https://support.apple.com/en-us/126776",
         "timestamp": "2026-03-19T22:50:07.188413",
         "source": "Hacker News"
+    },
+    {
+        "title": "New \"PolyShell\" flaw allows unauthenticated RCE on Magento e-stores",
+        "url": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/",
+        "timestamp": "2026-03-19T22:50:07.188450",
+        "source": "Hacker News"
     }
 ]
