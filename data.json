@@ -55780,5 +55780,11 @@
         "url": "https://ruudvanasseldonk.com/2026/ai-paranoia",
         "timestamp": "2026-03-19T13:39:05.661707",
         "source": "Hacker News"
+    },
+    {
+        "title": "We Cut FFmpeg Memory Usage by 5x When Transcoding 8K HEVC to H.264",
+        "url": "https://blog.addpipe.com/reducing-ffmpeg-memory-usage/",
+        "timestamp": "2026-03-19T13:39:05.661756",
+        "source": "Hacker News"
     }
 ]
