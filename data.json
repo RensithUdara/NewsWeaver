@@ -58330,5 +58330,11 @@
         "url": "https://mohamedkoubaa.com/groq-emulator",
         "timestamp": "2026-03-19T23:16:11.645995",
         "source": "Hacker News"
+    },
+    {
+        "title": "Forked Garry Tan's gstack and adapted for Google's Antigravity and Gemini-CLI",
+        "url": "https://github.com/asecretcompany/gstack-fork",
+        "timestamp": "2026-03-19T23:16:11.646029",
+        "source": "Hacker News"
     }
 ]
