@@ -56494,5 +56494,11 @@
         "url": "https://www.maizure.org/projects/decoded-gnu-coreutils/",
         "timestamp": "2026-03-19T16:29:18.739242",
         "source": "Hacker News"
+    },
+    {
+        "title": "Using Rust and Postgres for everything: patterns learned over the years",
+        "url": "https://kerkour.com/rust-postgres-everything",
+        "timestamp": "2026-03-19T16:29:18.739277",
+        "source": "Hacker News"
     }
 ]
