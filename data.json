@@ -55132,5 +55132,11 @@
         "url": "https://zenoh.io/blog/2026-03-18-zenoh-kiyohime/",
         "timestamp": "2026-03-19T10:04:55.086811",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pg_stat_ch: Postgres extension that exports every metric to ClickHouse",
+        "url": "https://github.com/ClickHouse/pg_stat_ch",
+        "timestamp": "2026-03-19T10:04:55.086843",
+        "source": "Hacker News"
     }
 ]
