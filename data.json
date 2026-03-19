@@ -56398,5 +56398,11 @@
         "url": "https://techcrunch.com/2026/03/19/rivian-sacrifices-2027-profit-goal-to-push-deeper-into-autonomy/",
         "timestamp": "2026-03-19T15:28:39.405684",
         "source": "TechCrunch"
+    },
+    {
+        "title": "macOS 26 breaks custom DNS settings including .internal",
+        "url": "https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a",
+        "timestamp": "2026-03-19T16:29:18.634644",
+        "source": "Hacker News"
     }
 ]
