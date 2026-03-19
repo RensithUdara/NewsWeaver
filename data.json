@@ -57382,5 +57382,11 @@
         "url": "https://blog.mozilla.ai/llamafile-reloaded-whats-new-in-v0-10-0/",
         "timestamp": "2026-03-19T19:59:33.731006",
         "source": "Hacker News"
+    },
+    {
+        "title": "Aligning LLMs at inference time by suppressing internal concepts",
+        "url": "https://www.guidelabs.ai/post/steerling-8b-alignment-without-retraining/",
+        "timestamp": "2026-03-19T19:59:33.731048",
+        "source": "Hacker News"
     }
 ]
