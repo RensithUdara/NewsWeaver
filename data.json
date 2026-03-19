@@ -55240,5 +55240,11 @@
         "url": "https://news.ycombinator.com/item?id=47436845",
         "timestamp": "2026-03-19T10:04:55.087369",
         "source": "Hacker News"
+    },
+    {
+        "title": "AMD GPU-Initiated I/O",
+        "url": "https://thegeeko.me/blog/nvme-amdgpu-p2pdma/",
+        "timestamp": "2026-03-19T10:04:55.087426",
+        "source": "Hacker News"
     }
 ]
