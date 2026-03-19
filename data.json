@@ -54880,5 +54880,11 @@
         "url": "https://stitch.withgoogle.com/",
         "timestamp": "2026-03-19T08:35:32.821881",
         "source": "Hacker News"
+    },
+    {
+        "title": "Observability for your LLM-powered apps: OTel Instrumentation for RubyLLM",
+        "url": "https://thoughtbot.com/blog/observability-for-your-llm-powered-apps-otel-instrumentation-for-rubyllm",
+        "timestamp": "2026-03-19T08:35:32.821950",
+        "source": "Hacker News"
     }
 ]
