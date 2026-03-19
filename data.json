@@ -58180,5 +58180,11 @@
         "url": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
         "timestamp": "2026-03-19T22:50:07.188521",
         "source": "Hacker News"
+    },
+    {
+        "title": "M^2RNN: Non-Linear RNNs with Matrix-Valued States for Scalable Language Modeling",
+        "url": "https://arxiv.org/abs/2603.14360",
+        "timestamp": "2026-03-19T22:50:07.188556",
+        "source": "Hacker News"
     }
 ]
