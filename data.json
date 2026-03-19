@@ -56290,5 +56290,11 @@
         "url": "https://gizmodo.com/kash-patel-admits-the-fbi-is-buying-private-data-on-americans-2000735317",
         "timestamp": "2026-03-19T15:28:38.840972",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Backlit – Lit Web Component SSR for Drupal via Go and WASM, No Node.js",
+        "url": "https://bennypowers.dev/posts/drupal-lit-ssr-wasm/",
+        "timestamp": "2026-03-19T15:28:38.841006",
+        "source": "Hacker News"
     }
 ]
