@@ -56080,5 +56080,11 @@
         "url": "https://github.com/danielinux/m33mu",
         "timestamp": "2026-03-19T14:31:56.062444",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Copy-Paste Bug That Broke PSpice AES-256 Encryption",
+        "url": "https://jtsylve.blog/post/2026/03/18/PSpice-Encryption-Weakness",
+        "timestamp": "2026-03-19T14:31:56.062479",
+        "source": "Hacker News"
     }
 ]
