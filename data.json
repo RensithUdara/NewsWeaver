@@ -56248,5 +56248,11 @@
         "url": "https://k2xl.substack.com/p/downleveled",
         "timestamp": "2026-03-19T15:28:38.840729",
         "source": "Hacker News"
+    },
+    {
+        "title": "Terraform Cloud Drift Detection: How It Works and Setup",
+        "url": "https://spacelift.io/blog/terraform-cloud-drift-detection",
+        "timestamp": "2026-03-19T15:28:38.840764",
+        "source": "Hacker News"
     }
 ]
