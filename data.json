@@ -55822,5 +55822,11 @@
         "url": "https://beachspectres.com/",
         "timestamp": "2026-03-19T13:39:05.662002",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building an LSP Server with Rust is surprisingly easy and fun",
+        "url": "https://codeinput.com/blog/lsp-server",
+        "timestamp": "2026-03-19T13:39:05.662036",
+        "source": "Hacker News"
     }
 ]
