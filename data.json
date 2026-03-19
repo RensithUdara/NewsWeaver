@@ -53974,5 +53974,11 @@
         "url": "https://www.lastweekinaws.com/blog/2-ways-to-correct-the-financial-times-at-aws-so-far/",
         "timestamp": "2026-03-19T03:50:40.015360",
         "source": "Hacker News"
+    },
+    {
+        "title": "Identity-first containment for autonomous agent workloads (SPIFFE and Istio lab) [pdf]",
+        "url": "https://github.com/computeaholic/threadforge-agent-containment-lab/blob/main/docs/Agent-Containment-Architecture-2026.pdf",
+        "timestamp": "2026-03-19T03:50:40.015394",
+        "source": "Hacker News"
     }
 ]
