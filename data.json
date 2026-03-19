@@ -53938,5 +53938,11 @@
         "url": "https://www.youtube.com/watch?v=YDdKiQNw80c",
         "timestamp": "2026-03-19T03:50:40.015138",
         "source": "Hacker News"
+    },
+    {
+        "title": "Share of Labour Compensation in GDP for United States (1950-2023)",
+        "url": "https://fred.stlouisfed.org/series/LABSHPUSA156NRUG",
+        "timestamp": "2026-03-19T03:50:40.015175",
+        "source": "Hacker News"
     }
 ]
