@@ -56548,5 +56548,11 @@
         "url": "https://www.worldhappiness.report/ed/2026/",
         "timestamp": "2026-03-19T16:29:18.739575",
         "source": "Hacker News"
+    },
+    {
+        "title": "Integrated Gauges: Lessons Learned Monitoring Seastar's IO Stack",
+        "url": "https://www.scylladb.com/2026/03/17/integrated-gauges-lessons-learned-monitoring-seastars-io-stack/",
+        "timestamp": "2026-03-19T16:29:18.739610",
+        "source": "Hacker News"
     }
 ]
