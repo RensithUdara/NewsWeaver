@@ -54394,5 +54394,11 @@
         "url": "https://news.ycombinator.com/item?id=47435275",
         "timestamp": "2026-03-19T06:13:03.440532",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nominal Connect: Shipping Realtime Desktop Software with Rust, Bevy, and Egui",
+        "url": "https://nominal.io/blog/nominal-connect-shipping-realtime-desktop-software-with-rust-bevy-and-egui",
+        "timestamp": "2026-03-19T06:13:03.440566",
+        "source": "Hacker News"
     }
 ]
