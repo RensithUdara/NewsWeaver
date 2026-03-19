@@ -53692,5 +53692,11 @@
         "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
         "timestamp": "2026-03-19T01:17:48.770084",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
+        "url": "https://github.com/alainnothere/llm-circuit-finder",
+        "timestamp": "2026-03-19T01:17:48.770230",
+        "source": "Hacker News"
     }
 ]
