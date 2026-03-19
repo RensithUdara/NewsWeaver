@@ -56878,5 +56878,11 @@
         "url": "https://blog.skypilot.co/scaling-autoresearch/",
         "timestamp": "2026-03-19T18:29:13.179621",
         "source": "Hacker News"
+    },
+    {
+        "title": "Noq: n0's new QUIC implementation in Rust",
+        "url": "https://www.iroh.computer/blog/noq-announcement",
+        "timestamp": "2026-03-19T18:29:13.179734",
+        "source": "Hacker News"
     }
 ]
