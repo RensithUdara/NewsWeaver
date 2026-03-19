@@ -53920,5 +53920,11 @@
         "url": "https://github.com/HapiCreative/jninty",
         "timestamp": "2026-03-19T03:50:40.015017",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tool to visualize CVE attack chains",
+        "url": "https://vulnpath.vercel.app/app",
+        "timestamp": "2026-03-19T03:50:40.015057",
+        "source": "Hacker News"
     }
 ]
