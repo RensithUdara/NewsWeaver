@@ -55618,5 +55618,11 @@
         "url": "https://lexicon.esq/",
         "timestamp": "2026-03-19T12:01:23.867774",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Nginx module to detect and block 50 AI crawlers at the server level",
+        "url": "https://github.com/GetPageSpeed/ngx_http_device_type_module",
+        "timestamp": "2026-03-19T12:01:23.867822",
+        "source": "Hacker News"
     }
 ]
