@@ -55006,5 +55006,11 @@
         "url": "https://www.dylancollins.com/p/the-five-companies-you-can-build",
         "timestamp": "2026-03-19T09:25:25.099518",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI Council: run mupliple LLMs on your question, get consolidated opinion",
+        "url": "https://github.com/yanbrod/council",
+        "timestamp": "2026-03-19T09:25:25.099553",
+        "source": "Hacker News"
     }
 ]
