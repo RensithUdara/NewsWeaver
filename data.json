@@ -54856,5 +54856,11 @@
         "url": "https://www.politico.eu/article/black-cube-leak-tape-corruption-israel-spy-firm-slovenia-election/",
         "timestamp": "2026-03-19T08:35:32.821740",
         "source": "Hacker News"
+    },
+    {
+        "title": "Turn AWS CloudShell into a distributed file store for fun",
+        "url": "https://github.com/dan-v/cloudshell-store",
+        "timestamp": "2026-03-19T08:35:32.821774",
+        "source": "Hacker News"
     }
 ]
