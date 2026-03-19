@@ -55210,5 +55210,11 @@
         "url": "https://fitdle.yonatanbuilds.com/",
         "timestamp": "2026-03-19T10:04:55.087220",
         "source": "Hacker News"
+    },
+    {
+        "title": "Accessing Hardware in Rust",
+        "url": "https://ferrous-systems.com/blog/hardware-access-rust/",
+        "timestamp": "2026-03-19T10:04:55.087251",
+        "source": "Hacker News"
     }
 ]
