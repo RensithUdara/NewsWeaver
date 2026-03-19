@@ -54814,5 +54814,11 @@
         "url": "https://www.producthunt.com/products/budibase",
         "timestamp": "2026-03-19T07:56:27.601076",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Translate Garry Tan's LinkedIn-speak to plain English",
+        "url": "https://github.com/garrytan/gstack/pull/213",
+        "timestamp": "2026-03-19T08:35:32.821495",
+        "source": "Hacker News"
     }
 ]
