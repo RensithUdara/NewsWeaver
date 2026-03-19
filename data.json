@@ -54262,5 +54262,11 @@
         "url": "https://secureexec.dev/",
         "timestamp": "2026-03-19T06:13:03.439688",
         "source": "Hacker News"
+    },
+    {
+        "title": "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
+        "url": "https://simonwillison.net/2026/Mar/18/llm-in-a-flash/",
+        "timestamp": "2026-03-19T06:13:03.439743",
+        "source": "Hacker News"
     }
 ]
