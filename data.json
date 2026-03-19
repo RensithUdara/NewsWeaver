@@ -55678,5 +55678,11 @@
         "url": "https://datascienceweekly.substack.com/p/data-science-weekly-issue-643",
         "timestamp": "2026-03-19T12:01:23.868170",
         "source": "Hacker News"
+    },
+    {
+        "title": "MOVA – contract runtime for AI agents that require human approval (Rust/WASM)",
+        "url": "https://github.com/mova-compact/MOVA_Claw",
+        "timestamp": "2026-03-19T12:01:23.868202",
+        "source": "Hacker News"
     }
 ]
