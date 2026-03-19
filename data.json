@@ -55810,5 +55810,11 @@
         "url": "https://news.ycombinator.com/item?id=47439115",
         "timestamp": "2026-03-19T13:39:05.661932",
         "source": "Hacker News"
+    },
+    {
+        "title": "Performance Leaderboard for News Sites",
+        "url": "https://webperf.xyz/",
+        "timestamp": "2026-03-19T13:39:05.661967",
+        "source": "Hacker News"
     }
 ]
