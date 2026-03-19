@@ -55516,5 +55516,11 @@
         "url": "https://showslide.com/",
         "timestamp": "2026-03-19T11:31:27.965709",
         "source": "Hacker News"
+    },
+    {
+        "title": "How Ghostty is extracting a reusable terminal library from a 237KB Zig file",
+        "url": "https://codelayers.ai/blog/blast-radius-ghostty-libghostty",
+        "timestamp": "2026-03-19T11:31:27.965743",
+        "source": "Hacker News"
     }
 ]
