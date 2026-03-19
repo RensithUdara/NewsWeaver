@@ -54868,5 +54868,11 @@
         "url": "https://eclecticlight.co/2026/03/19/what-is-a-background-security-improvement-and-how-does-it-work/",
         "timestamp": "2026-03-19T08:35:32.821808",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenCode drops Claude Pro/Max subscription support per Anthropic's legal request",
+        "url": "https://github.com/anomalyco/opencode/pull/18186",
+        "timestamp": "2026-03-19T08:35:32.821846",
+        "source": "Hacker News"
     }
 ]
