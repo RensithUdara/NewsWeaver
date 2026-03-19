@@ -57838,5 +57838,11 @@
         "url": "https://www.engadget.com/big-tech/amazon-acquires-autonomous-robotics-startup-rivr-212839750.html",
         "timestamp": "2026-03-19T21:50:40.140323",
         "source": "Hacker News"
+    },
+    {
+        "title": "Acestep.cpp: portable C++17 implementation of ACE-Step 1.5 using GGML",
+        "url": "https://github.com/ServeurpersoCom/acestep.cpp",
+        "timestamp": "2026-03-19T21:50:40.140363",
+        "source": "Hacker News"
     }
 ]
