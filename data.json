@@ -56902,5 +56902,11 @@
         "url": "https://eclypsium.com/blog/your-kvm-is-the-weak-link-how-30-dollar-devices-can-own-your-entire-network/",
         "timestamp": "2026-03-19T18:29:13.434780",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Open-source CLI that turns 128 test failures into 2 root causes",
+        "url": "https://github.com/bilalimamoglu/sift",
+        "timestamp": "2026-03-19T18:29:13.434820",
+        "source": "Hacker News"
     }
 ]
