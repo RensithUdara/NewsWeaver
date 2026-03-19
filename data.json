@@ -56278,5 +56278,11 @@
         "url": "https://chromewebstore.google.com/detail/llm-check-ai-readiness-vi/oalgfkbijifcmkbibinfoppkmhckjjcj",
         "timestamp": "2026-03-19T15:28:38.840905",
         "source": "Hacker News"
+    },
+    {
+        "title": "Use subagents and custom agents in Codex",
+        "url": "https://simonwillison.net/2026/Mar/16/codex-subagents/",
+        "timestamp": "2026-03-19T15:28:38.840939",
+        "source": "Hacker News"
     }
 ]
