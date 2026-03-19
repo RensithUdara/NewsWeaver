@@ -55120,5 +55120,11 @@
         "url": "https://www.producthunt.com/products/tracium-ai",
         "timestamp": "2026-03-19T09:25:25.431646",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "MoMA – Claude Code orchestrator that won't implement until the plan scores 10/10",
+        "url": "https://github.com/mizioandOrg/claude-planner-reviewer-implementer",
+        "timestamp": "2026-03-19T10:04:55.086765",
+        "source": "Hacker News"
     }
 ]
