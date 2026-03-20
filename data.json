@@ -62740,5 +62740,11 @@
         "url": "https://www.bbc.com/news/articles/cj40xgv5vpdo",
         "timestamp": "2026-03-20T21:21:45.988191",
         "source": "Hacker News"
+    },
+    {
+        "title": "Verilator open-source SystemVerilog simulator",
+        "url": "https://github.com/verilator/verilator",
+        "timestamp": "2026-03-20T21:21:45.988226",
+        "source": "Hacker News"
     }
 ]
