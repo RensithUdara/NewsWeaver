@@ -61240,5 +61240,11 @@
         "url": "https://www.youtube.com/watch?v=rRnOtKlg4jA",
         "timestamp": "2026-03-20T16:38:36.506752",
         "source": "Hacker News"
+    },
+    {
+        "title": "A 6502 disassembler with a TUI: A modern take on Regenerator",
+        "url": "https://github.com/ricardoquesada/regenerator2000",
+        "timestamp": "2026-03-20T16:38:36.506787",
+        "source": "Hacker News"
     }
 ]
