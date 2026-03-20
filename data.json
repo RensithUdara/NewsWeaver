@@ -58630,5 +58630,11 @@
         "url": "https://ensemblewriter.com/",
         "timestamp": "2026-03-20T02:50:43.063576",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Make a Similar Chrome Bookmarks-Manager with Aiohttp",
+        "url": "https://gitlab.com/wcorrales/bookmarks-manager",
+        "timestamp": "2026-03-20T02:50:43.063609",
+        "source": "Hacker News"
     }
 ]
