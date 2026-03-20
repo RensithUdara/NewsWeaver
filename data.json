@@ -59926,5 +59926,11 @@
         "url": "https://bigthink.com/series/full-interview/michelle-thaller-spacetime/",
         "timestamp": "2026-03-20T10:54:44.453378",
         "source": "Hacker News"
+    },
+    {
+        "title": "SQLAlchemy 2 In Practice",
+        "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-setup",
+        "timestamp": "2026-03-20T10:54:44.453449",
+        "source": "Hacker News"
     }
 ]
