@@ -62284,5 +62284,11 @@
         "url": "https://www.sciencedirect.com/science/article/pii/S2590123025045001",
         "timestamp": "2026-03-20T19:53:34.179075",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bridging Languages with Postgres and Workflows",
+        "url": "https://www.dbos.dev/blog/making-languages-interoperable-with-postgres",
+        "timestamp": "2026-03-20T19:53:34.179110",
+        "source": "Hacker News"
     }
 ]
