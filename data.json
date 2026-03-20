@@ -60562,5 +60562,11 @@
         "url": "https://www.youtube.com/watch?v=LavXSS5Xtbg",
         "timestamp": "2026-03-20T13:44:23.290267",
         "source": "Hacker News"
+    },
+    {
+        "title": "The way CTRL-C in Postgres CLI cancels queries is incredibly hack-y",
+        "url": "https://neon.com/blog/ctrl-c-in-psql-gives-me-the-heebie-jeebies",
+        "timestamp": "2026-03-20T13:44:23.290300",
+        "source": "Hacker News"
     }
 ]
