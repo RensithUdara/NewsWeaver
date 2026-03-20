@@ -58744,5 +58744,11 @@
         "url": "https://www.dongascience.com/en/news/76761",
         "timestamp": "2026-03-20T04:30:23.678204",
         "source": "Hacker News"
+    },
+    {
+        "title": "Widespread Trivvy GitHub Actions Tag Compromise Exposes CI/CD Secrets",
+        "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
+        "timestamp": "2026-03-20T04:30:23.678232",
+        "source": "Hacker News"
     }
 ]
