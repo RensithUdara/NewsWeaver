@@ -59614,5 +59614,11 @@
         "url": "https://blog.python.org/2026/03/cpython-codebase-growth/",
         "timestamp": "2026-03-20T08:55:43.366581",
         "source": "Hacker News"
+    },
+    {
+        "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
+        "url": "https://blog.atuin.sh/atuin-v18-13/",
+        "timestamp": "2026-03-20T08:55:43.366610",
+        "source": "Hacker News"
     }
 ]
