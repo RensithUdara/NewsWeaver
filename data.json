@@ -60784,5 +60784,11 @@
         "url": "https://www.bbc.com/news/articles/c895wwp3kqlo",
         "timestamp": "2026-03-20T14:29:47.658084",
         "source": "Hacker News"
+    },
+    {
+        "title": "Image hosting for AI agents with instant test keys",
+        "url": "https://github.com/jjenkins/agent-image-skills",
+        "timestamp": "2026-03-20T14:29:47.658118",
+        "source": "Hacker News"
     }
 ]
