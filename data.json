@@ -60916,5 +60916,11 @@
         "url": "https://phys.org/news/2026-03-moral-metrics-corporate-algorithms-authorities.html",
         "timestamp": "2026-03-20T15:12:36.676198",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: VersityGW COSI Driver – Manage S3 Buckets as Kubernetes CRDs",
+        "url": "https://github.com/isac322/versitygw-cosi-driver",
+        "timestamp": "2026-03-20T15:12:36.676232",
+        "source": "Hacker News"
     }
 ]
