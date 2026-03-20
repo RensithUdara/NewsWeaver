@@ -63058,5 +63058,11 @@
         "url": "https://www.cbc.ca/news/science/super-el-nino-9.7133680",
         "timestamp": "2026-03-20T22:18:20.752163",
         "source": "Hacker News"
+    },
+    {
+        "title": "Adding Live Reload to a Static Site Generator Written in Go",
+        "url": "https://jon.chrt.dev/2026/03/20/adding-live-reload-to-a-static-site-generator-written-in-go.html",
+        "timestamp": "2026-03-20T22:18:20.752196",
+        "source": "Hacker News"
     }
 ]
