@@ -59206,5 +59206,11 @@
         "url": "https://www.theregister.com/2026/03/20/blue_origin_project_sunrise_orbital_datacenter/",
         "timestamp": "2026-03-20T07:31:24.790655",
         "source": "Hacker News"
+    },
+    {
+        "title": "M5 Max MacBook Pro beats Nvidia RTX 5090 laptops at Blender 5.1 rendering",
+        "url": "https://opendata.blender.org/benchmarks/query/?compute_type=METAL&compute_type=OPTIX&blender_version=5.1.0&group_by=device_name",
+        "timestamp": "2026-03-20T07:31:24.790686",
+        "source": "Hacker News"
     }
 ]
