@@ -58510,5 +58510,11 @@
         "url": "https://blog.modelcontextprotocol.io/posts/2026-mcp-roadmap/",
         "timestamp": "2026-03-20T02:50:43.062829",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agent HTTP – Claude Code HTTP API Made Possible by Channels",
+        "url": "https://github.com/mberg/agent-http/",
+        "timestamp": "2026-03-20T02:50:43.062869",
+        "source": "Hacker News"
     }
 ]
