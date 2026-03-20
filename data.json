@@ -62980,5 +62980,11 @@
         "url": "https://twitter.com/zachary_horvitz/status/2035060950697496599",
         "timestamp": "2026-03-20T21:51:12.304679",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
+        "url": "https://github.com/FormerLab/fortransky",
+        "timestamp": "2026-03-20T22:18:20.433683",
+        "source": "Hacker News"
     }
 ]
