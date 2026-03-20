@@ -59026,5 +59026,11 @@
         "url": "https://www.horizonquantum.com/resources/newsroom/horizon-quantum-to-debut-object-oriented-language-for-programming-quantum-computers",
         "timestamp": "2026-03-20T06:33:15.085739",
         "source": "Hacker News"
+    },
+    {
+        "title": "Trivy Compromised a Second Time – v0.69.4 binaries, setup-trivy, trivy-action",
+        "url": "https://www.stepsecurity.io/blog/trivy-compromised-a-second-time---malicious-v0-69-4-release",
+        "timestamp": "2026-03-20T06:33:15.085767",
+        "source": "Hacker News"
     }
 ]
