@@ -58558,5 +58558,11 @@
         "url": "https://www.axios.com/2026/03/19/pentagon-anthropic-foreign-workforce-security-risks",
         "timestamp": "2026-03-20T02:50:43.063124",
         "source": "Hacker News"
+    },
+    {
+        "title": "LiteParse: Local document parsing for AI agents (Open source)",
+        "url": "https://www.llamaindex.ai/blog/liteparse-local-document-parsing-for-ai-agents",
+        "timestamp": "2026-03-20T02:50:43.063157",
+        "source": "Hacker News"
     }
 ]
