@@ -58636,5 +58636,11 @@
         "url": "https://gitlab.com/wcorrales/bookmarks-manager",
         "timestamp": "2026-03-20T02:50:43.063609",
         "source": "Hacker News"
+    },
+    {
+        "title": "Aquasecurity/Trivy GitHub Repository and Homebrew Cask Compromised (again)",
+        "url": "https://opensourcemalware.com/repository/https%3A%2F%2Fgithub.com%2Faquasecurity%2Ftrivy%2F",
+        "timestamp": "2026-03-20T02:50:43.063642",
+        "source": "Hacker News"
     }
 ]
