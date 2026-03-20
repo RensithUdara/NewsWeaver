@@ -58750,5 +58750,11 @@
         "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
         "timestamp": "2026-03-20T04:30:23.678232",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A GUI configurator for hidutil, the native macOS keyboard editor",
+        "url": "https://ualexk.github.io/macOS-keyboard-configurator-hidutil/",
+        "timestamp": "2026-03-20T04:30:23.678259",
+        "source": "Hacker News"
     }
 ]
