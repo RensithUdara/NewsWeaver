@@ -59368,5 +59368,11 @@
         "url": "https://www.niemanlab.org/2026/03/chatgpt-claude-gemini-and-grok-are-all-bad-at-crediting-news-outlets-but-chatgpt-is-the-worst-at-least-in-this-study/",
         "timestamp": "2026-03-20T08:04:00.798185",
         "source": "Hacker News"
+    },
+    {
+        "title": "FastSafeStrings (safe, fast string library for C/C++)",
+        "url": "https://github.com/clemcl/FastSafeStrings",
+        "timestamp": "2026-03-20T08:04:00.798223",
+        "source": "Hacker News"
     }
 ]
