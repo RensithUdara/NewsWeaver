@@ -59416,5 +59416,11 @@
         "url": "https://www.science.org/doi/10.1126/sciadv.aec0269",
         "timestamp": "2026-03-20T08:04:00.798543",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: OpenAI CLIP fine tuned on Galaxy morphology",
+        "url": "https://huggingface.co/juppy44/galaxy-clip-finetuned",
+        "timestamp": "2026-03-20T08:04:00.798576",
+        "source": "Hacker News"
     }
 ]
