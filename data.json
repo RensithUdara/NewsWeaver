@@ -60592,5 +60592,11 @@
         "url": "https://techxplore.com/news/2026-03-space-grade-perovskite-solar-cells.html",
         "timestamp": "2026-03-20T13:44:23.290436",
         "source": "Hacker News"
+    },
+    {
+        "title": "Chubo: A Talos-Like OS for Nomad/Consul/Vault",
+        "url": "https://github.com/chubo-dev/chubo",
+        "timestamp": "2026-03-20T13:44:23.290470",
+        "source": "Hacker News"
     }
 ]
