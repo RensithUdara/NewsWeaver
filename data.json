@@ -61618,5 +61618,11 @@
         "url": "https://queue.acm.org/detail.cfm?id=3778029",
         "timestamp": "2026-03-20T17:57:18.177332",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sync Snyk Issues with Linear",
+        "url": "https://github.com/RichardoC/snyk-linear-sync",
+        "timestamp": "2026-03-20T17:57:18.477867",
+        "source": "Hacker News"
     }
 ]
