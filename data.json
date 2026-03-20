@@ -60448,5 +60448,11 @@
         "url": "https://www.youtube.com/watch?v=ibkLrAJnepo",
         "timestamp": "2026-03-20T13:44:23.289535",
         "source": "Hacker News"
+    },
+    {
+        "title": "Okd-metal-installer – Bare-metal Kubernetes via static ISOs",
+        "url": "https://github.com/tosin2013/okd-metal-installer",
+        "timestamp": "2026-03-20T13:44:23.289573",
+        "source": "Hacker News"
     }
 ]
