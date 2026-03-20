@@ -60148,5 +60148,11 @@
         "url": "https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence-update-1/",
         "timestamp": "2026-03-20T11:50:24.534981",
         "source": "Hacker News"
+    },
+    {
+        "title": "Replacing HLS/Dash: Media over QUIC",
+        "url": "https://moq.dev/blog/replacing-hls-dash/",
+        "timestamp": "2026-03-20T11:50:24.535012",
+        "source": "Hacker News"
     }
 ]
