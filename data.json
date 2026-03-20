@@ -63208,5 +63208,11 @@
         "url": "https://johncarlosbaez.wordpress.com/2026/03/20/the-agent-that-doesnt-know-itself/",
         "timestamp": "2026-03-20T22:49:43.171758",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bun vs. Node.js Performance: Why Your Event Loop Is the Real Bottleneck",
+        "url": "https://howtocenterdiv.com/beyond-the-div/bun-is-fast-your-event-loop-is-not",
+        "timestamp": "2026-03-20T23:15:00.975352",
+        "source": "Hacker News"
     }
 ]
