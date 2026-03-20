@@ -61828,5 +61828,11 @@
         "url": "https://nltimes.nl/2026/03/20/dutch-government-tests-european-messaging-app-reduce-reliance-whatsapp",
         "timestamp": "2026-03-20T18:42:31.264809",
         "source": "Hacker News"
+    },
+    {
+        "title": "Democratizing GraphRAG: Linear, CPU-Only Graph Retrieval for Multi-Hop QA",
+        "url": "https://arxiv.org/abs/2602.23372",
+        "timestamp": "2026-03-20T18:42:31.264845",
+        "source": "Hacker News"
     }
 ]
