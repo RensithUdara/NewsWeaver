@@ -60106,5 +60106,11 @@
         "url": "https://news.ycombinator.com/item?id=47452904",
         "timestamp": "2026-03-20T11:23:57.435221",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cursor's 'Composer 2' model is apparently just Kimi K2.5 with RL fine-tuning",
+        "url": "https://old.reddit.com/r/singularity/comments/1ryrs2w/cursors_composer_2_model_is_apparently_just_kimi/",
+        "timestamp": "2026-03-20T11:23:57.435257",
+        "source": "Hacker News"
     }
 ]
