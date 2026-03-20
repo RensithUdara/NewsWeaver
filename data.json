@@ -61558,5 +61558,11 @@
         "url": "https://terts.dev/blog/no-semicolons-needed/",
         "timestamp": "2026-03-20T17:22:20.185176",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLM evals test outputs. Rarely whether the model understood first",
+        "url": "https://github.com/NoxionAI/comprehension-score",
+        "timestamp": "2026-03-20T17:22:20.185210",
+        "source": "Hacker News"
     }
 ]
