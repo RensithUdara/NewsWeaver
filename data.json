@@ -62842,5 +62842,11 @@
         "url": "https://disjunctionsmag.com/articles/ends-of-ai/",
         "timestamp": "2026-03-20T21:21:45.988806",
         "source": "Hacker News"
+    },
+    {
+        "title": "BullshitBench: Detect nonsense, call it out and avoid confidently continuing",
+        "url": "https://github.com/petergpt/bullshit-benchmark",
+        "timestamp": "2026-03-20T21:21:45.988845",
+        "source": "Hacker News"
     }
 ]
