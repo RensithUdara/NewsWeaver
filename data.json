@@ -61048,5 +61048,11 @@
         "url": "https://news.ycombinator.com/item?id=47456376",
         "timestamp": "2026-03-20T15:57:13.817690",
         "source": "Hacker News"
+    },
+    {
+        "title": "Freeze Docker containers on laptop to save power",
+        "url": "https://github.com/muhammadn/docker-sleep",
+        "timestamp": "2026-03-20T15:57:13.817725",
+        "source": "Hacker News"
     }
 ]
