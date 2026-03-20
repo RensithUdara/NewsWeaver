@@ -58480,5 +58480,11 @@
         "url": "https://code.claude.com/docs/en/channels",
         "timestamp": "2026-03-20T02:50:42.960491",
         "source": "Hacker News"
+    },
+    {
+        "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+        "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+        "timestamp": "2026-03-20T02:50:42.960634",
+        "source": "Hacker News"
     }
 ]
