@@ -61780,5 +61780,11 @@
         "url": "https://www.raspberrypi.com/news/new-remote-updates-on-raspberry-pi-connect/",
         "timestamp": "2026-03-20T17:57:18.478866",
         "source": "Hacker News"
+    },
+    {
+        "title": "Google's A2A Protocol Has Zero Defenses Against Prompt Injection",
+        "url": "https://grith.ai/blog/a2a-protocol-zero-defenses-prompt-injection",
+        "timestamp": "2026-03-20T17:57:18.478901",
+        "source": "Hacker News"
     }
 ]
