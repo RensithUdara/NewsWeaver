@@ -61252,5 +61252,11 @@
         "url": "https://www.mollywhite.net/micro/entry/202603172318",
         "timestamp": "2026-03-20T16:38:36.506820",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ML accelerator on a RISC-V FPGA SoC – zero-cycle matmul, boots Linux",
+        "url": "https://dstrbad.substack.com/p/building-an-ml-accelerator-from-scratch",
+        "timestamp": "2026-03-20T16:38:36.506854",
+        "source": "Hacker News"
     }
 ]
