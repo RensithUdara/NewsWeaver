@@ -62260,5 +62260,11 @@
         "url": "https://thecoolingreport.com/intel/google-envicool-china-liquid-cooling-supply-chain.html",
         "timestamp": "2026-03-20T19:53:34.178932",
         "source": "Hacker News"
+    },
+    {
+        "title": "How I made Traction Point moddable using Zig and WebAssembly",
+        "url": "https://www.madrigalgames.com/blog/how-i-made-traction-point-moddable-using-zig-and-webassembly/",
+        "timestamp": "2026-03-20T19:53:34.178966",
+        "source": "Hacker News"
     }
 ]
