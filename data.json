@@ -58594,5 +58594,11 @@
         "url": "https://boreal.social/post/i-pitted-claude-gemini-chatgpt-and-grok-against-each-other",
         "timestamp": "2026-03-20T02:50:43.063374",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: HN Firebase API client for Go with support for reading flagged posts",
+        "url": "https://github.com/larrasket/hn-scrape",
+        "timestamp": "2026-03-20T02:50:43.063408",
+        "source": "Hacker News"
     }
 ]
