@@ -58600,5 +58600,11 @@
         "url": "https://github.com/larrasket/hn-scrape",
         "timestamp": "2026-03-20T02:50:43.063408",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agent Auth Protocol: An open standard for agent authentication",
+        "url": "https://agent-auth-protocol.com/",
+        "timestamp": "2026-03-20T02:50:43.063441",
+        "source": "Hacker News"
     }
 ]
