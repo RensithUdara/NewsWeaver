@@ -62866,5 +62866,11 @@
         "url": "https://www.youtube.com/watch?v=kwSVtQ7dziU",
         "timestamp": "2026-03-20T21:21:45.988948",
         "source": "Hacker News"
+    },
+    {
+        "title": "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
+        "url": "https://www.openui.com/blog/rust-wasm-parser",
+        "timestamp": "2026-03-20T21:51:12.303959",
+        "source": "Hacker News"
     }
 ]
