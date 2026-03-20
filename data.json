@@ -60190,5 +60190,11 @@
         "url": "https://comuniq.xyz/post?t=871",
         "timestamp": "2026-03-20T11:50:24.535189",
         "source": "Hacker News"
+    },
+    {
+        "title": "Some critical issues with the SWE-bench-Pro environments",
+        "url": "https://github.com/SWE-agent/mini-swe-agent/issues/787",
+        "timestamp": "2026-03-20T11:50:24.535219",
+        "source": "Hacker News"
     }
 ]
