@@ -63268,5 +63268,11 @@
         "url": "https://aiplusautomation.com/blog/what-ai-platforms-actually-cite",
         "timestamp": "2026-03-20T23:15:00.975686",
         "source": "Hacker News"
+    },
+    {
+        "title": "LibreOffice's native format ODF Python library, odfpy, is abandoned",
+        "url": "https://github.com/eea/odfpy/issues/123",
+        "timestamp": "2026-03-20T23:15:00.975715",
+        "source": "Hacker News"
     }
 ]
