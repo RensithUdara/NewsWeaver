@@ -59212,5 +59212,11 @@
         "url": "https://opendata.blender.org/benchmarks/query/?compute_type=METAL&compute_type=OPTIX&blender_version=5.1.0&group_by=device_name",
         "timestamp": "2026-03-20T07:31:24.790686",
         "source": "Hacker News"
+    },
+    {
+        "title": "One async call for grounded web research (web-scout-AI)",
+        "url": "https://github.com/RSO9192/web-scout-ai",
+        "timestamp": "2026-03-20T07:31:24.790717",
+        "source": "Hacker News"
     }
 ]
