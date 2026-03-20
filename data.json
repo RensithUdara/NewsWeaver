@@ -58474,5 +58474,11 @@
         "url": "https://thegrahams.au/blog/testing-the-theory",
         "timestamp": "2026-03-20T00:01:06.944910",
         "source": "Hacker News"
+    },
+    {
+        "title": "Push events into a running session with channels",
+        "url": "https://code.claude.com/docs/en/channels",
+        "timestamp": "2026-03-20T02:50:42.960491",
+        "source": "Hacker News"
     }
 ]
