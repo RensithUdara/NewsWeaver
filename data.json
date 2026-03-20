@@ -58960,5 +58960,11 @@
         "url": "https://www.youtube.com/watch?v=9szhjhO9epA",
         "timestamp": "2026-03-20T05:38:10.511913",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kin: Semantic version control that tracks code as entities, not files",
+        "url": "https://github.com/firelock-ai/kin",
+        "timestamp": "2026-03-20T05:38:10.511984",
+        "source": "Hacker News"
     }
 ]
