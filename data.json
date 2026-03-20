@@ -59002,5 +59002,11 @@
         "url": "https://www.wired.com/story/us-takes-down-botnets-used-in-record-breaking-cyberattacks/",
         "timestamp": "2026-03-20T06:33:15.085621",
         "source": "Hacker News"
+    },
+    {
+        "title": "Models are optimizing their own tooling",
+        "url": "https://cyrusradfar.com/thoughts/self-optimizing-models",
+        "timestamp": "2026-03-20T06:33:15.085651",
+        "source": "Hacker News"
     }
 ]
