@@ -64618,5 +64618,11 @@
         "url": "https://image.coop/blog/posts/2026/03/16/why-image-cooperative/",
         "timestamp": "2026-03-21T09:47:24.132135",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running an AI Agent on a 448KB RAM Microcontroller (Zephyr)",
+        "url": "https://github.com/LingaoM/zbot",
+        "timestamp": "2026-03-21T09:47:24.132174",
+        "source": "Hacker News"
     }
 ]
