@@ -64468,5 +64468,11 @@
         "url": "https://www.sfchronicle.com/bayarea/article/google-fiber-outage-downdetector-22088107.php",
         "timestamp": "2026-03-21T08:48:04.090934",
         "source": "Hacker News"
+    },
+    {
+        "title": "It is incorrect to \"normalize\" // in HTTP URL paths",
+        "url": "https://runxiyu.org/comp/doubleslash/",
+        "timestamp": "2026-03-21T08:48:04.090968",
+        "source": "Hacker News"
     }
 ]
