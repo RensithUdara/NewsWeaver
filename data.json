@@ -65674,5 +65674,11 @@
         "url": "https://openclaw.ai/blog/virustotal-partnership",
         "timestamp": "2026-03-21T15:12:37.514451",
         "source": "Hacker News"
+    },
+    {
+        "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
+        "url": "https://grafeo.dev/",
+        "timestamp": "2026-03-21T15:12:37.514484",
+        "source": "Hacker News"
     }
 ]
