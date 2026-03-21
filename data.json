@@ -63544,5 +63544,11 @@
         "url": "https://www.chess.com/blog/Ushiyutvj/chess-problems-the-puzzle-side-of-chess-youve-never-tried-until-now",
         "timestamp": "2026-03-21T02:21:46.517532",
         "source": "Hacker News"
+    },
+    {
+        "title": "Libfuse io_uring use-after-free and NULL deref (CVE-2026-33150, CVE-2026-33179)",
+        "url": "https://github.com/libfuse/libfuse/security/advisories/GHSA-qxv7-xrc2-qmfx",
+        "timestamp": "2026-03-21T02:21:46.517566",
+        "source": "Hacker News"
     }
 ]
