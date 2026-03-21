@@ -66532,5 +66532,11 @@
         "url": "https://frn.sh/pmem/",
         "timestamp": "2026-03-21T18:41:01.440137",
         "source": "Hacker News"
+    },
+    {
+        "title": "Benchmarking Kubernetes Log Collectors: Vector, Fluent Bit, OpenTelemetry",
+        "url": "https://victoriametrics.com/blog/log-collectors-benchmark-2026/index.html",
+        "timestamp": "2026-03-21T18:41:01.440171",
+        "source": "Hacker News"
     }
 ]
