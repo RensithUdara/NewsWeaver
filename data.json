@@ -66526,5 +66526,11 @@
         "url": "https://www.nytimes.com/2026/03/18/science/hail-mary-andy-weir.html",
         "timestamp": "2026-03-21T18:41:01.440103",
         "source": "Hacker News"
+    },
+    {
+        "title": "Investigating Node.js memory bloat: V8 lazy GC and glibc arena fragmentation",
+        "url": "https://frn.sh/pmem/",
+        "timestamp": "2026-03-21T18:41:01.440137",
+        "source": "Hacker News"
     }
 ]
