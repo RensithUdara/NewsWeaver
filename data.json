@@ -66682,5 +66682,11 @@
         "url": "https://www.inc.com/victoria-salves/for-the-first-time-scientists-may-have-found-a-way-to-regenerate-cartilage/91315605",
         "timestamp": "2026-03-21T19:33:57.894773",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Zen-Hunt – A bare-metal forensic scanner in Rust (SIMD, 7GB/s on NVMe)",
+        "url": "https://github.com/ejgi/zen_hunt",
+        "timestamp": "2026-03-21T19:33:57.894811",
+        "source": "Hacker News"
     }
 ]
