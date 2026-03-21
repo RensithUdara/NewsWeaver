@@ -66154,5 +66154,11 @@
         "url": "https://www.nytimes.com/2019/10/24/science/ant-zombies-fungus.html",
         "timestamp": "2026-03-21T17:23:05.482312",
         "source": "Hacker News"
+    },
+    {
+        "title": "TraceLens – Paste an OpenTelemetry trace, get AI root cause analysis",
+        "url": "https://tracelens.dev",
+        "timestamp": "2026-03-21T17:23:05.482342",
+        "source": "Hacker News"
     }
 ]
