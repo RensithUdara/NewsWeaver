@@ -64876,5 +64876,11 @@
         "url": "https://needlesscomplexity.substack.com/p/building-the-olimex-rvpc-retrocomputer",
         "timestamp": "2026-03-21T11:42:30.984743",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pgcli: A CLI for PostgreSQL with auto-completion and syntax highlighting",
+        "url": "https://www.pgcli.com/",
+        "timestamp": "2026-03-21T11:42:30.984779",
+        "source": "Hacker News"
     }
 ]
