@@ -65566,5 +65566,11 @@
         "url": "https://discounttimu.substack.com/p/using-llm-and-ghidra-to-analyze-malware",
         "timestamp": "2026-03-21T14:50:06.276488",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I made a simple note keeping plugin for Neovim",
+        "url": "https://github.com/UsamaQaisrani/filenotes.nvim",
+        "timestamp": "2026-03-21T14:50:06.276521",
+        "source": "Hacker News"
     }
 ]
