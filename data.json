@@ -67096,5 +67096,11 @@
         "url": "https://news.ycombinator.com/from?site=github.com%2Faquasecurity",
         "timestamp": "2026-03-21T21:57:38.798197",
         "source": "Hacker News"
+    },
+    {
+        "title": "Floci – A free, open-source local AWS emulator",
+        "url": "https://github.com/hectorvent/floci",
+        "timestamp": "2026-03-21T21:57:38.798248",
+        "source": "Hacker News"
     }
 ]
