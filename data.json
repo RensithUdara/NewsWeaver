@@ -63808,5 +63808,11 @@
         "url": "https://canitrustmydevice.com",
         "timestamp": "2026-03-21T04:15:44.477875",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a zero-knowledge vault with WebAuthn passkeys, no passwords",
+        "url": "https://emvproject-production.up.railway.app",
+        "timestamp": "2026-03-21T04:15:44.477910",
+        "source": "Hacker News"
     }
 ]
