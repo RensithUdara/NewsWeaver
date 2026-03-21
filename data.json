@@ -67468,5 +67468,11 @@
         "url": "https://www.realtimerendering.com/resources/GraphicsGems/",
         "timestamp": "2026-03-21T23:52:58.842262",
         "source": "Hacker News"
+    },
+    {
+        "title": "T0-GPU: Bare-metal kernel compiler for RDNA3",
+        "url": "https://github.com/GeisYaO/t0-gpu",
+        "timestamp": "2026-03-21T23:52:58.842297",
+        "source": "Hacker News"
     }
 ]
