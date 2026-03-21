@@ -64810,5 +64810,11 @@
         "url": "https://inqvey.com/trends",
         "timestamp": "2026-03-21T11:21:28.372251",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a tool that visualises GitHub repos as dependency graphs",
+        "url": "https://github.com/lucyb0207/CodeAtlas",
+        "timestamp": "2026-03-21T11:21:28.372293",
+        "source": "Hacker News"
     }
 ]
