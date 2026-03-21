@@ -65806,5 +65806,11 @@
         "url": "https://www.scrippsnews.com/politics/economy/usps-warns-stamp-price-could-rise-to-nearly-1-amid-financial-strain",
         "timestamp": "2026-03-21T15:58:57.860718",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A deterministic middleware to compress LLM prompts by 50-80%",
+        "url": "https://github.com/ARPAHLS/skillware",
+        "timestamp": "2026-03-21T15:58:57.860747",
+        "source": "Hacker News"
     }
 ]
