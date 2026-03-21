@@ -64114,5 +64114,11 @@
         "url": "https://www.calcalistech.com/ctechnews/article/dfpboxzg9",
         "timestamp": "2026-03-21T06:32:47.390481",
         "source": "Hacker News"
+    },
+    {
+        "title": "Writing a Verified Postfix Expression Calculator in Ada/Spark",
+        "url": "https://pyjarrett.github.io/2025/06/10/postfix-calculator.html",
+        "timestamp": "2026-03-21T06:32:47.390521",
+        "source": "Hacker News"
     }
 ]
