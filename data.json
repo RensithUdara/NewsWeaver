@@ -66304,5 +66304,11 @@
         "url": "https://marcrandolph.substack.com/p/youre-interviewing-backwards",
         "timestamp": "2026-03-21T17:47:44.167420",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built a PyTorch backend for training across multiple Macs",
+        "url": "https://github.com/mps-ddp/mccl/tree/master",
+        "timestamp": "2026-03-21T17:47:44.167452",
+        "source": "Hacker News"
     }
 ]
