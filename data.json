@@ -65968,5 +65968,11 @@
         "url": "https://github.com/vericontext/querypad",
         "timestamp": "2026-03-21T16:31:24.504141",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Inner Warden – Self-Defending Security Agent: eBPF+LSM+XDP (Rust, 29MB)",
+        "url": "https://github.com/InnerWarden/innerwarden/",
+        "timestamp": "2026-03-21T16:31:24.504174",
+        "source": "Hacker News"
     }
 ]
