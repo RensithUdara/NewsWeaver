@@ -67258,5 +67258,11 @@
         "url": "https://github.com/qaml-ai/pi-worker/tree/main/examples/terminal-agent",
         "timestamp": "2026-03-21T22:47:28.010600",
         "source": "Hacker News"
+    },
+    {
+        "title": "Acme device attestation, smallstep and pkcs11: attezt",
+        "url": "https://linderud.dev/blog/acme-device-attestation-smallstep-and-pkcs11-attezt/",
+        "timestamp": "2026-03-21T22:47:28.010634",
+        "source": "Hacker News"
     }
 ]
