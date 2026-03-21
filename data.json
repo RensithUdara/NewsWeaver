@@ -65182,5 +65182,11 @@
         "url": "https://www.youtube.com/watch?v=3j_Oh525Xrs",
         "timestamp": "2026-03-21T13:28:17.026923",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reevaluating 1990s OOP in Java: DOP, Scoped Values, and Structured Concurrency",
+        "url": "https://blog.arkstack.dev/en/blog/reevaluating-1990s-oop-in-java/",
+        "timestamp": "2026-03-21T13:28:17.026955",
+        "source": "Hacker News"
     }
 ]
