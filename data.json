@@ -66616,5 +66616,11 @@
         "url": "https://www.europol.europa.eu/media-press/newsroom/news/global-cybercrime-crackdown-over-373-000-dark-web-sites-shut-down",
         "timestamp": "2026-03-21T19:05:18.593894",
         "source": "Hacker News"
+    },
+    {
+        "title": "Single Packet Authentication with eBPF",
+        "url": "https://github.com/aminassadi/spk",
+        "timestamp": "2026-03-21T19:05:18.593930",
+        "source": "Hacker News"
     }
 ]
