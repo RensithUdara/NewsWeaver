@@ -66334,5 +66334,11 @@
         "url": "https://kx.com/blog/benchmarking-kdb-x-vs-questdb-clickhouse-timescaledb-and-influxdb-with-tsbs/",
         "timestamp": "2026-03-21T18:00:02.266473",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nostr VPN",
+        "url": "https://github.com/mmalmi/nostr-vpn",
+        "timestamp": "2026-03-21T18:00:02.266547",
+        "source": "Hacker News"
     }
 ]
