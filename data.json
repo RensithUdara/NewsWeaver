@@ -66826,5 +66826,11 @@
         "url": "https://news.ycombinator.com/item?id=47471144",
         "timestamp": "2026-03-21T20:50:11.905068",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code workspace trust dialog bypass, settings loading order CVE-2026-33068",
+        "url": "https://raxe.ai/labs/advisories/RAXE-2026-040",
+        "timestamp": "2026-03-21T20:50:11.905121",
+        "source": "Hacker News"
     }
 ]
