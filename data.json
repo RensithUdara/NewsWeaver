@@ -66652,5 +66652,11 @@
         "url": "https://github.com/xaskasdf/ps2-llm",
         "timestamp": "2026-03-21T19:33:57.894588",
         "source": "Hacker News"
+    },
+    {
+        "title": "Just In Time compilation in WebAssembly (2022)",
+        "url": "https://www.wingolog.org/archives/2022/08/18/just-in-time-code-generation-within-webassembly",
+        "timestamp": "2026-03-21T19:33:57.894627",
+        "source": "Hacker News"
     }
 ]
