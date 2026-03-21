@@ -63526,5 +63526,11 @@
         "url": "https://five09konekte.com/",
         "timestamp": "2026-03-21T02:21:46.517354",
         "source": "Hacker News"
+    },
+    {
+        "title": "purl: a curl-esque CLI for making HTTP requests that require payment",
+        "url": "https://www.purl.dev/",
+        "timestamp": "2026-03-21T02:21:46.517389",
+        "source": "Hacker News"
     }
 ]
