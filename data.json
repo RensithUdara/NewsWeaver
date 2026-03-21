@@ -65446,5 +65446,11 @@
         "url": "https://www.49agents.com",
         "timestamp": "2026-03-21T14:23:43.754083",
         "source": "Hacker News"
+    },
+    {
+        "title": "Conductor: Deterministic Routing for Multi-Agent Workflows",
+        "url": "https://jasonrobert.dev/blog/2026-03-20-introducing-an-ai-agent-workflow-conductor/",
+        "timestamp": "2026-03-21T14:23:43.754116",
+        "source": "Hacker News"
     }
 ]
