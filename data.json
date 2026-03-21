@@ -66994,5 +66994,11 @@
         "url": "https://weightedthoughts.substack.com/p/how-do-you-design-a-large-scale-ai",
         "timestamp": "2026-03-21T21:11:50.823190",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ironsmith – MTG card (de)compiler and multiplayer rules engine",
+        "url": "https://github.com/chiplis/ironsmith",
+        "timestamp": "2026-03-21T21:11:50.823226",
+        "source": "Hacker News"
     }
 ]
