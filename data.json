@@ -67150,5 +67150,11 @@
         "url": "https://github.com/blitzdotdev/blitz-mac",
         "timestamp": "2026-03-21T22:21:19.950690",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: An event loop for asyncio written in Rust",
+        "url": "https://github.com/RustedBytes/rsloop",
+        "timestamp": "2026-03-21T22:21:19.950770",
+        "source": "Hacker News"
     }
 ]
