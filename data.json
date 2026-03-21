@@ -65830,5 +65830,11 @@
         "url": "https://github.com/steeve/ToneLoc",
         "timestamp": "2026-03-21T15:58:57.860832",
         "source": "Hacker News"
+    },
+    {
+        "title": "From C char to string_view: The cost of abstraction in C++ strings",
+        "url": "https://thecloudlet.github.io/technical/cpp/cpp-string/",
+        "timestamp": "2026-03-21T15:58:57.860861",
+        "source": "Hacker News"
     }
 ]
