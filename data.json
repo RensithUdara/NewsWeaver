@@ -64804,5 +64804,11 @@
         "url": "https://itsfoss.com/news/systemd-age-verification/",
         "timestamp": "2026-03-21T11:21:28.372208",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a trend tracker that scans GitHub, HN, YC, SO, OpenAlex, and SEC filings",
+        "url": "https://inqvey.com/trends",
+        "timestamp": "2026-03-21T11:21:28.372251",
+        "source": "Hacker News"
     }
 ]
