@@ -65782,5 +65782,11 @@
         "url": "https://github.com/victorantos/NC",
         "timestamp": "2026-03-21T15:58:57.860597",
         "source": "Hacker News"
+    },
+    {
+        "title": "ESLint Tuned for Claude",
+        "url": "https://github.com/jonathannen/eslint-formatter-prompter",
+        "timestamp": "2026-03-21T15:58:57.860628",
+        "source": "Hacker News"
     }
 ]
