@@ -67138,5 +67138,11 @@
         "url": "https://dekodiert.de/en/articles/wer-spezifiziert",
         "timestamp": "2026-03-21T22:21:19.950615",
         "source": "Hacker News"
+    },
+    {
+        "title": "7ms E2E graph-RAG retrieval Neo4j Golang rewrite. Reddit called perf \"insane\"",
+        "url": "https://www.reddit.com/r/Rag/s/6O8vTeQufK",
+        "timestamp": "2026-03-21T22:21:19.950653",
+        "source": "Hacker News"
     }
 ]
