@@ -65458,5 +65458,11 @@
         "url": "https://www.theguardian.com/science/2026/mar/21/anniversary-et-of-legend-varginha-alien-incident-musuem-documentary",
         "timestamp": "2026-03-21T14:23:43.754153",
         "source": "Hacker News"
+    },
+    {
+        "title": "Avoiding Overflow Bugs in Fixed-Point Arithmetic with Formal Verification",
+        "url": "https://github.com/nahhididwin/L-Representation/blob/main/hn/rm1.md",
+        "timestamp": "2026-03-21T14:23:43.754186",
+        "source": "Hacker News"
     }
 ]
