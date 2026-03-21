@@ -67084,5 +67084,11 @@
         "url": "https://hackernewsdelta.com/",
         "timestamp": "2026-03-21T21:40:27.238611",
         "source": "Hacker News"
+    },
+    {
+        "title": "SafeVPN–Let people remote in to fix your servers, but prevent data exfiltration",
+        "url": "https://github.com/chinagloud/SafeVPN",
+        "timestamp": "2026-03-21T21:40:27.238650",
+        "source": "Hacker News"
     }
 ]
