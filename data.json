@@ -67426,5 +67426,11 @@
         "url": "https://marc.info/?l=openbsd-tech&m=177411863202734&w=2",
         "timestamp": "2026-03-21T23:35:49.004521",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a FIX protocol engine in Rust that's 4.5x faster than QuickFIX/J",
+        "url": "https://github.com/matthart1983/velocitas-fix-engine",
+        "timestamp": "2026-03-21T23:35:49.004555",
+        "source": "Hacker News"
     }
 ]
