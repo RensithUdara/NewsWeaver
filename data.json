@@ -64828,5 +64828,11 @@
         "url": "https://epic.org/press-release-ftc-should-develop-privacy-protective-age-assurance-standards-leading-orgs-say/",
         "timestamp": "2026-03-21T11:21:28.372367",
         "source": "Hacker News"
+    },
+    {
+        "title": "We give every user SQL access to a shared ClickHouse cluster",
+        "url": "https://trigger.dev/blog/how-trql-works",
+        "timestamp": "2026-03-21T11:42:30.663599",
+        "source": "Hacker News"
     }
 ]
