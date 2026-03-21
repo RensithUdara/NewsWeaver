@@ -65752,5 +65752,11 @@
         "url": "https://gogogolems.substack.com/p/slowing-down-in-the-age-of-coding",
         "timestamp": "2026-03-21T15:41:51.789080",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pxhist: Fast, local-first shell history search and sync for bash and zsh",
+        "url": "https://github.com/chipturner/pxhist",
+        "timestamp": "2026-03-21T15:41:51.789116",
+        "source": "Hacker News"
     }
 ]
