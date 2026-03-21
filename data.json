@@ -64156,5 +64156,11 @@
         "url": "https://www.youtube.com/watch?v=59JTCvpG_Ec",
         "timestamp": "2026-03-21T06:32:47.390726",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Elastik – treating LLM as an HTTP client in less than 200 lines of code",
+        "url": "https://github.com/rangersui/Elastik",
+        "timestamp": "2026-03-21T06:32:47.390759",
+        "source": "Hacker News"
     }
 ]
