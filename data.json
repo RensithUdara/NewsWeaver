@@ -67510,5 +67510,11 @@
         "url": "https://thehill.com/policy/energy-environment/5794480-us-embassy-cuba-diesel-fuel-iran-conflict/",
         "timestamp": "2026-03-22T01:17:25.884884",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built an AI teammate that takes Jira tickets and turns them into PRs",
+        "url": "https://github.com/ignify-rd/claude-teammate",
+        "timestamp": "2026-03-22T01:17:25.983880",
+        "source": "Hacker News"
     }
 ]
