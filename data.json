@@ -67492,5 +67492,11 @@
         "url": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/",
         "timestamp": "2026-03-22T01:17:25.884030",
         "source": "Hacker News"
+    },
+    {
+        "title": "Trivy ecosystem supply chain briefly compromised",
+        "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
+        "timestamp": "2026-03-22T01:17:25.884182",
+        "source": "Hacker News"
     }
 ]
