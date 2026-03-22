@@ -71368,5 +71368,11 @@
         "url": "https://www.atlasobscura.com/articles/what-do-we-know-about-space",
         "timestamp": "2026-03-22T23:02:12.309069",
         "source": "Hacker News"
+    },
+    {
+        "title": "Supply Chain Attack on Trivy",
+        "url": "https://www.wiz.io/blog/trivy-compromised-teampcp-supply-chain-attack",
+        "timestamp": "2026-03-22T23:02:12.309105",
+        "source": "Hacker News"
     }
 ]
