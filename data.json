@@ -69370,5 +69370,11 @@
         "url": "https://nanobuilds.substack.com/p/how-fast-can-you-reshape-what-google",
         "timestamp": "2026-03-22T14:27:23.762969",
         "source": "Hacker News"
+    },
+    {
+        "title": "If you are shipping a CLI for agents, ship detailed man files",
+        "url": "https://docsalot.dev/blog/why-agent-friendly-clis-need-man-files",
+        "timestamp": "2026-03-22T14:27:23.763002",
+        "source": "Hacker News"
     }
 ]
