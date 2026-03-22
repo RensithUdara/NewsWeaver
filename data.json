@@ -69688,5 +69688,11 @@
         "url": "https://news.ycombinator.com/item?id=47478594",
         "timestamp": "2026-03-22T15:43:42.656701",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tinyspec – A spec for tinygrad (ML compiler)",
+        "url": "https://github.com/tinygrad/tinyspec",
+        "timestamp": "2026-03-22T15:43:42.656736",
+        "source": "Hacker News"
     }
 ]
