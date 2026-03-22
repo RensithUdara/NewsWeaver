@@ -68524,5 +68524,11 @@
         "url": "https://www.enigmalite.com",
         "timestamp": "2026-03-22T09:48:59.577981",
         "source": "Hacker News"
+    },
+    {
+        "title": "Impl Drop for Tensor",
+        "url": "https://flodl.dev/blog/impl-drop-for-tensor",
+        "timestamp": "2026-03-22T09:48:59.578016",
+        "source": "Hacker News"
     }
 ]
