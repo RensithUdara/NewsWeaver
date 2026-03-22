@@ -68254,5 +68254,11 @@
         "url": "https://peam.ai",
         "timestamp": "2026-03-22T07:45:50.544451",
         "source": "Hacker News"
+    },
+    {
+        "title": "Deep-dive into the deployment of an on-premise low-privileged LLM server",
+        "url": "https://www.synacktiv.com/en/publications/deep-dive-into-the-deployment-of-an-on-premise-low-privileged-llm-server",
+        "timestamp": "2026-03-22T07:45:50.544489",
+        "source": "Hacker News"
     }
 ]
