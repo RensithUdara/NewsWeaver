@@ -70258,5 +70258,11 @@
         "url": "https://stephango.com/style",
         "timestamp": "2026-03-22T17:48:11.530526",
         "source": "Hacker News"
+    },
+    {
+        "title": "New development in PRNG of wyhash: w1rand",
+        "url": "https://github.com/wangyi-fudan/wyhash",
+        "timestamp": "2026-03-22T17:48:11.530560",
+        "source": "Hacker News"
     }
 ]
