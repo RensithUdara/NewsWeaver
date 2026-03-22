@@ -67528,5 +67528,11 @@
         "url": "https://apps.apple.com/us/app/command-line/id6468368351",
         "timestamp": "2026-03-22T01:17:25.983965",
         "source": "Hacker News"
+    },
+    {
+        "title": "A tool to “swallow” outputs from Claude/Codex/Cursor and reuse them",
+        "url": "https://github.com/vule022/swallow",
+        "timestamp": "2026-03-22T01:17:25.984001",
+        "source": "Hacker News"
     }
 ]
