@@ -70150,5 +70150,11 @@
         "url": "https://www.nature.com/articles/s41380-023-02285-8",
         "timestamp": "2026-03-22T17:24:21.683749",
         "source": "Hacker News"
+    },
+    {
+        "title": "Paper: Detecting hallucinations before the first token",
+        "url": "https://www.researchgate.net/publication/403008642_Pre-Generative_Epistemic_Signals_in_Transformer_Language_Models",
+        "timestamp": "2026-03-22T17:24:21.683777",
+        "source": "Hacker News"
     }
 ]
