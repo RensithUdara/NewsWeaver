@@ -70948,5 +70948,11 @@
         "url": "https://www.theatlantic.com/ideas/2026/03/ai-confidence-trust/686464/",
         "timestamp": "2026-03-22T20:46:53.767137",
         "source": "Hacker News"
+    },
+    {
+        "title": "20 Years of Postgres Performance",
+        "url": "https://vondra.me/posts/postgres-performance-archaeology-oltp/",
+        "timestamp": "2026-03-22T20:46:53.767184",
+        "source": "Hacker News"
     }
 ]
