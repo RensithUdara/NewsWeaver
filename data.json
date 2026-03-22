@@ -68032,5 +68032,11 @@
         "url": "https://theory.org/complexity/cdpt/html/node5.html",
         "timestamp": "2026-03-22T06:07:18.842912",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Banish: A declarative framework for rule-based state machines in Rust",
+        "url": "https://github.com/LoganFlaherty/banish/releases/tag/v1.3.0",
+        "timestamp": "2026-03-22T06:07:18.842968",
+        "source": "Hacker News"
     }
 ]
