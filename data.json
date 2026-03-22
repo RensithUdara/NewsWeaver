@@ -68554,5 +68554,11 @@
         "url": "https://domenic.me/windows-native-dev/",
         "timestamp": "2026-03-22T10:01:58.093834",
         "source": "Hacker News"
+    },
+    {
+        "title": "Data Manipulation in Clojure Compared to R and Python",
+        "url": "https://codewithkira.com/2024-07-18-tablecloth-dplyr-pandas-polars.html",
+        "timestamp": "2026-03-22T10:01:58.093879",
+        "source": "Hacker News"
     }
 ]
