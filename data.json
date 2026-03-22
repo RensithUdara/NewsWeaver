@@ -69148,5 +69148,11 @@
         "url": "https://www.theatlantic.com/magazine/archive/2017/07/power-causes-brain-damage/528711/",
         "timestamp": "2026-03-22T13:26:42.767074",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
+        "url": "https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f",
+        "timestamp": "2026-03-22T13:26:43.136545",
+        "source": "Dev.to"
     }
 ]
