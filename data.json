@@ -67498,5 +67498,11 @@
         "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
         "timestamp": "2026-03-22T01:17:25.884182",
         "source": "Hacker News"
+    },
+    {
+        "title": "\"[St. Patrick's Day humor in security paper:] Sandboxing\"",
+        "url": "https://spawn-queue.acm.org/doi/10.1145/3733699",
+        "timestamp": "2026-03-22T01:17:25.884643",
+        "source": "Hacker News"
     }
 ]
