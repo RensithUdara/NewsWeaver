@@ -71452,5 +71452,11 @@
         "url": "https://www.cnn.com/world/africa/electric-vehicle-solar-tunisia-spc",
         "timestamp": "2026-03-22T23:38:41.786150",
         "source": "Hacker News"
+    },
+    {
+        "title": "Apply video compression on KV cache to 10,000x less error at Q4 quant",
+        "url": "https://github.com/cenconq25/delta-compress-llm",
+        "timestamp": "2026-03-22T23:38:41.786205",
+        "source": "Hacker News"
     }
 ]
