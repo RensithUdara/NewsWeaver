@@ -69472,5 +69472,11 @@
         "url": "https://scholars-stage.org/china-and-the-future-of-science/",
         "timestamp": "2026-03-22T14:52:57.112055",
         "source": "Hacker News"
+    },
+    {
+        "title": "Local Cursor-A local AI agent that runs on your machine using Ollama",
+        "url": "https://github.com/towardsai/local-cursor",
+        "timestamp": "2026-03-22T14:52:57.112082",
+        "source": "Hacker News"
     }
 ]
