@@ -70840,5 +70840,11 @@
         "url": "https://archive.org/details/YouAndTheAtomicBomb-English-GeorgeOrwell",
         "timestamp": "2026-03-22T20:19:46.004956",
         "source": "Hacker News"
+    },
+    {
+        "title": "Local UI for managing parallel AI coding agents",
+        "url": "https://github.com/shep-ai/cli",
+        "timestamp": "2026-03-22T20:19:46.004989",
+        "source": "Hacker News"
     }
 ]
