@@ -70636,5 +70636,11 @@
         "url": "https://josh8.com/blog/personal_computing.html",
         "timestamp": "2026-03-22T19:41:49.800926",
         "source": "Hacker News"
+    },
+    {
+        "title": "Vectorization of Verilog Designs and its Effects on Verification and Synthesis",
+        "url": "https://arxiv.org/abs/2603.17099",
+        "timestamp": "2026-03-22T19:41:49.801116",
+        "source": "Hacker News"
     }
 ]
