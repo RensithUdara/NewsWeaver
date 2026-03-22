@@ -71458,5 +71458,11 @@
         "url": "https://github.com/cenconq25/delta-compress-llm",
         "timestamp": "2026-03-22T23:38:41.786205",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zprof – a comptime-configurable and minimal memory profiler for Zig allocators",
+        "url": "https://github.com/ANDRVV/zprof",
+        "timestamp": "2026-03-22T23:38:41.786243",
+        "source": "Hacker News"
     }
 ]
