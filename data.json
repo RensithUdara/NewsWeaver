@@ -71410,5 +71410,11 @@
         "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
         "timestamp": "2026-03-22T23:02:12.309354",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a 200-line library to stop AI agents from going rogue (capkit)",
+        "url": "https://github.com/iamGodofall/capkit",
+        "timestamp": "2026-03-22T23:02:12.309389",
+        "source": "Hacker News"
     }
 ]
