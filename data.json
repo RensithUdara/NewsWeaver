@@ -71554,5 +71554,11 @@
         "url": "http://heatmine.ai/",
         "timestamp": "2026-03-22T23:58:03.531890",
         "source": "Hacker News"
+    },
+    {
+        "title": "Plexus – Unified API gateway for multiple AI providers",
+        "url": "https://github.com/mcowger/plexus",
+        "timestamp": "2026-03-22T23:58:03.531929",
+        "source": "Hacker News"
     }
 ]
