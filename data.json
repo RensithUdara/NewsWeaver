@@ -69640,5 +69640,11 @@
         "url": "https://press.asimov.com/articles/dna-sequencing",
         "timestamp": "2026-03-22T15:43:42.656407",
         "source": "Hacker News"
+    },
+    {
+        "title": "Compiling C to a custom architecture: my experience",
+        "url": "https://github.com/ChristosMaragkos/Sharpie",
+        "timestamp": "2026-03-22T15:43:42.656449",
+        "source": "Hacker News"
     }
 ]
