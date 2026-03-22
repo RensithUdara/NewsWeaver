@@ -71002,5 +71002,11 @@
         "url": "https://markets.vaultara.co/",
         "timestamp": "2026-03-22T20:46:53.767566",
         "source": "Hacker News"
+    },
+    {
+        "title": "Multi-node training on Mac Minis (PyTorch)",
+        "url": "https://github.com/mps-ddp/mccl",
+        "timestamp": "2026-03-22T20:46:53.767601",
+        "source": "Hacker News"
     }
 ]
