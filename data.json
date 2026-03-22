@@ -67660,5 +67660,11 @@
         "url": "https://theoutline.com/post/5678/the-sphinx-a-soviet-era-retrofuture-smart-home-dream",
         "timestamp": "2026-03-22T03:46:47.811714",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
+        "url": "https://radar.cloudflare.com/domains/domain/archive.today",
+        "timestamp": "2026-03-22T03:46:47.811758",
+        "source": "Hacker News"
     }
 ]
