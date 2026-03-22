@@ -69808,5 +69808,11 @@
         "url": "https://blog.senko.net/improving-ai-generated-tests-using-mutation-testing",
         "timestamp": "2026-03-22T15:59:35.368300",
         "source": "Hacker News"
+    },
+    {
+        "title": "We replaced traditional ORM migrations with a DAG and stopped breaking prod",
+        "url": "https://github.com/Vswaroop04/migrion",
+        "timestamp": "2026-03-22T16:34:28.507197",
+        "source": "Hacker News"
     }
 ]
