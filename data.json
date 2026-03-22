@@ -68134,5 +68134,11 @@
         "url": "https://en.wikipedia.org/wiki/Lindley%27s_paradox",
         "timestamp": "2026-03-22T07:04:58.119836",
         "source": "Hacker News"
+    },
+    {
+        "title": "Predicting home electricity usage from historical patterns in Home Assistant",
+        "url": "https://blog.cyplo.dev/posts/2026/03/load-prediction-in-home-assistant/",
+        "timestamp": "2026-03-22T07:04:58.119876",
+        "source": "Hacker News"
     }
 ]
