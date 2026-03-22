@@ -67558,5 +67558,11 @@
         "url": "https://geajs.com/",
         "timestamp": "2026-03-22T01:17:25.984192",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lightweight Compression in DuckDB",
+        "url": "https://duckdb.org/2022/10/28/lightweight-compression",
+        "timestamp": "2026-03-22T01:17:25.984226",
+        "source": "Hacker News"
     }
 ]
