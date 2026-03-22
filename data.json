@@ -68818,5 +68818,11 @@
         "url": "https://www.tyleo.com/blog/how-we-synchronized-editing-for-rec-rooms-multiplayer-scripting-system",
         "timestamp": "2026-03-22T12:29:22.027576",
         "source": "Hacker News"
+    },
+    {
+        "title": "Node.js worker threads are problematic, but they work great for us",
+        "url": "https://www.inngest.com/blog/node-worker-threads",
+        "timestamp": "2026-03-22T12:29:22.027904",
+        "source": "Hacker News"
     }
 ]
