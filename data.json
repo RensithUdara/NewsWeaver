@@ -68302,5 +68302,11 @@
         "url": "https://arxiv.org/abs/2603.17074",
         "timestamp": "2026-03-22T08:01:28.369018",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kbooboo: Find Linux kernel maintainer contacts from dmesg stack trace",
+        "url": "https://git.infradead.org/~rw/kcontact/",
+        "timestamp": "2026-03-22T08:49:40.836650",
+        "source": "Hacker News"
     }
 ]
