@@ -70804,5 +70804,11 @@
         "url": "https://www.youtube.com/watch?v=Wb5r61MeSQY",
         "timestamp": "2026-03-22T20:19:46.004754",
         "source": "Hacker News"
+    },
+    {
+        "title": "BugPin: Self-hosted, open-source visual bug reporting tool",
+        "url": "https://github.com/aranticlabs/bugpin",
+        "timestamp": "2026-03-22T20:19:46.004787",
+        "source": "Hacker News"
     }
 ]
