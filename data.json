@@ -70246,5 +70246,11 @@
         "url": "https://adventuresinclaude.ai/posts/even-an-ai-needs-a-diary",
         "timestamp": "2026-03-22T17:48:11.530455",
         "source": "Hacker News"
+    },
+    {
+        "title": "How cross-thread double free detection could work in glibc malloc",
+        "url": "https://kallus.org/blog_tcache_key.html",
+        "timestamp": "2026-03-22T17:48:11.530491",
+        "source": "Hacker News"
     }
 ]
