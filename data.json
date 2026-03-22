@@ -68698,5 +68698,11 @@
         "url": "https://stitchsentry.com",
         "timestamp": "2026-03-22T11:34:08.877909",
         "source": "Hacker News"
+    },
+    {
+        "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
+        "url": "https://github.com/danveloper/flash-moe",
+        "timestamp": "2026-03-22T11:34:08.877949",
+        "source": "Hacker News"
     }
 ]
