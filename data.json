@@ -69424,5 +69424,11 @@
         "url": "https://news.ycombinator.com/item?id=47478029",
         "timestamp": "2026-03-22T14:52:57.111821",
         "source": "Hacker News"
+    },
+    {
+        "title": "One-command wrapper for AutoResearchClaw's 23-stage paper generation pipeline",
+        "url": "https://github.com/OthmanAdi/researchclaw-skill",
+        "timestamp": "2026-03-22T14:52:57.111851",
+        "source": "Hacker News"
     }
 ]
