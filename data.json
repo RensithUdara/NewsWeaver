@@ -68416,5 +68416,11 @@
         "url": "https://blog.paractmol.nl/the-ollama-browser-extension-i-made-to-teach-myself-dutch/",
         "timestamp": "2026-03-22T09:17:37.836975",
         "source": "Hacker News"
+    },
+    {
+        "title": "ClaudeClaw – Persistent Claude agents on Slack with OS-level sandboxing",
+        "url": "https://htdocs.dev/posts/claudeclaw-a-composable-agent-orchestrator-for-claude-code/",
+        "timestamp": "2026-03-22T09:17:37.837040",
+        "source": "Hacker News"
     }
 ]
