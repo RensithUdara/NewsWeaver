@@ -68710,5 +68710,11 @@
         "url": "https://techxplore.com/news/2026-03-electric-cars-power-grids-reliable.html",
         "timestamp": "2026-03-22T11:34:08.877987",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open source infrastructure (built in Rust) for internal software and AI agents",
+        "url": "https://github.com/RootCX/RootCX",
+        "timestamp": "2026-03-22T11:34:08.878030",
+        "source": "Hacker News"
     }
 ]
