@@ -69550,5 +69550,11 @@
         "url": "https://www.theatlantic.com/health/2026/02/longevity-medicine-profit-oversold/686049/",
         "timestamp": "2026-03-22T15:17:26.698026",
         "source": "Hacker News"
+    },
+    {
+        "title": "NTLM and SMB go opt-in in curl",
+        "url": "https://daniel.haxx.se/blog/2026/03/22/ntlm-and-smb-go-opt-in/",
+        "timestamp": "2026-03-22T15:17:26.698098",
+        "source": "Hacker News"
     }
 ]
