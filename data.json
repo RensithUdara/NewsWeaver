@@ -69478,5 +69478,11 @@
         "url": "https://github.com/towardsai/local-cursor",
         "timestamp": "2026-03-22T14:52:57.112082",
         "source": "Hacker News"
+    },
+    {
+        "title": "CrypTorch: PyTorch-based Auto-tuning Compiler for ML w/ Multi-party Computation",
+        "url": "https://github.com/psu-paws/CrypTorch",
+        "timestamp": "2026-03-22T14:52:57.112110",
+        "source": "Hacker News"
     }
 ]
