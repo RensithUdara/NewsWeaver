@@ -73576,5 +73576,11 @@
         "url": "https://www.seanmuirhead.com/blog/deliberate-reflection",
         "timestamp": "2026-03-23T15:10:18.494790",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Columbo – a CLI that finds forgotten K8s pods using a suspicion score",
+        "url": "https://github.com/k-krew/columbo",
+        "timestamp": "2026-03-23T15:10:18.494824",
+        "source": "Hacker News"
     }
 ]
