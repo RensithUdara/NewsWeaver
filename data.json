@@ -73282,5 +73282,11 @@
         "url": "https://www.theregister.com/2026/03/23/nato_air_defenses/",
         "timestamp": "2026-03-23T14:02:53.525177",
         "source": "Hacker News"
+    },
+    {
+        "title": "My home network observes bedtime with OpenBSD and pf",
+        "url": "https://ratfactor.com/openbsd/pf-gateway-bedtime",
+        "timestamp": "2026-03-23T14:02:53.525213",
+        "source": "Hacker News"
     }
 ]
