@@ -74482,5 +74482,11 @@
         "url": "https://arena.dbj.is/",
         "timestamp": "2026-03-23T19:53:14.554782",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLM Proxy for Agent Containers",
+        "url": "https://github.com/calebfaruki/tightbeam",
+        "timestamp": "2026-03-23T19:53:14.554813",
+        "source": "Hacker News"
     }
 ]
