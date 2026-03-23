@@ -73174,5 +73174,11 @@
         "url": "https://www.chinatalk.media/p/how-claude-opened-the-strait-of-hormuz",
         "timestamp": "2026-03-23T12:42:34.487081",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bypassing all Active Directory password policies with one RPC call (with PoC)",
+        "url": "https://simpity.eu/blog/ad-password-policies-security-theater",
+        "timestamp": "2026-03-23T12:42:34.487132",
+        "source": "Hacker News"
     }
 ]
