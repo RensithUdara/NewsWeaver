@@ -75646,5 +75646,11 @@
         "url": "https://www.youtube.com/watch?v=hGV-EUR2GYQ",
         "timestamp": "2026-03-23T23:49:14.380582",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A CLI for building and deploying Openclaw agents",
+        "url": "https://pinata.cloud/blog/from-docker-dread-to-agentic-flow-introducing-the-pinata-cli/",
+        "timestamp": "2026-03-23T23:49:14.380615",
+        "source": "Hacker News"
     }
 ]
