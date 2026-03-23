@@ -71674,5 +71674,11 @@
         "url": "https://www.acs.org/pressroom/presspacs/2026/march/paving-hawaiian-roads-with-recycled-plastics-and-abandoned-fishing-nets.html",
         "timestamp": "2026-03-23T02:05:53.879901",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nibble – declarative bit-level binary parsing for Go using struct tags",
+        "url": "https://github.com/PavanKumarMS/nibble",
+        "timestamp": "2026-03-23T02:05:53.879929",
+        "source": "Hacker News"
     }
 ]
