@@ -73516,5 +73516,11 @@
         "url": "https://penberg.org/blog/rp.html",
         "timestamp": "2026-03-23T15:10:18.494450",
         "source": "Hacker News"
+    },
+    {
+        "title": "PostgreSQL 19 will have pg_plan_advice contrib module (query hints)",
+        "url": "https://www.depesz.com/2026/03/22/waiting-for-postgresql-19-add-pg_plan_advice-contrib-module/",
+        "timestamp": "2026-03-23T15:10:18.494487",
+        "source": "Hacker News"
     }
 ]
