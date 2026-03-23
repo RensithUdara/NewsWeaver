@@ -74272,5 +74272,11 @@
         "url": "https://magnifiedsand.com/",
         "timestamp": "2026-03-23T19:09:30.131974",
         "source": "Hacker News"
+    },
+    {
+        "title": "Django Custom Managers Are Silently Leaking Data",
+        "url": "https://johnnymetz.com/posts/django-custom-managers-data-leak/",
+        "timestamp": "2026-03-23T19:09:30.132027",
+        "source": "Hacker News"
     }
 ]
