@@ -72946,5 +72946,11 @@
         "url": "https://www.irfanview.com/main_about.htm",
         "timestamp": "2026-03-23T11:09:28.658260",
         "source": "Hacker News"
+    },
+    {
+        "title": "Velr – an embedded property-graph database in Rust on top of SQLite",
+        "url": "https://github.com/velr-ai/velr",
+        "timestamp": "2026-03-23T11:09:28.658297",
+        "source": "Hacker News"
     }
 ]
