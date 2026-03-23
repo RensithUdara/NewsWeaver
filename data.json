@@ -75358,5 +75358,11 @@
         "url": "https://craigm26.github.io/OpenCastor/",
         "timestamp": "2026-03-23T22:48:00.558855",
         "source": "Hacker News"
+    },
+    {
+        "title": "ONNX inference engine using OxCaml's SIMD intrinsics",
+        "url": "https://www.tunbury.org/2026/03/13/oxcaml-inference/",
+        "timestamp": "2026-03-23T22:48:00.558889",
+        "source": "Hacker News"
     }
 ]
