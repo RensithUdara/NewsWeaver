@@ -75340,5 +75340,11 @@
         "url": "https://playbit.app/",
         "timestamp": "2026-03-23T22:48:00.558746",
         "source": "Hacker News"
+    },
+    {
+        "title": "Go builder generator with compile-time required field enforcement",
+        "url": "https://github.com/AlexanderYAPPO/go-papa-carlo",
+        "timestamp": "2026-03-23T22:48:00.558785",
+        "source": "Hacker News"
     }
 ]
