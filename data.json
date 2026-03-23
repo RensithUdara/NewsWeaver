@@ -72238,5 +72238,11 @@
         "url": "https://suvamsh.com/blog/human-resources/",
         "timestamp": "2026-03-23T07:00:45.612093",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agents kept getting stuck searching for Solar icons; I built a CLI to solve this",
+        "url": "https://www.npmjs.com/package/search-solar",
+        "timestamp": "2026-03-23T07:00:45.612161",
+        "source": "Hacker News"
     }
 ]
