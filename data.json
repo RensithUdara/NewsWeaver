@@ -71884,5 +71884,11 @@
         "url": "https://home.cern/science/computing/birth-web/short-history-web",
         "timestamp": "2026-03-23T04:36:02.059259",
         "source": "Hacker News"
+    },
+    {
+        "title": "Trivy Supply Chain Attack Expands to Compromised Docker Images",
+        "url": "https://socket.dev/blog/trivy-docker-images-compromised",
+        "timestamp": "2026-03-23T04:36:02.059293",
+        "source": "Hacker News"
     }
 ]
