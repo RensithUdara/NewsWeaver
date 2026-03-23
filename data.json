@@ -75346,5 +75346,11 @@
         "url": "https://github.com/AlexanderYAPPO/go-papa-carlo",
         "timestamp": "2026-03-23T22:48:00.558785",
         "source": "Hacker News"
+    },
+    {
+        "title": "VRGB – Asus Vivobook RGB keyboard control on Linux (no kernel mods, no daemon)",
+        "url": "https://github.com/vrgb-dev/vrgb",
+        "timestamp": "2026-03-23T22:48:00.558820",
+        "source": "Hacker News"
     }
 ]
