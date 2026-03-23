@@ -75460,5 +75460,11 @@
         "url": "https://ia2ai.ai/beta",
         "timestamp": "2026-03-23T23:17:13.467061",
         "source": "Hacker News"
+    },
+    {
+        "title": "XMMS Resuscitated: XMMS ported to gtk4 with gstreamer/pipewire",
+        "url": "https://gitlab.com/cschalle/xmms-resuscitated",
+        "timestamp": "2026-03-23T23:17:13.467096",
+        "source": "Hacker News"
     }
 ]
