@@ -74086,5 +74086,11 @@
         "url": "https://www.youtube.com/watch?v=Yz3lSKgz4q8",
         "timestamp": "2026-03-23T18:02:09.209771",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: JulIDE – Lightweight Julia IDE Built with Tauri",
+        "url": "https://github.com/sinisterMage/JulIde",
+        "timestamp": "2026-03-23T18:02:09.209805",
+        "source": "Hacker News"
     }
 ]
