@@ -74278,5 +74278,11 @@
         "url": "https://johnnymetz.com/posts/django-custom-managers-data-leak/",
         "timestamp": "2026-03-23T19:09:30.132027",
         "source": "Hacker News"
+    },
+    {
+        "title": "Local Stack Archived their GitHub repo and requires an account to run",
+        "url": "https://github.com/localstack/localstack",
+        "timestamp": "2026-03-23T19:09:30.132064",
+        "source": "Hacker News"
     }
 ]
