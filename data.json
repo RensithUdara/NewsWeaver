@@ -72190,5 +72190,11 @@
         "url": "https://mikefisher.substack.com/p/exploit-vs-explore",
         "timestamp": "2026-03-23T07:00:45.611864",
         "source": "Hacker News"
+    },
+    {
+        "title": "Migrating Etsy's database sharding to Vitess",
+        "url": "https://www.etsy.com/codeascraft/migrating-etsyas-database-sharding-to-vitess",
+        "timestamp": "2026-03-23T07:00:45.611893",
+        "source": "Hacker News"
     }
 ]
