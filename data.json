@@ -74380,5 +74380,11 @@
         "url": "https://nats.synadia.com/",
         "timestamp": "2026-03-23T19:09:30.132638",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Per-table access control for DuckLake lakehouses",
+        "url": "https://github.com/berndsen-io/ducklake-guard",
+        "timestamp": "2026-03-23T19:09:30.132670",
+        "source": "Hacker News"
     }
 ]
