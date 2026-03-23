@@ -75040,5 +75040,11 @@
         "url": "https://claude.com/blog/dispatch-and-computer-use",
         "timestamp": "2026-03-23T21:48:08.001995",
         "source": "Hacker News"
+    },
+    {
+        "title": "MacShot – Native macOS screenshot tool with annotation, auto-redact, and more",
+        "url": "https://github.com/sw33tLie/macshot",
+        "timestamp": "2026-03-23T21:48:08.002031",
+        "source": "Hacker News"
     }
 ]
