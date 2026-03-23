@@ -72028,5 +72028,11 @@
         "url": "https://commoncrawl.org/blog/ipv6-adoption-across-the-top-100k-web-hosts",
         "timestamp": "2026-03-23T05:55:56.228499",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: DockAutoHide – auto-hide the macOS Dock only when a window overlaps it",
+        "url": "https://github.com/nshcr/DockAutoHide",
+        "timestamp": "2026-03-23T05:55:56.228533",
+        "source": "Hacker News"
     }
 ]
