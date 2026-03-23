@@ -74404,5 +74404,11 @@
         "url": "https://ubuntu.com/blog/hot-code-burns",
         "timestamp": "2026-03-23T19:09:30.132806",
         "source": "Hacker News"
+    },
+    {
+        "title": "Challenges and Design Issues in Finding CUDA Bugs via GPU-Native Fuzzing",
+        "url": "https://arxiv.org/abs/2603.05725",
+        "timestamp": "2026-03-23T19:09:30.132841",
+        "source": "Hacker News"
     }
 ]
