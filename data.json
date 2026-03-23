@@ -73654,5 +73654,11 @@
         "url": "https://www.cnn.com/health/after-daughters-diagnosis-this-dad-built-app-to-manage-diabetes-spc",
         "timestamp": "2026-03-23T16:11:13.143948",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Threadprocs – executables sharing one address space (0-copy pointers)",
+        "url": "https://github.com/jer-irl/threadprocs",
+        "timestamp": "2026-03-23T16:11:13.143985",
+        "source": "Hacker News"
     }
 ]
