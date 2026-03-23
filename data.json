@@ -72214,5 +72214,11 @@
         "url": "https://www.businessinsider.com/snowflake-layoffs-strategy-ai-growth-2026-3",
         "timestamp": "2026-03-23T07:00:45.611980",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open-source server panel in Rust (57MB RAM, 371 endpoints, zero cost)",
+        "url": "https://dockpanel.dev/",
+        "timestamp": "2026-03-23T07:00:45.612009",
+        "source": "Hacker News"
     }
 ]
