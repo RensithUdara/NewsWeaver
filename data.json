@@ -74824,5 +74824,11 @@
         "url": "https://forms.fbi.gov/victims/Steam_Malware",
         "timestamp": "2026-03-23T21:02:29.295087",
         "source": "Hacker News"
+    },
+    {
+        "title": "Anthropic builds Rust support for ConnectRPC",
+        "url": "https://github.com/anthropics/connect-rust",
+        "timestamp": "2026-03-23T21:02:29.295122",
+        "source": "Hacker News"
     }
 ]
