@@ -75580,5 +75580,11 @@
         "url": "https://theconversation.com/dusking-is-a-trend-aimed-at-helping-people-switch-off-at-the-end-of-the-day-how-does-it-work-277814",
         "timestamp": "2026-03-23T23:49:14.380201",
         "source": "Hacker News"
+    },
+    {
+        "title": "SynthVision: Building a 110K Synthetic Medical VQA Dataset",
+        "url": "https://huggingface.co/blog/OpenMed/synthvision",
+        "timestamp": "2026-03-23T23:49:14.380235",
+        "source": "Hacker News"
     }
 ]
