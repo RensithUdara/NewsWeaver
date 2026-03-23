@@ -74464,5 +74464,11 @@
         "url": "https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/",
         "timestamp": "2026-03-23T19:53:14.554690",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Pglens – Postgres MCP server that lets agents look before they query",
+        "url": "https://github.com/janbjorge/pglens",
+        "timestamp": "2026-03-23T19:53:14.554721",
+        "source": "Hacker News"
     }
 ]
