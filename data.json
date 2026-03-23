@@ -73426,5 +73426,11 @@
         "url": "https://twitter.com/tbpn/status/2035137556774625610",
         "timestamp": "2026-03-23T15:10:18.493907",
         "source": "Hacker News"
+    },
+    {
+        "title": "Understanding the Go Runtime: The Garbage Collector",
+        "url": "https://internals-for-interns.com/posts/go-garbage-collector/",
+        "timestamp": "2026-03-23T15:10:18.493945",
+        "source": "Hacker News"
     }
 ]
