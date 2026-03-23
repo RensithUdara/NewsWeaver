@@ -72916,5 +72916,11 @@
         "url": "https://vale.rocks/posts/game-console-interfaces",
         "timestamp": "2026-03-23T11:09:28.658059",
         "source": "Hacker News"
+    },
+    {
+        "title": "Human code review is still cheaper than fully automated verification",
+        "url": "https://peterlavigne.com/writing/human-code-review-over-full-verification",
+        "timestamp": "2026-03-23T11:09:28.658091",
+        "source": "Hacker News"
     }
 ]
