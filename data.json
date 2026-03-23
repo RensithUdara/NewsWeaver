@@ -71986,5 +71986,11 @@
         "url": "https://joy-connect.fly.dev",
         "timestamp": "2026-03-23T05:55:56.228149",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Mamba SSM in Rust – training and inference with custom CUDA kernels",
+        "url": "https://github.com/silvermpx/mamba-rs",
+        "timestamp": "2026-03-23T05:55:56.228187",
+        "source": "Hacker News"
     }
 ]
