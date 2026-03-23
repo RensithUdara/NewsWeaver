@@ -73438,5 +73438,11 @@
         "url": "https://agenhq.com",
         "timestamp": "2026-03-23T15:10:18.493981",
         "source": "Hacker News"
+    },
+    {
+        "title": "A macOS menu bar app to hot-swap Claude Code accounts",
+        "url": "https://github.com/Symbioose/claude-account-switcher",
+        "timestamp": "2026-03-23T15:10:18.494016",
+        "source": "Hacker News"
     }
 ]
