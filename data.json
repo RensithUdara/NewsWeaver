@@ -73486,5 +73486,11 @@
         "url": "https://www.a16z.news/p/there-are-only-two-paths-left-for",
         "timestamp": "2026-03-23T15:10:18.494283",
         "source": "Hacker News"
+    },
+    {
+        "title": "Experimenting with Starlette 1.0 with Claude skills",
+        "url": "https://simonwillison.net/2026/Mar/22/starlette/",
+        "timestamp": "2026-03-23T15:10:18.494316",
+        "source": "Hacker News"
     }
 ]
