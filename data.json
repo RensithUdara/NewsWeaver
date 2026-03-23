@@ -74872,5 +74872,11 @@
         "url": "https://www.butterhost.ing/brespi",
         "timestamp": "2026-03-23T21:02:29.295429",
         "source": "Hacker News"
+    },
+    {
+        "title": "A retro terminal music player inspired by Winamp",
+        "url": "https://github.com/bjarneo/cliamp",
+        "timestamp": "2026-03-23T21:02:29.295463",
+        "source": "Hacker News"
     }
 ]
