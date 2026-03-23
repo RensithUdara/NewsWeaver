@@ -74530,5 +74530,11 @@
         "url": "https://www.simplerouting.io",
         "timestamp": "2026-03-23T19:53:14.555017",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mimalloc Cigarette: Losing one week of my life catching a memory leak",
+        "url": "https://pwy.io/posts/mimalloc-cigarette/",
+        "timestamp": "2026-03-23T19:53:14.555101",
+        "source": "Hacker News"
     }
 ]
