@@ -74560,5 +74560,11 @@
         "url": "https://www.youtube.com/watch?v=9kae-UAME1U",
         "timestamp": "2026-03-23T19:53:14.555215",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Get your agents to chat by typing directly in each other's terminals",
+        "url": "https://github.com/tessron/claude-code-skills/tree/main/inter-agent-chat",
+        "timestamp": "2026-03-23T19:53:14.555272",
+        "source": "Hacker News"
     }
 ]
