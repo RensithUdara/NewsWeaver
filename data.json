@@ -73414,5 +73414,11 @@
         "url": "https://twitter.com/anemll/status/2035901335984611412",
         "timestamp": "2026-03-23T15:10:18.189557",
         "source": "Hacker News"
+    },
+    {
+        "title": "TeamPCP deploys CanisterWorm on NPM following Trivy compromise",
+        "url": "https://www.aikido.dev/blog/teampcp-deploys-worm-npm-trivy-compromise",
+        "timestamp": "2026-03-23T15:10:18.493852",
+        "source": "Hacker News"
     }
 ]
