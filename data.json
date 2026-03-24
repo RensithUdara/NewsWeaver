@@ -77962,5 +77962,11 @@
         "url": "https://www.commutometer.com/meet-in-sanfrancisco",
         "timestamp": "2026-03-24T15:16:32.574407",
         "source": "Hacker News"
+    },
+    {
+        "title": "Improved Git Diffs with Delta, Fzf and a Little Shell Scripting",
+        "url": "https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting",
+        "timestamp": "2026-03-24T15:16:32.574441",
+        "source": "Hacker News"
     }
 ]
