@@ -80140,5 +80140,11 @@
         "url": "https://www.ft.com/content/1e41e6db-792f-4f60-b567-adb6458fb072",
         "timestamp": "2026-03-24T23:58:20.916976",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postgres Ha on OCI: Why Your Failover Passes Every Test but Breaks in Production",
+        "url": "https://stormatics.tech/blogs/postgresql-high-availability-on-oci-why-your-failover-passes-every-test-but-breaks-in-production",
+        "timestamp": "2026-03-24T23:58:20.917015",
+        "source": "Hacker News"
     }
 ]
