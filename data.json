@@ -77074,5 +77074,11 @@
         "url": "https://openai.com/index/parameter-golf/",
         "timestamp": "2026-03-24T10:04:23.804654",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a free web tool to generate Kubernetes YAML for Podman play kube",
+        "url": "https://podman-generator.rzen.at/",
+        "timestamp": "2026-03-24T10:04:23.804688",
+        "source": "Hacker News"
     }
 ]
