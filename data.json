@@ -76468,5 +76468,11 @@
         "url": "https://gist.github.com/kibotu/a009f00414b7c10fb1c74e603d7838c0",
         "timestamp": "2026-03-24T07:20:14.144260",
         "source": "Hacker News"
+    },
+    {
+        "title": "Protector4J converts JVM bytecode to private ISA for protection",
+        "url": "https://protector4j.com/articles/how-protector4j-works/",
+        "timestamp": "2026-03-24T07:20:14.144293",
+        "source": "Hacker News"
     }
 ]
