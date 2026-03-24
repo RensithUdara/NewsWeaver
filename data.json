@@ -77464,5 +77464,11 @@
         "url": "https://infrahouse.com/blog/2026-03-23-nobody-wants-to-create-a-new-repo/",
         "timestamp": "2026-03-24T12:47:04.948072",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: a Rust Redis GUI that doesn't freeze on 100k keys",
+        "url": "https://github.com/vicanso/zedis",
+        "timestamp": "2026-03-24T12:47:04.948107",
+        "source": "Hacker News"
     }
 ]
