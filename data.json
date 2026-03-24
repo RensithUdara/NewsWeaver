@@ -80068,5 +80068,11 @@
         "url": "https://www.nature.com/articles/s41591-026-04206-y",
         "timestamp": "2026-03-24T23:31:06.896625",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hash23 – A constexpr implementation of different hashing algorithms",
+        "url": "https://github.com/rwindegger/hash23",
+        "timestamp": "2026-03-24T23:31:06.896653",
+        "source": "Hacker News"
     }
 ]
