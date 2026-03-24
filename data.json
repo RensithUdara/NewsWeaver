@@ -76300,5 +76300,11 @@
         "url": "https://quillium.bryanhu.com/blog/ai-is-not-the-point",
         "timestamp": "2026-03-24T06:14:41.945104",
         "source": "Hacker News"
+    },
+    {
+        "title": "Glances is a cross-platform system monitoring tool written in Python",
+        "url": "https://nicolargo.github.io/glances/",
+        "timestamp": "2026-03-24T06:14:41.945139",
+        "source": "Hacker News"
     }
 ]
