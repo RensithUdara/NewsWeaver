@@ -77788,5 +77788,11 @@
         "url": "https://www.theregister.com/2026/03/24/onedrive_ai_restyle/",
         "timestamp": "2026-03-24T14:07:10.903169",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sandboxing AI agents, 100x faster",
+        "url": "https://blog.cloudflare.com/dynamic-workers/",
+        "timestamp": "2026-03-24T14:07:10.903198",
+        "source": "Hacker News"
     }
 ]
