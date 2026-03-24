@@ -76528,5 +76528,11 @@
         "url": "https://promptoptimizer.xyz",
         "timestamp": "2026-03-24T07:20:14.144723",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ripgrep is faster than {grep, ag, Git grep, ucg, pt, sift}",
+        "url": "https://burntsushi.net/ripgrep/",
+        "timestamp": "2026-03-24T07:20:14.144756",
+        "source": "Hacker News"
     }
 ]
