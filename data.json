@@ -77770,5 +77770,11 @@
         "url": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
         "timestamp": "2026-03-24T14:07:10.903086",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Lambda 0.2 – a func language better than TypeScrip, jq and jQuery",
+        "url": "https://github.com/henry-luo/lambda",
+        "timestamp": "2026-03-24T14:07:10.903114",
+        "source": "Hacker News"
     }
 ]
