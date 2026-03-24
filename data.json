@@ -78610,5 +78610,11 @@
         "url": "https://thenewstack.io/llm-d-cncf-kubernetes-inference/",
         "timestamp": "2026-03-24T18:09:21.458414",
         "source": "Hacker News"
+    },
+    {
+        "title": "Anitag2vec – learning vector embeddings from unordered tag sets",
+        "url": "https://github.com/michael-0acf4/anitag2vec",
+        "timestamp": "2026-03-24T18:09:21.458446",
+        "source": "Hacker News"
     }
 ]
