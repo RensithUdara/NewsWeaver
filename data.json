@@ -78466,5 +78466,11 @@
         "url": "https://text.npr.org/nx-s1-5729024",
         "timestamp": "2026-03-24T17:16:25.777260",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Decade of Eventide: Evolving an Event-Sourced Architecture and Ecosystem",
+        "url": "https://blog.eventide-project.org/articles/a-decade-of-eventide/",
+        "timestamp": "2026-03-24T17:16:25.777297",
+        "source": "Hacker News"
     }
 ]
