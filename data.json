@@ -76516,5 +76516,11 @@
         "url": "https://iev.ee/blog/gzip-decompression-in-250-lines-of-rust/",
         "timestamp": "2026-03-24T07:20:14.144621",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Shard-based scheduling for 100x more fine-tuning experiments on 4 GPUs",
+        "url": "https://www.rapidfire.ai/blogs/case-study-how-an-enterprise-tech-team-went-from-dozens-to-2-000-fine-tuning-configurations",
+        "timestamp": "2026-03-24T07:20:14.144655",
+        "source": "Hacker News"
     }
 ]
