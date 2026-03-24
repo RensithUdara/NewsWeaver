@@ -79528,5 +79528,11 @@
         "url": "https://saccadeapp.com/",
         "timestamp": "2026-03-24T21:58:04.478289",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running Iroh on an ESP32",
+        "url": "https://www.iroh.computer/blog/iroh-on-esp32",
+        "timestamp": "2026-03-24T21:58:04.478329",
+        "source": "Hacker News"
     }
 ]
