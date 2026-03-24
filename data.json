@@ -77572,5 +77572,11 @@
         "url": "http://smlbook.org/",
         "timestamp": "2026-03-24T12:47:04.948719",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Drop – Linux sandboxing for LLM agents and untrusted code",
+        "url": "https://github.com/wrr/drop",
+        "timestamp": "2026-03-24T12:47:04.948752",
+        "source": "Hacker News"
     }
 ]
