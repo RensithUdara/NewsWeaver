@@ -79504,5 +79504,11 @@
         "url": "https://www.nbcnews.com/sports/baseball/baseball-ushers-high-tech-replay-review-system-calling-balls-strikes-rcna263971",
         "timestamp": "2026-03-24T21:58:04.478146",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Create a full language server in Go with 3.17 spec support",
+        "url": "https://github.com/owenrumney/go-lsp",
+        "timestamp": "2026-03-24T21:58:04.478183",
+        "source": "Hacker News"
     }
 ]
