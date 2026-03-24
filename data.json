@@ -78214,5 +78214,11 @@
         "url": "https://news.ycombinator.com/item?id=47504696",
         "timestamp": "2026-03-24T16:18:18.395159",
         "source": "Hacker News"
+    },
+    {
+        "title": "Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe",
+        "url": "https://github.com/t8/hypura",
+        "timestamp": "2026-03-24T16:18:18.395187",
+        "source": "Hacker News"
     }
 ]
