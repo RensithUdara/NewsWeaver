@@ -76348,5 +76348,11 @@
         "url": "https://uni1ai.app",
         "timestamp": "2026-03-24T06:14:41.945468",
         "source": "Hacker News"
+    },
+    {
+        "title": "GPT from GPT: de novo microgpt",
+        "url": "https://github.com/Entrpi/microgpt-denovo",
+        "timestamp": "2026-03-24T06:14:41.945501",
+        "source": "Hacker News"
     }
 ]
