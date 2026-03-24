@@ -78340,5 +78340,11 @@
         "url": "https://www.theregister.com/2026/03/24/hackerone_supplier_breach/",
         "timestamp": "2026-03-24T17:16:25.776505",
         "source": "Hacker News"
+    },
+    {
+        "title": "Netboot.xyz",
+        "url": "https://netboot.xyz/",
+        "timestamp": "2026-03-24T17:16:25.776538",
+        "source": "Hacker News"
     }
 ]
