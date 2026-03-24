@@ -80170,5 +80170,11 @@
         "url": "https://github.com/DoctorWkt/acwj",
         "timestamp": "2026-03-24T23:58:20.917164",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Safe-install – Docker-first install-time hardening for pip and NPM",
+        "url": "https://github.com/Khaeldur/safe-install",
+        "timestamp": "2026-03-24T23:58:20.917198",
+        "source": "Hacker News"
     }
 ]
