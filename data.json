@@ -77158,5 +77158,11 @@
         "url": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
         "timestamp": "2026-03-24T11:03:01.248237",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a symbolic math REPL in C",
+        "url": "https://github.com/marcomit/derive.c",
+        "timestamp": "2026-03-24T11:03:01.248274",
+        "source": "Hacker News"
     }
 ]
