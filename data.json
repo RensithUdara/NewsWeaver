@@ -75850,5 +75850,11 @@
         "url": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/",
         "timestamp": "2026-03-24T03:29:59.436940",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sunsetting the Techempower Framework Benchmarks",
+        "url": "https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932",
+        "timestamp": "2026-03-24T03:29:59.437298",
+        "source": "Hacker News"
     }
 ]
