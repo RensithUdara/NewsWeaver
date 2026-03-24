@@ -78562,5 +78562,11 @@
         "url": "https://www.pricesquirrel.com",
         "timestamp": "2026-03-24T18:09:21.458095",
         "source": "Hacker News"
+    },
+    {
+        "title": "LM studios gets flagged as Trojan by latest Windows Defender update",
+        "url": "https://github.com/lmstudio-ai/lmstudio-bug-tracker/issues/1686",
+        "timestamp": "2026-03-24T18:09:21.458135",
+        "source": "Hacker News"
     }
 ]
