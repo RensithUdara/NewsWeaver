@@ -79858,5 +79858,11 @@
         "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/mouse-study-shows-repeated-cloning-causes-grave-genetic-mutations-2026-03-24/",
         "timestamp": "2026-03-24T22:58:13.163796",
         "source": "Hacker News"
+    },
+    {
+        "title": "TIL: You can attach images to GitHub PRs from the CLI (and your agents can too)",
+        "url": "https://mareksuppa.com/til/github-pr-images-from-cli/",
+        "timestamp": "2026-03-24T22:58:13.163833",
+        "source": "Hacker News"
     }
 ]
