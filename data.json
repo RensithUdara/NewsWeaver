@@ -76378,5 +76378,11 @@
         "url": "https://martinfowler.com/articles/distributed-objects-microservices.html",
         "timestamp": "2026-03-24T07:20:13.841293",
         "source": "Hacker News"
+    },
+    {
+        "title": "We can remove strncpy() from the Linux kernel finally",
+        "url": "https://hachyderm.io/@kees/116282745861595200",
+        "timestamp": "2026-03-24T07:20:14.143737",
+        "source": "Hacker News"
     }
 ]
