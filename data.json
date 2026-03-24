@@ -76510,5 +76510,11 @@
         "url": "https://www.abc.net.au/news/2023-08-23/is-stockholm-syndrome-a-myth/102738084",
         "timestamp": "2026-03-24T07:20:14.144582",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gzip decompression in 250 lines of Rust",
+        "url": "https://iev.ee/blog/gzip-decompression-in-250-lines-of-rust/",
+        "timestamp": "2026-03-24T07:20:14.144621",
+        "source": "Hacker News"
     }
 ]
