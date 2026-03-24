@@ -77944,5 +77944,11 @@
         "url": "https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/",
         "timestamp": "2026-03-24T15:16:32.574305",
         "source": "Hacker News"
+    },
+    {
+        "title": "SYN Packet Handling in the Wild",
+        "url": "https://blog.cloudflare.com/syn-packet-handling-in-the-wild/",
+        "timestamp": "2026-03-24T15:16:32.574339",
+        "source": "Hacker News"
     }
 ]
