@@ -77860,5 +77860,11 @@
         "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
         "timestamp": "2026-03-24T15:16:32.268690",
         "source": "Hacker News"
+    },
+    {
+        "title": "io_uring, libaio performance across Linux kernels and an unexpected IOMMU trap",
+        "url": "https://blog.ydb.tech/how-io-uring-overtook-libaio-performance-across-linux-kernels-and-an-unexpected-iommu-trap-ea6126d9ef14",
+        "timestamp": "2026-03-24T15:16:32.268987",
+        "source": "Hacker News"
     }
 ]
