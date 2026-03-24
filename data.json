@@ -76918,5 +76918,11 @@
         "url": "https://www.producthunt.com/products/imgcmd",
         "timestamp": "2026-03-24T09:05:10.592852",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "No-build, no-NPM, SSR-first JavaScript framework if you hate React, love HTML",
+        "url": "https://qitejs.qount25.dev",
+        "timestamp": "2026-03-24T10:04:23.490720",
+        "source": "Hacker News"
     }
 ]
