@@ -78916,5 +78916,11 @@
         "url": "https://worksinprogress.co/issue/how-the-worlds-first-electric-grid-was-built/",
         "timestamp": "2026-03-24T19:58:39.276462",
         "source": "Hacker News"
+    },
+    {
+        "title": "OutClaw: Manage parallel OpenClaw instances in Docker",
+        "url": "https://github.com/scosman/outclaw",
+        "timestamp": "2026-03-24T19:58:39.535846",
+        "source": "Hacker News"
     }
 ]
