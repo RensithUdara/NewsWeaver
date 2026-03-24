@@ -78358,5 +78358,11 @@
         "url": "https://www.inc.com/joe-procopio/anthropics-ceo-said-all-code-will-be-ai-generated-in-a-year/91163367",
         "timestamp": "2026-03-24T17:16:25.776604",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nomos – an execution firewall for AI agents",
+        "url": "https://github.com/safe-agentic-world/nomos",
+        "timestamp": "2026-03-24T17:16:25.776637",
+        "source": "Hacker News"
     }
 ]
