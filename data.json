@@ -76816,5 +76816,11 @@
         "url": "https://veilvault.codeveil.de/",
         "timestamp": "2026-03-24T09:05:10.061623",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Overlay map tiles onto Autodesk's 3D BIM Viewer",
+        "url": "https://github.com/infra-plan/bim-tile-overlay",
+        "timestamp": "2026-03-24T09:05:10.061710",
+        "source": "Hacker News"
     }
 ]
