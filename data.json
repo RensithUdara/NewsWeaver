@@ -79582,5 +79582,11 @@
         "url": "https://clickhouse.com/blog/clickhouse-full-text-search-object-storage",
         "timestamp": "2026-03-24T21:58:04.478610",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kite-MCP – Trade Indian stocks on Zerodha via AI conversation (MCP server)",
+        "url": "https://github.com/aranjan/kite-mcp",
+        "timestamp": "2026-03-24T21:58:04.478644",
+        "source": "Hacker News"
     }
 ]
