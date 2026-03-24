@@ -77410,5 +77410,11 @@
         "url": "https://www.youtube.com/watch?v=OnQ4BGN8B-s",
         "timestamp": "2026-03-24T11:52:50.588884",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Remote LUKS disk decryption over mTLS",
+        "url": "https://github.com/luishfonseca/network-unlock",
+        "timestamp": "2026-03-24T11:52:50.588919",
+        "source": "Hacker News"
     }
 ]
