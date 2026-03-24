@@ -76390,5 +76390,11 @@
         "url": "https://www.heise.de/en/news/Amazon-confirms-Public-wish-lists-can-reveal-addresses-11221681.html",
         "timestamp": "2026-03-24T07:20:14.143789",
         "source": "Hacker News"
+    },
+    {
+        "title": "systemd has not implemented age verification",
+        "url": "https://blog.bofh.it/debian/id_473",
+        "timestamp": "2026-03-24T07:20:14.143827",
+        "source": "Hacker News"
     }
 ]
