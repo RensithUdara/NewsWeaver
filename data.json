@@ -77272,5 +77272,11 @@
         "url": "https://news.ycombinator.com/item?id=47501287",
         "timestamp": "2026-03-24T11:52:50.587985",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lexical Analysis of Markdown in Go",
+        "url": "https://xnacly.me/posts/2023/lexer-markdown/",
+        "timestamp": "2026-03-24T11:52:50.588026",
+        "source": "Hacker News"
     }
 ]
