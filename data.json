@@ -78958,5 +78958,11 @@
         "url": "https://news.ycombinator.com/item?id=47508094",
         "timestamp": "2026-03-24T19:58:39.536091",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Updated GiantJSON Viewer – Opening 100GB JSONs on Android (Rust+SIMD)",
+        "url": "https://giantjson.com/",
+        "timestamp": "2026-03-24T19:58:39.536126",
+        "source": "Hacker News"
     }
 ]
