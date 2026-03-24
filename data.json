@@ -78604,5 +78604,11 @@
         "url": "https://flowodo.com/",
         "timestamp": "2026-03-24T18:09:21.458380",
         "source": "Hacker News"
+    },
+    {
+        "title": "IBM, Red Hat, and Google just donated a Kubernetes blueprint for LLM inference",
+        "url": "https://thenewstack.io/llm-d-cncf-kubernetes-inference/",
+        "timestamp": "2026-03-24T18:09:21.458414",
+        "source": "Hacker News"
     }
 ]
