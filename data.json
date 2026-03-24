@@ -77662,5 +77662,11 @@
         "url": "https://blog.alcazarsec.com/posts/dead-mans-switch-meaning",
         "timestamp": "2026-03-24T14:07:10.902516",
         "source": "Hacker News"
+    },
+    {
+        "title": "Craton HSM – A memory-safe PKCS#11 software HSM in Rust",
+        "url": "https://github.com/craton-co/craton-hsm-core",
+        "timestamp": "2026-03-24T14:07:10.902547",
+        "source": "Hacker News"
     }
 ]
