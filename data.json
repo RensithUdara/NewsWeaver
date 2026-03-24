@@ -80152,5 +80152,11 @@
         "url": "https://www.youtube.com/watch?v=aRUhgrqnpGY",
         "timestamp": "2026-03-24T23:58:20.917058",
         "source": "Hacker News"
+    },
+    {
+        "title": "Daisen: A Framework for Visualizing Detailed GPU Execution",
+        "url": "https://arxiv.org/abs/2104.00828",
+        "timestamp": "2026-03-24T23:58:20.917094",
+        "source": "Hacker News"
     }
 ]
