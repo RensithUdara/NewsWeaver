@@ -76990,5 +76990,11 @@
         "url": "https://newsroom.arm.com/news/arm-everywhere-event",
         "timestamp": "2026-03-24T10:04:23.804066",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Using the Web Audio API to simulate various tuning forks",
+        "url": "https://github.com/evoluteur/healing-frequencies",
+        "timestamp": "2026-03-24T10:04:23.804101",
+        "source": "Hacker News"
     }
 ]
