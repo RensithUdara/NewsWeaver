@@ -79576,5 +79576,11 @@
         "url": "https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/",
         "timestamp": "2026-03-24T21:58:04.478577",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building high-performance full-text search for object storage",
+        "url": "https://clickhouse.com/blog/clickhouse-full-text-search-object-storage",
+        "timestamp": "2026-03-24T21:58:04.478610",
+        "source": "Hacker News"
     }
 ]
