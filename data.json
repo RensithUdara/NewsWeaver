@@ -80206,5 +80206,11 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
         "timestamp": "2026-03-24T23:58:20.917453",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bleep – Local AI DLP proxy that catches secrets before they reach ChatGPT",
+        "url": "https://www.bleep-it.com",
+        "timestamp": "2026-03-24T23:58:20.917487",
+        "source": "Hacker News"
     }
 ]
