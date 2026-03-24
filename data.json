@@ -78148,5 +78148,11 @@
         "url": "https://writethatblog.substack.com/p/gergely-orosz-on-technical-blogging",
         "timestamp": "2026-03-24T16:18:18.394813",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why Kubernetes Serving Breaks Down for Real-Time AI",
+        "url": "https://www.cerebrium.ai/blog/why-kubernetes-serving-breaks-down-for-realtime-ai",
+        "timestamp": "2026-03-24T16:18:18.394845",
+        "source": "Hacker News"
     }
 ]
