@@ -76072,5 +76072,11 @@
         "url": "https://www.bloomberg.com/news/articles/2026-03-24/alibaba-unveils-new-chip-design-to-meet-surging-demand-for-ai",
         "timestamp": "2026-03-24T05:11:15.031965",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ArXiv metadata as Parquet files (2.99M papers, 1.44GB, 417 files)",
+        "url": "https://huggingface.co/datasets/open-index/open-arxiv",
+        "timestamp": "2026-03-24T05:11:15.032001",
+        "source": "Hacker News"
     }
 ]
