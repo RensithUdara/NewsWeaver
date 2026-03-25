@@ -83386,5 +83386,11 @@
         "url": "https://www.shader.se",
         "timestamp": "2026-03-25T19:29:48.207437",
         "source": "Hacker News"
+    },
+    {
+        "title": "High-performance denoising library for ray tracing",
+        "url": "https://www.openimagedenoise.org/",
+        "timestamp": "2026-03-25T19:29:48.207523",
+        "source": "Hacker News"
     }
 ]
