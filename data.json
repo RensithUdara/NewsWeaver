@@ -84412,5 +84412,11 @@
         "url": "https://documentai.aboneda.com/",
         "timestamp": "2026-03-25T23:55:28.335253",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tamp – Compression Proxy: 52% Fewer Tokens for Claude Code, Gemini, etc.",
+        "url": "https://github.com/sliday/tamp",
+        "timestamp": "2026-03-25T23:55:28.335288",
+        "source": "Hacker News"
     }
 ]
