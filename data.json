@@ -80542,5 +80542,11 @@
         "url": "https://zachholman.com/posts/signed-a-portfolio-for-investors",
         "timestamp": "2026-03-25T04:27:35.347425",
         "source": "Hacker News"
+    },
+    {
+        "title": "Defense in Depth: A Practical Guide to Python Supply Chain Security",
+        "url": "https://bernat.tech/posts/securing-python-supply-chain/",
+        "timestamp": "2026-03-25T04:27:35.347458",
+        "source": "Hacker News"
     }
 ]
