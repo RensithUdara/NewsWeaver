@@ -80572,5 +80572,11 @@
         "url": "https://www.kielinstitut.de/publications/the-cost-of-closing-the-strait-of-hormuz-energy-bottlenecks-and-global-food-security-19613/",
         "timestamp": "2026-03-25T04:27:35.347737",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: GolfStudent v2 - 24M-param LLM in 15MB using GPTQ-lite + Muon",
+        "url": "https://github.com/openai/parameter-golf/pull/604",
+        "timestamp": "2026-03-25T04:27:35.347773",
+        "source": "Hacker News"
     }
 ]
