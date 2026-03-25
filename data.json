@@ -82096,5 +82096,11 @@
         "url": "https://www.reuters.com/world/asia-pacific/sony-honda-mobility-cancels-ev-development-refund-early-buyers-2026-03-25/",
         "timestamp": "2026-03-25T13:03:31.322947",
         "source": "Hacker News"
+    },
+    {
+        "title": "Spooky-chess: a Rust/Python library with variable board sizes",
+        "url": "https://github.com/snowdrop4/spooky-chess",
+        "timestamp": "2026-03-25T13:03:31.322976",
+        "source": "Hacker News"
     }
 ]
