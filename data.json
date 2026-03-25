@@ -80500,5 +80500,11 @@
         "url": "https://news.ycombinator.com/item?id=47513148",
         "timestamp": "2026-03-25T04:27:35.347113",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to Keep Secrets Out of the Sandbox",
+        "url": "https://sandbox0.ai/blog/2026-03/keep-api-keys-out-of-ai-agents",
+        "timestamp": "2026-03-25T04:27:35.347147",
+        "source": "Hacker News"
     }
 ]
