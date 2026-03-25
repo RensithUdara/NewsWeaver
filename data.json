@@ -84286,5 +84286,11 @@
         "url": "https://twitter.com/paul_conyngham/status/2036940410363535823",
         "timestamp": "2026-03-25T23:55:28.334422",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a tiny CLI that writes my commit messages from Git diff",
+        "url": "https://github.com/saccofrancesco/gitsloth",
+        "timestamp": "2026-03-25T23:55:28.334463",
+        "source": "Hacker News"
     }
 ]
