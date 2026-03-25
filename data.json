@@ -80320,5 +80320,11 @@
         "url": "https://news.ycombinator.com/item?id=47512034",
         "timestamp": "2026-03-25T02:06:32.246100",
         "source": "Hacker News"
+    },
+    {
+        "title": "3D Modelling in FreeCAD using Rust and A.I",
+        "url": "https://pramatias.github.io/freecadx/freecdx.html",
+        "timestamp": "2026-03-25T02:06:32.246134",
+        "source": "Hacker News"
     }
 ]
