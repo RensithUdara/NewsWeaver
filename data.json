@@ -82588,5 +82588,11 @@
         "url": "https://news.ycombinator.com/item?id=47518571",
         "timestamp": "2026-03-25T15:41:47.055405",
         "source": "Hacker News"
+    },
+    {
+        "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
+        "url": "https://github.com/dbrll/ATTN-11",
+        "timestamp": "2026-03-25T15:41:47.055441",
+        "source": "Hacker News"
     }
 ]
