@@ -84082,5 +84082,11 @@
         "url": "https://bsky.app/profile/bradlander.bsky.social/post/3mhvpk32vxc2e",
         "timestamp": "2026-03-25T23:25:29.063810",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI-powered pull request evaluation for open source maintainers",
+        "url": "https://pr-triage-web.vercel.app",
+        "timestamp": "2026-03-25T23:25:29.063864",
+        "source": "Hacker News"
     }
 ]
