@@ -81754,5 +81754,11 @@
         "url": "https://www.sandordargo.com/blog/2026/03/25/cpp26-user-friendly-assert",
         "timestamp": "2026-03-25T11:12:50.584908",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making encrypted Java traffic observable with eBPF",
+        "url": "https://coroot.com/blog/java-tls-instrumentation-with-ebpf/",
+        "timestamp": "2026-03-25T11:12:50.584944",
+        "source": "Hacker News"
     }
 ]
