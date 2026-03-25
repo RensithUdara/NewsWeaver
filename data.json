@@ -80692,5 +80692,11 @@
         "url": "https://travelwithsira.com/",
         "timestamp": "2026-03-25T05:42:54.592746",
         "source": "Hacker News"
+    },
+    {
+        "title": "PyHanko: Cryptographically sign and verify PDF files",
+        "url": "https://github.com/MatthiasValvekens/pyHanko",
+        "timestamp": "2026-03-25T05:42:54.592782",
+        "source": "Hacker News"
     }
 ]
