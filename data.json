@@ -84232,5 +84232,11 @@
         "url": "https://swarnimjain.com/grove",
         "timestamp": "2026-03-25T23:25:29.064763",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pipguard – catches .pth malware before pip install runs",
+        "url": "https://news.ycombinator.com/item?id=47524231",
+        "timestamp": "2026-03-25T23:25:29.064798",
+        "source": "Hacker News"
     }
 ]
