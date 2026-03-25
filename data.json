@@ -82720,5 +82720,11 @@
         "url": "https://daniel.haxx.se/blog/2026/03/25/one-hundred-weirdo-emails/",
         "timestamp": "2026-03-25T16:46:30.918419",
         "source": "Hacker News"
+    },
+    {
+        "title": "Beam and Rust PostgreSQL-compatible database. Lightweight, infinite connections",
+        "url": "https://github.com/jagritGumber/pgrx",
+        "timestamp": "2026-03-25T16:46:30.918459",
+        "source": "Hacker News"
     }
 ]
