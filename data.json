@@ -84106,5 +84106,11 @@
         "url": "https://www.nature.com/articles/d41586-026-00893-2",
         "timestamp": "2026-03-25T23:25:29.063978",
         "source": "Hacker News"
+    },
+    {
+        "title": "Amazon Aurora PostgreSQL serverless database creation in seconds",
+        "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-aurora-postgresql-serverless-database-creation-in-seconds/",
+        "timestamp": "2026-03-25T23:25:29.064022",
+        "source": "Hacker News"
     }
 ]
