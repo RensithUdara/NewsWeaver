@@ -83518,5 +83518,11 @@
         "url": "https://news.ycombinator.com/item?id=47522313",
         "timestamp": "2026-03-25T20:01:46.813116",
         "source": "Hacker News"
+    },
+    {
+        "title": "Roslyn MCP Server for C# Projects",
+        "url": "https://marketplace.visualstudio.com/items?itemName=YaroslavHorokhov.RoslynMcp",
+        "timestamp": "2026-03-25T20:01:46.813152",
+        "source": "Hacker News"
     }
 ]
