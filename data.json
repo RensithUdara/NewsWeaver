@@ -82936,5 +82936,11 @@
         "url": "https://www.consumeraffairs.com/news/average-gas-price-poised-to-hit-4-a-gallon-032426.html",
         "timestamp": "2026-03-25T17:43:52.835786",
         "source": "Hacker News"
+    },
+    {
+        "title": "Porting Go's io package to C",
+        "url": "https://antonz.org/porting-go-io/",
+        "timestamp": "2026-03-25T17:43:52.835815",
+        "source": "Hacker News"
     }
 ]
