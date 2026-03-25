@@ -81802,5 +81802,11 @@
         "url": "https://www.nature.com/articles/d41586-026-00945-7",
         "timestamp": "2026-03-25T11:12:50.585200",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a coding agent in Swift from scratch",
+        "url": "https://github.com/ivan-magda/swift-claude-code",
+        "timestamp": "2026-03-25T11:12:50.585235",
+        "source": "Hacker News"
     }
 ]
