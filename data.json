@@ -81562,5 +81562,11 @@
         "url": "https://varunpriolkar.com/2026/03/building-a-mostly-ipv6-only-home-network/",
         "timestamp": "2026-03-25T10:28:58.767641",
         "source": "Hacker News"
+    },
+    {
+        "title": "Harness design for long-running application development",
+        "url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
+        "timestamp": "2026-03-25T10:28:58.767677",
+        "source": "Hacker News"
     }
 ]
