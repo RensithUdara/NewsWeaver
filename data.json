@@ -83464,5 +83464,11 @@
         "url": "https://blog.firetiger.com/agent-engineering-patterns-dealing-with-very-large-tool-results/",
         "timestamp": "2026-03-25T20:01:46.812781",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lockless patterns: an introduction to compare-and-swap",
+        "url": "https://lwn.net/Articles/847973/",
+        "timestamp": "2026-03-25T20:01:46.812817",
+        "source": "Hacker News"
     }
 ]
