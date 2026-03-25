@@ -81328,5 +81328,11 @@
         "url": "https://github.com/thom-heinrich/twinr",
         "timestamp": "2026-03-25T09:32:16.237895",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sento: Actor Framework in Common Lisp",
+        "url": "https://mdbergmann.github.io/cl-gserver/index.html",
+        "timestamp": "2026-03-25T09:32:16.237930",
+        "source": "Hacker News"
     }
 ]
