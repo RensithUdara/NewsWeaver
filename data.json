@@ -84142,5 +84142,11 @@
         "url": "https://tamp.dev",
         "timestamp": "2026-03-25T23:25:29.064197",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Built a Public REST API from Scratch on Supabase Edge Functions",
+        "url": "https://medium.com/@rodba/building-a-developer-friendly-rest-api-on-supabase-edge-functions-what-i-learned-shipping-polydata-a293d0c723b2",
+        "timestamp": "2026-03-25T23:25:29.064237",
+        "source": "Hacker News"
     }
 ]
