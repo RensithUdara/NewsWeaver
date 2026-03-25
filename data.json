@@ -82798,5 +82798,11 @@
         "url": "https://www.linuxfoundation.org/press/linux-foundation-welcomes-sqlmesh-project",
         "timestamp": "2026-03-25T16:46:30.918916",
         "source": "Hacker News"
+    },
+    {
+        "title": "CISA warns max-severity n8n bug is being exploited in the wild",
+        "url": "https://www.theregister.com/2026/03/12/cisa_n8n_rce/",
+        "timestamp": "2026-03-25T16:46:30.918951",
+        "source": "Hacker News"
     }
 ]
