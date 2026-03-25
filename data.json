@@ -80674,5 +80674,11 @@
         "url": "https://trekhleb.dev/self-parking-car-evolution/",
         "timestamp": "2026-03-25T05:42:54.592637",
         "source": "Hacker News"
+    },
+    {
+        "title": "Remove curl and wget aliases from PowerShell",
+        "url": "https://github.com/PowerShell/PowerShell/pull/1901",
+        "timestamp": "2026-03-25T05:42:54.592674",
+        "source": "Hacker News"
     }
 ]
