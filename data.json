@@ -82132,5 +82132,11 @@
         "url": "https://phys.org/news/2026-03-polar-umbrella-species.html",
         "timestamp": "2026-03-25T13:03:31.323120",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Loom: A Compiler for Agentic Workflows (Go, Python, Rust)",
+        "url": "https://github.com/acartine/loom",
+        "timestamp": "2026-03-25T13:03:31.323150",
+        "source": "Hacker News"
     }
 ]
