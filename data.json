@@ -81610,5 +81610,11 @@
         "url": "https://nos.nl/artikel/2607725-skelet-van-vierde-musketier-d-artagnan-mogelijk-na-eeuwen-gevonden",
         "timestamp": "2026-03-25T10:28:58.767920",
         "source": "Hacker News"
+    },
+    {
+        "title": "Iris – a C inference pipeline for image synthesis models",
+        "url": "https://github.com/antirez/iris.c",
+        "timestamp": "2026-03-25T10:28:58.767954",
+        "source": "Hacker News"
     }
 ]
