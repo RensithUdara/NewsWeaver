@@ -80440,5 +80440,11 @@
         "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf",
         "timestamp": "2026-03-25T04:27:35.239075",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
+        "url": "https://github.com/cigrainger/duckdb-hnsw-acorn",
+        "timestamp": "2026-03-25T04:27:35.239210",
+        "source": "Hacker News"
     }
 ]
