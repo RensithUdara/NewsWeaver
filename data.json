@@ -81202,5 +81202,11 @@
         "url": "https://theconversation.com/the-worlds-great-fish-migrations-are-collapsing-thats-a-problem-for-millions-of-people-278970",
         "timestamp": "2026-03-25T08:32:00.789516",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agones: A library for hosting, running and scaling dedicated game servers on K8s",
+        "url": "https://agones.dev/site/docs/overview/",
+        "timestamp": "2026-03-25T08:32:00.789581",
+        "source": "Hacker News"
     }
 ]
