@@ -80992,5 +80992,11 @@
         "url": "https://contextbento.substack.com/p/the-age-of-verification",
         "timestamp": "2026-03-25T07:41:22.399691",
         "source": "Hacker News"
+    },
+    {
+        "title": "Haskell – MonadBaseControl",
+        "url": "https://serokell.io/blog/the-hidden-perils-of-monadbasecontrol",
+        "timestamp": "2026-03-25T07:41:22.399725",
+        "source": "Hacker News"
     }
 ]
