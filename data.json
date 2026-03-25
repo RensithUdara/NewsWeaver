@@ -81544,5 +81544,11 @@
         "url": "https://www.themodernantiquarian.com/",
         "timestamp": "2026-03-25T10:28:58.767493",
         "source": "Hacker News"
+    },
+    {
+        "title": "Trino – Introducing the NUMBER data type",
+        "url": "https://trino.io/blog/2026/03/25/number-data-type.html",
+        "timestamp": "2026-03-25T10:28:58.767570",
+        "source": "Hacker News"
     }
 ]
