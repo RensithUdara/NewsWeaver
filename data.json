@@ -81100,5 +81100,11 @@
         "url": "https://tildeweb.nl/~michiel/httpxyz.html",
         "timestamp": "2026-03-25T08:32:00.472148",
         "source": "Hacker News"
+    },
+    {
+        "title": "Litmus – Flight recorder for AI agents (record and replay any LLM execution)",
+        "url": "https://github.com/rylinjames/litmus",
+        "timestamp": "2026-03-25T08:32:00.788864",
+        "source": "Hacker News"
     }
 ]
