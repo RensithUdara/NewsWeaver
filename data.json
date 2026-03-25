@@ -81352,5 +81352,11 @@
         "url": "https://ryan.endacott.me/2026/03/25/ai-science-whale-strandings.html",
         "timestamp": "2026-03-25T09:32:16.238034",
         "source": "Hacker News"
+    },
+    {
+        "title": "Credential-stealing malware planted in widely used LiteLLM Python library",
+        "url": "https://cyberinsider.com/new-supply-chain-attack-hits-litellm-with-95m-monthly-downloads/",
+        "timestamp": "2026-03-25T09:32:16.238068",
+        "source": "Hacker News"
     }
 ]
