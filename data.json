@@ -82252,5 +82252,11 @@
         "url": "https://www.politico.eu/article/apple-launches-age-verification-for-uk-iphone-users/",
         "timestamp": "2026-03-25T14:21:30.447844",
         "source": "Hacker News"
+    },
+    {
+        "title": "I ran 3,360 safety tests on GPT-4o, Claude, Grok, DeepSeek, Gemini",
+        "url": "https://github.com/aestrad7/llm-break-bench",
+        "timestamp": "2026-03-25T14:21:30.447877",
+        "source": "Hacker News"
     }
 ]
