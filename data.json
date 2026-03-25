@@ -81130,5 +81130,11 @@
         "url": "https://zernio.com",
         "timestamp": "2026-03-25T08:32:00.789028",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nuxt 4.4",
+        "url": "https://nuxt.com/blog/v4-4",
+        "timestamp": "2026-03-25T08:32:00.789088",
+        "source": "Hacker News"
     }
 ]
