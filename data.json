@@ -83872,5 +83872,11 @@
         "url": "https://feld.com/archives/2026/03/quality/",
         "timestamp": "2026-03-25T21:28:58.008481",
         "source": "Hacker News"
+    },
+    {
+        "title": "Specula: A framework for finding deep bugs in system code using TLA+",
+        "url": "https://github.com/specula-org/Specula",
+        "timestamp": "2026-03-25T21:28:58.008555",
+        "source": "Hacker News"
     }
 ]
