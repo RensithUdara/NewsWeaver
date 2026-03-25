@@ -81334,5 +81334,11 @@
         "url": "https://mdbergmann.github.io/cl-gserver/index.html",
         "timestamp": "2026-03-25T09:32:16.237930",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Trivy Supply Chain Attack Reached LiteLLM",
+        "url": "https://grith.ai/blog/litellm-compromised-trivy-attack-chain",
+        "timestamp": "2026-03-25T09:32:16.237965",
+        "source": "Hacker News"
     }
 ]
