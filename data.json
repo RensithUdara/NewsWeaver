@@ -80902,5 +80902,11 @@
         "url": "https://jarbus.net/blog/typing-speed-might-matter-now/",
         "timestamp": "2026-03-25T06:43:43.762945",
         "source": "Hacker News"
+    },
+    {
+        "title": "ToolTrust Scanner – detect backdoored MCP packages (litellm 1.82.8)",
+        "url": "https://github.com/AgentSafe-AI/tooltrust-scanner",
+        "timestamp": "2026-03-25T06:43:43.762979",
+        "source": "Hacker News"
     }
 ]
