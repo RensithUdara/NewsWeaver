@@ -82282,5 +82282,11 @@
         "url": "https://mediatank.github.io/bittank/",
         "timestamp": "2026-03-25T14:21:30.448023",
         "source": "Hacker News"
+    },
+    {
+        "title": "OLAP GraphDB: CSR analytical views coexisting with OLTP (with LDBC benchmarks)",
+        "url": "https://arcadedb.com/blog/graph-olap-engine-the-fastest-graph-analytics-with-zero-compromises/",
+        "timestamp": "2026-03-25T14:21:30.448113",
+        "source": "Hacker News"
     }
 ]
