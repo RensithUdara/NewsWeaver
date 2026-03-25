@@ -84334,5 +84334,11 @@
         "url": "https://helix-cnj.pages.dev/",
         "timestamp": "2026-03-25T23:55:28.334751",
         "source": "Hacker News"
+    },
+    {
+        "title": "Attributed Claude activity over the last 90 days on GitHub",
+        "url": "https://www.claudescode.dev/?window=90d",
+        "timestamp": "2026-03-25T23:55:28.334786",
+        "source": "Hacker News"
     }
 ]
