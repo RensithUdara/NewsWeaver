@@ -88288,5 +88288,11 @@
         "url": "https://www.worldhappiness.report/ed/2026/executive-summary-happiness-and-social-media/",
         "timestamp": "2026-03-26T22:47:06.865484",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I tried to reverse engineer Claude Code usage limits",
+        "url": "https://github.com/abhishekray07/claude-meter",
+        "timestamp": "2026-03-26T22:47:06.865518",
+        "source": "Hacker News"
     }
 ]
