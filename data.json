@@ -88522,5 +88522,11 @@
         "url": "https://github.com/g-udi/gaudi-shell",
         "timestamp": "2026-03-26T23:43:30.960898",
         "source": "Hacker News"
+    },
+    {
+        "title": "DataSwift – A client-side toolkit for mock data, JSON parsing, and CSV to SQL",
+        "url": "https://data-swift-kappa.vercel.app",
+        "timestamp": "2026-03-26T23:43:30.960965",
+        "source": "Hacker News"
     }
 ]
