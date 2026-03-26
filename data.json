@@ -84766,5 +84766,11 @@
         "url": "https://github.com/lightfeed/extractor",
         "timestamp": "2026-03-26T05:47:24.426360",
         "source": "Hacker News"
+    },
+    {
+        "title": "More precise elevation data for GraphHopper routing engine",
+        "url": "https://www.graphhopper.com/blog/2026/03/23/more-precise-elevation-data-for-graphhopper/",
+        "timestamp": "2026-03-26T05:47:24.426503",
+        "source": "Hacker News"
     }
 ]
