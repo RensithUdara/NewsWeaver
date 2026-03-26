@@ -87928,5 +87928,11 @@
         "url": "https://github.com/ViciousSquid/Fio",
         "timestamp": "2026-03-26T21:17:52.782243",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cloudflare's new Dynamic Workers ditch containers, run AI agent code 100x faster",
+        "url": "https://venturebeat.com/infrastructure/cloudflares-new-dynamic-workers-ditch-containers-to-run-ai-agent-code-100x",
+        "timestamp": "2026-03-26T21:17:52.783160",
+        "source": "Hacker News"
     }
 ]
