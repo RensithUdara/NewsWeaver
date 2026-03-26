@@ -84430,5 +84430,11 @@
         "url": "https://www.callasatellite.dev",
         "timestamp": "2026-03-26T01:24:43.087081",
         "source": "Hacker News"
+    },
+    {
+        "title": "Per-Tool Sandboxing for AI Agents: Why One Sandbox Is Not Enough",
+        "url": "https://multikernel.io/2026/03/25/sandlock-mcp-per-tool-sandboxing/",
+        "timestamp": "2026-03-26T01:24:43.087130",
+        "source": "Hacker News"
     }
 ]
