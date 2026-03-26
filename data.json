@@ -86248,5 +86248,11 @@
         "url": "https://nautil.us/how-we-walk-might-reveal-our-risk-of-death-1279240",
         "timestamp": "2026-03-26T12:35:50.117650",
         "source": "Hacker News"
+    },
+    {
+        "title": "Release ReadyPC v1.1.1 – free, open source PC optimizer written in Rust",
+        "url": "https://github.com/Gloom-Team/ReadyPC/releases/tag/1.1.1",
+        "timestamp": "2026-03-26T12:35:50.117719",
+        "source": "Hacker News"
     }
 ]
