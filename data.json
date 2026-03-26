@@ -87322,5 +87322,11 @@
         "url": "https://techcrunch.com/2026/03/26/defense-startup-shield-ai-lands-12-7b-valuation-up-140-after-u-s-air-force-deal/",
         "timestamp": "2026-03-26T18:38:23.151045",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3",
+        "url": "https://github.com/russellromney/turbolite",
+        "timestamp": "2026-03-26T19:39:51.815918",
+        "source": "Hacker News"
     }
 ]
