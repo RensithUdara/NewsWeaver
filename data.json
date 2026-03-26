@@ -88132,5 +88132,11 @@
         "url": "https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e",
         "timestamp": "2026-03-26T21:47:54.560786",
         "source": "Dev.to"
+    },
+    {
+        "title": "Zero-copy protobuf and ConnectRPC for Rust",
+        "url": "https://dev.to/iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-1m3e",
+        "timestamp": "2026-03-26T21:47:54.560788",
+        "source": "Dev.to"
     }
 ]
