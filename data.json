@@ -87328,5 +87328,11 @@
         "url": "https://github.com/russellromney/turbolite",
         "timestamp": "2026-03-26T19:39:51.815918",
         "source": "Hacker News"
+    },
+    {
+        "title": "Taming LLMs: Using Executable Oracles to Prevent Bad Code",
+        "url": "https://john.regehr.org/writing/zero_dof_programming.html",
+        "timestamp": "2026-03-26T19:39:51.816176",
+        "source": "Hacker News"
     }
 ]
