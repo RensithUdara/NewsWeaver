@@ -87880,5 +87880,11 @@
         "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-to-gemini-app/",
         "timestamp": "2026-03-26T21:17:52.780595",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Datetime-bench: which datetime formats LLMs get right (and wrong)",
+        "url": "https://github.com/MemoryStore/datetime-bench/tree/main",
+        "timestamp": "2026-03-26T21:17:52.780933",
+        "source": "Hacker News"
     }
 ]
