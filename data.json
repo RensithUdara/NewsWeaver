@@ -84916,5 +84916,11 @@
         "url": "https://agent-kernel.dev/?v=1.0.0",
         "timestamp": "2026-03-26T05:47:24.525638",
         "source": "Hacker News"
+    },
+    {
+        "title": "HN: Surviving the litellm supply chain attack with a pure ctypes OS Vault",
+        "url": "https://github.com/MACCRE-2026/MACCRE-Sovereign-Auth",
+        "timestamp": "2026-03-26T05:47:24.525671",
+        "source": "Hacker News"
     }
 ]
