@@ -87142,5 +87142,11 @@
         "url": "https://github.com/resumex/doom-over-dns",
         "timestamp": "2026-03-26T18:38:22.743198",
         "source": "Hacker News"
+    },
+    {
+        "title": "HyperAgents: Self-referential self-improving agents",
+        "url": "https://github.com/facebookresearch/hyperagents",
+        "timestamp": "2026-03-26T18:38:22.743239",
+        "source": "Hacker News"
     }
 ]
