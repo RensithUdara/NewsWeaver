@@ -87856,5 +87856,11 @@
         "url": "https://deploytarot.com/setup",
         "timestamp": "2026-03-26T21:17:52.672660",
         "source": "Hacker News"
+    },
+    {
+        "title": "Joining databases across teams without copying data or running servers",
+        "url": "https://datahike.io/notes/collaborate-without-infrastructure/",
+        "timestamp": "2026-03-26T21:17:52.780239",
+        "source": "Hacker News"
     }
 ]
