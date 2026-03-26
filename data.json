@@ -88552,5 +88552,11 @@
         "url": "https://github.com/phlx0/drift",
         "timestamp": "2026-03-26T23:43:30.961143",
         "source": "Hacker News"
+    },
+    {
+        "title": "A 100% serverless RAG that extracts complex tables better than NotebookLM",
+        "url": "https://news.ycombinator.com/item?id=47537026",
+        "timestamp": "2026-03-26T23:43:30.961178",
+        "source": "Hacker News"
     }
 ]
