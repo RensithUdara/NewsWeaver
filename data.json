@@ -87256,5 +87256,11 @@
         "url": "https://www.aria-lang.com",
         "timestamp": "2026-03-26T18:38:22.844684",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cline Kanban: a CLI-agnostic app for multi-agent orchestration",
+        "url": "https://cline.bot/blog/announcing-kanban",
+        "timestamp": "2026-03-26T18:38:22.844724",
+        "source": "Hacker News"
     }
 ]
