@@ -88138,5 +88138,11 @@
         "url": "https://dev.to/iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-1m3e",
         "timestamp": "2026-03-26T21:47:54.560788",
         "source": "Dev.to"
+    },
+    {
+        "title": "Cloudflare's Gen 13 servers: trading cache for cores for 2x performance",
+        "url": "https://blog.cloudflare.com/gen13-launch/",
+        "timestamp": "2026-03-26T22:01:07.587146",
+        "source": "Hacker News"
     }
 ]
