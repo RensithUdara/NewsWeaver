@@ -87226,5 +87226,11 @@
         "url": "https://davefriedman.substack.com/p/closed-source-vs-open-source-ai-a",
         "timestamp": "2026-03-26T18:38:22.844466",
         "source": "Hacker News"
+    },
+    {
+        "title": "An Efficient Heterogeneous Co-Design for Fine-Tuning on a Single GPU",
+        "url": "https://arxiv.org/abs/2603.16428",
+        "timestamp": "2026-03-26T18:38:22.844501",
+        "source": "Hacker News"
     }
 ]
