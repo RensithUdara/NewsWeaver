@@ -87916,5 +87916,11 @@
         "url": "https://agent-kanban.dev/",
         "timestamp": "2026-03-26T21:17:52.781932",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Zitrus – A 3DS SDK written in pure Zig",
+        "url": "https://codeberg.org/GasInfinity/zitrus",
+        "timestamp": "2026-03-26T21:17:52.782069",
+        "source": "Hacker News"
     }
 ]
