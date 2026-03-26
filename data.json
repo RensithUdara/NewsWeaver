@@ -87238,5 +87238,11 @@
         "url": "https://www.thetransmitter.org/neuro-education/friction-maxxing-in-school-students-should-read-primary-literature-not-ai-summaries/",
         "timestamp": "2026-03-26T18:38:22.844542",
         "source": "Hacker News"
+    },
+    {
+        "title": "Swap PVs on live StatefulSets without a rollout?",
+        "url": "https://blog.cleancompute.net/p/pvc-re-binding",
+        "timestamp": "2026-03-26T18:38:22.844577",
+        "source": "Hacker News"
     }
 ]
