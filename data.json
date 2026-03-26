@@ -86428,5 +86428,11 @@
         "url": "https://plantbasedgames.io/blog/posts/09-adding-offline-mode-and-custom-servers-to-an-mmorpg/",
         "timestamp": "2026-03-26T14:07:58.819574",
         "source": "Hacker News"
+    },
+    {
+        "title": "I benchmarked bulk insert into PostgreSQL from Java (also via DuckDB / Arrow)",
+        "url": "https://sqg.dev/blog/java-postgres-insert-benchmark/",
+        "timestamp": "2026-03-26T14:07:58.819602",
+        "source": "Hacker News"
     }
 ]
