@@ -85642,5 +85642,11 @@
         "url": "https://www.talentatrium.com/",
         "timestamp": "2026-03-26T09:39:58.251761",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Hooky – A lightweight HTTP webhook server written in Go",
+        "url": "https://github.com/virtuallytd/hooky",
+        "timestamp": "2026-03-26T09:39:58.251797",
+        "source": "Hacker News"
     }
 ]
