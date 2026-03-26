@@ -85816,5 +85816,11 @@
         "url": "https://www.areweserveryet.org",
         "timestamp": "2026-03-26T10:33:35.707163",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: //Beforeyouship is a pre-build tool to estimate the LLM cost",
+        "url": "https://llm-architecture-cost-modeler.vercel.app/",
+        "timestamp": "2026-03-26T10:33:35.707191",
+        "source": "Hacker News"
     }
 ]
