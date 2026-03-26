@@ -87154,5 +87154,11 @@
         "url": "https://interactivetextbooks.tudelft.nl/linear-algebra/Introduction.html",
         "timestamp": "2026-03-26T18:38:22.843887",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building Index-Backed Query Plans in DataFusion",
+        "url": "https://pierrezemb.fr/posts/datafusion-index-provider/",
+        "timestamp": "2026-03-26T18:38:22.843979",
+        "source": "Hacker News"
     }
 ]
