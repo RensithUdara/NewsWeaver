@@ -87136,5 +87136,11 @@
         "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
         "timestamp": "2026-03-26T18:38:22.742987",
         "source": "Hacker News"
+    },
+    {
+        "title": "Doom entirely from DNS records",
+        "url": "https://github.com/resumex/doom-over-dns",
+        "timestamp": "2026-03-26T18:38:22.743198",
+        "source": "Hacker News"
     }
 ]
