@@ -84760,5 +84760,11 @@
         "url": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
         "timestamp": "2026-03-26T04:08:47.763305",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
+        "url": "https://github.com/lightfeed/extractor",
+        "timestamp": "2026-03-26T05:47:24.426360",
+        "source": "Hacker News"
     }
 ]
