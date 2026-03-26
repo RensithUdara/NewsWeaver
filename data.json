@@ -87610,5 +87610,11 @@
         "url": "https://fiber.google.com/blog/2026/03/gfiber-and-stonepeaks-astound-to.html",
         "timestamp": "2026-03-26T20:03:57.420741",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sabela: A Reactive Haskell Notebook",
+        "url": "https://www.datahaskell.org/blog/2026/03/01/sabela-reactive-haskell-notebooks.html",
+        "timestamp": "2026-03-26T20:03:57.420806",
+        "source": "Hacker News"
     }
 ]
