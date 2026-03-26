@@ -87790,5 +87790,11 @@
         "url": "https://milkcrunch.com/scaling-to-infinite/",
         "timestamp": "2026-03-26T20:47:59.380044",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: NPM install is a security hole, so we built a guard for it",
+        "url": "https://github.com/safedep/pmg",
+        "timestamp": "2026-03-26T20:47:59.380083",
+        "source": "Hacker News"
     }
 ]
