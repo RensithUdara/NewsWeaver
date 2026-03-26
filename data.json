@@ -86110,5 +86110,11 @@
         "url": "https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict",
         "timestamp": "2026-03-26T12:35:49.794601",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open-source zero-trust proxy for MCP servers (Go)",
+        "url": "https://github.com/AnobleSCM/mcp-zero-trust-proxy",
+        "timestamp": "2026-03-26T12:35:50.116729",
+        "source": "Hacker News"
     }
 ]
