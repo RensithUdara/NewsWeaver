@@ -86290,5 +86290,11 @@
         "url": "https://news.ycombinator.com/item?id=47530391",
         "timestamp": "2026-03-26T14:07:58.726295",
         "source": "Hacker News"
+    },
+    {
+        "title": "Optimizing a Lock-Free Ring Buffer",
+        "url": "https://david.alvarezrosa.com/posts/optimizing-a-lock-free-ring-buffer/",
+        "timestamp": "2026-03-26T14:07:58.726455",
+        "source": "Hacker News"
     }
 ]
