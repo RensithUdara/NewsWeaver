@@ -86674,5 +86674,11 @@
         "url": "https://missionlocal.org/2026/03/san-francisco-algebra-middle-school/",
         "timestamp": "2026-03-26T15:23:44.705276",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cactus, a work-stealing parallel recursion runtime for C",
+        "url": "https://github.com/xtellect/cactus",
+        "timestamp": "2026-03-26T15:23:44.705311",
+        "source": "Hacker News"
     }
 ]
