@@ -85366,5 +85366,11 @@
         "url": "https://www.neowin.net/news/samsung-browser-is-now-on-windows-with-features-that-might-make-you-ditch-chrome/",
         "timestamp": "2026-03-26T08:35:56.853897",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a tiny JavaScript runtime with QuickJS",
+        "url": "https://healeycodes.com/building-a-runtime-with-quickjs",
+        "timestamp": "2026-03-26T08:35:56.853933",
+        "source": "Hacker News"
     }
 ]
