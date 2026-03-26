@@ -87166,5 +87166,11 @@
         "url": "https://www.haiku-os.org/legacy-docs/benewsletter/Issue4-8.html",
         "timestamp": "2026-03-26T18:38:22.844016",
         "source": "Hacker News"
+    },
+    {
+        "title": "Spring Boot Done Right: Lessons from a 400-Module Codebase",
+        "url": "https://medium.com/all-things-software/spring-boot-done-right-lessons-from-a-400-module-codebase-e636c3c34149",
+        "timestamp": "2026-03-26T18:38:22.844088",
+        "source": "Hacker News"
     }
 ]
