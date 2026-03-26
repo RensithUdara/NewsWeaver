@@ -86686,5 +86686,11 @@
         "url": "https://newclawtimes.com/articles/clawsecure-openclaw-security-scanner-audited-skills-registry/",
         "timestamp": "2026-03-26T15:23:44.705345",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building pentest devices with Rust and ESP32-C6 microcontrollers",
+        "url": "https://kerkour.com/rust-esp32-pentest",
+        "timestamp": "2026-03-26T15:23:44.705380",
+        "source": "Hacker News"
     }
 ]
