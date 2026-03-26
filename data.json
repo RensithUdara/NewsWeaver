@@ -85006,5 +85006,11 @@
         "url": "https://ristforever.com/",
         "timestamp": "2026-03-26T06:50:02.644096",
         "source": "Hacker News"
+    },
+    {
+        "title": "Major upgrades to Ray Serve: 88% lower latency and 11.1x higher throughput",
+        "url": "https://www.anyscale.com/blog/ray-serve-inference-lower-latency-higher-throughput-haproxy",
+        "timestamp": "2026-03-26T06:50:02.644131",
+        "source": "Hacker News"
     }
 ]
