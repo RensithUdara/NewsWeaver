@@ -87376,5 +87376,11 @@
         "url": "https://voxday.net/2026/03/25/rip-john-bradley/",
         "timestamp": "2026-03-26T19:39:52.134336",
         "source": "Hacker News"
+    },
+    {
+        "title": "SystemLisp – an HDL simulator written in Common Lisp",
+        "url": "https://github.com/systemlisp",
+        "timestamp": "2026-03-26T19:39:52.134370",
+        "source": "Hacker News"
     }
 ]
