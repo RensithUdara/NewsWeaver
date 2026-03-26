@@ -85420,5 +85420,11 @@
         "url": "https://issuetracker.google.com/issues/371713238",
         "timestamp": "2026-03-26T08:35:56.854346",
         "source": "Hacker News"
+    },
+    {
+        "title": "FreeBSD remote DoS vulnerability via TCP – FreeBSD-SA-26:06.tcp",
+        "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:06.tcp.asc",
+        "timestamp": "2026-03-26T08:35:56.854383",
+        "source": "Hacker News"
     }
 ]
