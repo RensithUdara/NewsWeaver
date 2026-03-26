@@ -88180,5 +88180,11 @@
         "url": "https://www.goto10retro.com/p/a-look-at-some-retro-desktop-graphical",
         "timestamp": "2026-03-26T22:01:07.848153",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gemini CLI not working for many users",
+        "url": "https://github.com/google-gemini/gemini-cli/issues/23795",
+        "timestamp": "2026-03-26T22:01:07.848191",
+        "source": "Hacker News"
     }
 ]
