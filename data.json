@@ -86332,5 +86332,11 @@
         "url": "https://securelist.com/coruna-framework-updated-operation-triangulation-exploit/119228/",
         "timestamp": "2026-03-26T14:07:58.819051",
         "source": "Hacker News"
+    },
+    {
+        "title": "PDF Prompt Injection Toolkit – Hidden LLM Payloads in PDFs",
+        "url": "https://github.com/zhihuiyuze/PDF-Prompt-Injection-Toolkit",
+        "timestamp": "2026-03-26T14:07:58.819080",
+        "source": "Hacker News"
     }
 ]
