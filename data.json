@@ -88306,5 +88306,11 @@
         "url": "https://arstechnica.com/tech-policy/2026/03/elon-musk-loses-big-in-court-x-boycott-perfectly-legal/",
         "timestamp": "2026-03-26T22:47:06.865585",
         "source": "Hacker News"
+    },
+    {
+        "title": "Swift C++ Interoperability in Practice: Raylib and Dear ImGui",
+        "url": "https://carette.xyz/posts/swift_cpp_compatibility_with_raylib_and_imgui/",
+        "timestamp": "2026-03-26T22:47:06.865618",
+        "source": "Hacker News"
     }
 ]
