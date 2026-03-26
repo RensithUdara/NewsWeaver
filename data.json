@@ -86308,5 +86308,11 @@
         "url": "https://news.ycombinator.com/item?id=47530651",
         "timestamp": "2026-03-26T14:07:58.818924",
         "source": "Hacker News"
+    },
+    {
+        "title": "Remap Copilot Suggestions in Nvim with Lua",
+        "url": "https://xnacly.me/posts/2023/remap-copilot-nvim/",
+        "timestamp": "2026-03-26T14:07:58.818961",
+        "source": "Hacker News"
     }
 ]
