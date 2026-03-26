@@ -86164,5 +86164,11 @@
         "url": "https://runs-on.com/blog/terraform-module-made-me-love-cloudformation/",
         "timestamp": "2026-03-26T12:35:50.117072",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bridge UDP to Supabase Edge Functions",
+        "url": "https://github.com/proxylity/examples/blob/main/supabase-udp/README.md",
+        "timestamp": "2026-03-26T12:35:50.117106",
+        "source": "Hacker News"
     }
 ]
