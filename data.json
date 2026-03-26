@@ -84886,5 +84886,11 @@
         "url": "https://mdalpha.ai/",
         "timestamp": "2026-03-26T05:47:24.525466",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Prompt Guard–MitM proxy that blocks secrets before they reach AI APIs",
+        "url": "https://github.com/chaudharydeepak/prompt-guard",
+        "timestamp": "2026-03-26T05:47:24.525499",
+        "source": "Hacker News"
     }
 ]
