@@ -87394,5 +87394,11 @@
         "url": "https://docs.google.com/forms/d/e/1FAIpQLScfpHXw0kX9smFgK5wKC0TVkM89sqnsMzMKWFmIYFXw3Xddqg/viewform?usp=dialog",
         "timestamp": "2026-03-26T19:39:52.134447",
         "source": "Hacker News"
+    },
+    {
+        "title": "Window 95 defenses against installers overwriting files with older versions",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159",
+        "timestamp": "2026-03-26T19:39:52.134501",
+        "source": "Hacker News"
     }
 ]
