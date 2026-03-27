@@ -89116,5 +89116,11 @@
         "url": "https://www.theregister.com/2026/03/26/salesforce_bots_to_help_those/",
         "timestamp": "2026-03-27T06:42:45.415100",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Pentesting Tool Using Claude",
+        "url": "https://github.com/shuvonsec/claude-bug-bounty",
+        "timestamp": "2026-03-27T06:42:45.415132",
+        "source": "Hacker News"
     }
 ]
