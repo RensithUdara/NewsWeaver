@@ -90772,5 +90772,11 @@
         "url": "https://news.ycombinator.com/item?id=47543432",
         "timestamp": "2026-03-27T15:07:12.922046",
         "source": "Hacker News"
+    },
+    {
+        "title": "We checkpoint Chrome to NVMe and restore it in 500ms ()",
+        "url": "https://news.ycombinator.com/item?id=47543412",
+        "timestamp": "2026-03-27T15:07:12.922085",
+        "source": "Hacker News"
     }
 ]
