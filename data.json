@@ -90910,5 +90910,11 @@
         "url": "https://github.com/mrwalkersir/homie-protocol",
         "timestamp": "2026-03-27T16:02:26.188872",
         "source": "Hacker News"
+    },
+    {
+        "title": "IHP v1.5.0 released: full database layer rewrite, perf improvements, typed SQL",
+        "url": "https://github.com/digitallyinduced/ihp/releases/tag/v1.5.0",
+        "timestamp": "2026-03-27T16:02:26.188910",
+        "source": "Hacker News"
     }
 ]
