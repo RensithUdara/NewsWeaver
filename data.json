@@ -90148,5 +90148,11 @@
         "url": "https://www.striga.ai/research/crashing-axios-with-proto",
         "timestamp": "2026-03-27T11:11:43.018713",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pyrite64: N64 Game-Engine and Editor using libdragon and tiny3d",
+        "url": "https://github.com/HailToDodongo/pyrite64",
+        "timestamp": "2026-03-27T11:11:43.018747",
+        "source": "Hacker News"
     }
 ]
