@@ -92470,5 +92470,11 @@
         "url": "https://ricomariani.medium.com/software-performance-engineering-the-ideas-i-keep-coming-back-to-6f421b6a9505",
         "timestamp": "2026-03-27T22:57:35.698592",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dokis – Runtime RAG provenance enforcement without an LLM call",
+        "url": "https://github.com/Vbj1808/dokis",
+        "timestamp": "2026-03-27T22:57:35.698624",
+        "source": "Hacker News"
     }
 ]
