@@ -88792,5 +88792,11 @@
         "url": "https://www.economist.com/finance-and-economics/2026/03/26/the-decline-and-fall-of-the-roman-currency-empire",
         "timestamp": "2026-03-27T03:26:15.846362",
         "source": "Hacker News"
+    },
+    {
+        "title": "Database Performance Bottlenecks: N+1 Queries, Missing Indexes, Connection Pools",
+        "url": "https://howtocenterdiv.com/beyond-the-div/your-database-is-the-bottleneck-not-your-code",
+        "timestamp": "2026-03-27T03:26:15.846394",
+        "source": "Hacker News"
     }
 ]
