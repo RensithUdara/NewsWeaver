@@ -91102,5 +91102,11 @@
         "url": "https://news.ycombinator.com/item?id=47545329",
         "timestamp": "2026-03-27T17:05:31.084640",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLM Persuasion Benchmark: Multi-Turn Persuasion Between Models",
+        "url": "https://github.com/lechmazur/persuasion",
+        "timestamp": "2026-03-27T17:05:31.084694",
+        "source": "Hacker News"
     }
 ]
