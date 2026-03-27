@@ -91540,5 +91540,11 @@
         "url": "https://demo.aitherium.com/blog/the-guy-in-the-garage",
         "timestamp": "2026-03-27T18:53:53.191569",
         "source": "Hacker News"
+    },
+    {
+        "title": "Custom kernel mode code signing policies on Windows",
+        "url": "https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/design/custom-kernel-signers",
+        "timestamp": "2026-03-27T18:53:53.191603",
+        "source": "Hacker News"
     }
 ]
