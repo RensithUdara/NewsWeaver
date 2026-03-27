@@ -88900,5 +88900,11 @@
         "url": "https://kyla.substack.com/p/the-ozempicization-of-the-economy",
         "timestamp": "2026-03-27T05:21:17.370829",
         "source": "Hacker News"
+    },
+    {
+        "title": "Two env vars that fix PyTorch memory creep forever – no code changes",
+        "url": "https://github.com/brjen/pytorch-memory-fix",
+        "timestamp": "2026-03-27T05:21:17.370864",
+        "source": "Hacker News"
     }
 ]
