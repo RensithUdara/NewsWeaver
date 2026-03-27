@@ -91546,5 +91546,11 @@
         "url": "https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/design/custom-kernel-signers",
         "timestamp": "2026-03-27T18:53:53.191603",
         "source": "Hacker News"
+    },
+    {
+        "title": "CAS Internals – 825 pages on how a 400-module Spring Boot app works",
+        "url": "https://leanpub.com/cas-internals/c/hn",
+        "timestamp": "2026-03-27T18:53:53.191638",
+        "source": "Hacker News"
     }
 ]
