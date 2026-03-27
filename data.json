@@ -92620,5 +92620,11 @@
         "url": "https://blog.metalabel.com/the-first-a-corp-law-is-here/",
         "timestamp": "2026-03-27T23:30:08.940991",
         "source": "Hacker News"
+    },
+    {
+        "title": "Vibe Security Radar: Real CVEs where AI-generated code introduced Bugs",
+        "url": "https://vibe-radar-ten.vercel.app/",
+        "timestamp": "2026-03-27T23:30:08.941024",
+        "source": "Hacker News"
     }
 ]
