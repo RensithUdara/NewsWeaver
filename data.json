@@ -91024,5 +91024,11 @@
         "url": "https://theconsensus.dev/p/2026/03/20/every-query-gets-a-receipt.html",
         "timestamp": "2026-03-27T16:02:26.189572",
         "source": "Hacker News"
+    },
+    {
+        "title": "ROCm 7.1.1: you can (not) build",
+        "url": "https://lunnova.dev/articles/rocm-711-you-can-not-build/",
+        "timestamp": "2026-03-27T16:02:26.189606",
+        "source": "Hacker News"
     }
 ]
