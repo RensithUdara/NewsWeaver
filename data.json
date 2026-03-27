@@ -90532,5 +90532,11 @@
         "url": "https://pawelbrodzinski.substack.com/p/10-trends-in-early-stage-product",
         "timestamp": "2026-03-27T14:08:43.062020",
         "source": "Hacker News"
+    },
+    {
+        "title": "Executable specs: running Gherkin tests with Claude Code",
+        "url": "https://github.com/mnapoli/exspec",
+        "timestamp": "2026-03-27T14:08:43.062056",
+        "source": "Hacker News"
     }
 ]
