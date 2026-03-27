@@ -89920,5 +89920,11 @@
         "url": "https://world-nuclear-news.org/articles/data-centre-to-be-built-near-planned-polish-nuclear-power-plant",
         "timestamp": "2026-03-27T10:27:24.201290",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ipxlat: a stateless IPv4/IPv6 translation device",
+        "url": "https://lore.kernel.org/netdev/20260319151230.655687-1-ralf@mandelbit.com/T/#m6b6603d690f9bd7f85cce6307be7821100d98de0",
+        "timestamp": "2026-03-27T10:27:24.201341",
+        "source": "Hacker News"
     }
 ]
