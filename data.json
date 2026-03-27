@@ -92542,5 +92542,11 @@
         "url": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/",
         "timestamp": "2026-03-27T23:30:08.846989",
         "source": "Hacker News"
+    },
+    {
+        "title": "Detecting camera on/off events for Linux and controlling lights with eBPF",
+        "url": "https://shuhaowu.com/blog/2026/02-camera-coordinator.html",
+        "timestamp": "2026-03-27T23:30:08.940486",
+        "source": "Hacker News"
     }
 ]
