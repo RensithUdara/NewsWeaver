@@ -88762,5 +88762,11 @@
         "url": "https://books.forbes.com/books/the-innovation-edge/",
         "timestamp": "2026-03-27T03:26:15.846199",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claw Fact Bus: \"Facts, Not Commands\" for AI Agent Coordination",
+        "url": "https://github.com/YangKGcsdms/claw_fact_bus/blob/master/protocol/SPEC.md",
+        "timestamp": "2026-03-27T03:26:15.846232",
+        "source": "Hacker News"
     }
 ]
