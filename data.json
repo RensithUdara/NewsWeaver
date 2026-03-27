@@ -92554,5 +92554,11 @@
         "url": "https://finance.yahoo.com/news/microsoft-set-worst-quarter-since-103556906.html",
         "timestamp": "2026-03-27T23:30:08.940555",
         "source": "Hacker News"
+    },
+    {
+        "title": "Codex-review – Claude Code plugin for Codex reviews of plans and implementations",
+        "url": "https://github.com/boyand/codex-review",
+        "timestamp": "2026-03-27T23:30:08.940598",
+        "source": "Hacker News"
     }
 ]
