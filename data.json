@@ -88780,5 +88780,11 @@
         "url": "https://www.theedgesingapore.com/news/artificial-intelligence/claude-ai-maker-anthropic-considers-ipo-soon-october--bloomberg",
         "timestamp": "2026-03-27T03:26:15.846297",
         "source": "Hacker News"
+    },
+    {
+        "title": "Slashing agent token costs by 98% with RFC 9457-compliant error responses",
+        "url": "https://blog.cloudflare.com/rfc-9457-agent-error-pages/",
+        "timestamp": "2026-03-27T03:26:15.846329",
+        "source": "Hacker News"
     }
 ]
