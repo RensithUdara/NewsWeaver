@@ -90376,5 +90376,11 @@
         "url": "https://nodejs.org/en/blog/vulnerability/march-2026-hashdos",
         "timestamp": "2026-03-27T12:56:42.314844",
         "source": "Hacker News"
+    },
+    {
+        "title": "Expected distance between interior points, boundary points",
+        "url": "https://mathoverflow.net/questions/509554/is-the-expected-distance-between-two-random-interior-points-of-a-convex-body-alw",
+        "timestamp": "2026-03-27T12:56:42.314882",
+        "source": "Hacker News"
     }
 ]
