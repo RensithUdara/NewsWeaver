@@ -89458,5 +89458,11 @@
         "url": "https://status.claude.com/incidents/b9802k1zb5l2",
         "timestamp": "2026-03-27T08:32:57.145547",
         "source": "Hacker News"
+    },
+    {
+        "title": "Embeddable Common Lisp 26.3.27 release",
+        "url": "https://ecl.common-lisp.dev/posts/ECL-26327-release.html",
+        "timestamp": "2026-03-27T08:32:57.145600",
+        "source": "Hacker News"
     }
 ]
