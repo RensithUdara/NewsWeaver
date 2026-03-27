@@ -92074,5 +92074,11 @@
         "url": "https://www.coryd.dev/posts/2026/migrating-infrastructure-off-coolify",
         "timestamp": "2026-03-27T20:52:35.316135",
         "source": "Hacker News"
+    },
+    {
+        "title": "The telnyx packages on PyPI have been compromised",
+        "url": "https://lwn.net/Articles/1065059/",
+        "timestamp": "2026-03-27T20:52:35.316170",
+        "source": "Hacker News"
     }
 ]
