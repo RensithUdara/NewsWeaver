@@ -88984,5 +88984,11 @@
         "url": "https://juliet.sh/",
         "timestamp": "2026-03-27T05:21:17.371368",
         "source": "Hacker News"
+    },
+    {
+        "title": "ABOM – Map your GitHub Actions supply chain (built after the Trivy compromise)",
+        "url": "https://github.com/JulietSecurity/abom",
+        "timestamp": "2026-03-27T05:21:17.371402",
+        "source": "Hacker News"
     }
 ]
