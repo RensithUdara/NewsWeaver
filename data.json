@@ -91426,5 +91426,11 @@
         "url": "https://blog.mozilla.ai/the-hardest-part-of-running-a-small-business-in-the-trades/",
         "timestamp": "2026-03-27T17:58:03.609836",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Foundry: a Markdown-first CMS written in Go",
+        "url": "https://github.com/sphireinc/Foundry",
+        "timestamp": "2026-03-27T17:58:03.609903",
+        "source": "Hacker News"
     }
 ]
