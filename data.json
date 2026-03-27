@@ -90142,5 +90142,11 @@
         "url": "https://www.nextplatform.com/store/2026/03/24/riding-the-memory-boom-and-trying-to-avoid-the-bust/5211466",
         "timestamp": "2026-03-27T11:11:43.018661",
         "source": "Hacker News"
+    },
+    {
+        "title": "Taking Down the Internet's Most Popular HTTP Client with a Single JSON Key",
+        "url": "https://www.striga.ai/research/crashing-axios-with-proto",
+        "timestamp": "2026-03-27T11:11:43.018713",
+        "source": "Hacker News"
     }
 ]
