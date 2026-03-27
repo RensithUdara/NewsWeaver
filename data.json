@@ -88648,5 +88648,11 @@
         "url": "https://www.deepmyst.com/",
         "timestamp": "2026-03-27T00:03:26.256453",
         "source": "Hacker News"
+    },
+    {
+        "title": "Considering MMAP() verus plain reads for my recent code",
+        "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/MmapVsPlainReadThoughts",
+        "timestamp": "2026-03-27T00:03:26.256524",
+        "source": "Hacker News"
     }
 ]
