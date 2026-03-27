@@ -90778,5 +90778,11 @@
         "url": "https://news.ycombinator.com/item?id=47543412",
         "timestamp": "2026-03-27T15:07:12.922085",
         "source": "Hacker News"
+    },
+    {
+        "title": "Creating a Password-Less Login System: Email OTP and Passkeys",
+        "url": "https://ben3d.ca/blog/passwordless-login-system",
+        "timestamp": "2026-03-27T15:07:12.922120",
+        "source": "Hacker News"
     }
 ]
