@@ -89026,5 +89026,11 @@
         "url": "https://news.ycombinator.com/item?id=47539056",
         "timestamp": "2026-03-27T05:21:17.371599",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Sylve – A management plane for FreeBSD (ZFS, VMs, jails, clustering)",
+        "url": "https://sylve.io",
+        "timestamp": "2026-03-27T05:21:17.371633",
+        "source": "Hacker News"
     }
 ]
