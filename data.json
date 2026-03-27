@@ -91156,5 +91156,11 @@
         "url": "https://myelin.vercel.app",
         "timestamp": "2026-03-27T17:05:31.085002",
         "source": "Hacker News"
+    },
+    {
+        "title": "The first deterministic RAG system (same query = same results, every time)",
+        "url": "https://saiql.ai/Atlas_LRAG-CE/",
+        "timestamp": "2026-03-27T17:05:31.085037",
+        "source": "Hacker News"
     }
 ]
