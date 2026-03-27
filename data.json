@@ -90058,5 +90058,11 @@
         "url": "https://druids.dev/welcome",
         "timestamp": "2026-03-27T11:11:43.018170",
         "source": "Hacker News"
+    },
+    {
+        "title": "(A Few) Ops Lessons We All Learn the Hard Way",
+        "url": "https://netmeister.org/blog/ops-lessons.html",
+        "timestamp": "2026-03-27T11:11:43.018203",
+        "source": "Hacker News"
     }
 ]
