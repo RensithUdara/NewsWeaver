@@ -89746,5 +89746,11 @@
         "url": "https://harpers.org/archive/1952/12/the-illusion-of-american-omnipotence/",
         "timestamp": "2026-03-27T09:32:34.227222",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bitbucket is keeping a free tier for self-hosted CI runners",
+        "url": "https://www.atlassian.com/blog/bitbucket/announcing-the-next-chapter-for-bitbucket-pipelines-runners",
+        "timestamp": "2026-03-27T09:32:34.227273",
+        "source": "Hacker News"
     }
 ]
