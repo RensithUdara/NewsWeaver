@@ -92572,5 +92572,11 @@
         "url": "https://www.youtube.com/watch?v=lswbpVtAhrc",
         "timestamp": "2026-03-27T23:30:08.940671",
         "source": "Hacker News"
+    },
+    {
+        "title": "CRNG: Random numbers with real market fat tails, not Gaussian",
+        "url": "https://github.com/brotto/crng/releases/tag/v0.2.0",
+        "timestamp": "2026-03-27T23:30:08.940711",
+        "source": "Hacker News"
     }
 ]
