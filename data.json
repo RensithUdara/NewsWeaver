@@ -90394,5 +90394,11 @@
         "url": "https://github.com/bglek/skill-creator-springett",
         "timestamp": "2026-03-27T12:56:42.314956",
         "source": "Hacker News"
+    },
+    {
+        "title": "SQLite has STRICT typing (since 3.37, 2021)",
+        "url": "https://sqlite.org/stricttables.html",
+        "timestamp": "2026-03-27T12:56:42.314998",
+        "source": "Hacker News"
     }
 ]
