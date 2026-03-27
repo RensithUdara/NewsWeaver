@@ -89794,5 +89794,11 @@
         "url": "https://www.nintendolife.com/news/2019/11/feature_the_story_behind_new_super_mario_land_the_homebrew_marvel_intended_as_a_christmas_gift",
         "timestamp": "2026-03-27T09:32:34.227559",
         "source": "Hacker News"
+    },
+    {
+        "title": "Telnyx v4.87.1 and v4.87.2 are compromised by TeamPCP",
+        "url": "https://github.com/team-telnyx/telnyx-python/issues/235",
+        "timestamp": "2026-03-27T09:32:34.227593",
+        "source": "Hacker News"
     }
 ]
