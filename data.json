@@ -91624,5 +91624,11 @@
         "url": "https://www.youtube.com/watch?v=GKeDc1DMLH0",
         "timestamp": "2026-03-27T18:53:53.192053",
         "source": "Hacker News"
+    },
+    {
+        "title": "Security-by-Design for LLM-Based Code Generation",
+        "url": "https://arxiv.org/abs/2603.11212",
+        "timestamp": "2026-03-27T18:53:53.192093",
+        "source": "Hacker News"
     }
 ]
