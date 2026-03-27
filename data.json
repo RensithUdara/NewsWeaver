@@ -90760,5 +90760,11 @@
         "url": "https://github.com/ChatAgentRelay/ChatAgentRelay",
         "timestamp": "2026-03-27T15:07:12.921918",
         "source": "Hacker News"
+    },
+    {
+        "title": "Skipping 90% of KV dequant work speeds up LLM decode by 22%",
+        "url": "https://github.com/TheTom/turboquant_plus",
+        "timestamp": "2026-03-27T15:07:12.921975",
+        "source": "Hacker News"
     }
 ]
