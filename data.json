@@ -91576,5 +91576,11 @@
         "url": "https://www.appaca.ai",
         "timestamp": "2026-03-27T18:53:53.191780",
         "source": "Hacker News"
+    },
+    {
+        "title": "ZDI-CAN-30207: Unpatched 9.8 RCE zero-day in Telegram",
+        "url": "https://www.zerodayinitiative.com/advisories/upcoming/",
+        "timestamp": "2026-03-27T18:53:53.191814",
+        "source": "Hacker News"
     }
 ]
