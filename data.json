@@ -88930,5 +88930,11 @@
         "url": "https://news.ycombinator.com/item?id=47539241",
         "timestamp": "2026-03-27T05:21:17.370999",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Literalizer – convert JSON and YAML into native",
+        "url": "https://github.com/adamtheturtle/literalizer",
+        "timestamp": "2026-03-27T05:21:17.371039",
+        "source": "Hacker News"
     }
 ]
