@@ -91450,5 +91450,11 @@
         "url": "https://www.aikido.dev/blog/telnyx-pypi-compromised-teampcp-canisterworm",
         "timestamp": "2026-03-27T18:53:53.004493",
         "source": "Hacker News"
+    },
+    {
+        "title": "TurboQuant: Building a Sub-Byte KV Cache Quantizer from Paper to Production",
+        "url": "https://demo.aitherium.com/blog/turboquant-sub-byte-kv-cache-from-paper-to-production",
+        "timestamp": "2026-03-27T18:53:53.191034",
+        "source": "Hacker News"
     }
 ]
