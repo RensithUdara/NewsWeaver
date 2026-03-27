@@ -92092,5 +92092,11 @@
         "url": "https://maxgirkins.com/writings/email-to-self",
         "timestamp": "2026-03-27T20:52:35.316273",
         "source": "Hacker News"
+    },
+    {
+        "title": "A new TypeScript CSS parser with all modern features (nesting, scopes,)",
+        "url": "https://github.com/node-projects/css-parser",
+        "timestamp": "2026-03-27T20:52:35.316309",
+        "source": "Hacker News"
     }
 ]
