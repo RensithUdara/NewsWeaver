@@ -91504,5 +91504,11 @@
         "url": "https://www.datacenterdynamics.com/en/opinions/arm-is-burning-its-business-model-on-the-altar-of-ai/",
         "timestamp": "2026-03-27T18:53:53.191365",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Paste Image to Claude Code over SSH",
+        "url": "https://github.com/AlexZeitler/claude-ssh-image-skill",
+        "timestamp": "2026-03-27T18:53:53.191402",
+        "source": "Hacker News"
     }
 ]
