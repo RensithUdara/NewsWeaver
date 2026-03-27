@@ -92392,5 +92392,11 @@
         "url": "https://www.wired.com/story/using-a-vpn-may-subject-you-to-nsa-spying/",
         "timestamp": "2026-03-27T22:24:06.102667",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Tiny filesystem honeypot for macOS with zero dependencies in Go",
+        "url": "https://github.com/dweinstein/canary",
+        "timestamp": "2026-03-27T22:24:06.102700",
+        "source": "Hacker News"
     }
 ]
