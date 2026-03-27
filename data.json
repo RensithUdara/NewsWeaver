@@ -89854,5 +89854,11 @@
         "url": "https://gamehippo.art",
         "timestamp": "2026-03-27T10:27:24.200853",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scaling a Monolith to 1M LOC: 113 Pragmatic Lessons",
+        "url": "https://www.semicolonandsons.com/articles/scaling-a-monolith-to-1m-loc-113-pragmatic-lessons-from-tech-lead-to-cto",
+        "timestamp": "2026-03-27T10:27:24.200892",
+        "source": "Hacker News"
     }
 ]
