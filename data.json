@@ -90370,5 +90370,11 @@
         "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
         "timestamp": "2026-03-27T12:56:42.314767",
         "source": "Hacker News"
+    },
+    {
+        "title": "Developing a minimally HashDoS resistant, yet quickly reversible integer hash fo",
+        "url": "https://nodejs.org/en/blog/vulnerability/march-2026-hashdos",
+        "timestamp": "2026-03-27T12:56:42.314844",
+        "source": "Hacker News"
     }
 ]
