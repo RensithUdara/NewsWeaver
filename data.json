@@ -91282,5 +91282,11 @@
         "url": "https://github.com/just-claw-it/claw-bench",
         "timestamp": "2026-03-27T17:58:03.608915",
         "source": "Hacker News"
+    },
+    {
+        "title": "We broke 92% of SHA-256 – you should start to migrate from it",
+        "url": "https://stateofutopia.com/papers/2/we-broke-92-percent-of-sha-256.html",
+        "timestamp": "2026-03-27T17:58:03.608966",
+        "source": "Hacker News"
     }
 ]
