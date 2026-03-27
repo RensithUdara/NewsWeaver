@@ -91336,5 +91336,11 @@
         "url": "https://arxiv.org/abs/2602.21219",
         "timestamp": "2026-03-27T17:58:03.609275",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenCode-LLM-proxy – use any OpenCode model via OpenAI/Anthropic/Gemini API",
+        "url": "https://github.com/KochC/opencode-llm-proxy",
+        "timestamp": "2026-03-27T17:58:03.609308",
+        "source": "Hacker News"
     }
 ]
