@@ -91630,5 +91630,11 @@
         "url": "https://arxiv.org/abs/2603.11212",
         "timestamp": "2026-03-27T18:53:53.192093",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building Reliable Agents with the Transactional Outbox Pattern and Redis Streams",
+        "url": "https://dev.to/redis/building-reliable-agents-with-the-transactional-outbox-pattern-and-redis-streams-45e6",
+        "timestamp": "2026-03-27T18:53:53.317912",
+        "source": "Dev.to"
     }
 ]
