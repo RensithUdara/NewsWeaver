@@ -90082,5 +90082,11 @@
         "url": "https://stripe.dev/blog/markdoc",
         "timestamp": "2026-03-27T11:11:43.018300",
         "source": "Hacker News"
+    },
+    {
+        "title": "Spawning VMs for unreasonable workloads (2024)",
+        "url": "https://blog.davidv.dev/posts/abusing-firecracker/",
+        "timestamp": "2026-03-27T11:11:43.018332",
+        "source": "Hacker News"
     }
 ]
