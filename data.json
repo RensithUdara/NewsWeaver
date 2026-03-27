@@ -92416,5 +92416,11 @@
         "url": "https://zenodo.org/records/19241283",
         "timestamp": "2026-03-27T22:57:35.698232",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sashiko agentic Linux kernel code review system",
+        "url": "https://github.com/sashiko-dev/sashiko",
+        "timestamp": "2026-03-27T22:57:35.698270",
+        "source": "Hacker News"
     }
 ]
