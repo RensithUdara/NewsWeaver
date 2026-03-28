@@ -93178,5 +93178,11 @@
         "url": "https://vibe-replay.com/blog/cursor-local-storage/",
         "timestamp": "2026-03-28T05:13:26.412825",
         "source": "Hacker News"
+    },
+    {
+        "title": "I got tired of dd() and built a visual PHP debugger that doesn't need Xdebug",
+        "url": "https://ddless.com",
+        "timestamp": "2026-03-28T05:13:26.412935",
+        "source": "Hacker News"
     }
 ]
