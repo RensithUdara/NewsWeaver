@@ -95914,5 +95914,11 @@
         "url": "https://hanzilla.co/blog/mcp-onboarding-ten-agents-one-command/",
         "timestamp": "2026-03-28T19:39:08.130032",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: a Rust CLI to automatically swap monitor focus based on your gaze",
+        "url": "https://github.com/pranavkarthik10/miru",
+        "timestamp": "2026-03-28T19:39:08.429943",
+        "source": "Hacker News"
     }
 ]
