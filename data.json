@@ -94504,5 +94504,11 @@
         "url": "https://news.ycombinator.com/item?id=47554576",
         "timestamp": "2026-03-28T13:55:37.712396",
         "source": "Hacker News"
+    },
+    {
+        "title": "Continuous cloud-native backup tool for PostgreSQL",
+        "url": "https://github.com/pgrwl/pgrwl",
+        "timestamp": "2026-03-28T13:55:37.712432",
+        "source": "Hacker News"
     }
 ]
