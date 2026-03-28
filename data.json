@@ -93412,5 +93412,11 @@
         "url": "https://humantransit.org/2026/03/the-joy-of-numbered-streets-or-call-it-39th-avenue.html",
         "timestamp": "2026-03-28T06:11:45.510071",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Layer – Hide your personal AI files from Git without touching gitignore",
+        "url": "https://crates.io/crates/git-layer",
+        "timestamp": "2026-03-28T07:14:51.252629",
+        "source": "Hacker News"
     }
 ]
