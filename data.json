@@ -94624,5 +94624,11 @@
         "url": "https://octopus-review.ai",
         "timestamp": "2026-03-28T13:55:37.713200",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to implement the Outbox pattern in Go and Postgres",
+        "url": "https://www.youtube.com/watch?v=hJ4S-5MirvU",
+        "timestamp": "2026-03-28T13:55:37.713234",
+        "source": "Hacker News"
     }
 ]
