@@ -93544,5 +93544,11 @@
         "url": "http://inspirel.com/articles/Ada_On_Cortex.html",
         "timestamp": "2026-03-28T07:14:51.253640",
         "source": "Hacker News"
+    },
+    {
+        "title": "Poison AI Training Data Scrapers",
+        "url": "https://github.com/austin-weeks/miasma",
+        "timestamp": "2026-03-28T07:14:51.253695",
+        "source": "Hacker News"
     }
 ]
