@@ -96124,5 +96124,11 @@
         "url": "https://github.com/Noumenon-ai/cve-guard",
         "timestamp": "2026-03-28T20:53:01.284646",
         "source": "Hacker News"
+    },
+    {
+        "title": "A one-line Kubernetes fix that saved 600 hours a year",
+        "url": "https://blog.cloudflare.com/one-line-kubernetes-fix-saved-600-hours-a-year/",
+        "timestamp": "2026-03-28T20:53:01.284682",
+        "source": "Hacker News"
     }
 ]
