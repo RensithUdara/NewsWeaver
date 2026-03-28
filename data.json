@@ -96142,5 +96142,11 @@
         "url": "https://news.ycombinator.com/item?id=47557938",
         "timestamp": "2026-03-28T20:53:01.284757",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Vyasa – A client-side AI writing detector (WASM, no API calls)",
+        "url": "https://mostlykiguess.github.io/vyasa/",
+        "timestamp": "2026-03-28T20:53:01.284825",
+        "source": "Hacker News"
     }
 ]
