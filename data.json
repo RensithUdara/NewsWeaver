@@ -94708,5 +94708,11 @@
         "url": "https://github.com/zellij-org/zellij/releases/tag/v0.44.0",
         "timestamp": "2026-03-28T14:24:32.136316",
         "source": "Hacker News"
+    },
+    {
+        "title": "WASI Got It Wrong: The Case for a Thin Waist",
+        "url": "https://medium.com/low-level/wasi-got-it-wrong-the-case-for-a-thin-waist-6f5d07971b7d",
+        "timestamp": "2026-03-28T14:24:32.136350",
+        "source": "Hacker News"
     }
 ]
