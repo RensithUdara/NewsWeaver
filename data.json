@@ -96118,5 +96118,11 @@
         "url": "https://suthakamal.substack.com/p/i-built-an-echo-chamber-and-called",
         "timestamp": "2026-03-28T20:53:01.284570",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open-source CVE scanner for AI-generated code",
+        "url": "https://github.com/Noumenon-ai/cve-guard",
+        "timestamp": "2026-03-28T20:53:01.284646",
+        "source": "Hacker News"
     }
 ]
