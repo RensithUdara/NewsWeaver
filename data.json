@@ -96322,5 +96322,11 @@
         "url": "https://rtk.appliedsystemsinsight.com",
         "timestamp": "2026-03-28T21:21:20.300817",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: AI Cost Firewall – OpenAI-compatible gateway with semantic caching",
+        "url": "https://github.com/vcal-project/ai-firewall",
+        "timestamp": "2026-03-28T21:21:20.300846",
+        "source": "Hacker News"
     }
 ]
