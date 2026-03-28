@@ -93400,5 +93400,11 @@
         "url": "https://en.wikipedia.org/wiki/Potato_fruit",
         "timestamp": "2026-03-28T06:11:45.510000",
         "source": "Hacker News"
+    },
+    {
+        "title": "Adaptive hedging library (reduces p99 latency by ~74%)",
+        "url": "https://github.com/bhope/hedge",
+        "timestamp": "2026-03-28T06:11:45.510036",
+        "source": "Hacker News"
     }
 ]
