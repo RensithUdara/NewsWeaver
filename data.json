@@ -95566,5 +95566,11 @@
         "url": "https://apps.apple.com/us/app/habitleague-compete-streak/id6743146209",
         "timestamp": "2026-03-28T17:52:36.459423",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zsh Completions for Gleam",
+        "url": "https://github.com/giacomocavalieri/zsh_gleam_completions",
+        "timestamp": "2026-03-28T17:52:36.459462",
+        "source": "Hacker News"
     }
 ]
