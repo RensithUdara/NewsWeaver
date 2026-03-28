@@ -95500,5 +95500,11 @@
         "url": "https://github.com/proxylity/examples/tree/main/momento-udp",
         "timestamp": "2026-03-28T17:23:45.980986",
         "source": "Hacker News"
+    },
+    {
+        "title": "A hands-on Python tutorial for CKKS homomorphic encryption",
+        "url": "https://github.com/manos02/ckks",
+        "timestamp": "2026-03-28T17:23:45.981020",
+        "source": "Hacker News"
     }
 ]
