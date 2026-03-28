@@ -96550,5 +96550,11 @@
         "url": "https://www.dailymail.co.uk/sciencetech/article-15677677/nasa-scientist-evidence-nonhuman-intelligence-skies.html",
         "timestamp": "2026-03-28T22:50:41.577789",
         "source": "Hacker News"
+    },
+    {
+        "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+        "url": "https://news.future-shock.ai/the-weight-of-remembering/",
+        "timestamp": "2026-03-28T22:50:41.577826",
+        "source": "Hacker News"
     }
 ]
