@@ -93454,5 +93454,11 @@
         "url": "https://github.com/justindmassey/tree-editor",
         "timestamp": "2026-03-28T07:14:51.252939",
         "source": "Hacker News"
+    },
+    {
+        "title": "Llama.cpp with CUDA Support on Original Jetson Nano (4GB)",
+        "url": "https://github.com/kreier/llama.cpp-jetson",
+        "timestamp": "2026-03-28T07:14:51.252973",
+        "source": "Hacker News"
     }
 ]
