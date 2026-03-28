@@ -92794,5 +92794,11 @@
         "url": "https://www.noemica.io/blog/vibe-coded-agent",
         "timestamp": "2026-03-28T01:15:48.321180",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Built a Public RAG App for Chicago Budget Documents",
+        "url": "https://www.devinthakker.com/blog/chicago-budget-rag",
+        "timestamp": "2026-03-28T01:15:48.321214",
+        "source": "Hacker News"
     }
 ]
