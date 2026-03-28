@@ -96730,5 +96730,11 @@
         "url": "https://blog.documentfoundation.org/blog/2026/03/27/odf-is-the-future-ooxml-is-the-past/",
         "timestamp": "2026-03-28T23:51:55.655031",
         "source": "Hacker News"
+    },
+    {
+        "title": "PyNear: Exact KNN 39× faster than Faiss at d=512, approximate binary 257× faster",
+        "url": "https://github.com/pablocael/pynear",
+        "timestamp": "2026-03-28T23:51:55.655066",
+        "source": "Hacker News"
     }
 ]
