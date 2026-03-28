@@ -94318,5 +94318,11 @@
         "url": "https://www.startrail.dev/",
         "timestamp": "2026-03-28T13:01:08.130173",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Zellij terminal multiplexer now runs natively on Windows",
+        "url": "https://zellij.dev/news/remote-sessions-windows-cli/",
+        "timestamp": "2026-03-28T13:01:08.130210",
+        "source": "Hacker News"
     }
 ]
