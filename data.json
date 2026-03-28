@@ -95104,5 +95104,11 @@
         "url": "https://docs.fcc.gov/public/attachments/DOC-420034A1.txt",
         "timestamp": "2026-03-28T15:51:46.066226",
         "source": "Hacker News"
+    },
+    {
+        "title": "C++ standard libray with automated memory management",
+        "url": "https://github.com/pg83/std",
+        "timestamp": "2026-03-28T15:51:46.066259",
+        "source": "Hacker News"
     }
 ]
