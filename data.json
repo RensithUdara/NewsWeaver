@@ -93706,5 +93706,11 @@
         "url": "https://danielabaron.me/blog/css-refactoring-with-an-ai-safety-net/",
         "timestamp": "2026-03-28T07:54:07.975135",
         "source": "Hacker News"
+    },
+    {
+        "title": "Understanding LRU Caches in Go: Part 2",
+        "url": "https://learnwithtimi.substack.com/p/2-understanding-least-recently-used",
+        "timestamp": "2026-03-28T07:54:07.975169",
+        "source": "Hacker News"
     }
 ]
