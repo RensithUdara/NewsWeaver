@@ -95146,5 +95146,11 @@
         "url": "https://thenextweb.com/news/lace-lithography-40m-series",
         "timestamp": "2026-03-28T16:22:27.915487",
         "source": "Hacker News"
+    },
+    {
+        "title": "Designing a single-file MMAP-backed read-only hashed multi-table database",
+        "url": "https://notes.volution.ro/v1/2026/03/notes/53ac09b0/",
+        "timestamp": "2026-03-28T16:22:27.915523",
+        "source": "Hacker News"
     }
 ]
