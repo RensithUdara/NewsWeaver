@@ -94840,5 +94840,11 @@
         "url": "https://www.theregister.com/2026/03/27/microsoft_ai_crusoe/",
         "timestamp": "2026-03-28T14:55:23.150032",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sharpee Interactive Fiction and Computer Science",
+        "url": "https://github.com/ChicagoDave/sharpee/blob/main/docs/architecture/sharpee-computer-science.md",
+        "timestamp": "2026-03-28T14:55:23.150064",
+        "source": "Hacker News"
     }
 ]
