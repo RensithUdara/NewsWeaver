@@ -93820,5 +93820,11 @@
         "url": "https://gridpaper.org/examples/",
         "timestamp": "2026-03-28T09:03:48.576254",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Opnsense-filterlog, a TUI for analysing OPNsense firewall logs",
+        "url": "https://gitlab.com/allddd/opnsense-filterlog",
+        "timestamp": "2026-03-28T09:03:48.576333",
+        "source": "Hacker News"
     }
 ]
