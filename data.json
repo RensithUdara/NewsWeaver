@@ -94774,5 +94774,11 @@
         "url": "https://news.ycombinator.com/item?id=47555069",
         "timestamp": "2026-03-28T14:55:23.149531",
         "source": "Hacker News"
+    },
+    {
+        "title": "For-Agent",
+        "url": "https://github.com/reposwarm/reposwarm-cli/wiki/--for-agent",
+        "timestamp": "2026-03-28T14:55:23.149566",
+        "source": "Hacker News"
     }
 ]
