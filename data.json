@@ -95842,5 +95842,11 @@
         "url": "https://www.myhousingwiki.com/",
         "timestamp": "2026-03-28T19:05:42.530075",
         "source": "Hacker News"
+    },
+    {
+        "title": "How Kimi, Cursor, and Chroma Train Agentic Models with RL",
+        "url": "https://www.philschmid.de/kimi-composer-context",
+        "timestamp": "2026-03-28T19:05:42.530110",
+        "source": "Hacker News"
     }
 ]
