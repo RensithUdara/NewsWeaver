@@ -95554,5 +95554,11 @@
         "url": "https://xnacly.me/posts/2023/rsa/",
         "timestamp": "2026-03-28T17:52:36.358202",
         "source": "Hacker News"
+    },
+    {
+        "title": "RvLLM: High-performance LLM inference in Rust",
+        "url": "https://github.com/m0at/rvllm",
+        "timestamp": "2026-03-28T17:52:36.459370",
+        "source": "Hacker News"
     }
 ]
