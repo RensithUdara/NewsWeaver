@@ -93172,5 +93172,11 @@
         "url": "https://www.longtermresilience.org/reports/v5-scheming-in-the-wild_-detecting-real-world-ai-scheming-incidents-through-open-source-intelligence-pdf/",
         "timestamp": "2026-03-28T05:13:26.412789",
         "source": "Hacker News"
+    },
+    {
+        "title": "I did a deep dive into cursors SQLite storages, different from Claude Code",
+        "url": "https://vibe-replay.com/blog/cursor-local-storage/",
+        "timestamp": "2026-03-28T05:13:26.412825",
+        "source": "Hacker News"
     }
 ]
