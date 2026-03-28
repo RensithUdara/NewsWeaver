@@ -95374,5 +95374,11 @@
         "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
         "timestamp": "2026-03-28T17:23:45.661580",
         "source": "Hacker News"
+    },
+    {
+        "title": "Circuit-level PDP-11/34 emulator",
+        "url": "https://github.com/dbrll/ll-34",
+        "timestamp": "2026-03-28T17:23:45.661963",
+        "source": "Hacker News"
     }
 ]
