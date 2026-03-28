@@ -94342,5 +94342,11 @@
         "url": "https://news.ycombinator.com/item?id=47554130",
         "timestamp": "2026-03-28T13:01:08.130360",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Shellwright – Playwright for CLIs – Helps Claude with Interactive CLIs",
+        "url": "https://github.com/nielsbosma/shellwright",
+        "timestamp": "2026-03-28T13:01:08.130394",
+        "source": "Hacker News"
     }
 ]
