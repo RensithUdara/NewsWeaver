@@ -95752,5 +95752,11 @@
         "url": "https://www.whitehouse.gov/agriculture/",
         "timestamp": "2026-03-28T18:26:40.710422",
         "source": "Hacker News"
+    },
+    {
+        "title": "Vex8s: Suppress container CVEs that your Kubernetes settings mitigates",
+        "url": "https://github.com/alegrey91/vex8s",
+        "timestamp": "2026-03-28T18:26:40.710455",
+        "source": "Hacker News"
     }
 ]
