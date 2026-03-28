@@ -96154,5 +96154,11 @@
         "url": "https://spectrum.ieee.org/optic-nerve-damage-electrical-stimulation",
         "timestamp": "2026-03-28T20:53:01.284859",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
+        "url": "https://github.com/hauntsaninja/git_bayesect",
+        "timestamp": "2026-03-28T20:53:01.284892",
+        "source": "Hacker News"
     }
 ]
