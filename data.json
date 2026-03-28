@@ -96058,5 +96058,11 @@
         "url": "https://www.youtube.com/watch?v=xxUTdyEDpbU",
         "timestamp": "2026-03-28T20:21:09.064462",
         "source": "Hacker News"
+    },
+    {
+        "title": "Audoctl – Event Ingestion and Timeline API for AI Workflows (Go and Fiber)",
+        "url": "https://github.com/audoctl/audoctl",
+        "timestamp": "2026-03-28T20:21:09.064534",
+        "source": "Hacker News"
     }
 ]
