@@ -94168,5 +94168,11 @@
         "url": "https://hapax.github.io/physics/hacks/mathematics/statistics/fermi-log-normal/",
         "timestamp": "2026-03-28T11:20:06.896739",
         "source": "Hacker News"
+    },
+    {
+        "title": "Translating non-trivial codebases with Claude (C++ to Java, Haskell to Clojure)",
+        "url": "https://blog.danieljanus.pl/2026/03/26/claude-nlp/",
+        "timestamp": "2026-03-28T11:20:06.896774",
+        "source": "Hacker News"
     }
 ]
