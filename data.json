@@ -92806,5 +92806,11 @@
         "url": "https://www.psypost.org/depression-is-linked-to-a-genuine-pessimistic-bias-rather-than-a-realistic-view-of-the-world/",
         "timestamp": "2026-03-28T01:15:48.321248",
         "source": "Hacker News"
+    },
+    {
+        "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
+        "url": "https://github.com/ericlewis/libpo32",
+        "timestamp": "2026-03-28T01:15:48.321282",
+        "source": "Hacker News"
     }
 ]
