@@ -95932,5 +95932,11 @@
         "url": "https://daniel.haxx.se/blog/2026/03/26/dont-trust-verify/",
         "timestamp": "2026-03-28T19:39:08.430040",
         "source": "Hacker News"
+    },
+    {
+        "title": "From latent spaces to JWTs: how agents taught me backend",
+        "url": "https://blog.cobanov.dev/blog/agents",
+        "timestamp": "2026-03-28T19:39:08.430077",
+        "source": "Hacker News"
     }
 ]
