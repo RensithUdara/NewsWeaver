@@ -94204,5 +94204,11 @@
         "url": "https://the-ai-alliance.github.io/semiont/",
         "timestamp": "2026-03-28T11:45:48.679261",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zsh-patina: A fast Zsh syntax highlighting plugin (written in Rust)",
+        "url": "https://github.com/michel-kraemer/zsh-patina",
+        "timestamp": "2026-03-28T11:45:48.679298",
+        "source": "Hacker News"
     }
 ]
