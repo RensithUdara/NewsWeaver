@@ -94102,5 +94102,11 @@
         "url": "https://hackernewstimes.com",
         "timestamp": "2026-03-28T10:52:30.510201",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I optimized a Java log scanner from 872ms to 78ms (Zero GC)",
+        "url": "https://github.com/Yosefnago/java-deep-dive",
+        "timestamp": "2026-03-28T10:52:30.510236",
+        "source": "Hacker News"
     }
 ]
