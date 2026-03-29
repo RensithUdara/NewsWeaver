@@ -98452,5 +98452,11 @@
         "url": "https://arxiv.org/abs/2603.19300",
         "timestamp": "2026-03-29T14:47:35.711412",
         "source": "Hacker News"
+    },
+    {
+        "title": "gRPC wrapper service for Pi4J 4.x.x",
+        "url": "https://github.com/bsautner/krill-oss/tree/main/pi4j-ktx-service",
+        "timestamp": "2026-03-29T14:47:35.711446",
+        "source": "Hacker News"
     }
 ]
