@@ -100252,5 +100252,11 @@
         "url": "https://github.com/iampique/automotive-part-matcher",
         "timestamp": "2026-03-29T22:47:08.024125",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Scheme HTTP server with transparent async – 222k req/s",
+        "url": "https://hyper.dev/2026/chez-scheme-letloop-transparent-async-microbenchmark/",
+        "timestamp": "2026-03-29T22:47:08.024163",
+        "source": "Hacker News"
     }
 ]
