@@ -99088,5 +99088,11 @@
         "url": "https://news.ycombinator.com/item?id=47564893",
         "timestamp": "2026-03-29T17:22:07.690098",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Baton – A daemon that sends Claude to fix your GitHub issues",
+        "url": "https://github.com/mraza007/baton",
+        "timestamp": "2026-03-29T17:22:07.690132",
+        "source": "Hacker News"
     }
 ]
