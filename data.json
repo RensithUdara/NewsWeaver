@@ -98242,5 +98242,11 @@
         "url": "https://news.ycombinator.com/item?id=47562682",
         "timestamp": "2026-03-29T13:17:23.712592",
         "source": "Hacker News"
+    },
+    {
+        "title": "AltClaw – A secure scripting layer for AI agents with a module marketplace",
+        "url": "https://github.com/altlimit/altclaw",
+        "timestamp": "2026-03-29T13:17:23.712627",
+        "source": "Hacker News"
     }
 ]
