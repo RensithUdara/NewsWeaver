@@ -99526,5 +99526,11 @@
         "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
         "timestamp": "2026-03-29T19:43:40.845778",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: FastFN – a polyglot file-based runtime for APIs and SPAs",
+        "url": "https://github.com/misaelzapata/fastfn",
+        "timestamp": "2026-03-29T19:43:40.845864",
+        "source": "Hacker News"
     }
 ]
