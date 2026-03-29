@@ -98884,5 +98884,11 @@
         "url": "https://github.com/fikrikarim/repose",
         "timestamp": "2026-03-29T16:53:53.144959",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gcannon – C io_uring TCP/HTTP/1.1 load generator for Linux",
+        "url": "https://github.com/MDA2AV/gcannon",
+        "timestamp": "2026-03-29T16:53:53.144993",
+        "source": "Hacker News"
     }
 ]
