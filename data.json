@@ -97774,5 +97774,11 @@
         "url": "https://www.espressif.com/en/news/ESP32_S31_Release",
         "timestamp": "2026-03-29T09:50:03.050156",
         "source": "Hacker News"
+    },
+    {
+        "title": "What fork() Actually Copies",
+        "url": "https://tech.daniellbastos.com.br/posts/what-fork-actually-copies/",
+        "timestamp": "2026-03-29T09:50:03.050195",
+        "source": "Hacker News"
     }
 ]
