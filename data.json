@@ -97414,5 +97414,11 @@
         "url": "https://publictransit.systems",
         "timestamp": "2026-03-29T07:45:51.634188",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Liter-LLM, Universal LLM client in Rust with bindings for 11 languages",
+        "url": "https://github.com/kreuzberg-dev/liter-llm",
+        "timestamp": "2026-03-29T07:45:51.634223",
+        "source": "Hacker News"
     }
 ]
