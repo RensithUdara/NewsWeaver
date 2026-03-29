@@ -97924,5 +97924,11 @@
         "url": "https://github.com/ToyKeeper/anduril",
         "timestamp": "2026-03-29T10:56:00.100809",
         "source": "Hacker News"
+    },
+    {
+        "title": "Background Jobs in Go with Asynq and Valkey",
+        "url": "https://josephgoksu.com/blog/background-jobs-in-go-asynq-valkey/",
+        "timestamp": "2026-03-29T10:56:00.100856",
+        "source": "Hacker News"
     }
 ]
