@@ -97258,5 +97258,11 @@
         "url": "https://github.com/Gloom-Team/ReadyPC/releases/tag/Latest",
         "timestamp": "2026-03-29T05:52:08.021305",
         "source": "Hacker News"
+    },
+    {
+        "title": "Improving My C Build System with Zig",
+        "url": "https://louislefebvre.net/tech/zig-gcc-replace/",
+        "timestamp": "2026-03-29T05:52:08.021333",
+        "source": "Hacker News"
     }
 ]
