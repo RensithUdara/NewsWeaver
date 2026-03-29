@@ -98374,5 +98374,11 @@
         "url": "https://cinemasojourns.com/2026/03/29/aussie-awesomeness/",
         "timestamp": "2026-03-29T14:47:35.710900",
         "source": "Hacker News"
+    },
+    {
+        "title": "Emacs-libgterm: Terminal emulator for Emacs using libghostty-vt",
+        "url": "https://github.com/rwc9u/emacs-libgterm",
+        "timestamp": "2026-03-29T14:47:35.710941",
+        "source": "Hacker News"
     }
 ]
