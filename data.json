@@ -98716,5 +98716,11 @@
         "url": "https://www.appstar.world/app/dap-detector-mmimvdz7",
         "timestamp": "2026-03-29T16:16:31.587748",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A Python library for simple and fast SQL UPSERT (Insert/Update/Delete)",
+        "url": "https://github.com/pavel-v-sobolev/dbmerge",
+        "timestamp": "2026-03-29T16:16:31.587850",
+        "source": "Hacker News"
     }
 ]
