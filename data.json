@@ -99034,5 +99034,11 @@
         "url": "https://www.msn.com/en-us/money/markets/this-map-shows-a-crude-ticking-time-bomb-that-hits-much-of-the-world-s-oil-supply-in-april/ar-AA1ZutGL",
         "timestamp": "2026-03-29T17:22:07.689697",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-33691: OWASP CRS whitespace padding bypass vulnerability",
+        "url": "https://news.ycombinator.com/item?id=47565010",
+        "timestamp": "2026-03-29T17:22:07.689730",
+        "source": "Hacker News"
     }
 ]
