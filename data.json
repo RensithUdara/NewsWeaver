@@ -97084,5 +97084,11 @@
         "url": "https://www.eff.org/deeplinks/2023/04/platforms-decay-lets-put-users-first",
         "timestamp": "2026-03-29T04:15:21.337199",
         "source": "Hacker News"
+    },
+    {
+        "title": "Peer-to-peer sync for a reading app with mTLS, CRDTs, and HLCs",
+        "url": "https://tech.stonecharioteer.com/posts/2026/merrilin-local-sync/",
+        "timestamp": "2026-03-29T04:15:21.337233",
+        "source": "Hacker News"
     }
 ]
