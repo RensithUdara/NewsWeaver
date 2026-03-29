@@ -100300,5 +100300,11 @@
         "url": "https://austinhenley.com/blog/dearresearchers.html",
         "timestamp": "2026-03-29T22:47:08.024541",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kjell – Safely auto-approve AI agent shell commands through bash parsing",
+        "url": "https://github.com/agentbellnorm/kjell",
+        "timestamp": "2026-03-29T22:47:08.024579",
+        "source": "Hacker News"
     }
 ]
