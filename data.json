@@ -100096,5 +100096,11 @@
         "url": "https://pistonalpha.com/articles/porsche-911-investment-guide-2026",
         "timestamp": "2026-03-29T21:48:02.055117",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tell HN: Bug in Claude Code CLI is instantly draining usage plan quotas",
+        "url": "https://github.com/anthropics/claude-code/issues/38335",
+        "timestamp": "2026-03-29T21:48:02.055155",
+        "source": "Hacker News"
     }
 ]
