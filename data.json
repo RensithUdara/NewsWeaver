@@ -97768,5 +97768,11 @@
         "url": "https://googlecloudplatform.github.io/scion/overview/",
         "timestamp": "2026-03-29T09:50:03.050121",
         "source": "Hacker News"
+    },
+    {
+        "title": "ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO",
+        "url": "https://www.espressif.com/en/news/ESP32_S31_Release",
+        "timestamp": "2026-03-29T09:50:03.050156",
+        "source": "Hacker News"
     }
 ]
