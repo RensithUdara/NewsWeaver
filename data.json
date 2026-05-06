@@ -234616,5 +234616,11 @@
         "url": "https://allstead.dev/blog/brians-misunderstanding",
         "timestamp": "2026-05-06T18:50:35.942263",
         "source": "Hacker News"
+    },
+    {
+        "title": "DAO governance forum open dataset",
+        "url": "https://huggingface.co/datasets/daveytea/x23-DAO-governance-forums",
+        "timestamp": "2026-05-06T18:50:35.942300",
+        "source": "Hacker News"
     }
 ]
