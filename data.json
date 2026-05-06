@@ -234646,5 +234646,11 @@
         "url": "https://www.bloomberg.com/news/articles/2026-05-06/invesco-says-big-tech-needs-every-dollar-it-can-get-in-ai-debt",
         "timestamp": "2026-05-06T18:50:35.942415",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ferrokey – embedded B-tree KV store in Rust, WAL crash recovery, zero deps",
+        "url": "https://news.ycombinator.com/item?id=48039912",
+        "timestamp": "2026-05-06T18:50:35.942443",
+        "source": "Hacker News"
     }
 ]
