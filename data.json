@@ -234580,5 +234580,11 @@
         "url": "https://blog.cloudflare.com/de-tld-outage-dnssec/",
         "timestamp": "2026-05-06T18:50:35.942089",
         "source": "Hacker News"
+    },
+    {
+        "title": "Embed Arbitrary Payloads into JPEGs Without Special Tools",
+        "url": "https://swharden.com/blog/2026-05-02-jpeg-payload/",
+        "timestamp": "2026-05-06T18:50:35.942120",
+        "source": "Hacker News"
     }
 ]
