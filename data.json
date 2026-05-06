@@ -234586,5 +234586,11 @@
         "url": "https://swharden.com/blog/2026-05-02-jpeg-payload/",
         "timestamp": "2026-05-06T18:50:35.942120",
         "source": "Hacker News"
+    },
+    {
+        "title": "Solidity vulnerability findings open dataset",
+        "url": "https://huggingface.co/datasets/daveytea/x23-solidity-vulnerabilities-audit-findings",
+        "timestamp": "2026-05-06T18:50:35.942149",
+        "source": "Hacker News"
     }
 ]
