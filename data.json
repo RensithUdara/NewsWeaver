@@ -235366,5 +235366,11 @@
         "url": "https://news.ycombinator.com/item?id=48042236",
         "timestamp": "2026-05-06T22:26:46.931014",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making Julia as Fast as C++",
+        "url": "https://flow.byu.edu/posts/julia-c++",
+        "timestamp": "2026-05-06T22:26:46.931051",
+        "source": "Hacker News"
     }
 ]
