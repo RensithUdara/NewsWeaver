@@ -234490,5 +234490,11 @@
         "url": "https://martinfowler.com/fragments/2026-05-05.html",
         "timestamp": "2026-05-06T17:04:53.276733",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Browser-Based UI for Deploying MongoDB with Terraform and Ansible",
+        "url": "https://www.percona.com/blog/psmdb-sandbox-a-browser-based-ui-for-deploying-mongodb-with-terraform-and-ansible/",
+        "timestamp": "2026-05-06T17:04:53.276767",
+        "source": "Hacker News"
     }
 ]
