@@ -234724,5 +234724,11 @@
         "url": "https://www.bbc.com/news/articles/cwy27q05gj2o",
         "timestamp": "2026-05-06T18:50:35.942871",
         "source": "Hacker News"
+    },
+    {
+        "title": "Faster Timeseries Aggregations",
+        "url": "https://www.opendata.dev/blog/faster-timeseries-aggregations/",
+        "timestamp": "2026-05-06T18:50:35.942900",
+        "source": "Hacker News"
     }
 ]
