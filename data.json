@@ -234802,5 +234802,11 @@
         "url": "https://blogs.cisco.com/ai/model-provenance-kit",
         "timestamp": "2026-05-06T20:16:24.657126",
         "source": "Hacker News"
+    },
+    {
+        "title": "Swival: A coding agent for any model",
+        "url": "https://swival.dev/",
+        "timestamp": "2026-05-06T20:16:24.657182",
+        "source": "Hacker News"
     }
 ]
