@@ -235414,5 +235414,11 @@
         "url": "https://marketplace.visualstudio.com/items?itemName=ShawnKhoo.screen-adapt",
         "timestamp": "2026-05-06T23:11:45.273908",
         "source": "Hacker News"
+    },
+    {
+        "title": "Uninstalling Cilium from K3s",
+        "url": "https://donotpassgo.me/posts/cilium-bpf-cleanup/",
+        "timestamp": "2026-05-06T23:11:45.273957",
+        "source": "Hacker News"
     }
 ]
