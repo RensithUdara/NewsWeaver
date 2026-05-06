@@ -234382,5 +234382,11 @@
         "url": "https://twitter.com/claudeai/status/2052060691893227611",
         "timestamp": "2026-05-06T17:04:53.276035",
         "source": "Hacker News"
+    },
+    {
+        "title": "For a Fistful of Dollars: CVE-2026-23918 – Pre-auth RCE in Apache httpd",
+        "url": "https://www.striga.ai/research/apache-httpd-mod-http2-double-free",
+        "timestamp": "2026-05-06T17:04:53.276105",
+        "source": "Hacker News"
     }
 ]
