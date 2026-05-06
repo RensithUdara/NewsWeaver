@@ -234370,5 +234370,11 @@
         "url": "https://news.ycombinator.com/item?id=48038550",
         "timestamp": "2026-05-06T17:04:53.275961",
         "source": "Hacker News"
+    },
+    {
+        "title": "On Agents Dropping Production Databases",
+        "url": "https://yakko.dev/blog/on-agents-dropping-production-dbs",
+        "timestamp": "2026-05-06T17:04:53.276001",
+        "source": "Hacker News"
     }
 ]
