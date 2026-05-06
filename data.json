@@ -234388,5 +234388,11 @@
         "url": "https://www.striga.ai/research/apache-httpd-mod-http2-double-free",
         "timestamp": "2026-05-06T17:04:53.276105",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mnemara – an LLM agent runtime where the role doc runs every turn",
+        "url": "https://github.com/mekickdemons-creator/mnemara",
+        "timestamp": "2026-05-06T17:04:53.276140",
+        "source": "Hacker News"
     }
 ]
