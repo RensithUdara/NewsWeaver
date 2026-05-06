@@ -234592,5 +234592,11 @@
         "url": "https://huggingface.co/datasets/daveytea/x23-solidity-vulnerabilities-audit-findings",
         "timestamp": "2026-05-06T18:50:35.942149",
         "source": "Hacker News"
+    },
+    {
+        "title": "MySQL 9.7 Is Out and the Community Wins",
+        "url": "https://blogs.oracle.com/mysql/mysql-9-7-is-out-and-the-community-wins",
+        "timestamp": "2026-05-06T18:50:35.942178",
+        "source": "Hacker News"
     }
 ]
