@@ -234352,5 +234352,11 @@
         "url": "https://www.diamm.ac.uk/",
         "timestamp": "2026-05-06T17:04:53.275800",
         "source": "Hacker News"
+    },
+    {
+        "title": "We ran OWASP attacks on 8 LLMs. Optimized small models beat frontier defaults",
+        "url": "https://www.megacode.ai/blog/prompt-security-benchmark",
+        "timestamp": "2026-05-06T17:04:53.275849",
+        "source": "Hacker News"
     }
 ]
