@@ -234922,5 +234922,11 @@
         "url": "https://meadow.cafe/blog/0073-you-can-make-more-money-buying-mtg-cards-than-the-lottery/",
         "timestamp": "2026-05-06T20:16:24.657946",
         "source": "Hacker News"
+    },
+    {
+        "title": "Go-joker – a much faster Clojure interpreter written in Go and WASM",
+        "url": "https://rcarmo.github.io/projects/go-joker/",
+        "timestamp": "2026-05-06T20:16:24.657981",
+        "source": "Hacker News"
     }
 ]
