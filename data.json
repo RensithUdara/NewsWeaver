@@ -235888,5 +235888,11 @@
         "url": "https://www.smbc-comics.com/comic/2011-09-08",
         "timestamp": "2026-05-07T03:58:32.599713",
         "source": "Hacker News"
+    },
+    {
+        "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+        "url": "https://aniket.foo/posts/20260505-netboot/",
+        "timestamp": "2026-05-07T03:58:32.599749",
+        "source": "Hacker News"
     }
 ]
