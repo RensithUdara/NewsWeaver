@@ -236602,5 +236602,11 @@
         "url": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
         "timestamp": "2026-05-07T13:08:51.060023",
         "source": "Hacker News"
+    },
+    {
+        "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+        "url": "https://ratex.lites.dev/",
+        "timestamp": "2026-05-07T13:08:51.060274",
+        "source": "Hacker News"
     }
 ]
