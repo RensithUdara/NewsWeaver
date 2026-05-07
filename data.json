@@ -237130,5 +237130,11 @@
         "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
         "timestamp": "2026-05-07T17:19:58.664558",
         "source": "Hacker News"
+    },
+    {
+        "title": "DeepSeek 4 Flash local inference engine for Metal",
+        "url": "https://github.com/antirez/ds4",
+        "timestamp": "2026-05-07T17:19:58.664595",
+        "source": "Hacker News"
     }
 ]
