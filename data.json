@@ -238024,5 +238024,11 @@
         "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
         "timestamp": "2026-05-07T22:35:20.105120",
         "source": "Hacker News"
+    },
+    {
+        "title": "AWS gives AI agents wallets to pay for APIs and web content",
+        "url": "https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/",
+        "timestamp": "2026-05-07T22:35:20.105193",
+        "source": "Hacker News"
     }
 ]
