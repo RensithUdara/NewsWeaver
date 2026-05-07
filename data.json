@@ -237184,5 +237184,11 @@
         "url": "https://bytecode.news/posts/2026/05/javascript-server-side-interoperability-with-rcompat",
         "timestamp": "2026-05-07T17:19:58.943896",
         "source": "Hacker News"
+    },
+    {
+        "title": "The case against bearer secrets",
+        "url": "https://credctl.com/blog/vercel-context-ai-breach/",
+        "timestamp": "2026-05-07T17:19:58.943935",
+        "source": "Hacker News"
     }
 ]
