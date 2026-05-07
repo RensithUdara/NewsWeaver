@@ -238300,5 +238300,11 @@
         "url": "https://arxiv.org/abs/2604.21672",
         "timestamp": "2026-05-07T23:29:54.490351",
         "source": "Hacker News"
+    },
+    {
+        "title": "CSP2XSS: Vulnerability in Next.js App Router",
+        "url": "https://aisafe.io/blog/csp2xss-nextjs-vulnerability",
+        "timestamp": "2026-05-07T23:29:54.490384",
+        "source": "Hacker News"
     }
 ]
