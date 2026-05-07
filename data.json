@@ -235900,5 +235900,11 @@
         "url": "https://togetherloop.com/",
         "timestamp": "2026-05-07T03:58:32.599783",
         "source": "Hacker News"
+    },
+    {
+        "title": "Umka: A statically typed embeddable scripting language",
+        "url": "https://github.com/vtereshkov/umka-lang",
+        "timestamp": "2026-05-07T03:58:32.599860",
+        "source": "Hacker News"
     }
 ]
