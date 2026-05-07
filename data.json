@@ -237118,5 +237118,11 @@
         "url": "https://kmph.com/news/local/california-leaders-report-four-to-six-weeks-worth-of-gasoline-and-diesel-in-supply",
         "timestamp": "2026-05-07T17:19:58.664447",
         "source": "Hacker News"
+    },
+    {
+        "title": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
+        "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
+        "timestamp": "2026-05-07T17:19:58.664483",
+        "source": "Hacker News"
     }
 ]
