@@ -237244,5 +237244,11 @@
         "url": "https://maxmautner.com/2026/04/30/what-i-have-learned.html",
         "timestamp": "2026-05-07T17:19:58.944327",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pg_flight_recorder – server-side flight recorder for Postgres",
+        "url": "https://github.com/dventimisupabase/pg_flight_recorder",
+        "timestamp": "2026-05-07T17:19:58.944360",
+        "source": "Hacker News"
     }
 ]
