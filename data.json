@@ -235576,5 +235576,11 @@
         "url": "https://www.nationalreview.com/2026/05/we-built-the-permanent-record/",
         "timestamp": "2026-05-07T00:05:51.413657",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Sqlalchemy-Redshift Is Back: Reviving a Critical Python Data Library",
+        "url": "https://github.com/sqlalchemy-redshift/sqlalchemy-redshift",
+        "timestamp": "2026-05-07T00:05:51.413705",
+        "source": "Hacker News"
     }
 ]
