@@ -236668,5 +236668,11 @@
         "url": "https://www.matthewlang.me/posts/2026/05/02/moving-on-from-github/",
         "timestamp": "2026-05-07T13:08:51.318048",
         "source": "Hacker News"
+    },
+    {
+        "title": "Remote Code Execution on Langfuse with a single OTel trace request",
+        "url": "https://aisafe.io/blog/traces-of-rce-exploiting-langfuse-prototype-pollution",
+        "timestamp": "2026-05-07T13:08:51.318091",
+        "source": "Hacker News"
     }
 ]
