@@ -237370,5 +237370,11 @@
         "url": "https://www.theregister.com/cyber-crime/2026/05/07/state-backed-hackers-hammer-palo-alto-firewall-zero-day-before-patch-lands/5234737",
         "timestamp": "2026-05-07T19:03:41.724171",
         "source": "Hacker News"
+    },
+    {
+        "title": "Writing a bindless GPU abstraction layer",
+        "url": "https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/",
+        "timestamp": "2026-05-07T19:03:41.724207",
+        "source": "Hacker News"
     }
 ]
