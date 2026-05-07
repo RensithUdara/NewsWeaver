@@ -237688,5 +237688,11 @@
         "url": "https://aaronleslie.dev/blog/comma-compression",
         "timestamp": "2026-05-07T20:22:56.163973",
         "source": "Hacker News"
+    },
+    {
+        "title": "Use Redis with SQL",
+        "url": "https://redis.io/blog/use-redis-with-sql/",
+        "timestamp": "2026-05-07T20:22:56.164011",
+        "source": "Hacker News"
     }
 ]
