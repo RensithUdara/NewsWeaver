@@ -237730,5 +237730,11 @@
         "url": "https://medium.com/fever-engineering/why-concurrent-updates-and-inserts-can-severely-impact-postgresql-performance-73b14bad5ee9",
         "timestamp": "2026-05-07T20:22:56.164289",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dirty Frag: Universal Linux LPE",
+        "url": "https://github.com/V4bel/dirtyfrag/tree/master",
+        "timestamp": "2026-05-07T20:22:56.164325",
+        "source": "Hacker News"
     }
 ]
