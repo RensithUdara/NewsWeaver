@@ -236098,5 +236098,11 @@
         "url": "https://www.oreilly.com/radar/dont-automate-your-moat-matching-ai-autonomy-to-risk-and-competitive-stakes/",
         "timestamp": "2026-05-07T06:33:59.606371",
         "source": "Hacker News"
+    },
+    {
+        "title": "LAWS: A new transform operation turning LLM inference into cheap cache lookups",
+        "url": "https://arxiv.org/abs/2605.04069",
+        "timestamp": "2026-05-07T06:33:59.606455",
+        "source": "Hacker News"
     }
 ]
