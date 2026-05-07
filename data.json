@@ -236146,5 +236146,11 @@
         "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
         "timestamp": "2026-05-07T06:33:59.922090",
         "source": "TechCrunch"
+    },
+    {
+        "title": "How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs",
+        "url": "https://unsloth.ai/blog/nvidia-collab",
+        "timestamp": "2026-05-07T09:13:10.302135",
+        "source": "Hacker News"
     }
 ]
