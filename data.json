@@ -236080,5 +236080,11 @@
         "url": "https://spectry.io/analyze",
         "timestamp": "2026-05-07T06:33:59.606269",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Claude Code",
+        "url": "https://github.com/kubetail-org/kstack",
+        "timestamp": "2026-05-07T06:33:59.606302",
+        "source": "Hacker News"
     }
 ]
