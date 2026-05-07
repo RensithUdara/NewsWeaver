@@ -236062,5 +236062,11 @@
         "url": "https://zenodo.org/records/20049892",
         "timestamp": "2026-05-07T06:33:59.606126",
         "source": "Hacker News"
+    },
+    {
+        "title": "The surprisingly complex journey to text-selectable client-side generated PDFs",
+        "url": "https://sdocs.dev/blogs/journey-to-pdf-generation",
+        "timestamp": "2026-05-07T06:33:59.606202",
+        "source": "Hacker News"
     }
 ]
