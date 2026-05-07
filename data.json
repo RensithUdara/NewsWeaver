@@ -236206,5 +236206,11 @@
         "url": "https://news.ycombinator.com/item?id=48047078",
         "timestamp": "2026-05-07T09:13:10.553521",
         "source": "Hacker News"
+    },
+    {
+        "title": "Subquadratic claims to have fixes attention scaling with 12M context window",
+        "url": "https://twitter.com/alex_whedon/status/2051663268704636937",
+        "timestamp": "2026-05-07T09:13:10.553557",
+        "source": "Hacker News"
     }
 ]
