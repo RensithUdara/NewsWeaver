@@ -239722,5 +239722,11 @@
         "url": "https://zeux.io/2026/04/30/quantizing-tangent-frames/",
         "timestamp": "2026-05-08T12:04:53.405977",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building an Open Source 7MB AI Terminal with Agents and Code Editor (Rust/Tauri)",
+        "url": "https://github.com/crynta/terax-ai",
+        "timestamp": "2026-05-08T12:04:53.406012",
+        "source": "Hacker News"
     }
 ]
