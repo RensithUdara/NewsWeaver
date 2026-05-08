@@ -241546,5 +241546,11 @@
         "url": "https://github.com/explicit09/vedit",
         "timestamp": "2026-05-08T23:33:32.671383",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Run and debug ThingWorx services locally with TypeScript",
+        "url": "https://github.com/ssilvestri15/thingworx-local-dev",
+        "timestamp": "2026-05-08T23:33:32.671415",
+        "source": "Hacker News"
     }
 ]
