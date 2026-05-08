@@ -239584,5 +239584,11 @@
         "url": "https://www.tomshardware.com/tech-industry/cyber-security/dirty-frag-exploit-gets-root-on-most-linux-machines-since-2017-no-patches-available-no-warning-given-copy-fail-like-vulnerability-had-its-embargo-broken",
         "timestamp": "2026-05-08T10:51:43.801926",
         "source": "Hacker News"
+    },
+    {
+        "title": "Anomalies",
+        "url": "https://github.com/cognitect-labs/anomalies",
+        "timestamp": "2026-05-08T10:51:43.801959",
+        "source": "Hacker News"
     }
 ]
