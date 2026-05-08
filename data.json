@@ -238414,5 +238414,11 @@
         "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
         "timestamp": "2026-05-08T01:16:58.066477",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenAI end of lifes fine-tuning",
+        "url": "https://developers.openai.com/api/docs/deprecations",
+        "timestamp": "2026-05-08T01:16:58.066516",
+        "source": "Hacker News"
     }
 ]
