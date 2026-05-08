@@ -240196,5 +240196,11 @@
         "url": "https://linear.app/docs/diffs",
         "timestamp": "2026-05-08T15:52:00.582829",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Open Source FreeCAD dataset for CAD generation tasks",
+        "url": "https://huggingface.co/datasets/gnucleus-ai/cad-gen-freecad",
+        "timestamp": "2026-05-08T15:52:00.582864",
+        "source": "Hacker News"
     }
 ]
