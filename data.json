@@ -241006,5 +241006,11 @@
         "url": "https://news.ycombinator.com/item?id=48068456",
         "timestamp": "2026-05-08T20:41:19.128694",
         "source": "Hacker News"
+    },
+    {
+        "title": "NocTUI – Lightweight C Library for Building Terminal User Interfaces (TUIs)",
+        "url": "https://github.com/UsboKirishima/noctui",
+        "timestamp": "2026-05-08T20:41:19.128724",
+        "source": "Hacker News"
     }
 ]
