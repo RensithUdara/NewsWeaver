@@ -239530,5 +239530,11 @@
         "url": "https://news.ycombinator.com/item?id=48061121",
         "timestamp": "2026-05-08T10:51:43.801609",
         "source": "Hacker News"
+    },
+    {
+        "title": "CUDA-oxide an experimental Rust-to-CUDA compiler",
+        "url": "https://github.com/NVlabs/cuda-oxide",
+        "timestamp": "2026-05-08T10:51:43.801644",
+        "source": "Hacker News"
     }
 ]
