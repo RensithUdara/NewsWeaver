@@ -240238,5 +240238,11 @@
         "url": "https://www.war.gov/UFO/#65_HS1-834228961_62-HQ-83894_Serial_153",
         "timestamp": "2026-05-08T15:52:00.583075",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: IEEE-754-Conformant FP64 on Metal (Apple Silicon)",
+        "url": "https://github.com/guyfischman/metal-softfloat",
+        "timestamp": "2026-05-08T15:52:00.583114",
+        "source": "Hacker News"
     }
 ]
