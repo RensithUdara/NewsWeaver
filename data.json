@@ -239920,5 +239920,11 @@
         "url": "https://people.inf.ethz.ch/wirth/Articles/Modula-Oberon-June.pdf",
         "timestamp": "2026-05-08T14:10:35.878822",
         "source": "Hacker News"
+    },
+    {
+        "title": "A small and fast recursive grep written in Go",
+        "url": "https://github.com/bep/grrep",
+        "timestamp": "2026-05-08T14:10:35.878858",
+        "source": "Hacker News"
     }
 ]
