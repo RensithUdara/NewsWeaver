@@ -238612,5 +238612,11 @@
         "url": "https://www.washingtonpost.com/politics/2026/05/02/supreme-court-cisco-torture-china/",
         "timestamp": "2026-05-08T04:24:32.244319",
         "source": "Hacker News"
+    },
+    {
+        "title": "Denial of Service Vulnerability in React Server Components",
+        "url": "https://github.com/facebook/react/security/advisories/GHSA-rv78-f8rc-xrxh",
+        "timestamp": "2026-05-08T04:24:32.244360",
+        "source": "Hacker News"
     }
 ]
