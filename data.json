@@ -239062,5 +239062,11 @@
         "url": "https://senkorasic.com/articles/ai-is-tech-not-feature",
         "timestamp": "2026-05-08T07:58:40.015314",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hardware Memory Models",
+        "url": "https://research.swtch.com/hwmm",
+        "timestamp": "2026-05-08T07:58:40.015349",
+        "source": "Hacker News"
     }
 ]
