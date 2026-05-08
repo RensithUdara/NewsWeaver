@@ -238780,5 +238780,11 @@
         "url": "https://github.com/V4bel/dirtyfrag",
         "timestamp": "2026-05-08T06:13:32.272963",
         "source": "Hacker News"
+    },
+    {
+        "title": "Root-based Android app backup tool powered by Restic",
+        "url": "https://github.com/hddq/restoid",
+        "timestamp": "2026-05-08T06:13:32.273016",
+        "source": "Hacker News"
     }
 ]
