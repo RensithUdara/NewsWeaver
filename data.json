@@ -240538,5 +240538,11 @@
         "url": "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/",
         "timestamp": "2026-05-08T18:19:14.284250",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bjarne Stroustrup: How do I deal with memory leaks?",
+        "url": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
+        "timestamp": "2026-05-08T18:19:14.284562",
+        "source": "Hacker News"
     }
 ]
