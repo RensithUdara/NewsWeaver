@@ -241378,5 +241378,11 @@
         "url": "https://aeon.co/essays/things-have-jobs-and-digital-devices-are-made-to-track-you",
         "timestamp": "2026-05-08T22:38:18.353178",
         "source": "Hacker News"
+    },
+    {
+        "title": "Thunderbird donation page consumes CPU/GPU due to animation",
+        "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2038287",
+        "timestamp": "2026-05-08T22:38:18.353246",
+        "source": "Hacker News"
     }
 ]
