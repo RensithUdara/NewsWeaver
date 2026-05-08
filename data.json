@@ -240712,5 +240712,11 @@
         "url": "https://community.qbix.com/t/increasing-state-of-surveillance-from-all-sides-around-the-world/804",
         "timestamp": "2026-05-08T18:19:14.390600",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bleeding Llama: Critical Unauthenticated Memory Leak in Ollama",
+        "url": "https://www.cyera.com/research/bleeding-llama-critical-unauthenticated-memory-leak-in-ollama",
+        "timestamp": "2026-05-08T18:19:14.390634",
+        "source": "Hacker News"
     }
 ]
