@@ -238762,5 +238762,11 @@
         "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
         "timestamp": "2026-05-08T04:24:32.503672",
         "source": "Dev.to"
+    },
+    {
+        "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+        "url": "https://github.com/graemeg/blaise",
+        "timestamp": "2026-05-08T06:13:31.972582",
+        "source": "Hacker News"
     }
 ]
