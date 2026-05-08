@@ -241348,5 +241348,11 @@
         "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
         "timestamp": "2026-05-08T22:38:18.088656",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Nomad-state-metrics – kube-state-metrics for Nomad",
+        "url": "https://developer.hashicorp.com/nomad/integrations",
+        "timestamp": "2026-05-08T22:38:18.352787",
+        "source": "Hacker News"
     }
 ]
