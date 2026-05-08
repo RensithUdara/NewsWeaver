@@ -241552,5 +241552,11 @@
         "url": "https://github.com/ssilvestri15/thingworx-local-dev",
         "timestamp": "2026-05-08T23:33:32.671415",
         "source": "Hacker News"
+    },
+    {
+        "title": "RISC-V Server Platform Spec Ratified",
+        "url": "https://github.com/riscv-non-isa/riscv-server-platform/releases/tag/v1.0",
+        "timestamp": "2026-05-08T23:33:32.671446",
+        "source": "Hacker News"
     }
 ]
