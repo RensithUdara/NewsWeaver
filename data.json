@@ -238768,5 +238768,11 @@
         "url": "https://github.com/graemeg/blaise",
         "timestamp": "2026-05-08T06:13:31.972582",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to make SSE token streams resumable, cancellable, and multi-device",
+        "url": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
+        "timestamp": "2026-05-08T06:13:31.972695",
+        "source": "Hacker News"
     }
 ]
