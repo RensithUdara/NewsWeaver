@@ -241216,5 +241216,11 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/trump-media-technology-group-reports-203000071.html",
         "timestamp": "2026-05-08T21:42:04.986015",
         "source": "Hacker News"
+    },
+    {
+        "title": "Killswitch: Add per-function short-circuit mitigation primitive",
+        "url": "https://lore.kernel.org/all/20260507070547.2268452-1-sashal@kernel.org/",
+        "timestamp": "2026-05-08T21:42:04.986100",
+        "source": "Hacker News"
     }
 ]
