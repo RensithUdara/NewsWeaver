@@ -241156,5 +241156,11 @@
         "url": "https://www.mux.com/jobs",
         "timestamp": "2026-05-08T21:42:04.667822",
         "source": "Hacker News"
+    },
+    {
+        "title": "Non-determinism is an issue with patching CVEs",
+        "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
+        "timestamp": "2026-05-08T21:42:04.667921",
+        "source": "Hacker News"
     }
 ]
