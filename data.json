@@ -240436,5 +240436,11 @@
         "url": "https://blog.denic.de/en/analysis-of-the-dns-outage-on-5-may-2026/",
         "timestamp": "2026-05-08T17:01:47.570740",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sparser, Faster, Lighter Transformer Language Models",
+        "url": "https://pub.sakana.ai/sparser-faster-llms/",
+        "timestamp": "2026-05-08T17:01:47.570769",
+        "source": "Hacker News"
     }
 ]
