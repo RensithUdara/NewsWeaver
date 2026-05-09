@@ -241816,5 +241816,11 @@
         "url": "https://takeonme.org/cves/cve-2026-7413/",
         "timestamp": "2026-05-09T01:18:00.477954",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI Canasta Scoring App",
+        "url": "https://canastascore.com/",
+        "timestamp": "2026-05-09T01:18:00.477988",
+        "source": "Hacker News"
     }
 ]
