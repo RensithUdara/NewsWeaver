@@ -244192,5 +244192,11 @@
         "url": "https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/",
         "timestamp": "2026-05-09T19:42:00.681588",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Reverting the incremental GC in Python 3.14 and 3.15",
+        "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+        "timestamp": "2026-05-09T20:26:55.721945",
+        "source": "Hacker News"
     }
 ]
