@@ -244522,5 +244522,11 @@
         "url": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
         "timestamp": "2026-05-09T21:08:18.454632",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+        "url": "https://github.com/nooga/let-go",
+        "timestamp": "2026-05-09T21:57:55.277750",
+        "source": "Hacker News"
     }
 ]
