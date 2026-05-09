@@ -241810,5 +241810,11 @@
         "url": "https://lakyus.com/live",
         "timestamp": "2026-05-09T01:18:00.477879",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-7413: Persistent undocumented backdoor access with Yarbo",
+        "url": "https://takeonme.org/cves/cve-2026-7413/",
+        "timestamp": "2026-05-09T01:18:00.477954",
+        "source": "Hacker News"
     }
 ]
