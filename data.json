@@ -244690,5 +244690,11 @@
         "url": "https://arxiv.org/abs/2604.26914",
         "timestamp": "2026-05-09T22:40:40.318751",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kiorg: A neo filemanager with Vim keybind, zoxide-like teleport, and previews",
+        "url": "https://github.com/houqp/kiorg",
+        "timestamp": "2026-05-09T22:40:40.318785",
+        "source": "Hacker News"
     }
 ]
