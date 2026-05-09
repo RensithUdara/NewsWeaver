@@ -242590,5 +242590,11 @@
         "url": "https://www.youtube.com/watch?v=9qqmaYRI7Qw",
         "timestamp": "2026-05-09T09:46:00.180742",
         "source": "Hacker News"
+    },
+    {
+        "title": "Killswitch: Per-function short-circuit mitigation primitive",
+        "url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
+        "timestamp": "2026-05-09T09:46:00.180775",
+        "source": "Hacker News"
     }
 ]
