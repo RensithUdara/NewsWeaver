@@ -241738,5 +241738,11 @@
         "url": "https://github-store.org/blog/how-i-built-github-store/",
         "timestamp": "2026-05-09T01:18:00.477444",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a baremetal RustOS (O(1)allocator NVMeDMA ZeroTrust sandbox for AIAgents",
+        "url": "https://github.com/joreag/polymorph_os",
+        "timestamp": "2026-05-09T01:18:00.477484",
+        "source": "Hacker News"
     }
 ]
