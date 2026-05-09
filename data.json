@@ -243898,5 +243898,11 @@
         "url": "https://arkoinad.com/posts/zsh_speedup.html",
         "timestamp": "2026-05-09T18:34:40.294706",
         "source": "Hacker News"
+    },
+    {
+        "title": "Trying to Become a Better Programmer by Writing a PHP Interpreter in C++",
+        "url": "https://github.com/GiuseppePuleri/jimphp/blob/main/README.md",
+        "timestamp": "2026-05-09T18:34:40.294753",
+        "source": "Hacker News"
     }
 ]
