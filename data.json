@@ -242488,5 +242488,11 @@
         "url": "https://www.producthunt.com/products/how-ai-pilled-are-you",
         "timestamp": "2026-05-09T08:18:48.419701",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "How to Optimize MongoDB Query Performance with Indexes",
+        "url": "https://visualeaf.com/blog/mongodb-query-optimization-indexes/",
+        "timestamp": "2026-05-09T09:45:59.881292",
+        "source": "Hacker News"
     }
 ]
