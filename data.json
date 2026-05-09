@@ -242200,5 +242200,11 @@
         "url": "https://www.theguardian.com/world/2026/may/05/brazil-craze-whistling-only-whatsapp-groups",
         "timestamp": "2026-05-09T06:33:46.874518",
         "source": "Hacker News"
+    },
+    {
+        "title": "Porting Starlark to Pure Python with Claude Code",
+        "url": "https://dbohdan.com/starlark-python",
+        "timestamp": "2026-05-09T06:33:46.874552",
+        "source": "Hacker News"
     }
 ]
