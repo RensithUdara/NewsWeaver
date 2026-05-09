@@ -243124,5 +243124,11 @@
         "url": "https://jacquiread.com/posts/better-software-design/",
         "timestamp": "2026-05-09T13:53:28.584343",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postgres on K8s with fast data branching",
+        "url": "https://github.com/xataio/xata",
+        "timestamp": "2026-05-09T13:53:28.584380",
+        "source": "Hacker News"
     }
 ]
