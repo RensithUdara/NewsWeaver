@@ -244852,5 +244852,11 @@
         "url": "https://twitter.com/MarioBrothBlog/status/2053179791495356420",
         "timestamp": "2026-05-09T23:31:05.355814",
         "source": "Hacker News"
+    },
+    {
+        "title": "Towards Compute-Aware In-Switch Computing for LLMs on Multi-GPU Systems",
+        "url": "https://arxiv.org/abs/2605.05628",
+        "timestamp": "2026-05-09T23:31:05.355849",
+        "source": "Hacker News"
     }
 ]
