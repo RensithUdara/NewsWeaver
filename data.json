@@ -243130,5 +243130,11 @@
         "url": "https://github.com/xataio/xata",
         "timestamp": "2026-05-09T13:53:28.584380",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+        "url": "https://github.com/tsirysndr/rockbox-zig",
+        "timestamp": "2026-05-09T13:53:28.584415",
+        "source": "Hacker News"
     }
 ]
