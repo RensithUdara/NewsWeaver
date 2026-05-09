@@ -241924,5 +241924,11 @@
         "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
         "timestamp": "2026-05-09T04:34:33.369604",
         "source": "Hacker News"
+    },
+    {
+        "title": "Boosting multimodal inference performance by >10% with a single Python dict",
+        "url": "https://modal.com/blog/boosting-multimodal-inference-performance-by-greater-than-10-with-a-single-python-dictionary",
+        "timestamp": "2026-05-09T04:34:33.370107",
+        "source": "Hacker News"
     }
 ]
