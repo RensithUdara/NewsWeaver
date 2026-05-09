@@ -242392,5 +242392,11 @@
         "url": "https://www.seangoedecke.com/notes-on-incidents/",
         "timestamp": "2026-05-09T08:18:48.094749",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why LLM-as-judge fails for code evaluation. Here's what works.",
+        "url": "https://navigara.medium.com/the-story-of-navigara-how-we-built-the-performance-layer-for-modern-engineering-d621ffcce6bb",
+        "timestamp": "2026-05-09T08:18:48.094783",
+        "source": "Hacker News"
     }
 ]
