@@ -242080,5 +242080,11 @@
         "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
         "timestamp": "2026-05-09T06:33:46.694767",
         "source": "Hacker News"
+    },
+    {
+        "title": "A YouTube Music player that runs in your terminal",
+        "url": "https://github.com/chuzcjoe/musicli",
+        "timestamp": "2026-05-09T06:33:46.873683",
+        "source": "Hacker News"
     }
 ]
