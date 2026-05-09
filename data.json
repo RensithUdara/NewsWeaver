@@ -242992,5 +242992,11 @@
         "url": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all",
         "timestamp": "2026-05-09T13:53:28.325180",
         "source": "Hacker News"
+    },
+    {
+        "title": "Removing fsync from our local storage engine",
+        "url": "https://fractalbits.com/blog/remove-fsync/",
+        "timestamp": "2026-05-09T13:53:28.325625",
+        "source": "Hacker News"
     }
 ]
