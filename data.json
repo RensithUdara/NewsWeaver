@@ -242224,5 +242224,11 @@
         "url": "https://www.blu-ray.com/news/?id=8186",
         "timestamp": "2026-05-09T06:33:46.874689",
         "source": "Hacker News"
+    },
+    {
+        "title": "Deepsec: The security harness for finding vulnerabilities",
+        "url": "https://vercel.com/blog/introducing-deepsec-find-and-fix-vulnerabilities-in-your-code-base",
+        "timestamp": "2026-05-09T06:33:46.874723",
+        "source": "Hacker News"
     }
 ]
