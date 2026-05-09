@@ -242638,5 +242638,11 @@
         "url": "https://news.ycombinator.com/item?id=48073244",
         "timestamp": "2026-05-09T09:46:00.181046",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Hum – ad-free terminal music player (Rust, no API keys)",
+        "url": "https://github.com/Devendra116/hum/",
+        "timestamp": "2026-05-09T09:46:00.181079",
+        "source": "Hacker News"
     }
 ]
