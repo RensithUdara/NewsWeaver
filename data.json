@@ -241780,5 +241780,11 @@
         "url": "https://www.youtube.com/watch?v=8xEuFQz4E4A",
         "timestamp": "2026-05-09T01:18:00.477698",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Nexa-gauge – Cache/cost-aware graph-based eval for LLM and RAG",
+        "url": "https://github.com/harnexa/nexa-gauge",
+        "timestamp": "2026-05-09T01:18:00.477733",
+        "source": "Hacker News"
     }
 ]
