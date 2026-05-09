@@ -242650,5 +242650,11 @@
         "url": "https://portal.mozz.us/gemini/zaibatsu.circumlunar.space/~solderpunk/gemlog/lua-as-a-practical-soft-bedrock-language.gmi",
         "timestamp": "2026-05-09T10:38:36.400732",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agentwerk: A minimal Rust crate for agentic apps",
+        "url": "https://github.com/canvascomputing/agentwerk",
+        "timestamp": "2026-05-09T10:38:36.400781",
+        "source": "Hacker News"
     }
 ]
