@@ -243178,5 +243178,11 @@
         "url": "https://www.bbc.co.uk/news/articles/c98r4e594p7o",
         "timestamp": "2026-05-09T14:42:12.102311",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Chuchu, an Android SSH client built on libghostty",
+        "url": "https://github.com/jossephus/chuchu",
+        "timestamp": "2026-05-09T14:42:12.102350",
+        "source": "Hacker News"
     }
 ]
