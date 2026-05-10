@@ -246556,5 +246556,11 @@
         "url": "https://www.telegraph.co.uk/world-news/2026/05/09/testing-the-japanese-airec-robot-for-elderly-care/",
         "timestamp": "2026-05-10T17:31:47.649379",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a local portal so ChatGPT (Pro models) can browse my accounts safely",
+        "url": "https://github.com/DenisSergeevitch/chatgpt-portal",
+        "timestamp": "2026-05-10T17:31:47.890356",
+        "source": "Hacker News"
     }
 ]
