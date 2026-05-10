@@ -245476,5 +245476,11 @@
         "url": "https://hypergrid.systems/site/",
         "timestamp": "2026-05-10T09:10:17.751610",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open-source Express.js dev panel for routes and request logs",
+        "url": "https://www.npmjs.com/package/express-dev-panel",
+        "timestamp": "2026-05-10T09:10:17.751639",
+        "source": "Hacker News"
     }
 ]
