@@ -245026,5 +245026,11 @@
         "url": "https://www.phoronix.com/news/Nocturne-1.0-GNOME-Music",
         "timestamp": "2026-05-10T01:23:05.994243",
         "source": "Hacker News"
+    },
+    {
+        "title": "Build native desktop and mobile apps with web UI and Zig",
+        "url": "https://github.com/vercel-labs/zero-native",
+        "timestamp": "2026-05-10T01:23:05.994314",
+        "source": "Hacker News"
     }
 ]
