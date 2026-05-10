@@ -246628,5 +246628,11 @@
         "url": "https://jackfromgetcho.substack.com/p/farewell-and-thank-you-spirit",
         "timestamp": "2026-05-10T17:31:47.890914",
         "source": "Hacker News"
+    },
+    {
+        "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+        "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+        "timestamp": "2026-05-10T17:31:47.890953",
+        "source": "Hacker News"
     }
 ]
