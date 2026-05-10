@@ -245116,5 +245116,11 @@
         "url": "https://priorcontext.substack.com/p/the-title-on-your-badge-is-becoming",
         "timestamp": "2026-05-10T04:57:09.934947",
         "source": "Hacker News"
+    },
+    {
+        "title": "Arrow Flight vs. JSON in Next.js: Benchmarking Python and Go",
+        "url": "https://kayhan.dev/posts/012-arrow-flight-vs-json-nextjs-snowflake-benchmark/",
+        "timestamp": "2026-05-10T04:57:09.934981",
+        "source": "Hacker News"
     }
 ]
