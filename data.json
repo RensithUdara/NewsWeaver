@@ -246364,5 +246364,11 @@
         "url": "https://theindex.fyi",
         "timestamp": "2026-05-10T16:32:49.381854",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ship a cookie banner in your Astro site without a framework",
+        "url": "https://www.policystack.dev/blog/astro-cookie-banner",
+        "timestamp": "2026-05-10T16:32:49.673206",
+        "source": "Hacker News"
     }
 ]
