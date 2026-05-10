@@ -247288,5 +247288,11 @@
         "url": "https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep",
         "timestamp": "2026-05-10T22:07:37.426972",
         "source": "Hacker News"
+    },
+    {
+        "title": "Obsidian plugin was abused to deploy a remote access trojan",
+        "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+        "timestamp": "2026-05-10T22:07:37.541683",
+        "source": "Hacker News"
     }
 ]
