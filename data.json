@@ -246250,5 +246250,11 @@
         "url": "https://streetai.org/blog/escrow-for-ai-agents.html",
         "timestamp": "2026-05-10T15:37:29.237235",
         "source": "Hacker News"
+    },
+    {
+        "title": "A super simple tool tells you who called the function and who implemented it",
+        "url": "https://github.com/meloalright/who-ast",
+        "timestamp": "2026-05-10T15:37:29.237264",
+        "source": "Hacker News"
     }
 ]
