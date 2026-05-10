@@ -245518,5 +245518,11 @@
         "url": "https://news.ycombinator.com/item?id=48082112",
         "timestamp": "2026-05-10T09:10:17.751847",
         "source": "Hacker News"
+    },
+    {
+        "title": "UtaForth – 303-byte 16-bit Forth in pure Netwide Assembler",
+        "url": "https://github.com/Fuwn/UtaForth",
+        "timestamp": "2026-05-10T09:10:17.751876",
+        "source": "Hacker News"
     }
 ]
