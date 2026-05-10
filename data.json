@@ -245164,5 +245164,11 @@
         "url": "https://www.youtube.com/watch?v=p6Ejmhwb8Sc",
         "timestamp": "2026-05-10T04:57:09.935311",
         "source": "Hacker News"
+    },
+    {
+        "title": "MCP for sandboxed, reproducible envs for agentic-first coding workflows",
+        "url": "https://github.com/aniongithub/devcontainer-mcp",
+        "timestamp": "2026-05-10T04:57:09.935345",
+        "source": "Hacker News"
     }
 ]
