@@ -246664,5 +246664,11 @@
         "url": "https://benchlabs.app/code-bench/",
         "timestamp": "2026-05-10T17:31:47.891162",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hydra: 5-player packet collider in under 1000 lines of Python",
+        "url": "https://github.com/ObliviousCompute/ObliviousCompute/blob/main/Hydra/README.md",
+        "timestamp": "2026-05-10T17:31:47.891196",
+        "source": "Hacker News"
     }
 ]
