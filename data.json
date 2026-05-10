@@ -246100,5 +246100,11 @@
         "url": "https://www.yahoo.com/news/articles/want-track-apocalypse-one-theory-173133903.html",
         "timestamp": "2026-05-10T14:43:21.132627",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ranking 1k ShowHN posts by estimated merit using an LLM judge and TrueSkill",
+        "url": "https://github.com/kouhxp/showhn-rank",
+        "timestamp": "2026-05-10T14:43:21.132664",
+        "source": "Hacker News"
     }
 ]
