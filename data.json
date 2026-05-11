@@ -248938,5 +248938,11 @@
         "url": "https://status.hetzner.com/",
         "timestamp": "2026-05-11T20:01:11.672620",
         "source": "Hacker News"
+    },
+    {
+        "title": "Create a 90s GeoCities style website in seconds (rust)",
+        "url": "https://crates.io/crates/create-geocities-app",
+        "timestamp": "2026-05-11T20:01:11.672683",
+        "source": "Hacker News"
     }
 ]
