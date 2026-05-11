@@ -247474,5 +247474,11 @@
         "url": "https://mkenely.com/publications/preprints/from-broadcast-to-dialogue.pdf",
         "timestamp": "2026-05-10T23:03:29.874299",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running local models on an M4 with 24GB memory",
+        "url": "https://jola.dev/posts/running-local-models-on-m4",
+        "timestamp": "2026-05-11T00:02:32.609643",
+        "source": "Hacker News"
     }
 ]
