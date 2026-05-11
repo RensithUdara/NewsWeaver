@@ -248188,5 +248188,11 @@
         "url": "https://factoquizzy.web.app",
         "timestamp": "2026-05-11T10:52:53.147883",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building ADK Agents with Phi Models on Azure Foundry",
+        "url": "https://dev.to/gde/building-adk-agents-with-phi-models-on-azure-foundry-25a2",
+        "timestamp": "2026-05-11T10:52:53.270228",
+        "source": "Dev.to"
     }
 ]
