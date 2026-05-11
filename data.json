@@ -248632,5 +248632,11 @@
         "url": "https://dev.to/iampraveen/every-developers-git-log-is-a-crime-scene-a-7-stage-investigation-3k44",
         "timestamp": "2026-05-11T16:17:16.242023",
         "source": "Dev.to"
+    },
+    {
+        "title": "How Python's GIL actually works (and when it bites you)",
+        "url": "https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2",
+        "timestamp": "2026-05-11T16:17:16.242024",
+        "source": "Dev.to"
     }
 ]
