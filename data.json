@@ -248164,5 +248164,11 @@
         "url": "https://news.ycombinator.com/item?id=48092999",
         "timestamp": "2026-05-11T10:52:53.147696",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a Memory Allocator from Scratch in C",
+        "url": "https://0xkiire.com/memory-allocators/",
+        "timestamp": "2026-05-11T10:52:53.147768",
+        "source": "Hacker News"
     }
 ]
