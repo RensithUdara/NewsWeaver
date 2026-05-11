@@ -248614,5 +248614,11 @@
         "url": "https://mcpfw.dev/paper",
         "timestamp": "2026-05-11T16:17:15.920522",
         "source": "Hacker News"
+    },
+    {
+        "title": "Google TIG reports first example of AI used offensively for zero-day vulns",
+        "url": "https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/",
+        "timestamp": "2026-05-11T16:17:15.920550",
+        "source": "Hacker News"
     }
 ]
