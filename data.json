@@ -247750,5 +247750,11 @@
         "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
         "timestamp": "2026-05-11T07:55:02.911628",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+        "url": "https://github.com/adamjgmiller/adamsreview",
+        "timestamp": "2026-05-11T07:55:02.911665",
+        "source": "Hacker News"
     }
 ]
