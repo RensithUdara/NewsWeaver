@@ -247660,5 +247660,11 @@
         "url": "https://ossvolunteers.com/",
         "timestamp": "2026-05-11T04:18:13.745977",
         "source": "Hacker News"
+    },
+    {
+        "title": "SVG Frame-by-Frame Animation Generator",
+        "url": "https://github.com/Emasoft/svg2fbf",
+        "timestamp": "2026-05-11T04:18:13.746013",
+        "source": "Hacker News"
     }
 ]
