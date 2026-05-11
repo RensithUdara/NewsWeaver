@@ -248608,5 +248608,11 @@
         "url": "https://github.com/polyphilz/glance",
         "timestamp": "2026-05-11T16:17:15.920493",
         "source": "Hacker News"
+    },
+    {
+        "title": "MCP server can modify tool list mid-session; client has no mechanism to detect",
+        "url": "https://mcpfw.dev/paper",
+        "timestamp": "2026-05-11T16:17:15.920522",
+        "source": "Hacker News"
     }
 ]
