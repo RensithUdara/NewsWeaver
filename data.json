@@ -248320,5 +248320,11 @@
         "url": "https://www.sandordargo.com/blog/2026/05/04/devladder-comes-home",
         "timestamp": "2026-05-11T13:37:29.241172",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cuarzo-100K v2 – Python↔EN/ES/FR/ZH, 100% AST verified across all 4 languages",
+        "url": "https://huggingface.co/datasets/Cuarzo-AI/cuarzo-100k-v2",
+        "timestamp": "2026-05-11T13:37:29.241201",
+        "source": "Hacker News"
     }
 ]
