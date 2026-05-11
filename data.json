@@ -249550,5 +249550,11 @@
         "url": "https://news.ycombinator.com/item?id=48102087",
         "timestamp": "2026-05-11T23:34:18.264142",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Inrepo – Pull upstream repos into your app without forks or submodules",
+        "url": "https://github.com/inthhq/inrepo",
+        "timestamp": "2026-05-11T23:34:18.264200",
+        "source": "Hacker News"
     }
 ]
