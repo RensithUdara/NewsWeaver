@@ -248638,5 +248638,11 @@
         "url": "https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2",
         "timestamp": "2026-05-11T16:17:16.242024",
         "source": "Dev.to"
+    },
+    {
+        "title": "How to Stop AI Slop in Production: A Two-Layer Validator for LLM Output (2026)",
+        "url": "https://dev.to/dumebii/how-to-stop-ai-slop-in-production-a-two-layer-validator-for-llm-output-2026-56fj",
+        "timestamp": "2026-05-11T16:17:16.242025",
+        "source": "Dev.to"
     }
 ]
