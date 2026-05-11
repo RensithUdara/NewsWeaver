@@ -248488,5 +248488,11 @@
         "url": "https://dmitry.gr/?proj=37.%20Pixter&r=05.Projects",
         "timestamp": "2026-05-11T16:17:15.919873",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Technical Guide to Compiling Emacs for Performance on Linux and Unix Systems",
+        "url": "https://www.jamescherti.com/compiling-emacs/",
+        "timestamp": "2026-05-11T16:17:15.919901",
+        "source": "Hacker News"
     }
 ]
