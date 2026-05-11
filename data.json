@@ -248602,5 +248602,11 @@
         "url": "https://crowdhailer.me/2026-05-11/running-my-agents-in-a-vps/",
         "timestamp": "2026-05-11T16:17:15.920465",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Glance – Local Git diff review TUI, ported from VS Code",
+        "url": "https://github.com/polyphilz/glance",
+        "timestamp": "2026-05-11T16:17:15.920493",
+        "source": "Hacker News"
     }
 ]
