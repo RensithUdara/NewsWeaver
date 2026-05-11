@@ -247894,5 +247894,11 @@
         "url": "https://mywiki.wooledge.org/BashPitfalls",
         "timestamp": "2026-05-11T07:55:03.159689",
         "source": "Hacker News"
+    },
+    {
+        "title": "ASTro: AST-Based Reusable Optimization Framework",
+        "url": "https://github.com/ko1/astro/",
+        "timestamp": "2026-05-11T07:55:03.159727",
+        "source": "Hacker News"
     }
 ]
