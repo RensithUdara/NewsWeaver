@@ -248326,5 +248326,11 @@
         "url": "https://huggingface.co/datasets/Cuarzo-AI/cuarzo-100k-v2",
         "timestamp": "2026-05-11T13:37:29.241201",
         "source": "Hacker News"
+    },
+    {
+        "title": "Human-in-the-loop code review tool for AI-generated changes",
+        "url": "https://tuicr.dev/",
+        "timestamp": "2026-05-11T13:37:29.241232",
+        "source": "Hacker News"
     }
 ]
