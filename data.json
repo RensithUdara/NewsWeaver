@@ -250582,5 +250582,11 @@
         "url": "https://getdale.com/blog/",
         "timestamp": "2026-05-12T12:10:44.750930",
         "source": "Hacker News"
+    },
+    {
+        "title": "Test and Mock Framework for PowerShell",
+        "url": "https://pester.dev/",
+        "timestamp": "2026-05-12T12:10:44.750961",
+        "source": "Hacker News"
     }
 ]
