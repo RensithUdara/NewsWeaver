@@ -250732,5 +250732,11 @@
         "url": "https://www.deepclause.ai/",
         "timestamp": "2026-05-12T12:10:44.751708",
         "source": "Hacker News"
+    },
+    {
+        "title": "I/O Multiplexing: select(), poll(), and epoll() Explaination Extended",
+        "url": "https://0xkiire.com/io-multiplexing-guide/",
+        "timestamp": "2026-05-12T12:10:44.751738",
+        "source": "Hacker News"
     }
 ]
