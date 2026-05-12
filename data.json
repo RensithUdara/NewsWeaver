@@ -250696,5 +250696,11 @@
         "url": "https://mssv.net/2026/05/12/on-organising-the-first-english-language-jubensha-convention/",
         "timestamp": "2026-05-12T12:10:44.751510",
         "source": "Hacker News"
+    },
+    {
+        "title": "Go fuzzing was missing half the toolkit. We forked the toolchain to fix it",
+        "url": "https://blog.trailofbits.com/2026/05/12/go-fuzzing-was-missing-half-the-toolkit.-we-forked-the-toolchain-to-fix-it./",
+        "timestamp": "2026-05-12T12:10:44.751540",
+        "source": "Hacker News"
     }
 ]
