@@ -250648,5 +250648,11 @@
         "url": "https://www.scaleway.com/en/blog/risc-v-servers-in-the-cloud/",
         "timestamp": "2026-05-12T12:10:44.751259",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Team-of-agents, A multi-role SDLC orchestrator for Claude Code",
+        "url": "https://github.com/pranav8494/team-of-agents",
+        "timestamp": "2026-05-12T12:10:44.751287",
+        "source": "Hacker News"
     }
 ]
