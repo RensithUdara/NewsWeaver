@@ -251788,5 +251788,11 @@
         "url": "https://www.youtube.com/channel/UCaBw3oACBbnONFFRR2D-dpA",
         "timestamp": "2026-05-12T20:50:28.034479",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fast, Updatable Lookups with the Join Table Engine in ClickHouse",
+        "url": "https://clickhouse.com/blog/join-table-engine",
+        "timestamp": "2026-05-12T20:50:28.034507",
+        "source": "Hacker News"
     }
 ]
