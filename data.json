@@ -251554,5 +251554,11 @@
         "url": "https://talesoftimesforgotten.com/2026/03/16/did-ancient-civilizations-have-organized-crime/",
         "timestamp": "2026-05-12T19:14:33.714493",
         "source": "Hacker News"
+    },
+    {
+        "title": "Error Handling in Go: Stop Panicking, Start Wrapping",
+        "url": "https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d",
+        "timestamp": "2026-05-12T19:14:33.775907",
+        "source": "Dev.to"
     }
 ]
