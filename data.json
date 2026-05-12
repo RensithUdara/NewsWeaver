@@ -249880,5 +249880,11 @@
         "url": "https://zxbasic.readthedocs.io/en/docs/",
         "timestamp": "2026-05-12T04:50:04.382200",
         "source": "Hacker News"
+    },
+    {
+        "title": "Notes from Optimizing CPU-Bound Go Hot Paths",
+        "url": "https://blog.andr2i.com/posts/2026-05-03-notes-from-optimizing-cpu-bound-go-hot-paths",
+        "timestamp": "2026-05-12T04:50:04.708787",
+        "source": "Hacker News"
     }
 ]
