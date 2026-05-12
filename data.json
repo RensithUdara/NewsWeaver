@@ -251218,5 +251218,11 @@
         "url": "https://warpgate.io/",
         "timestamp": "2026-05-12T17:20:46.298845",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Profine – Profile and rewrite your PyTorch training loop on real GPUs",
+        "url": "https://github.com/ProfineAI/profine-cli",
+        "timestamp": "2026-05-12T17:20:46.298874",
+        "source": "Hacker News"
     }
 ]
