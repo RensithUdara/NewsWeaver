@@ -250918,5 +250918,11 @@
         "url": "https://www.washingtonpost.com/weather/2026/05/12/super-el-nino-1877-population-impacts/",
         "timestamp": "2026-05-12T15:09:00.225879",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bare-metal STM32: vector table, linker script, and startup code from scratch",
+        "url": "https://lmilz.dev/blog/2026/04/19/Embedded-Hello-World.html",
+        "timestamp": "2026-05-12T15:09:00.225901",
+        "source": "Hacker News"
     }
 ]
