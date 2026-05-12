@@ -252076,5 +252076,11 @@
         "url": "https://www.nytimes.com/2026/04/28/health/depression-at-home-brain-stimulation-fda.html",
         "timestamp": "2026-05-12T23:12:47.448178",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open source rule based guardrails for coding agents",
+        "url": "https://github.com/falcosecurity/prempti/tree/main",
+        "timestamp": "2026-05-12T23:12:47.448212",
+        "source": "Hacker News"
     }
 ]
