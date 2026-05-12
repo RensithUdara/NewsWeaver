@@ -249658,5 +249658,11 @@
         "url": "https://grimfandango.substack.com/p/devon",
         "timestamp": "2026-05-11T23:34:18.264780",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postmortem: TanStack npm supply-chain compromise",
+        "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+        "timestamp": "2026-05-12T01:19:22.974902",
+        "source": "Hacker News"
     }
 ]
