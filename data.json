@@ -250390,5 +250390,11 @@
         "url": "https://www.survser.com/",
         "timestamp": "2026-05-12T10:09:15.593635",
         "source": "Hacker News"
+    },
+    {
+        "title": "DuckDB/DuckLake multi-user in the browser with Read/Write and WebSocket notify",
+        "url": "https://ducklake-with-vgi.query-farm.services/",
+        "timestamp": "2026-05-12T10:09:15.593675",
+        "source": "Hacker News"
     }
 ]
