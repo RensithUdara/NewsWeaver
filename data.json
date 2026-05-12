@@ -251776,5 +251776,11 @@
         "url": "https://claude.com/blog/claude-for-the-legal-industry",
         "timestamp": "2026-05-12T20:50:28.034422",
         "source": "Hacker News"
+    },
+    {
+        "title": "Exim Mail Server Hit by \"Dead.Letter\" TLS Flaw, Admins Told to Upgrade",
+        "url": "https://fossforce.com/2026/05/exim-mail-server-hit-by-dead-letter-tls-flaw-admins-told-to-upgrade/",
+        "timestamp": "2026-05-12T20:50:28.034450",
+        "source": "Hacker News"
     }
 ]
