@@ -250366,5 +250366,11 @@
         "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-sues-netflix-spying-texas-kids-and-consumers-illegally-collecting-users",
         "timestamp": "2026-05-12T10:09:15.593425",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ducklake-SDK: Use DuckLake from Python or Rust without going through DuckDB",
+        "url": "https://github.com/borchero/ducklake-sdk",
+        "timestamp": "2026-05-12T10:09:15.593494",
+        "source": "Hacker News"
     }
 ]
