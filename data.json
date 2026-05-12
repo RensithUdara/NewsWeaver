@@ -250060,5 +250060,11 @@
         "url": "https://www.quotesbuster.com/",
         "timestamp": "2026-05-12T07:33:19.232235",
         "source": "Hacker News"
+    },
+    {
+        "title": "Piping terminal output to the browser using systemfd",
+        "url": "https://blog.izissise.net/posts/webdev-livecompile/",
+        "timestamp": "2026-05-12T07:33:19.232272",
+        "source": "Hacker News"
     }
 ]
