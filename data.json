@@ -250924,5 +250924,11 @@
         "url": "https://lmilz.dev/blog/2026/04/19/Embedded-Hello-World.html",
         "timestamp": "2026-05-12T15:09:00.225901",
         "source": "Hacker News"
+    },
+    {
+        "title": "MockFIX – desktop FIX simulator so QA can test fills without a dev",
+        "url": "https://www.mockfix.com/",
+        "timestamp": "2026-05-12T15:09:00.225923",
+        "source": "Hacker News"
     }
 ]
