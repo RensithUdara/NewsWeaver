@@ -249982,5 +249982,11 @@
         "url": "https://news.ycombinator.com/item?id=48104084",
         "timestamp": "2026-05-12T04:50:04.709300",
         "source": "Hacker News"
+    },
+    {
+        "title": "Supply chain compromise in mistralai Python package",
+        "url": "https://github.com/mistralai/client-python/issues/523",
+        "timestamp": "2026-05-12T04:50:04.709328",
+        "source": "Hacker News"
     }
 ]
