@@ -251518,5 +251518,11 @@
         "url": "https://www.thekabukipapers.org/articles/36",
         "timestamp": "2026-05-12T19:14:33.714358",
         "source": "Hacker News"
+    },
+    {
+        "title": "CC-Ledger: Claude Code Cost Tracker (Per-Session and Per-PR)",
+        "url": "https://github.com/delta-hq/cc-ledger",
+        "timestamp": "2026-05-12T19:14:33.714381",
+        "source": "Hacker News"
     }
 ]
