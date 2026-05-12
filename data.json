@@ -251230,5 +251230,11 @@
         "url": "https://vaultly-omega.vercel.app/en",
         "timestamp": "2026-05-12T17:20:46.298903",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ledgr – Self-hosted finance app with Plaid bank sync and an MCP server",
+        "url": "https://github.com/KenTaniguchi-R/ledgr",
+        "timestamp": "2026-05-12T17:20:46.298933",
+        "source": "Hacker News"
     }
 ]
