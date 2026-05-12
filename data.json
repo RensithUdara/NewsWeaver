@@ -251170,5 +251170,11 @@
         "url": "https://kiro.dev/blog/deep-spec-analysis/",
         "timestamp": "2026-05-12T17:20:46.298606",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hardening TanStack After the NPM Compromise",
+        "url": "https://tanstack.com/blog/incident-followup",
+        "timestamp": "2026-05-12T17:20:46.298635",
+        "source": "Hacker News"
     }
 ]
