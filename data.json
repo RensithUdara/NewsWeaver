@@ -251134,5 +251134,11 @@
         "url": "https://konsument.at/test/tastecheck-sachertorte",
         "timestamp": "2026-05-12T17:20:46.298431",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mass Supply Chain Attack Hits TanStack, Mistral AI NPM and PyPI Packages",
+        "url": "https://safedep.io/mass-npm-supply-chain-attack-tanstack-mistral/",
+        "timestamp": "2026-05-12T17:20:46.298459",
+        "source": "Hacker News"
     }
 ]
