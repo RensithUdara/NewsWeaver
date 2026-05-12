@@ -250438,5 +250438,11 @@
         "url": "https://www.phoronix.com/news/HDMI-2.1-DSC-AMDGPU-FRL",
         "timestamp": "2026-05-12T10:09:15.593958",
         "source": "Hacker News"
+    },
+    {
+        "title": "GitLab CI Functions",
+        "url": "https://docs.gitlab.com/ci/functions/",
+        "timestamp": "2026-05-12T10:09:15.593995",
+        "source": "Hacker News"
     }
 ]
