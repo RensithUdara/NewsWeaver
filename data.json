@@ -251338,5 +251338,11 @@
         "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
         "timestamp": "2026-05-12T19:14:33.475305",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
+        "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
+        "timestamp": "2026-05-12T19:14:33.475410",
+        "source": "Hacker News"
     }
 ]
