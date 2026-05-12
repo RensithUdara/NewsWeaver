@@ -250012,5 +250012,11 @@
         "url": "https://perezbox.com/articles/clickfix-campaign-tailscale-nine-month-phishing-operation",
         "timestamp": "2026-05-12T04:50:04.709499",
         "source": "Hacker News"
+    },
+    {
+        "title": "Local LLM Proxy: Turn Idle LLM Compute into Universal Credits",
+        "url": "https://github.com/wink-run/local-llm-proxy",
+        "timestamp": "2026-05-12T04:50:04.709527",
+        "source": "Hacker News"
     }
 ]
