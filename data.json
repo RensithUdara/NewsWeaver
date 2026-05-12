@@ -249790,5 +249790,11 @@
         "url": "https://www.editorsguild.com/Stress-Survival-Kit",
         "timestamp": "2026-05-12T01:19:23.229839",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Safe-install – safer NPM installs with trusted build dependencies",
+        "url": "https://www.npmjs.com/package/@gkiely/safe-install",
+        "timestamp": "2026-05-12T01:19:23.229868",
+        "source": "Hacker News"
     }
 ]
