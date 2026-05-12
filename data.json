@@ -251332,5 +251332,11 @@
         "url": "https://googlebook.google/",
         "timestamp": "2026-05-12T19:14:33.475262",
         "source": "Hacker News"
+    },
+    {
+        "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+        "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+        "timestamp": "2026-05-12T19:14:33.475305",
+        "source": "Hacker News"
     }
 ]
