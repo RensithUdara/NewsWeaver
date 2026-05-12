@@ -251638,5 +251638,11 @@
         "url": "https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/",
         "timestamp": "2026-05-12T20:50:27.577739",
         "source": "Hacker News"
+    },
+    {
+        "title": "MergeBrake – catch DB-breaking Prisma/Drizzle PRs before merge",
+        "url": "https://github.com/mergebrake/mergebrake",
+        "timestamp": "2026-05-12T20:50:28.033729",
+        "source": "Hacker News"
     }
 ]
