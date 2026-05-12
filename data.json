@@ -251794,5 +251794,11 @@
         "url": "https://clickhouse.com/blog/join-table-engine",
         "timestamp": "2026-05-12T20:50:28.034507",
         "source": "Hacker News"
+    },
+    {
+        "title": "2 Mistakes, 1 weird trick, 27 years: an explainer of the OpenBSD SACK bug",
+        "url": "https://www.studiodemby.com/standalone/sack-vulnerability/index.html",
+        "timestamp": "2026-05-12T20:50:28.034536",
+        "source": "Hacker News"
     }
 ]
