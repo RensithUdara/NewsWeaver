@@ -250678,5 +250678,11 @@
         "url": "https://webkit.org/blog/17938/webkit-features-for-safari-26-5/",
         "timestamp": "2026-05-12T12:10:44.751400",
         "source": "Hacker News"
+    },
+    {
+        "title": "TanStack NPM supply-chain incident: browser-only lockfile scanner",
+        "url": "https://quarkassistant.github.io/tanstack-lockfile-check/",
+        "timestamp": "2026-05-12T12:10:44.751427",
+        "source": "Hacker News"
     }
 ]
