@@ -251632,5 +251632,11 @@
         "url": "https://chreke.com/posts/sql-incorrect-by-construction",
         "timestamp": "2026-05-12T20:50:27.577682",
         "source": "Hacker News"
+    },
+    {
+        "title": "Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want",
+        "url": "https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/",
+        "timestamp": "2026-05-12T20:50:27.577739",
+        "source": "Hacker News"
     }
 ]
