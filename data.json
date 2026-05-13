@@ -252406,5 +252406,11 @@
         "url": "https://apps.apple.com/us/app/silicon-ai-price-comparison/id6764054291",
         "timestamp": "2026-05-13T04:13:18.052617",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: SelfCertForge, manage root CAs and self-signed certs on macOS/Windows",
+        "url": "https://github.com/rbonestell/SelfCertForge",
+        "timestamp": "2026-05-13T04:13:18.052651",
+        "source": "Hacker News"
     }
 ]
