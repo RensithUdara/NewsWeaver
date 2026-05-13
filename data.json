@@ -252436,5 +252436,11 @@
         "url": "https://9to5google.com/2026/05/12/googlebooks-have-a-premium-focus-some-chromebooks-can-be-upgraded/",
         "timestamp": "2026-05-13T04:13:18.052828",
         "source": "Hacker News"
+    },
+    {
+        "title": "NPM-Scan – Detects TanStack Worm, Beats Socket/Snyk (Local/BYOC)",
+        "url": "https://github.com/lateos-ai/npm-scan",
+        "timestamp": "2026-05-13T04:13:18.052880",
+        "source": "Hacker News"
     }
 ]
