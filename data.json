@@ -254104,5 +254104,11 @@
         "url": "https://stacktr.ee/",
         "timestamp": "2026-05-13T20:55:41.510329",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: AICTL – A native AI agent for terminal and macOS, in Rust",
+        "url": "https://aictl.app",
+        "timestamp": "2026-05-13T20:55:41.510362",
+        "source": "Hacker News"
     }
 ]
