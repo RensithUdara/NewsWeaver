@@ -252982,5 +252982,11 @@
         "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/",
         "timestamp": "2026-05-13T12:18:22.383998",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Rails proxy to enforce hard dollar caps on OpenAI usage",
+        "url": "https://github.com/naurisSeglins/ai_budget_proxy",
+        "timestamp": "2026-05-13T12:18:22.384032",
+        "source": "Hacker News"
     }
 ]
