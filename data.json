@@ -252340,5 +252340,11 @@
         "url": "https://www.savethearchive.com/newsleaders/",
         "timestamp": "2026-05-13T04:13:17.953084",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scrcpy v4.0",
+        "url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
+        "timestamp": "2026-05-13T04:13:17.953505",
+        "source": "Hacker News"
     }
 ]
