@@ -252484,5 +252484,11 @@
         "url": "https://www.artificiallawyer.com/2026/05/12/claude-for-legal-launches-may-reshape-the-legal-tech-world/",
         "timestamp": "2026-05-13T04:13:18.053178",
         "source": "Hacker News"
+    },
+    {
+        "title": "[PATCH linux] README: Don't organize the README by arbitrary \"roles\"",
+        "url": "https://lore.kernel.org/lkml/20260513004616.2877-1-me@runxiyu.org/T/#u",
+        "timestamp": "2026-05-13T04:13:18.053212",
+        "source": "Hacker News"
     }
 ]
