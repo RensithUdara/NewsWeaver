@@ -253564,5 +253564,11 @@
         "url": "https://vibeloom.ai/",
         "timestamp": "2026-05-13T17:24:01.568006",
         "source": "Hacker News"
+    },
+    {
+        "title": "Viaduct 1.0: Airbnb's open-source GraphQL framework",
+        "url": "https://medium.com/airbnb-engineering/viaduct-1-0-and-the-future-of-airbnbs-data-mesh-6bab4ec98b89",
+        "timestamp": "2026-05-13T17:24:01.568039",
+        "source": "Hacker News"
     }
 ]
