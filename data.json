@@ -253288,5 +253288,11 @@
         "url": "https://jitera.com/blog/business-agents/",
         "timestamp": "2026-05-13T15:15:54.468141",
         "source": "Hacker News"
+    },
+    {
+        "title": "Circ, a DSL for digital circuits with self-rendering ASCII schematics",
+        "url": "https://circ-lang.org/",
+        "timestamp": "2026-05-13T15:15:54.468178",
+        "source": "Hacker News"
     }
 ]
