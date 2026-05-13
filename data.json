@@ -254266,5 +254266,11 @@
         "url": "https://free-visit.net/",
         "timestamp": "2026-05-13T22:04:14.171659",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nvidia/Numba-CUDA-mlir: CUDA C++-style Python GPU compiler built on MLIR",
+        "url": "https://github.com/NVIDIA/numba-cuda-mlir",
+        "timestamp": "2026-05-13T22:04:14.171688",
+        "source": "Hacker News"
     }
 ]
