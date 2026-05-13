@@ -253996,5 +253996,11 @@
         "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
         "timestamp": "2026-05-13T20:55:41.263090",
         "source": "Hacker News"
+    },
+    {
+        "title": "GitHub Actions issued GitHub_TOKEN disclosure in GitHub Actions logs",
+        "url": "https://github.com/composer/composer/security/advisories/GHSA-f9f8-rm49-7jv2",
+        "timestamp": "2026-05-13T20:55:41.263254",
+        "source": "Hacker News"
     }
 ]
