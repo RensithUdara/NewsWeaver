@@ -253018,5 +253018,11 @@
         "url": "https://www.youtube.com/watch?v=UiX4CFIiegM",
         "timestamp": "2026-05-13T12:18:22.384207",
         "source": "Hacker News"
+    },
+    {
+        "title": "We Built a Custom Transport for Vercel's AI SDK",
+        "url": "https://ably.com/blog/custom-transport-vercel-ai-sdk",
+        "timestamp": "2026-05-13T12:18:22.384242",
+        "source": "Hacker News"
     }
 ]
