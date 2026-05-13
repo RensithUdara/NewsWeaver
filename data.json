@@ -252238,5 +252238,11 @@
         "url": "https://www.theregister.com/cyber-crime/2026/05/12/foxconn-confirms-cyberattack-after-nitrogen-claims-apple-nvidia-data-theft/5239144",
         "timestamp": "2026-05-13T00:13:49.598780",
         "source": "Hacker News"
+    },
+    {
+        "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+        "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+        "timestamp": "2026-05-13T00:13:49.598808",
+        "source": "Hacker News"
     }
 ]
