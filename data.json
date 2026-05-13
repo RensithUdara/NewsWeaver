@@ -252454,5 +252454,11 @@
         "url": "https://workos.com/blog/linking-sso-profiles-to-directory-users",
         "timestamp": "2026-05-13T04:13:18.052962",
         "source": "Hacker News"
+    },
+    {
+        "title": "Let's Encrypt: Gen Y Cross-Certified Subordinate CAs Missing ServerAuth EKU",
+        "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2038351",
+        "timestamp": "2026-05-13T04:13:18.053004",
+        "source": "Hacker News"
     }
 ]
