@@ -252448,5 +252448,11 @@
         "url": "https://www.ft.com/content/554f76a6-218d-4f88-bcad-9c52623ef533",
         "timestamp": "2026-05-13T04:13:18.052925",
         "source": "Hacker News"
+    },
+    {
+        "title": "The identity join problem: Linking SSO profiles to directory users",
+        "url": "https://workos.com/blog/linking-sso-profiles-to-directory-users",
+        "timestamp": "2026-05-13T04:13:18.052962",
+        "source": "Hacker News"
     }
 ]
