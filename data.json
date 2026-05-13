@@ -254284,5 +254284,11 @@
         "url": "https://lanes.sh/blog/integrations-have-arrived",
         "timestamp": "2026-05-13T22:04:14.171748",
         "source": "Hacker News"
+    },
+    {
+        "title": "Behind the scenes of OpenAI's open-source Windows sandbox",
+        "url": "https://openai.com/index/building-codex-windows-sandbox/",
+        "timestamp": "2026-05-13T22:04:14.171778",
+        "source": "Hacker News"
     }
 ]
