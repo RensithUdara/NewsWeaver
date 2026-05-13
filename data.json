@@ -252892,5 +252892,11 @@
         "url": "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager",
         "timestamp": "2026-05-13T12:18:22.292165",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cost of enum-to-string: C++26 reflection vs. the old ways",
+        "url": "https://vittorioromeo.com/index/blog/refl_enum_to_string.html",
+        "timestamp": "2026-05-13T12:18:22.292830",
+        "source": "Hacker News"
     }
 ]
