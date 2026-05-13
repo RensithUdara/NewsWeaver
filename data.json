@@ -254128,5 +254128,11 @@
         "url": "https://aran.dev/posts/why-i-built-a-reference-go-project/",
         "timestamp": "2026-05-13T20:55:41.510463",
         "source": "Hacker News"
+    },
+    {
+        "title": "From News Articles to Knowledge Graphs with SpaCy and NetworkX",
+        "url": "https://data4sci.substack.com/p/from-news-articles-to-knowledge-graphs",
+        "timestamp": "2026-05-13T20:55:41.510520",
+        "source": "Hacker News"
     }
 ]
