@@ -252160,5 +252160,11 @@
         "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
         "timestamp": "2026-05-13T00:13:49.203140",
         "source": "Hacker News"
+    },
+    {
+        "title": "Quack and VGI: Two Approaches to Bringing RPC to DuckDB",
+        "url": "https://rusty.today/blog/quack-vgi-two-approaches-rpc-duckdb/",
+        "timestamp": "2026-05-13T00:13:49.598333",
+        "source": "Hacker News"
     }
 ]
