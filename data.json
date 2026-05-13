@@ -252244,5 +252244,11 @@
         "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
         "timestamp": "2026-05-13T00:13:49.598808",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scaling MCP adoption: Our ref architecture – simpler,safer&cheaper deployments",
+        "url": "https://blog.cloudflare.com/enterprise-mcp/",
+        "timestamp": "2026-05-13T00:13:49.598835",
+        "source": "Hacker News"
     }
 ]
