@@ -252490,5 +252490,11 @@
         "url": "https://lore.kernel.org/lkml/20260513004616.2877-1-me@runxiyu.org/T/#u",
         "timestamp": "2026-05-13T04:13:18.053212",
         "source": "Hacker News"
+    },
+    {
+        "title": "Self-hosted AI memory with web dashboard – Cloudflare Workers, D1, Vectorize",
+        "url": "https://github.com/rahilp/second-brain-cloudflare",
+        "timestamp": "2026-05-13T04:13:18.053246",
+        "source": "Hacker News"
     }
 ]
