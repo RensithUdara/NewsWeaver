@@ -252922,5 +252922,11 @@
         "url": "https://github.com/torrix-ai/install",
         "timestamp": "2026-05-13T12:18:22.383583",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bit-Banging the MIPI RFFE Interface Emulation of a Proprietary Interface on GPIO",
+        "url": "https://medium.com/@eugenefolkast/bit-banging-the-mipi-rffe-interface-emulation-of-a-proprietary-interface-on-an-arm-58db89a9e417",
+        "timestamp": "2026-05-13T12:18:22.383619",
+        "source": "Hacker News"
     }
 ]
