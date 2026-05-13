@@ -253294,5 +253294,11 @@
         "url": "https://circ-lang.org/",
         "timestamp": "2026-05-13T15:15:54.468178",
         "source": "Hacker News"
+    },
+    {
+        "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Local Models",
+        "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+        "timestamp": "2026-05-13T15:15:54.468213",
+        "source": "Hacker News"
     }
 ]
