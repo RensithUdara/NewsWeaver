@@ -253234,5 +253234,11 @@
         "url": "https://gizmodo.com/the-nearly-mile-wide-diamond-mine-that-helped-build-the-1593234924",
         "timestamp": "2026-05-13T15:15:54.467707",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scherlok – zero-config data quality monitoring, works with dbt",
+        "url": "https://github.com/rbmuller/scherlok",
+        "timestamp": "2026-05-13T15:15:54.467740",
+        "source": "Hacker News"
     }
 ]
