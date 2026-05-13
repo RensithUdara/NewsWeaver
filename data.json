@@ -253540,5 +253540,11 @@
         "url": "https://www.athenaindex.com/",
         "timestamp": "2026-05-13T17:24:01.567868",
         "source": "Hacker News"
+    },
+    {
+        "title": "FractalSortCPU: Bandwidth-Efficient Compressed Radix Sort on CPU",
+        "url": "https://arxiv.org/abs/2605.10390",
+        "timestamp": "2026-05-13T17:24:01.567903",
+        "source": "Hacker News"
     }
 ]
