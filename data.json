@@ -252328,5 +252328,11 @@
         "url": "https://www.spacex.com/updates#starship-v3",
         "timestamp": "2026-05-13T04:13:17.952833",
         "source": "Hacker News"
+    },
+    {
+        "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
+        "url": "https://github.com/tracewayapp/traceway",
+        "timestamp": "2026-05-13T04:13:17.952970",
+        "source": "Hacker News"
     }
 ]
