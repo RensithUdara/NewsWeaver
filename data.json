@@ -256420,5 +256420,11 @@
         "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
         "timestamp": "2026-05-14T19:14:46.091467",
         "source": "Hacker News"
+    },
+    {
+        "title": "First public macOS kernel memory corruption exploit on Apple M5",
+        "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+        "timestamp": "2026-05-14T19:14:46.091661",
+        "source": "Hacker News"
     }
 ]
