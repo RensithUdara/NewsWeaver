@@ -254740,5 +254740,11 @@
         "url": "https://github.com/aep-dev/aeps",
         "timestamp": "2026-05-14T04:14:12.838344",
         "source": "Hacker News"
+    },
+    {
+        "title": "Microsoft BitLocker – YellowKey zero-day exploit",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
+        "timestamp": "2026-05-14T04:14:12.838463",
+        "source": "Hacker News"
     }
 ]
