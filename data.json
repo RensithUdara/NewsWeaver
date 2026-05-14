@@ -256228,5 +256228,11 @@
         "url": "https://svg-bench.fenx.work/",
         "timestamp": "2026-05-14T17:22:59.968260",
         "source": "Hacker News"
+    },
+    {
+        "title": "New Nginx Exploit",
+        "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+        "timestamp": "2026-05-14T17:22:59.968297",
+        "source": "Hacker News"
     }
 ]
