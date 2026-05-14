@@ -256624,5 +256624,11 @@
         "url": "https://openspec.vercel.app/",
         "timestamp": "2026-05-14T19:14:46.196988",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to Achieve Truly Serverless GPUs",
+        "url": "https://modal.com/blog/truly-serverless-gpus",
+        "timestamp": "2026-05-14T19:14:46.197017",
+        "source": "Hacker News"
     }
 ]
