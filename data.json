@@ -256042,5 +256042,11 @@
         "url": "https://buzzoff.wtf/",
         "timestamp": "2026-05-14T15:34:03.382829",
         "source": "Hacker News"
+    },
+    {
+        "title": "Contrek: Ruby gem with C++17 library for fast contour tracing, edge detection",
+        "url": "https://github.com/runout77/contrek",
+        "timestamp": "2026-05-14T15:34:03.382862",
+        "source": "Hacker News"
     }
 ]
