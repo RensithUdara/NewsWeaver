@@ -257320,5 +257320,11 @@
         "url": "https://github.com/rust-lang/rust-forge/pull/1040",
         "timestamp": "2026-05-14T23:41:02.325033",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLMs run on top of an OS designed for code, not weights",
+        "url": "https://github.com/matthewworner/spike",
+        "timestamp": "2026-05-14T23:41:02.325062",
+        "source": "Hacker News"
     }
 ]
