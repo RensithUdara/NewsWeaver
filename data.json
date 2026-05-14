@@ -254746,5 +254746,11 @@
         "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
         "timestamp": "2026-05-14T04:14:12.838463",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mystery Microsoft bug leaker keeps the zero-days coming",
+        "url": "https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758",
+        "timestamp": "2026-05-14T04:14:12.838521",
+        "source": "Hacker News"
     }
 ]
