@@ -257380,5 +257380,11 @@
         "url": "https://www.historytoday.com/archive/great-debates/isaac-newton-laputa",
         "timestamp": "2026-05-14T23:41:02.325313",
         "source": "Hacker News"
+    },
+    {
+        "title": "mimalloc: A new, high-performance, scalable memory allocator for the modern era",
+        "url": "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
+        "timestamp": "2026-05-14T23:41:02.325340",
+        "source": "Hacker News"
     }
 ]
