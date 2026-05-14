@@ -255250,5 +255250,11 @@
         "url": "https://www.notboring.co/p/riding-the-leopard",
         "timestamp": "2026-05-14T09:42:42.200161",
         "source": "Hacker News"
+    },
+    {
+        "title": "TypedArray.prototype.map()",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/map",
+        "timestamp": "2026-05-14T09:42:42.200198",
+        "source": "Hacker News"
     }
 ]
