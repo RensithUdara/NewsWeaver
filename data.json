@@ -255448,5 +255448,11 @@
         "url": "https://www.producthunt.com/products/autonomyai",
         "timestamp": "2026-05-14T09:42:42.926067",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Show HN: Running the second public ODoH relay",
+        "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
+        "timestamp": "2026-05-14T11:28:52.386630",
+        "source": "Hacker News"
     }
 ]
