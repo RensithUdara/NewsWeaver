@@ -256726,5 +256726,11 @@
         "url": "https://gist.github.com/chitchcock/1281611",
         "timestamp": "2026-05-14T20:47:01.978379",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+        "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+        "timestamp": "2026-05-14T20:47:01.978434",
+        "source": "Hacker News"
     }
 ]
