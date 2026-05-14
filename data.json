@@ -256318,5 +256318,11 @@
         "url": "https://blog.veritates.love/monoids_in_public.html",
         "timestamp": "2026-05-14T17:22:59.968884",
         "source": "Hacker News"
+    },
+    {
+        "title": "Diffflow, web monitor built with Rust + Svelte + AI",
+        "url": "https://diffflow.com/",
+        "timestamp": "2026-05-14T17:22:59.968918",
+        "source": "Hacker News"
     }
 ]
