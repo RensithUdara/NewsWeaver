@@ -257044,5 +257044,11 @@
         "url": "https://github.com/emrearmagan/atlas.nvim",
         "timestamp": "2026-05-14T21:53:27.606044",
         "source": "Hacker News"
+    },
+    {
+        "title": "Authentication Bypass in Cisco Catalyst SD-WAN Controller",
+        "url": "https://www.rapid7.com/blog/post/ve-cve-2026-20182-critical-authentication-bypass-cisco-catalyst-sd-wan-controller-fixed/",
+        "timestamp": "2026-05-14T21:53:27.606077",
+        "source": "Hacker News"
     }
 ]
