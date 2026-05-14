@@ -256264,5 +256264,11 @@
         "url": "https://apnews.com/article/google-ai-cybersecurity-exploitation-mythos-926aea7f7dc5e0e61adce3273c55c6d4",
         "timestamp": "2026-05-14T17:22:59.968578",
         "source": "Hacker News"
+    },
+    {
+        "title": "I used acoustic physics and Whisper to automate video editing",
+        "url": "https://github.com/DeegoFronk/Auto-Vod-Trimmer",
+        "timestamp": "2026-05-14T17:22:59.968613",
+        "source": "Hacker News"
     }
 ]
