@@ -255970,5 +255970,11 @@
         "url": "https://zenode.ai/posts/What-It-Takes-To-Replace-An-Electronic-Component",
         "timestamp": "2026-05-14T15:34:03.382406",
         "source": "Hacker News"
+    },
+    {
+        "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+        "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
+        "timestamp": "2026-05-14T15:34:03.382442",
+        "source": "Hacker News"
     }
 ]
