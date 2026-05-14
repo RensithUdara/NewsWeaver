@@ -255532,5 +255532,11 @@
         "url": "https://wiley.scienceconnect.io/error?msg=ewogICJpZCIgOiAiOGEwODk4YTctNmRmNC00ZTgyLWJiMTUtMDFkMjMzYzgwODgwIiwKICAidGl0bGUiIDogIkVycm9yIiwKICAibWVzc2FnZSIgOiAiY29tLm5pbWJ1c2RzLm9hdXRoMi5zZGsuUGFyc2VFeGNlcHRpb246IFRoZSBzY29wZSBtdXN0IGluY2x1ZGUgYW4gb3BlbmlkIHZhbHVlIiwKICAiY29kZSIgOiAiR0VORVJBTF9FUlJPUiIKfQ==&errorCode=500-aec",
         "timestamp": "2026-05-14T11:28:52.485765",
         "source": "Hacker News"
+    },
+    {
+        "title": "GNU SASL gsasl 2.2.3 released with a security fix",
+        "url": "https://lists.gnu.org/archive/html/help-gsasl/2026-05/msg00001.html",
+        "timestamp": "2026-05-14T11:28:52.485800",
+        "source": "Hacker News"
     }
 ]
