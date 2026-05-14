@@ -257308,5 +257308,11 @@
         "url": "https://github.com/raindrop-ai/workshop",
         "timestamp": "2026-05-14T23:41:02.324972",
         "source": "Hacker News"
+    },
+    {
+        "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
+        "url": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
+        "timestamp": "2026-05-14T23:41:02.325003",
+        "source": "Hacker News"
     }
 ]
