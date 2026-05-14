@@ -256432,5 +256432,11 @@
         "url": "https://icode4.coffee/?p=1465",
         "timestamp": "2026-05-14T19:14:46.091693",
         "source": "Hacker News"
+    },
+    {
+        "title": "Understanding the Linux Kernel: The Linux Kernel Startup",
+        "url": "https://internals-for-interns.com/posts/linux-kernel-startup/",
+        "timestamp": "2026-05-14T19:14:46.091754",
+        "source": "Hacker News"
     }
 ]
