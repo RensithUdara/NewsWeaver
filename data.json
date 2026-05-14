@@ -255370,5 +255370,11 @@
         "url": "https://www.tedinski.com/2019/03/19/testing-at-the-boundaries.html",
         "timestamp": "2026-05-14T09:42:42.200985",
         "source": "Hacker News"
+    },
+    {
+        "title": "Five months after switching Fluxzy from Electron to Tauri",
+        "url": "https://www.fluxzy.io/resources/blogs/electron-to-tauri-migration-fluxzy-desktop",
+        "timestamp": "2026-05-14T09:42:42.201019",
+        "source": "Hacker News"
     }
 ]
