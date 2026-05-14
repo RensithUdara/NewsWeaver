@@ -254620,5 +254620,11 @@
         "url": "https://thezvi.substack.com/p/childhood-and-education-18-do-the",
         "timestamp": "2026-05-14T00:16:44.031882",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fragnesia: Linux Kernel Local Privilege Escalation via ESP-in-TCP",
+        "url": "https://www.wiz.io/blog/fragnesia-linux-kernel-local-privilege-escalation-via-esp-in-tcp",
+        "timestamp": "2026-05-14T00:16:44.031938",
+        "source": "Hacker News"
     }
 ]
