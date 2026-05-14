@@ -257074,5 +257074,11 @@
         "url": "https://www.scmp.com/tech/tech-trends/article/3353464/chinese-memory-module-makers-ramp-production-cxmt-ddr5-breakthrough-hits-market",
         "timestamp": "2026-05-14T21:53:27.606209",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mado: Fast Markdown linter written in Rust",
+        "url": "https://github.com/akiomik/mado",
+        "timestamp": "2026-05-14T21:53:27.606241",
+        "source": "Hacker News"
     }
 ]
