@@ -257254,5 +257254,11 @@
         "url": "https://www.theregister.com/off-prem/2026/05/14/tencent-admits-gpus-only-pay-for-themselves-when-powering-personalized-ads/5240150",
         "timestamp": "2026-05-14T22:48:45.233877",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zero-day exploit defeats default Windows 11 BitLocker protections",
+        "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+        "timestamp": "2026-05-14T22:48:45.233919",
+        "source": "Hacker News"
     }
 ]
