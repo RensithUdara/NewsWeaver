@@ -256774,5 +256774,11 @@
         "url": "https://news.ycombinator.com/item?id=48140859",
         "timestamp": "2026-05-14T20:47:01.978708",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rally – Full-Stack Web Framework for Gleam on the Beam",
+        "url": "https://github.com/pairshaped/rally-gleam",
+        "timestamp": "2026-05-14T20:47:01.978747",
+        "source": "Hacker News"
     }
 ]
