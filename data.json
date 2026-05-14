@@ -257314,5 +257314,11 @@
         "url": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
         "timestamp": "2026-05-14T23:41:02.325003",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLM Policy for Rust Compiler",
+        "url": "https://github.com/rust-lang/rust-forge/pull/1040",
+        "timestamp": "2026-05-14T23:41:02.325033",
+        "source": "Hacker News"
     }
 ]
