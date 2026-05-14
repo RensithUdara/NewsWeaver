@@ -255820,5 +255820,11 @@
         "url": "https://aimx.email/",
         "timestamp": "2026-05-14T13:14:52.352587",
         "source": "Hacker News"
+    },
+    {
+        "title": "Green Hills Integrity RTOS: IPCOMShell Telnet Format String (CVE-2019-7711)",
+        "url": "https://cxsecurity.com/issue/WLB-2026050002",
+        "timestamp": "2026-05-14T13:14:52.352616",
+        "source": "Hacker News"
     }
 ]
