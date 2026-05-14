@@ -255376,5 +255376,11 @@
         "url": "https://www.fluxzy.io/resources/blogs/electron-to-tauri-migration-fluxzy-desktop",
         "timestamp": "2026-05-14T09:42:42.201019",
         "source": "Hacker News"
+    },
+    {
+        "title": "bfloat16",
+        "url": "https://en.wikipedia.org/wiki/Bfloat16_floating-point_format",
+        "timestamp": "2026-05-14T09:42:42.201087",
+        "source": "Hacker News"
     }
 ]
