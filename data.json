@@ -255850,5 +255850,11 @@
         "url": "https://www.youtube.com/watch?v=Gx2joHxUhgg",
         "timestamp": "2026-05-14T13:14:52.352756",
         "source": "Hacker News"
+    },
+    {
+        "title": "Turn a bare VPS into an operational fortress in 15 minutes and 1 command",
+        "url": "https://github.com/rockballslab/vps-secure",
+        "timestamp": "2026-05-14T13:14:52.352786",
+        "source": "Hacker News"
     }
 ]
