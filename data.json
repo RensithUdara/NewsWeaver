@@ -254656,5 +254656,11 @@
         "url": "https://xkcd.com/3233/",
         "timestamp": "2026-05-14T00:16:44.032157",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Petri – Drop-in Postgres image that forks a DB per test",
+        "url": "https://github.com/taktekhq/petri",
+        "timestamp": "2026-05-14T00:16:44.032225",
+        "source": "Hacker News"
     }
 ]
