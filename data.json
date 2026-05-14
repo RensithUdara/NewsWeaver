@@ -255742,5 +255742,11 @@
         "url": "https://blog.vtemian.com/post/fight-slop-with-clarity/",
         "timestamp": "2026-05-14T13:14:52.352213",
         "source": "Hacker News"
+    },
+    {
+        "title": "Release NetHack 5.0 Atari ST/TT/Falcon (WIP)",
+        "url": "https://github.com/ingpaschke/NetHack/releases/tag/v5.0-atari-wip",
+        "timestamp": "2026-05-14T13:14:52.352243",
+        "source": "Hacker News"
     }
 ]
