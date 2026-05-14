@@ -255604,5 +255604,11 @@
         "url": "https://galileo-unbound.blog/2026/05/13/the-best-physics-of-the-century-so-far/",
         "timestamp": "2026-05-14T11:28:52.486290",
         "source": "Hacker News"
+    },
+    {
+        "title": "A minimal distributed key-value database with HashiCorp's Raft library",
+        "url": "https://notes.eatonphil.com/minimal-key-value-store-with-hashicorp-raft.html",
+        "timestamp": "2026-05-14T11:28:52.486327",
+        "source": "Hacker News"
     }
 ]
