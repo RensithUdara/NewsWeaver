@@ -256924,5 +256924,11 @@
         "url": "https://scrapewithruno.com/",
         "timestamp": "2026-05-14T21:53:27.349556",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude for Legal",
+        "url": "https://github.com/anthropics/claude-for-legal",
+        "timestamp": "2026-05-14T21:53:27.349831",
+        "source": "Hacker News"
     }
 ]
