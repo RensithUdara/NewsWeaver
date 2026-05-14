@@ -257200,5 +257200,11 @@
         "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
         "timestamp": "2026-05-14T22:48:45.233596",
         "source": "Hacker News"
+    },
+    {
+        "title": "We replaced Redis with MySQL for inventory reservations–and it scaled",
+        "url": "https://shopify.engineering/scaling-inventory-reservations",
+        "timestamp": "2026-05-14T22:48:45.233625",
+        "source": "Hacker News"
     }
 ]
