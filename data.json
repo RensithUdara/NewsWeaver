@@ -258694,5 +258694,11 @@
         "url": "https://clawhub.ai/plugins/openclaw-recursant",
         "timestamp": "2026-05-15T14:43:33.444003",
         "source": "Hacker News"
+    },
+    {
+        "title": "From latency to instant: Modernizing GitHub Issues navigation performance",
+        "url": "https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/",
+        "timestamp": "2026-05-15T14:43:33.444038",
+        "source": "Hacker News"
     }
 ]
