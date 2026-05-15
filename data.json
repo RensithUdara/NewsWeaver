@@ -257566,5 +257566,11 @@
         "url": "https://www.ft.com/content/9deae3c6-716d-4f4d-8b09-434d8519f847",
         "timestamp": "2026-05-15T01:31:37.736928",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code Issue that important facts were forgotten when sessions were reseted",
+        "url": "https://github.com/rkceve/Sanma",
+        "timestamp": "2026-05-15T01:31:37.736963",
+        "source": "Hacker News"
     }
 ]
