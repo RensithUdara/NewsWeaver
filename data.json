@@ -258580,5 +258580,11 @@
         "url": "https://douxx.blog/i-like-it-but-i-hate-it-even-more",
         "timestamp": "2026-05-15T14:43:33.443293",
         "source": "Hacker News"
+    },
+    {
+        "title": "QEMUtiny - QEMU escape vulnerability through cxl",
+        "url": "https://github.com/v12-security/pocs/tree/main/qemu",
+        "timestamp": "2026-05-15T14:43:33.443331",
+        "source": "Hacker News"
     }
 ]
