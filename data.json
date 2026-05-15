@@ -259798,5 +259798,11 @@
         "url": "https://www.youtube.com/watch?v=rDQdJP_REIU",
         "timestamp": "2026-05-15T21:41:55.545381",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mustela – A static site generator born from forensic family analysis",
+        "url": "https://mustela.vercel.app/",
+        "timestamp": "2026-05-15T21:41:55.545410",
+        "source": "Hacker News"
     }
 ]
