@@ -259738,5 +259738,11 @@
         "url": "https://aidesigntaste.com/chrome-extension",
         "timestamp": "2026-05-15T21:41:55.545070",
         "source": "Hacker News"
+    },
+    {
+        "title": "Microsoft backpedals: Edge to stop loading passwords into memory",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
+        "timestamp": "2026-05-15T21:41:55.545098",
+        "source": "Hacker News"
     }
 ]
