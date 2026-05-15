@@ -258388,5 +258388,11 @@
         "url": "https://www.thechecklist.app/",
         "timestamp": "2026-05-15T12:25:21.808037",
         "source": "Hacker News"
+    },
+    {
+        "title": "How does Flathub even work? The CDN and caching layer",
+        "url": "https://barthalion.blog/flathub-internals-cdn/",
+        "timestamp": "2026-05-15T12:25:21.808072",
+        "source": "Hacker News"
     }
 ]
