@@ -257734,5 +257734,11 @@
         "url": "https://www.theguardian.com/us-news/2026/may/14/gautam-adani-billionaire-trump",
         "timestamp": "2026-05-15T05:36:41.016270",
         "source": "Hacker News"
+    },
+    {
+        "title": "Logic bug in the Linux kernel's __ptrace_may_access() function (LPE)",
+        "url": "https://www.openwall.com/lists/oss-security/2026/05/15/2",
+        "timestamp": "2026-05-15T05:36:41.016306",
+        "source": "Hacker News"
     }
 ]
