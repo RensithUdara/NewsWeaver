@@ -258430,5 +258430,11 @@
         "url": "https://www.youtube.com/watch?v=l5OZu-IrXpw",
         "timestamp": "2026-05-15T12:25:21.808285",
         "source": "Hacker News"
+    },
+    {
+        "title": "Refactor: Reduce usage of unsafe across Bun Rust codebase ;)",
+        "url": "https://github.com/oven-sh/bun/pull/30759",
+        "timestamp": "2026-05-15T12:25:21.808320",
+        "source": "Hacker News"
     }
 ]
