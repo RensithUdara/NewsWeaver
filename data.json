@@ -259588,5 +259588,11 @@
         "url": "https://beeble.com/en/blog/the-30-hour-shift-that-turned-a-san-jose-robot-lab-into-a-global-spectacle",
         "timestamp": "2026-05-15T20:44:16.440699",
         "source": "Hacker News"
+    },
+    {
+        "title": "AWS user gets $30K Claude bill after cost alert misses it",
+        "url": "https://www.theregister.com/saas/2026/05/14/bedrock-and-a-hard-place-claude-adventure-leaves-aws-user-staring-down-30k-invoice/5238153",
+        "timestamp": "2026-05-15T20:44:16.440757",
+        "source": "Hacker News"
     }
 ]
