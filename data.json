@@ -259672,5 +259672,11 @@
         "url": "https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode",
         "timestamp": "2026-05-15T21:41:55.544737",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scalable GPU Acceleration of Scalar Functions in Analytical Databases [pdf]",
+        "url": "https://www.vldb.org/pvldb/vol19/p1441-rajan.pdf",
+        "timestamp": "2026-05-15T21:41:55.544769",
+        "source": "Hacker News"
     }
 ]
