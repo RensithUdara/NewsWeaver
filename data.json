@@ -258922,5 +258922,11 @@
         "url": "https://fedoramagazine.org/how-fedora-is-responding-to-recent-kernel-vulnerabilities/",
         "timestamp": "2026-05-15T16:27:41.817099",
         "source": "Hacker News"
+    },
+    {
+        "title": "How I'm building a better way to understand and store legacy logs",
+        "url": "https://www.mihirdeshpande.com/posts/logslim",
+        "timestamp": "2026-05-15T16:27:41.817148",
+        "source": "Hacker News"
     }
 ]
