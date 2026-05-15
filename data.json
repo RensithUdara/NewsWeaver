@@ -258832,5 +258832,11 @@
         "url": "https://apps.shopify.com/billoop",
         "timestamp": "2026-05-15T16:27:41.816622",
         "source": "Hacker News"
+    },
+    {
+        "title": "Negation Neglect: When models fail to learn negations in training",
+        "url": "https://arxiv.org/abs/2605.13829",
+        "timestamp": "2026-05-15T16:27:41.816651",
+        "source": "Hacker News"
     }
 ]
