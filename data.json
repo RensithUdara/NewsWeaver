@@ -257740,5 +257740,11 @@
         "url": "https://www.openwall.com/lists/oss-security/2026/05/15/2",
         "timestamp": "2026-05-15T05:36:41.016306",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: How do you catch regressions when you change your AI agent's prompt?",
+        "url": "https://news.ycombinator.com/item?id=48144593",
+        "timestamp": "2026-05-15T05:36:41.016342",
+        "source": "Hacker News"
     }
 ]
