@@ -258592,5 +258592,11 @@
         "url": "https://www.infoblox.com/blog/threat-intelligence/lookalike-domains-expose-the-iphone-theft-economy/",
         "timestamp": "2026-05-15T14:43:33.443368",
         "source": "Hacker News"
+    },
+    {
+        "title": "Centralized Dead-Letter Queue for Easy Troubleshooting of Distributed Systems",
+        "url": "https://carlosblanco.github.io/architecture/backend/2026/05/15/event-driven-architecture-troubleshooting.html",
+        "timestamp": "2026-05-15T14:43:33.443404",
+        "source": "Hacker News"
     }
 ]
