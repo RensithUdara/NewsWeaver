@@ -259186,5 +259186,11 @@
         "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
         "timestamp": "2026-05-15T18:01:36.981360",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Check for CVE-2026-31431 (copy.fail) without overwriting su",
+        "url": "https://github.com/bddap/supertee",
+        "timestamp": "2026-05-15T18:01:36.981388",
+        "source": "Hacker News"
     }
 ]
