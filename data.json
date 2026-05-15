@@ -257524,5 +257524,11 @@
         "url": "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn",
         "timestamp": "2026-05-15T01:31:37.736649",
         "source": "Hacker News"
+    },
+    {
+        "title": "Velonus – Open-source AppSec scanner that deduplicates SAST noise",
+        "url": "https://github.com/AliAmmar15/Velonus",
+        "timestamp": "2026-05-15T01:31:37.736684",
+        "source": "Hacker News"
     }
 ]
