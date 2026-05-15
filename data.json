@@ -259804,5 +259804,11 @@
         "url": "https://mustela.vercel.app/",
         "timestamp": "2026-05-15T21:41:55.545410",
         "source": "Hacker News"
+    },
+    {
+        "title": "The 4th Linux kernel flaw this month can lead to stolen SSH host keys",
+        "url": "https://www.zdnet.com/article/qualys-flags-a-linux-kernel-security-issue-that-could-lead-to-stolen-ssh-keys/",
+        "timestamp": "2026-05-15T21:41:55.545439",
+        "source": "Hacker News"
     }
 ]
