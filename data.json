@@ -259666,5 +259666,11 @@
         "url": "https://sonoeazy.com/",
         "timestamp": "2026-05-15T21:41:55.544692",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Coding Harness Behind GitHub Copilot in VS Code",
+        "url": "https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode",
+        "timestamp": "2026-05-15T21:41:55.544737",
+        "source": "Hacker News"
     }
 ]
