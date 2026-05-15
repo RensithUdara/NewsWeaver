@@ -259090,5 +259090,11 @@
         "url": "https://semantic-domain.blogspot.com/2026/05/bidirectional-typechecking-that-does.html",
         "timestamp": "2026-05-15T18:01:36.980852",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why Gemma-4 26B MoE works in HuggingFace but breaks in prod inference engines",
+        "url": "https://github.com/maeddesg/vulkanforge/blob/main/docs/gemma4_26b_moe_solution.md",
+        "timestamp": "2026-05-15T18:01:36.980882",
+        "source": "Hacker News"
     }
 ]
