@@ -259786,5 +259786,11 @@
         "url": "https://bndigital.co/en-gb/cases/ai-regulatory-monitoring-system",
         "timestamp": "2026-05-15T21:41:55.545322",
         "source": "Hacker News"
+    },
+    {
+        "title": "Block AI coding agents from shipping insecure/expensive Terraform",
+        "url": "https://github.com/ops0-ai/ops0-cli",
+        "timestamp": "2026-05-15T21:41:55.545352",
+        "source": "Hacker News"
     }
 ]
