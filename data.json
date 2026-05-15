@@ -258796,5 +258796,11 @@
         "url": "https://github.com/ninjahawk/teleporty",
         "timestamp": "2026-05-15T16:27:41.816446",
         "source": "Hacker News"
+    },
+    {
+        "title": "A framework for systematically addressing undefined behaviour in C++ Standard [pdf]",
+        "url": "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2026/p3100r6.pdf",
+        "timestamp": "2026-05-15T16:27:41.816478",
+        "source": "Hacker News"
     }
 ]
