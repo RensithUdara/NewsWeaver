@@ -259210,5 +259210,11 @@
         "url": "https://mathlib-initiative.org/roadmap/",
         "timestamp": "2026-05-15T18:01:36.981476",
         "source": "Hacker News"
+    },
+    {
+        "title": "Jank now has its own custom IR",
+        "url": "https://jank-lang.org/blog/2026-05-08-optimization/",
+        "timestamp": "2026-05-15T18:01:36.981505",
+        "source": "Hacker News"
     }
 ]
