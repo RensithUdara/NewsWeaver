@@ -257626,5 +257626,11 @@
         "url": "https://github.com/warwickwood-cell/gengeo-agent-registry",
         "timestamp": "2026-05-15T01:31:37.737344",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mullvad exit IPs are surprisingly identifying",
+        "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+        "timestamp": "2026-05-15T05:36:40.749861",
+        "source": "Hacker News"
     }
 ]
