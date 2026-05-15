@@ -258442,5 +258442,11 @@
         "url": "https://martinalderson.com/posts/managed-agents-are-the-new-lambda/",
         "timestamp": "2026-05-15T12:25:21.808355",
         "source": "Hacker News"
+    },
+    {
+        "title": "Feedback on a runtime-agnostic AI agent workflow spec (LangGraph/Mastra)",
+        "url": "https://github.com/3IVIS/itsharness",
+        "timestamp": "2026-05-15T12:25:21.808390",
+        "source": "Hacker News"
     }
 ]
