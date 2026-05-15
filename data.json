@@ -258412,5 +258412,11 @@
         "url": "https://www.phoronix.com/news/Linux-ssh-keysign-pwn",
         "timestamp": "2026-05-15T12:25:21.808177",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linux 7.1 Supports Newer Logitech BT Keyboards, Malicious Input Sanitization",
+        "url": "https://www.phoronix.com/news/Linux-7.1-rc4-HID",
+        "timestamp": "2026-05-15T12:25:21.808214",
+        "source": "Hacker News"
     }
 ]
