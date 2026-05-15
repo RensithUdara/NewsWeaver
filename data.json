@@ -257518,5 +257518,11 @@
         "url": "https://www.theembeddedrustacean.com/uferris",
         "timestamp": "2026-05-15T01:31:37.736614",
         "source": "Hacker News"
+    },
+    {
+        "title": "New Linux LPE, 5.10 and above (ptrace_may_access mm-NULL + pidfd_getfd)",
+        "url": "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn",
+        "timestamp": "2026-05-15T01:31:37.736649",
+        "source": "Hacker News"
     }
 ]
