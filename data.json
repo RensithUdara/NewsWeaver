@@ -259744,5 +259744,11 @@
         "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
         "timestamp": "2026-05-15T21:41:55.545098",
         "source": "Hacker News"
+    },
+    {
+        "title": "Run Hermes on a VPS without Leaking your API keys [video]",
+        "url": "https://www.youtube.com/watch?v=6dERVjLk0-Q",
+        "timestamp": "2026-05-15T21:41:55.545125",
+        "source": "Hacker News"
     }
 ]
