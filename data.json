@@ -258298,5 +258298,11 @@
         "url": "https://radicle.dev/",
         "timestamp": "2026-05-15T12:25:21.557204",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Bit-exact Elixir port of UltraLogLog (Ertl, VLDB 2024)",
+        "url": "https://github.com/thatsme/ultra_log_log",
+        "timestamp": "2026-05-15T12:25:21.807421",
+        "source": "Hacker News"
     }
 ]
