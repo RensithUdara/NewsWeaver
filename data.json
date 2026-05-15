@@ -259012,5 +259012,11 @@
         "url": "https://css-tricks.com/whats-important-11/",
         "timestamp": "2026-05-15T16:27:43.943292",
         "source": "CSS-Tricks"
+    },
+    {
+        "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+        "url": "https://github.com/gdevic/FPGA-Calculator",
+        "timestamp": "2026-05-15T18:01:36.802725",
+        "source": "Hacker News"
     }
 ]
