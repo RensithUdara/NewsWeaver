@@ -257620,5 +257620,11 @@
         "url": "https://skyrane.com/",
         "timestamp": "2026-05-15T01:31:37.737306",
         "source": "Hacker News"
+    },
+    {
+        "title": "We built a machine-readable merchant verification layer for AI shopping agents",
+        "url": "https://github.com/warwickwood-cell/gengeo-agent-registry",
+        "timestamp": "2026-05-15T01:31:37.737344",
+        "source": "Hacker News"
     }
 ]
