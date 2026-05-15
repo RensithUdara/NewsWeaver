@@ -258898,5 +258898,11 @@
         "url": "https://jpain.io/i-love-linux-but-i-cant-quit-windows/",
         "timestamp": "2026-05-15T16:27:41.816957",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why do Windows editions on 32-bit x86 systems artificially limit RAM to 4 GB?",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316",
+        "timestamp": "2026-05-15T16:27:41.816985",
+        "source": "Hacker News"
     }
 ]
