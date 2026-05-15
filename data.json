@@ -259228,5 +259228,11 @@
         "url": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
         "timestamp": "2026-05-15T18:01:37.449927",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+        "url": "https://github.com/oven-sh/bun/issues/30719",
+        "timestamp": "2026-05-15T19:50:02.008153",
+        "source": "Hacker News"
     }
 ]
