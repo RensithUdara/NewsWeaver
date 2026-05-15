@@ -258688,5 +258688,11 @@
         "url": "https://news.ycombinator.com/item?id=48148868",
         "timestamp": "2026-05-15T14:43:33.443968",
         "source": "Hacker News"
+    },
+    {
+        "title": "Recursant, the open source AI control plane, now supports OpenClaw",
+        "url": "https://clawhub.ai/plugins/openclaw-recursant",
+        "timestamp": "2026-05-15T14:43:33.444003",
+        "source": "Hacker News"
     }
 ]
