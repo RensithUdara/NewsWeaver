@@ -258934,5 +258934,11 @@
         "url": "https://ghuntley.com/redlining/",
         "timestamp": "2026-05-15T16:27:41.817184",
         "source": "Hacker News"
+    },
+    {
+        "title": "Narwhal 0.7 – Rust message broker on io_uring, now with FIFO channels",
+        "url": "https://github.com/ortuman/narwhal/releases/tag/narwhal-0.7.0",
+        "timestamp": "2026-05-15T16:27:41.817214",
+        "source": "Hacker News"
     }
 ]
