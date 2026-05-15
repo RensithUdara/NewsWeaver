@@ -257548,5 +257548,11 @@
         "url": "https://locality-domains.pages.dev/",
         "timestamp": "2026-05-15T01:31:37.736788",
         "source": "Hacker News"
+    },
+    {
+        "title": "15% of AI agent skill files carry hardcoded credentials with DB write access",
+        "url": "https://securityboulevard.com/2026/05/capsule-security-analysis-details-scope-of-vulnerable-ai-agent-attack-surface/",
+        "timestamp": "2026-05-15T01:31:37.736824",
+        "source": "Hacker News"
     }
 ]
