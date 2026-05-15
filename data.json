@@ -259936,5 +259936,11 @@
         "url": "https://n8z.dev/posts/keys-and-values-are-all-you-need/",
         "timestamp": "2026-05-15T22:38:24.416719",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-46333 (SSH-keygen-pwn)",
+        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-46333",
+        "timestamp": "2026-05-15T22:38:24.416747",
+        "source": "Hacker News"
     }
 ]
