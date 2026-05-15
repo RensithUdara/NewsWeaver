@@ -258202,5 +258202,11 @@
         "url": "https://github.com/JinBa1/my-time-has-come",
         "timestamp": "2026-05-15T10:42:13.132158",
         "source": "Hacker News"
+    },
+    {
+        "title": "Node 26.1.0 – experimental node:FFI module",
+        "url": "https://nodejs.org/en/blog/release/v26.1.0",
+        "timestamp": "2026-05-15T10:42:13.132215",
+        "source": "Hacker News"
     }
 ]
