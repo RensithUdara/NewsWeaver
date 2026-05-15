@@ -257806,5 +257806,11 @@
         "url": "https://www.privacyguides.org/en/basics/vpn-overview/",
         "timestamp": "2026-05-15T05:36:41.016838",
         "source": "Hacker News"
+    },
+    {
+        "title": "Secrets at Rest: SOPS and Age for Docker Compose Homelabs",
+        "url": "https://pikemd.com/blog/sops-age-docker-compose/",
+        "timestamp": "2026-05-15T05:36:41.016874",
+        "source": "Hacker News"
     }
 ]
