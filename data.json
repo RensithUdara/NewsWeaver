@@ -258406,5 +258406,11 @@
         "url": "https://www.oranlooney.com/post/monty-hall/",
         "timestamp": "2026-05-15T12:25:21.808142",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linux's Latest Vulnerability Allows Reading Root-Owned Files by Unpriv Users",
+        "url": "https://www.phoronix.com/news/Linux-ssh-keysign-pwn",
+        "timestamp": "2026-05-15T12:25:21.808177",
+        "source": "Hacker News"
     }
 ]
