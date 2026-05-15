@@ -257896,5 +257896,11 @@
         "url": "https://news.ycombinator.com/item?id=48145506",
         "timestamp": "2026-05-15T08:23:43.962519",
         "source": "Hacker News"
+    },
+    {
+        "title": "Slopsmith: A Self-Hosted Rocksmith Alternative That Runs in Docker",
+        "url": "https://github.com/byrongamatos/slopsmith",
+        "timestamp": "2026-05-15T08:23:43.962547",
+        "source": "Hacker News"
     }
 ]
