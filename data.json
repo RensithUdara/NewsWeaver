@@ -259906,5 +259906,11 @@
         "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
         "timestamp": "2026-05-15T22:38:24.416574",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A seed prompt that bootstraps a custom knowledge-base system",
+        "url": "https://github.com/dah/llm-seedlab",
+        "timestamp": "2026-05-15T22:38:24.416603",
+        "source": "Hacker News"
     }
 ]
