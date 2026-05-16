@@ -262240,5 +262240,11 @@
         "url": "https://tellmetruth.live/",
         "timestamp": "2026-05-16T17:36:09.958367",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rcall – recursive text search in file names and content, written in Nim",
+        "url": "https://github.com/isuzano/rcall",
+        "timestamp": "2026-05-16T17:36:09.958401",
+        "source": "Hacker News"
     }
 ]
