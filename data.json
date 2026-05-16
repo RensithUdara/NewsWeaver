@@ -261646,5 +261646,11 @@
         "url": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
         "timestamp": "2026-05-16T14:47:43.199363",
         "source": "Hacker News"
+    },
+    {
+        "title": "Virtual memory explained as a dialogue between a process and the Linux kernel",
+        "url": "https://blog.codingconfessions.com/p/virtual-memory",
+        "timestamp": "2026-05-16T14:47:43.199399",
+        "source": "Hacker News"
     }
 ]
