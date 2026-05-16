@@ -260614,5 +260614,11 @@
         "url": "https://www.edna.land/blogs/posts/scanning/",
         "timestamp": "2026-05-16T07:05:40.617881",
         "source": "Hacker News"
+    },
+    {
+        "title": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
+        "url": "https://github.com/chiennv2000/orthrus",
+        "timestamp": "2026-05-16T07:05:40.618088",
+        "source": "Hacker News"
     }
 ]
