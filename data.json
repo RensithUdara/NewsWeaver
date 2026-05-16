@@ -263206,5 +263206,11 @@
         "url": "https://fingolas.eu/MyTech/",
         "timestamp": "2026-05-16T23:09:37.100994",
         "source": "Hacker News"
+    },
+    {
+        "title": "A checkbox to enable the Django debug toolbar",
+        "url": "https://mdk.fr/blog/django-debug-toolbar-checkbox.html",
+        "timestamp": "2026-05-16T23:09:37.101028",
+        "source": "Hacker News"
     }
 ]
