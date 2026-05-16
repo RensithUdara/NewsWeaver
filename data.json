@@ -262954,5 +262954,11 @@
         "url": "https://github.com/ngafar/nbpipe",
         "timestamp": "2026-05-16T21:28:42.623961",
         "source": "Hacker News"
+    },
+    {
+        "title": "Analysis of changes in the Bun codebase after the rewrite from Zig to Rust",
+        "url": "https://kant2002.github.io/en/llm/2026/05/16/bun-pr-analysis-en.html",
+        "timestamp": "2026-05-16T21:28:42.623995",
+        "source": "Hacker News"
     }
 ]
