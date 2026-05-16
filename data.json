@@ -260566,5 +260566,11 @@
         "url": "https://github.com/dstndstn/astrometry.net",
         "timestamp": "2026-05-16T04:41:41.418245",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-40369 – Windows Kernel Elevation of Privilege Vulnerability",
+        "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40369",
+        "timestamp": "2026-05-16T04:41:41.418280",
+        "source": "Hacker News"
     }
 ]
