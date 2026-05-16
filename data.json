@@ -262156,5 +262156,11 @@
         "url": "https://aranya.tech/blog/arrival-of-the-personal-cluster",
         "timestamp": "2026-05-16T17:36:09.708687",
         "source": "Hacker News"
+    },
+    {
+        "title": "Wrapping a C Library in RAII",
+        "url": "https://lmilz.dev/blog/2026/05/15/Wrapping-a-C-library-in-RAII-unique_ptr-with-custom-deleters-and-why-Subsystem-canot-be-moveable.html",
+        "timestamp": "2026-05-16T17:36:09.957861",
+        "source": "Hacker News"
     }
 ]
