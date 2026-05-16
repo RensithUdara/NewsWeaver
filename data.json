@@ -261562,5 +261562,11 @@
         "url": "https://nxdomain.no/~peter/time_for_opensmtpd.html",
         "timestamp": "2026-05-16T13:55:29.805991",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Hodor – A tiny reverse proxy that gates any web app behind a password",
+        "url": "https://github.com/michidk/hodor",
+        "timestamp": "2026-05-16T13:55:29.806024",
+        "source": "Hacker News"
     }
 ]
