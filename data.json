@@ -261052,5 +261052,11 @@
         "url": "https://www.tomshardware.com/tech-industry/samsung-starts-winding-down-chip-producton-six-days-before-planned-18-day-strike",
         "timestamp": "2026-05-16T10:09:58.268238",
         "source": "Hacker News"
+    },
+    {
+        "title": "Daino: Daino is a static site generator (SSG) using shake and pandoc",
+        "url": "https://hackage.haskell.org/package/daino",
+        "timestamp": "2026-05-16T10:09:58.268271",
+        "source": "Hacker News"
     }
 ]
