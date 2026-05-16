@@ -261418,5 +261418,11 @@
         "url": "https://exploiting.systems/posts/2026-05-15-the-changing-landscape-of-ctf-based-learning",
         "timestamp": "2026-05-16T13:55:29.805100",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A Claude Skill to render resume templates. CV/Resumes are HTML and JSON",
+        "url": "https://github.com/farhan0167/cv-claw",
+        "timestamp": "2026-05-16T13:55:29.805150",
+        "source": "Hacker News"
     }
 ]
