@@ -263014,5 +263014,11 @@
         "url": "https://www.tomshardware.com/tech-industry/cyber-security/apple-m5-architecture-suffers-first-privilege-escalation-exploit-anthropics-claude-mythos-helps-researchers-bypass-memory-integrity-enforcement",
         "timestamp": "2026-05-16T22:10:43.079630",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenAI caught NPM supply chain chaos after employeedevices compromised",
+        "url": "https://www.theregister.com/security/2026/05/15/openai-caught-in-tanstack-npm-supply-chain-chaos-after-employee-devices-compromised/5241019",
+        "timestamp": "2026-05-16T22:10:43.079678",
+        "source": "Hacker News"
     }
 ]
