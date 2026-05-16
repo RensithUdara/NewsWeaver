@@ -260446,5 +260446,11 @@
         "url": "https://news.ycombinator.com/item?id=48156855",
         "timestamp": "2026-05-16T04:41:41.417479",
         "source": "Hacker News"
+    },
+    {
+        "title": "SymPy – a Python library for symbolic mathematics",
+        "url": "https://docs.sympy.org/latest/tutorials/intro-tutorial/intro.html",
+        "timestamp": "2026-05-16T04:41:41.417518",
+        "source": "Hacker News"
     }
 ]
