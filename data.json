@@ -261604,5 +261604,11 @@
         "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
         "timestamp": "2026-05-16T14:47:42.940786",
         "source": "Hacker News"
+    },
+    {
+        "title": "After 8 years, I rewrote my open-source PyTorch curvature library",
+        "url": "https://github.com/noahgolmant/pytorch-hessian-eigenthings",
+        "timestamp": "2026-05-16T14:47:42.941122",
+        "source": "Hacker News"
     }
 ]
