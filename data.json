@@ -263104,5 +263104,11 @@
         "url": "https://www.buildbuddy.io/blog/content-defined-chunking/",
         "timestamp": "2026-05-16T23:09:36.597502",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ane: CLI editor that uses LSPs to let agents explore/edit code with fewer tokens",
+        "url": "https://github.com/prettysmartdev/ane",
+        "timestamp": "2026-05-16T23:09:37.100345",
+        "source": "Hacker News"
     }
 ]
