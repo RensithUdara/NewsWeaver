@@ -263248,5 +263248,11 @@
         "url": "https://www.blocksandfiles.com/flash/2026/05/15/scality-says-samsung-is-developing-nearline-ssds-up-to-1-pb/5241031",
         "timestamp": "2026-05-16T23:09:37.101336",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open WebUI: Jupyter code execution works despite ENABLE_CODE_EXECUTION=false",
+        "url": "https://github.com/open-webui/open-webui/security/advisories/GHSA-482j-2pq6-q5w4",
+        "timestamp": "2026-05-16T23:09:37.101371",
+        "source": "Hacker News"
     }
 ]
