@@ -262744,5 +262744,11 @@
         "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42897",
         "timestamp": "2026-05-16T20:30:34.613366",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pretext-breaker – a configurable block-breaker easter egg for React apps",
+        "url": "https://github.com/y-lakhdar/pretext-breaker",
+        "timestamp": "2026-05-16T20:30:34.613401",
+        "source": "Hacker News"
     }
 ]
