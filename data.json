@@ -261040,5 +261040,11 @@
         "url": "https://www.bbc.com/future/article/20240709-the-sperm-whale-phonetic-alphabet-revealed-by-ai",
         "timestamp": "2026-05-16T10:09:58.268170",
         "source": "Hacker News"
+    },
+    {
+        "title": "iOS-linuxkit: Optimized ish-ARM64 fork to provide a Linux userland to iOS apps",
+        "url": "https://github.com/rcarmo/ios-linuxkit",
+        "timestamp": "2026-05-16T10:09:58.268204",
+        "source": "Hacker News"
     }
 ]
