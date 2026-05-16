@@ -263218,5 +263218,11 @@
         "url": "https://www.youtube.com/watch?v=8J-GUnfSqeE",
         "timestamp": "2026-05-16T23:09:37.101131",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zerostack – Tiny Rust Coding Agent in 8MB of RAM",
+        "url": "https://github.com/gi-dellav/zerostack/tree/main",
+        "timestamp": "2026-05-16T23:09:37.101166",
+        "source": "Hacker News"
     }
 ]
