@@ -262738,5 +262738,11 @@
         "url": "https://finterm.xyz/blog/nextjs-on-cloudflare-workers",
         "timestamp": "2026-05-16T20:30:34.613330",
         "source": "Hacker News"
+    },
+    {
+        "title": "Microsoft Exchange Server Spoofing Vulnerability New",
+        "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42897",
+        "timestamp": "2026-05-16T20:30:34.613366",
+        "source": "Hacker News"
     }
 ]
