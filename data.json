@@ -262966,5 +262966,11 @@
         "url": "https://db.gcve.eu/vuln/cve-2026-7412",
         "timestamp": "2026-05-16T21:28:42.624029",
         "source": "Hacker News"
+    },
+    {
+        "title": "Vulnerability Cve-2026-7411",
+        "url": "https://db.gcve.eu/vuln/cve-2026-7411",
+        "timestamp": "2026-05-16T21:28:42.624064",
+        "source": "Hacker News"
     }
 ]
