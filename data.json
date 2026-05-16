@@ -261328,5 +261328,11 @@
         "url": "https://cacm.acm.org/news/chatbots-downward-spiral/",
         "timestamp": "2026-05-16T12:07:42.038898",
         "source": "Hacker News"
+    },
+    {
+        "title": "TokenBBQ – track AI coding token usage across Claude, Codex, Gemini",
+        "url": "https://github.com/offbyone1/tokenbbq",
+        "timestamp": "2026-05-16T12:07:42.038967",
+        "source": "Hacker News"
     }
 ]
