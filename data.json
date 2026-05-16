@@ -262630,5 +262630,11 @@
         "url": "https://fil-c.org/calling_convention",
         "timestamp": "2026-05-16T19:42:51.073540",
         "source": "Hacker News"
+    },
+    {
+        "title": "LocalVibe – Pure-Rust local AI stack with MCP, in one binary (Apple Silicon)",
+        "url": "https://github.com/Sok205/local_vibe",
+        "timestamp": "2026-05-16T19:42:51.073568",
+        "source": "Hacker News"
     }
 ]
