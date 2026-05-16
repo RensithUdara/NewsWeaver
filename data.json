@@ -260830,5 +260830,11 @@
         "url": "https://www.youtube.com/watch?v=GZuZgCDql6g",
         "timestamp": "2026-05-16T08:56:32.087556",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: AI/ML benchmark for local LLM inference and XGBoost training on GPU/CPU",
+        "url": "https://github.com/albedan/ai-ml-gpu-bench",
+        "timestamp": "2026-05-16T08:56:32.087609",
+        "source": "Hacker News"
     }
 ]
