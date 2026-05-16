@@ -263080,5 +263080,11 @@
         "url": "https://www.reuters.com/world/asia-pacific/dutch-government-objects-proposed-us-law-restricting-asmls-china-exports-2026-05-14/",
         "timestamp": "2026-05-16T22:10:43.080026",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+        "url": "https://crates.io/crates/zerostack/1.0.0",
+        "timestamp": "2026-05-16T23:09:36.597171",
+        "source": "Hacker News"
     }
 ]
