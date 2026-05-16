@@ -261730,5 +261730,11 @@
         "url": "https://ascii-tweezers.bearblog.dev/my-mom-taught-me-html-and-the-rest-was-history/",
         "timestamp": "2026-05-16T14:47:43.199878",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A chess.com profiler that runs Stockfish in the browser",
+        "url": "https://the-law-1.github.io/chess-insights/",
+        "timestamp": "2026-05-16T14:47:43.199912",
+        "source": "Hacker News"
     }
 ]
