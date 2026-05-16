@@ -260986,5 +260986,11 @@
         "url": "https://bearbin.net/blog/2026/c200-webcam-security-theatre",
         "timestamp": "2026-05-16T10:09:58.267786",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Single Neuron Is Sufficient to Bypass Safety Alignment in LLMs",
+        "url": "https://arxiv.org/abs/2605.08513",
+        "timestamp": "2026-05-16T10:09:58.267840",
+        "source": "Hacker News"
     }
 ]
