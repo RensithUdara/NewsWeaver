@@ -260398,5 +260398,11 @@
         "url": "https://turso.tech/blog/turso-now-includes-unlimited-databases-for-everybody",
         "timestamp": "2026-05-16T01:19:12.437441",
         "source": "Hacker News"
+    },
+    {
+        "title": "LiteLLM Agent Platform: Run Claude Code/Codex On-Prem Sandboxes and Vaults",
+        "url": "https://github.com/BerriAI/litellm-agent-platform",
+        "timestamp": "2026-05-16T01:19:12.437471",
+        "source": "Hacker News"
     }
 ]
