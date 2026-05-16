@@ -261808,5 +261808,11 @@
         "url": "https://www.history.com/articles/what-were-ancient-roman-curse-tablets",
         "timestamp": "2026-05-16T15:42:29.453481",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fastconstmap: Fast, immutable, compact map from strings to int64 for Python",
+        "url": "https://github.com/lemire/fastconstmap",
+        "timestamp": "2026-05-16T15:42:29.590307",
+        "source": "Hacker News"
     }
 ]
