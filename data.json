@@ -261622,5 +261622,11 @@
         "url": "https://www.int-res.com/abstracts/meps/v580/p1-16",
         "timestamp": "2026-05-16T14:47:43.199176",
         "source": "Hacker News"
+    },
+    {
+        "title": "Someone forked my repo, then submitted a PR written by Claude",
+        "url": "https://github.com/dacracot/Klondike3-Simulator/pull/53",
+        "timestamp": "2026-05-16T14:47:43.199214",
+        "source": "Hacker News"
     }
 ]
