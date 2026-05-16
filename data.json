@@ -260236,5 +260236,11 @@
         "url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Editor_Retention",
         "timestamp": "2026-05-16T01:19:12.436661",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Compression Tool for LLM Reads. Est. 60-95% Fewer Tokens",
+        "url": "https://github.com/chopratejas/headroom",
+        "timestamp": "2026-05-16T01:19:12.436700",
+        "source": "Hacker News"
     }
 ]
