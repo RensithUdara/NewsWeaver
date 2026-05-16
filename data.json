@@ -261202,5 +261202,11 @@
         "url": "https://www.lesswrong.com/posts/dWQnLi7AoKo3paBXF/the-iliad-intensive-course-materials",
         "timestamp": "2026-05-16T11:16:21.422821",
         "source": "Hacker News"
+    },
+    {
+        "title": "Malicious node-IPC versions published to NPM",
+        "url": "https://www.stepsecurity.io/blog/node-ipc-npm-supply-chain-attack",
+        "timestamp": "2026-05-16T11:16:21.422850",
+        "source": "Hacker News"
     }
 ]
