@@ -261568,5 +261568,11 @@
         "url": "https://github.com/michidk/hodor",
         "timestamp": "2026-05-16T13:55:29.806024",
         "source": "Hacker News"
+    },
+    {
+        "title": "RestoreProof – CLI that restores your Postgres backup and verifies it worked",
+        "url": "https://news.ycombinator.com/item?id=48159930",
+        "timestamp": "2026-05-16T13:55:29.806059",
+        "source": "Hacker News"
     }
 ]
