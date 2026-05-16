@@ -261760,5 +261760,11 @@
         "url": "https://bskyrad.io/",
         "timestamp": "2026-05-16T14:47:43.200051",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ruby-charts: Generate pie, bar, and line charts from data files",
+        "url": "https://github.com/ggerman/ruby-charts",
+        "timestamp": "2026-05-16T14:47:43.200086",
+        "source": "Hacker News"
     }
 ]
