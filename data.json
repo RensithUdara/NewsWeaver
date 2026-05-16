@@ -261016,5 +261016,11 @@
         "url": "https://futhark-lang.org/examples.html",
         "timestamp": "2026-05-16T10:09:58.267999",
         "source": "Hacker News"
+    },
+    {
+        "title": "Performance in BQN versus C",
+        "url": "https://mlochbaum.github.io/BQN/implementation/versusc.html",
+        "timestamp": "2026-05-16T10:09:58.268035",
+        "source": "Hacker News"
     }
 ]
