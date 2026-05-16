@@ -262732,5 +262732,11 @@
         "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
         "timestamp": "2026-05-16T20:30:34.613294",
         "source": "Hacker News"
+    },
+    {
+        "title": "What breaks when you ship Next.js on Cloudflare Workers",
+        "url": "https://finterm.xyz/blog/nextjs-on-cloudflare-workers",
+        "timestamp": "2026-05-16T20:30:34.613330",
+        "source": "Hacker News"
     }
 ]
