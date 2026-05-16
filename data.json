@@ -263050,5 +263050,11 @@
         "url": "https://www.thepsmiths.com/p/review-50-years-of-text-games-by",
         "timestamp": "2026-05-16T22:10:43.079859",
         "source": "Hacker News"
+    },
+    {
+        "title": "Understanding Singleflight in Go",
+        "url": "https://www.codingexplorations.com/blog/understanding-singleflight-in-golang-a-solution-for-eliminating-redundant-work",
+        "timestamp": "2026-05-16T22:10:43.079887",
+        "source": "Hacker News"
     }
 ]
