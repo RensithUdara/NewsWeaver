@@ -261640,5 +261640,11 @@
         "url": "https://janestreet.gg/",
         "timestamp": "2026-05-16T14:47:43.199329",
         "source": "Hacker News"
+    },
+    {
+        "title": "Popular node-IPC NPM package compromised to steal credentials",
+        "url": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
+        "timestamp": "2026-05-16T14:47:43.199363",
+        "source": "Hacker News"
     }
 ]
