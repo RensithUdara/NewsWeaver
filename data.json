@@ -263740,5 +263740,11 @@
         "url": "https://blog.lambdaclass.com/additive-fft-background/",
         "timestamp": "2026-05-17T07:14:55.736907",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Streaming Latency Tradeoff: Why Some TTS Models Lose Accuracy in Real Time",
+        "url": "https://deepgram.com/learn/streaming-tts-latency-accuracy-tradeoff",
+        "timestamp": "2026-05-17T07:14:55.736937",
+        "source": "Hacker News"
     }
 ]
