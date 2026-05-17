@@ -264238,5 +264238,11 @@
         "url": "https://aidaide.app/vs/putty",
         "timestamp": "2026-05-17T11:42:19.923319",
         "source": "Hacker News"
+    },
+    {
+        "title": "SlothDB is an OLAP DB ahead of DuckDB on Clickbench SQL database in C++20",
+        "url": "https://news.ycombinator.com/item?id=48167752",
+        "timestamp": "2026-05-17T11:42:19.923361",
+        "source": "Hacker News"
     }
 ]
