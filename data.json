@@ -263974,5 +263974,11 @@
         "url": "https://www.euronews.com/business/2026/05/16/nvidia-surpasses-germany-how-the-market-caps-of-tech-giants-compare-to-top-economies",
         "timestamp": "2026-05-17T10:40:10.689957",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why our AI agent needed a causal graph, not just a RAG database",
+        "url": "https://openyf.dev/blogs/world-model",
+        "timestamp": "2026-05-17T10:40:10.690017",
+        "source": "Hacker News"
     }
 ]
