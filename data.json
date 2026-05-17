@@ -264532,5 +264532,11 @@
         "url": "https://www.thebrighterside.news/post/the-strange-reason-nearly-all-humans-are-right-handed/",
         "timestamp": "2026-05-17T14:12:06.269692",
         "source": "Hacker News"
+    },
+    {
+        "title": "GPU sidecar routed my ASIC proxy in under 10 seconds",
+        "url": "https://github.com/AcculuxSystems/openroad-gpu-sidecar",
+        "timestamp": "2026-05-17T14:12:06.269721",
+        "source": "Hacker News"
     }
 ]
