@@ -263986,5 +263986,11 @@
         "url": "https://github.com/biandratti/huginn-net",
         "timestamp": "2026-05-17T10:40:10.690046",
         "source": "Hacker News"
+    },
+    {
+        "title": "PE packer with randomized VM ISA per output file (C++)",
+        "url": "https://github.com/iamsopotatoe-coder/TinyLoad",
+        "timestamp": "2026-05-17T10:40:10.690074",
+        "source": "Hacker News"
     }
 ]
