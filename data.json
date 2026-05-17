@@ -264616,5 +264616,11 @@
         "url": "https://www.airships.net/hindenburg-smoking-room/",
         "timestamp": "2026-05-17T15:17:59.723233",
         "source": "Hacker News"
+    },
+    {
+        "title": "CUDA Books",
+        "url": "https://github.com/alternbits/awesome-cuda-books",
+        "timestamp": "2026-05-17T15:17:59.723378",
+        "source": "Hacker News"
     }
 ]
