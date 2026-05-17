@@ -264574,5 +264574,11 @@
         "url": "https://www.cnn.com/interactive/2026/05/us/minneapolis-annunciation-school-shooting-recovery/",
         "timestamp": "2026-05-17T14:12:06.269895",
         "source": "Hacker News"
+    },
+    {
+        "title": "Snowflake with Iceberg: Lakekeeper, Dbt, and Some Sparks Flying",
+        "url": "https://medium.com/fresha-data-engineering/snowflake-with-iceberg-lakekeeper-dbt-and-some-sparks-flying-a6231fcb35a7",
+        "timestamp": "2026-05-17T14:12:06.269925",
+        "source": "Hacker News"
     }
 ]
