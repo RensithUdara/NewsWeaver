@@ -265732,5 +265732,11 @@
         "url": "https://oravys.com/blog/hollywood-voice-gap",
         "timestamp": "2026-05-17T21:26:04.929063",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a real-time ASL interpreter for the Gemma4 challenge, no cloud needed",
+        "url": "https://dev.to/cbms26/i-built-a-real-time-asl-interpreter-for-the-gemma4-challenge-no-cloud-needed-5gdj",
+        "timestamp": "2026-05-17T21:26:05.144080",
+        "source": "Dev.to"
     }
 ]
