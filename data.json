@@ -265492,5 +265492,11 @@
         "url": "https://lwn.net/ml/all/CAEoi9W7rpLzdJzYJ3-F0KVJo-wQXa7UawUYtUoUUYy36m5e_3Q@mail.gmail.com/",
         "timestamp": "2026-05-17T20:28:00.829570",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kubernetes memory requests don't do what you think (until you enable MemoryQoS)",
+        "url": "https://roszigit.com/en/blog/kubernetes-memory-request-limit",
+        "timestamp": "2026-05-17T20:28:00.829598",
+        "source": "Hacker News"
     }
 ]
