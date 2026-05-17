@@ -264832,5 +264832,11 @@
         "url": "https://github.com/stevef1uk/freeride",
         "timestamp": "2026-05-17T16:14:35.474638",
         "source": "Hacker News"
+    },
+    {
+        "title": "JSON logging isn't enough anymore: A deep dive into OTel Logs",
+        "url": "https://www.dash0.com/knowledge/opentelemetry-logging-explained",
+        "timestamp": "2026-05-17T16:14:35.474674",
+        "source": "Hacker News"
     }
 ]
