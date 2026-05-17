@@ -265456,5 +265456,11 @@
         "url": "https://github.com/melbahja/draft-pqurp/blob/main/spec.md",
         "timestamp": "2026-05-17T20:28:00.829398",
         "source": "Hacker News"
+    },
+    {
+        "title": "Autoregressive next token prediction and KV Cache in transformers",
+        "url": "https://medium.com/advanced-deep-learning/autoregressive-next-token-prediction-kv-cache-in-transformers-afad22285baf",
+        "timestamp": "2026-05-17T20:28:00.829427",
+        "source": "Hacker News"
     }
 ]
