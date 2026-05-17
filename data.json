@@ -264658,5 +264658,11 @@
         "url": "https://thirdpass.dev/",
         "timestamp": "2026-05-17T15:17:59.824382",
         "source": "Hacker News"
+    },
+    {
+        "title": "RapidFire Lite – Zero-dependency API load tester in pure Python",
+        "url": "https://github.com/arjuninfotechinc/rapidfire-lite",
+        "timestamp": "2026-05-17T15:17:59.824418",
+        "source": "Hacker News"
     }
 ]
