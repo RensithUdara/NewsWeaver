@@ -264730,5 +264730,11 @@
         "url": "https://xslang.org",
         "timestamp": "2026-05-17T15:17:59.824888",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Freelang – a direct-to-assembly syscall lang with rad concurrency",
+        "url": "https://freelang.dev",
+        "timestamp": "2026-05-17T15:17:59.824921",
+        "source": "Hacker News"
     }
 ]
