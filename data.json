@@ -265810,5 +265810,11 @@
         "url": "https://www.nytimes.com/2026/05/17/obituaries/peter-g-neumann-dead.html",
         "timestamp": "2026-05-17T22:11:58.218628",
         "source": "Hacker News"
+    },
+    {
+        "title": "Killing a `Cow` made my JSON formatter 42% faster",
+        "url": "https://jacobasper.com/blog/killing-a-cow-made-my-json-formatter-42-percent-faster/",
+        "timestamp": "2026-05-17T22:11:58.218658",
+        "source": "Hacker News"
     }
 ]
