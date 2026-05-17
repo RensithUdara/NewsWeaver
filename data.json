@@ -263512,5 +263512,11 @@
         "url": "https://github.com/MaigoLabs/refray",
         "timestamp": "2026-05-17T04:15:24.855663",
         "source": "Hacker News"
+    },
+    {
+        "title": "Recent Developments in LLM Architectures: KV Sharing, MHC, Compressed Attention",
+        "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+        "timestamp": "2026-05-17T04:15:24.855690",
+        "source": "Hacker News"
     }
 ]
