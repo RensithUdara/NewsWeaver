@@ -264340,5 +264340,11 @@
         "url": "https://workclarity.co",
         "timestamp": "2026-05-17T12:41:06.470948",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: CLI for image/video to ASCII art",
+        "url": "https://github.com/k-wong/ascii-art-generator",
+        "timestamp": "2026-05-17T12:41:06.470976",
+        "source": "Hacker News"
     }
 ]
