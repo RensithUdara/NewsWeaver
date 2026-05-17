@@ -264406,5 +264406,11 @@
         "url": "https://snatchguard.app",
         "timestamp": "2026-05-17T12:41:06.471368",
         "source": "Hacker News"
+    },
+    {
+        "title": "One IP, Six Crawler Identities, One Second (Detection via Nginx Logs)",
+        "url": "https://speytech.com/insights/rotational-bot-identity-detection/",
+        "timestamp": "2026-05-17T12:41:06.471396",
+        "source": "Hacker News"
     }
 ]
