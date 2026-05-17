@@ -264472,5 +264472,11 @@
         "url": "https://news.ycombinator.com/item?id=48169029",
         "timestamp": "2026-05-17T14:12:06.269335",
         "source": "Hacker News"
+    },
+    {
+        "title": "Llama.cpp b9180: MTP support landed",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9180",
+        "timestamp": "2026-05-17T14:12:06.269368",
+        "source": "Hacker News"
     }
 ]
