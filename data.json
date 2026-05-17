@@ -263542,5 +263542,11 @@
         "url": "https://lalinsky.com/2026/05/11/async-io-in-zig-016-today.html",
         "timestamp": "2026-05-17T04:15:24.855801",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reasons to Use Std:SIMD",
+        "url": "https://github.com/NoNaeAbC/std_simd",
+        "timestamp": "2026-05-17T04:15:24.855829",
+        "source": "Hacker News"
     }
 ]
