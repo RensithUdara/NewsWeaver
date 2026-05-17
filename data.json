@@ -264988,5 +264988,11 @@
         "url": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
         "timestamp": "2026-05-17T17:15:15.353843",
         "source": "Hacker News"
+    },
+    {
+        "title": "A chat-less interface to collaborate with LLM agents directly from your files",
+        "url": "https://github.com/piqoni/piqo-extension",
+        "timestamp": "2026-05-17T17:15:15.353947",
+        "source": "Hacker News"
     }
 ]
