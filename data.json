@@ -265768,5 +265768,11 @@
         "url": "https://www.jdhodges.com/blog/thinkpad-history/",
         "timestamp": "2026-05-17T22:11:58.218421",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tokenomics: Is it cost effective to refresh Claude's cache, or let it expire?",
+        "url": "https://skids.dev/blog/anthropic-cache-tokenomics/",
+        "timestamp": "2026-05-17T22:11:58.218451",
+        "source": "Hacker News"
     }
 ]
