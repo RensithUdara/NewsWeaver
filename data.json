@@ -264244,5 +264244,11 @@
         "url": "https://news.ycombinator.com/item?id=48167752",
         "timestamp": "2026-05-17T11:42:19.923361",
         "source": "Hacker News"
+    },
+    {
+        "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
+        "url": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
+        "timestamp": "2026-05-17T11:42:19.923391",
+        "source": "Hacker News"
     }
 ]
