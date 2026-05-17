@@ -265858,5 +265858,11 @@
         "url": "https://www.phoronix.com/news/Linux-7.1-rc4-Released",
         "timestamp": "2026-05-17T22:11:58.218901",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
+        "url": "https://xca-attacks.github.io/fabricked/",
+        "timestamp": "2026-05-17T23:11:23.741618",
+        "source": "Hacker News"
     }
 ]
