@@ -265276,5 +265276,11 @@
         "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
         "timestamp": "2026-05-17T19:37:01.929621",
         "source": "Hacker News"
+    },
+    {
+        "title": "Enabling Resizable Bar on RTX 3080 Vbios via GitHub",
+        "url": "https://github.com/danindiana/rtx3080-rebar-vbios/tree/master",
+        "timestamp": "2026-05-17T19:37:01.929656",
+        "source": "Hacker News"
     }
 ]
