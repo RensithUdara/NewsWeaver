@@ -263806,5 +263806,11 @@
         "url": "https://chamoda.com/the-gervais-principle",
         "timestamp": "2026-05-17T09:13:35.365519",
         "source": "Hacker News"
+    },
+    {
+        "title": "When can the C++ compiler devirtualize a call?",
+        "url": "https://quuxplusone.github.io/blog/2021/02/15/devirtualization/",
+        "timestamp": "2026-05-17T09:13:35.365549",
+        "source": "Hacker News"
     }
 ]
