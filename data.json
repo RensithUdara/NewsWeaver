@@ -264904,5 +264904,11 @@
         "url": "https://github.com/AlexKapadia/Pixie",
         "timestamp": "2026-05-17T16:14:35.475144",
         "source": "Hacker News"
+    },
+    {
+        "title": "Deep Dive into SHA-3: Understanding Keccak and Sponge Functions",
+        "url": "https://kerkour.com/sha3",
+        "timestamp": "2026-05-17T16:14:35.475178",
+        "source": "Hacker News"
     }
 ]
