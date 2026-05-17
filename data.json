@@ -265294,5 +265294,11 @@
         "url": "https://distill.pub/2020/growing-ca/",
         "timestamp": "2026-05-17T19:37:01.929724",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bun Audit: Add UB-exorcism audit workspace and executive guide",
+        "url": "https://github.com/oven-sh/bun/pull/30903",
+        "timestamp": "2026-05-17T19:37:01.929758",
+        "source": "Hacker News"
     }
 ]
