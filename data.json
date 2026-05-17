@@ -264310,5 +264310,11 @@
         "url": "https://news.ycombinator.com/item?id=48168383",
         "timestamp": "2026-05-17T12:41:06.470736",
         "source": "Hacker News"
+    },
+    {
+        "title": "Post-Quantum JWT Library/Package for Node.js/JS/TypeScript (NIST FIPS 204M-DSA)",
+        "url": "https://www.npmjs.com/package/@pq-jwt/core",
+        "timestamp": "2026-05-17T12:41:06.470770",
+        "source": "Hacker News"
     }
 ]
