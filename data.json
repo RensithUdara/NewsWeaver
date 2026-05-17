@@ -263824,5 +263824,11 @@
         "url": "https://github.com/ttsiodras/3D-on-a-ZX-Spectrum-48K/",
         "timestamp": "2026-05-17T09:13:35.365610",
         "source": "Hacker News"
+    },
+    {
+        "title": "MegaTrain Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+        "url": "https://github.com/DLYuanGod/MegaTrain",
+        "timestamp": "2026-05-17T09:13:35.365640",
+        "source": "Hacker News"
     }
 ]
