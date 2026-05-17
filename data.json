@@ -263470,5 +263470,11 @@
         "url": "https://twitter.com/grafana/status/2055827123236171827",
         "timestamp": "2026-05-17T04:15:24.855463",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Serene Bach – a Go weblog engine that runs as CGI or HTTP",
+        "url": "https://github.com/serendipitynz/serenebach",
+        "timestamp": "2026-05-17T04:15:24.855492",
+        "source": "Hacker News"
     }
 ]
