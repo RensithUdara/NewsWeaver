@@ -263374,5 +263374,11 @@
         "url": "https://www.foxnews.com/health/experimental-obesity-drug-outperforms-traditional-weight-loss-treatments-early-research",
         "timestamp": "2026-05-17T00:04:53.480850",
         "source": "Hacker News"
+    },
+    {
+        "title": "We built a zero-telemetry Native Rust AI engine. (Ghost Lock included)",
+        "url": "https://github.com/jrabbass/-esai-community-edition",
+        "timestamp": "2026-05-17T00:04:53.480885",
+        "source": "Hacker News"
     }
 ]
