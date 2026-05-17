@@ -263266,5 +263266,11 @@
         "url": "https://composer-sepia.vercel.app",
         "timestamp": "2026-05-17T00:04:53.480144",
         "source": "Hacker News"
+    },
+    {
+        "title": "Quick, Draw - can a neural network learn to recognize doodling?",
+        "url": "https://quickdraw.withgoogle.com/",
+        "timestamp": "2026-05-17T00:04:53.480206",
+        "source": "Hacker News"
     }
 ]
