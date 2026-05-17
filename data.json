@@ -263794,5 +263794,11 @@
         "url": "https://www.newyorker.com/culture/infinite-scroll/a-lo-fi-rebellion-against-ai",
         "timestamp": "2026-05-17T09:13:35.365438",
         "source": "Hacker News"
+    },
+    {
+        "title": "Recent Kernel exploits, attack surface reduction, example IPSEC",
+        "url": "https://www.openwall.com/lists/oss-security/2026/05/16/3",
+        "timestamp": "2026-05-17T09:13:35.365486",
+        "source": "Hacker News"
     }
 ]
