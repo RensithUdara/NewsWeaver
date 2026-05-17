@@ -263254,5 +263254,11 @@
         "url": "https://github.com/open-webui/open-webui/security/advisories/GHSA-482j-2pq6-q5w4",
         "timestamp": "2026-05-16T23:09:37.101371",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Built a verifiable, open-source SoC 2 readiness scanner",
+        "url": "https://loxeai.com",
+        "timestamp": "2026-05-17T00:04:53.480095",
+        "source": "Hacker News"
     }
 ]
