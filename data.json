@@ -265216,5 +265216,11 @@
         "url": "https://www.youtube.com/playlist?list=PLiykFHje0lV5iOXB1WegGtZ3yOS11HtP1",
         "timestamp": "2026-05-17T18:10:32.813393",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Free guide to CPython internals for experienced Python developers",
+        "url": "https://pynsights.vercel.app",
+        "timestamp": "2026-05-17T18:10:32.813427",
+        "source": "Hacker News"
     }
 ]
