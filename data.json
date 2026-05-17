@@ -263674,5 +263674,11 @@
         "url": "https://grumpywelshman.com/we-are-all-rankers-now-or-why-the-internet-has-turned-to-shit/",
         "timestamp": "2026-05-17T07:14:55.736511",
         "source": "Hacker News"
+    },
+    {
+        "title": "Base64 encoding and decoding at almost the speed of a memory copy",
+        "url": "https://arxiv.org/abs/1910.05109",
+        "timestamp": "2026-05-17T07:14:55.736540",
+        "source": "Hacker News"
     }
 ]
