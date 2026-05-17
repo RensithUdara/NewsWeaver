@@ -265300,5 +265300,11 @@
         "url": "https://github.com/oven-sh/bun/pull/30903",
         "timestamp": "2026-05-17T19:37:01.929758",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: GPT-2 inference in pure C#, 0 bytes allocated per token",
+        "url": "https://github.com/DevOnBike/Overfit",
+        "timestamp": "2026-05-17T19:37:01.929793",
+        "source": "Hacker News"
     }
 ]
