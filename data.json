@@ -264898,5 +264898,11 @@
         "url": "https://paco.fyi/guestbook",
         "timestamp": "2026-05-17T16:14:35.475110",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pixie, a local-first workbench for your tools and models",
+        "url": "https://github.com/AlexKapadia/Pixie",
+        "timestamp": "2026-05-17T16:14:35.475144",
+        "source": "Hacker News"
     }
 ]
