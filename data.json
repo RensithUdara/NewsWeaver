@@ -264796,5 +264796,11 @@
         "url": "https://www.federaldatafieldguide.us/",
         "timestamp": "2026-05-17T16:14:35.474424",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pokemon NPCs Powered by Local LLMs",
+        "url": "https://www.owenmc.dev/posts/local-inference-npcs",
+        "timestamp": "2026-05-17T16:14:35.474461",
+        "source": "Hacker News"
     }
 ]
