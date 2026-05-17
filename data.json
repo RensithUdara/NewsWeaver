@@ -264640,5 +264640,11 @@
         "url": "https://www.promptinjection.net/p/the-ultimate-llm-ai-fine-tuning-guide-tutorial",
         "timestamp": "2026-05-17T15:17:59.824270",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Forecasting my backyard weather with a 22M time-series model",
+        "url": "https://huggingface.co/spaces/bitsofchris/time-series-ai-weather-forecast",
+        "timestamp": "2026-05-17T15:17:59.824308",
+        "source": "Hacker News"
     }
 ]
