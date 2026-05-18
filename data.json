@@ -268018,5 +268018,11 @@
         "url": "https://en.wikipedia.org/wiki/Russian–American_Telegraph",
         "timestamp": "2026-05-18T22:59:37.888852",
         "source": "Hacker News"
+    },
+    {
+        "title": "SmithDB, the data layer for agent observability",
+        "url": "https://www.langchain.com/blog/introducing-smithdb",
+        "timestamp": "2026-05-18T22:59:37.888885",
+        "source": "Hacker News"
     }
 ]
