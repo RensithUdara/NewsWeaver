@@ -266674,5 +266674,11 @@
         "url": "https://www.youtube.com/watch?v=yb9Tz-RQFN4",
         "timestamp": "2026-05-18T12:02:43.136708",
         "source": "Hacker News"
+    },
+    {
+        "title": "I automated opt-outs for 500 data broker sites (open source)",
+        "url": "https://github.com/stephenlthorn/auto-identity-remove",
+        "timestamp": "2026-05-18T12:02:43.136742",
+        "source": "Hacker News"
     }
 ]
