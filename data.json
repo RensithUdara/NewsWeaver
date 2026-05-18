@@ -266164,5 +266164,11 @@
         "url": "https://gizmodo.com/ex-google-ceo-eric-schmidt-fails-to-read-room-on-ai-gets-booed-to-oblivion-2000759763",
         "timestamp": "2026-05-18T04:42:33.442509",
         "source": "Hacker News"
+    },
+    {
+        "title": "Usual implementation of attention transformers (SDPA) is kind of bad, actually",
+        "url": "https://gist.github.com/celoyd/6bf10122c3f5f7e64b0c684704e4ffb2",
+        "timestamp": "2026-05-18T04:42:33.442536",
+        "source": "Hacker News"
     }
 ]
