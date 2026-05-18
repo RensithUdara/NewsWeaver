@@ -267244,5 +267244,11 @@
         "url": "https://twitter.com/i/status/2055317281169678590",
         "timestamp": "2026-05-18T17:52:07.554726",
         "source": "Hacker News"
+    },
+    {
+        "title": "FediMeteo, HAProxy, and the art of not wasting snac threads",
+        "url": "https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-threads/",
+        "timestamp": "2026-05-18T17:52:07.554756",
+        "source": "Hacker News"
     }
 ]
