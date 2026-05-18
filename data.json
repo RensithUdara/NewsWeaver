@@ -267052,5 +267052,11 @@
         "url": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
         "timestamp": "2026-05-18T15:53:35.987938",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
+        "url": "https://css-tricks.com/cross-document-view-transitions-part-1/",
+        "timestamp": "2026-05-18T15:53:37.724763",
+        "source": "CSS-Tricks"
     }
 ]
