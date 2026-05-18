@@ -267970,5 +267970,11 @@
         "url": "https://www.agentvoy.com/",
         "timestamp": "2026-05-18T22:59:37.888557",
         "source": "Hacker News"
+    },
+    {
+        "title": "More live NPM packages attributed to Axios threat actors",
+        "url": "https://opensourcemalware.com/blog/axios-attacker-additional-npm-packages",
+        "timestamp": "2026-05-18T22:59:37.888623",
+        "source": "Hacker News"
     }
 ]
