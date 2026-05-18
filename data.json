@@ -267820,5 +267820,11 @@
         "url": "https://github.com/tracecast/open_data_apps",
         "timestamp": "2026-05-18T21:58:12.083324",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running PyTorch Models on Apple Silicon GPUs with the ExecuTorch MLX Delegate",
+        "url": "https://pytorch.org/blog/running-pytorch-models-on-apple-silicon-gpus-with-the-executorch-mlx-delegate/",
+        "timestamp": "2026-05-18T21:58:12.083346",
+        "source": "Hacker News"
     }
 ]
