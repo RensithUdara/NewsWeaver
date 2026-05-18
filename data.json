@@ -267922,5 +267922,11 @@
         "url": "https://www.thedrive.com/news/ai-governed-ev-charging-could-extend-battery-life-nearly-23",
         "timestamp": "2026-05-18T22:59:37.888261",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Handoff – preserve coding context when agents run out of tokens",
+        "url": "https://github.com/TStansel/handoff",
+        "timestamp": "2026-05-18T22:59:37.888318",
+        "source": "Hacker News"
     }
 ]
