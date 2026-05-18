@@ -267532,5 +267532,11 @@
         "url": "https://repebble.com/blog/how-i-use-my-index-01-production-update",
         "timestamp": "2026-05-18T20:51:16.455584",
         "source": "Hacker News"
+    },
+    {
+        "title": "Static web hosting on Kubernetes with OCI images as volumes",
+        "url": "https://kowalski7cc.xyz/blog/kubernetes-web-hosting/",
+        "timestamp": "2026-05-18T20:51:16.455619",
+        "source": "Hacker News"
     }
 ]
