@@ -266266,5 +266266,11 @@
         "url": "https://anyfrm.com",
         "timestamp": "2026-05-18T04:42:33.443009",
         "source": "Hacker News"
+    },
+    {
+        "title": "Build a Searchable Catalog with Filters, Facets, and Semantic Search",
+        "url": "https://manticoresearch.com/blog/manticore-php-demo/",
+        "timestamp": "2026-05-18T04:42:33.443039",
+        "source": "Hacker News"
     }
 ]
