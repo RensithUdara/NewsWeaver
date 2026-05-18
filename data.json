@@ -267424,5 +267424,11 @@
         "url": "https://runharbor.com/blog/2026-05-18-building-automatic-contextual-clinical-trial-audit-logging-in-postgres-without-triggers",
         "timestamp": "2026-05-18T19:23:57.127265",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why Distributed Training Is Hard: DTensor and the Costs of Abstraction",
+        "url": "https://runwayml.com/news/dtensor-distributed-training",
+        "timestamp": "2026-05-18T19:23:57.127300",
+        "source": "Hacker News"
     }
 ]
