@@ -267658,5 +267658,11 @@
         "url": "https://www.rwx.com/blog/codeberg-forgejo-support",
         "timestamp": "2026-05-18T20:51:16.456321",
         "source": "Hacker News"
+    },
+    {
+        "title": "SIMD-accelerated integer-to-string conversion",
+        "url": "https://lemire.me/blog/2026/05/18/simd-accelerated-integer-to-string-conversion/",
+        "timestamp": "2026-05-18T20:51:16.456355",
+        "source": "Hacker News"
     }
 ]
