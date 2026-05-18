@@ -267196,5 +267196,11 @@
         "url": "https://kvm.rs/",
         "timestamp": "2026-05-18T17:52:07.554498",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bear generates a compilation database for Clang tooling",
+        "url": "https://github.com/rizsotto/bear",
+        "timestamp": "2026-05-18T17:52:07.554527",
+        "source": "Hacker News"
     }
 ]
