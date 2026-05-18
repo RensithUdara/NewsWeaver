@@ -267406,5 +267406,11 @@
         "url": "https://www.theguardian.com/technology/2026/may/17/canvas-hack-cyber-criminals-data-ransom-paid",
         "timestamp": "2026-05-18T19:23:57.127163",
         "source": "Hacker News"
+    },
+    {
+        "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
+        "timestamp": "2026-05-18T19:23:57.127197",
+        "source": "Hacker News"
     }
 ]
