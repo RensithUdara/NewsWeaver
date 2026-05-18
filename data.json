@@ -267502,5 +267502,11 @@
         "url": "https://github.com/shuffle-dev/cli",
         "timestamp": "2026-05-18T20:51:16.455331",
         "source": "Hacker News"
+    },
+    {
+        "title": "NX VS Code extension compromised again",
+        "url": "https://github.com/nrwl/nx-console/issues/3139",
+        "timestamp": "2026-05-18T20:51:16.455379",
+        "source": "Hacker News"
     }
 ]
