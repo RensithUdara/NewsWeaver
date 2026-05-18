@@ -267436,5 +267436,11 @@
         "url": "https://p3institute.substack.com/p/from-open-source-software-to-open",
         "timestamp": "2026-05-18T19:23:57.127334",
         "source": "Hacker News"
+    },
+    {
+        "title": "Displaying a crafted file in Tabby terminal can run shell commands",
+        "url": "https://github.com/Eugeny/tabby/security/advisories/GHSA-qr3x-j8g9-xhf6",
+        "timestamp": "2026-05-18T19:23:57.127368",
+        "source": "Hacker News"
     }
 ]
