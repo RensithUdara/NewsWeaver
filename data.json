@@ -266362,5 +266362,11 @@
         "url": "https://www.economist.com/business/2026/05/17/ai-super-apps-are-remaking-chinas-internet",
         "timestamp": "2026-05-18T08:36:10.085394",
         "source": "Hacker News"
+    },
+    {
+        "title": "Post-quantum TLS rolled out last January and broke most open-source scrapers",
+        "url": "https://foura.ai/blog/ja4-tls-broke-basic-scraper",
+        "timestamp": "2026-05-18T08:36:10.085429",
+        "source": "Hacker News"
     }
 ]
