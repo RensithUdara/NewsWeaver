@@ -268282,5 +268282,11 @@
         "url": "https://twitter.com/rohan_sood15/status/2056585919805714777",
         "timestamp": "2026-05-19T04:21:49.597609",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLMCap – A proxy that hard-stops LLM API calls when you hit a dollar cap",
+        "url": "https://www.llmcap.io/",
+        "timestamp": "2026-05-19T04:21:49.597645",
+        "source": "Hacker News"
     }
 ]
