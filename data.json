@@ -269782,5 +269782,11 @@
         "url": "https://github.com/zoharbabin/web-researcher-mcp",
         "timestamp": "2026-05-19T20:52:29.193186",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Crowdsourced tracker for what each Windows/M365 update breaks",
+        "url": "https://win-update-tracker.vercel.app/",
+        "timestamp": "2026-05-19T20:52:29.193226",
+        "source": "Hacker News"
     }
 ]
