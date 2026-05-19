@@ -268390,5 +268390,11 @@
         "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
         "timestamp": "2026-05-19T04:21:49.598278",
         "source": "Hacker News"
+    },
+    {
+        "title": "What even IS runtime infrastructure?",
+        "url": "https://blog.bridgexapi.io/why-developers-need-programmable-evm-runtime-infrastructure",
+        "timestamp": "2026-05-19T04:21:49.598314",
+        "source": "Hacker News"
     }
 ]
