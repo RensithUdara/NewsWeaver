@@ -268948,5 +268948,11 @@
         "url": "https://www.openbsd.org/79.html",
         "timestamp": "2026-05-19T14:09:24.942808",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nim-Presto – REST API Framework for Nim Language",
+        "url": "https://github.com/status-im/nim-presto",
+        "timestamp": "2026-05-19T14:09:24.942967",
+        "source": "Hacker News"
     }
 ]
