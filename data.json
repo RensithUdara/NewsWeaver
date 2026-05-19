@@ -269320,5 +269320,11 @@
         "url": "https://github.com/kulikov0/whitelist-bypass,https://github.com/kulikov0/whitelist-bypass-iran",
         "timestamp": "2026-05-19T17:12:43.589258",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built an open-source tool to see if ChatGPT recommends your products",
+        "url": "https://github.com/foodaka/openllmrank",
+        "timestamp": "2026-05-19T17:12:43.589291",
+        "source": "Hacker News"
     }
 ]
