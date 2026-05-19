@@ -268846,5 +268846,11 @@
         "url": "https://martinvol.pe/blog/2026/05/19/what-happens-when-your-blog-post-hits-1-in-hacker-news/",
         "timestamp": "2026-05-19T11:29:28.810624",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: BigQuery Emulator – run Google BigQuery locally for tests",
+        "url": "https://github.com/goccy/bigquery-emulator",
+        "timestamp": "2026-05-19T11:29:28.810658",
+        "source": "Hacker News"
     }
 ]
