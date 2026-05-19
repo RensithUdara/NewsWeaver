@@ -270346,5 +270346,11 @@
         "url": "https://news.ycombinator.com/item?id=48200564",
         "timestamp": "2026-05-19T23:17:48.452816",
         "source": "Hacker News"
+    },
+    {
+        "title": "Language Models Can Autonomously Hack and Self-Replicate",
+        "url": "https://palisaderesearch.org/blog/self-replication",
+        "timestamp": "2026-05-19T23:17:48.452846",
+        "source": "Hacker News"
     }
 ]
