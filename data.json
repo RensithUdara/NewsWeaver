@@ -268258,5 +268258,11 @@
         "url": "https://memory-concierge.vercel.app",
         "timestamp": "2026-05-19T04:21:49.597461",
         "source": "Hacker News"
+    },
+    {
+        "title": "Using algebra and LLMs to verify a flight-plan bug fix in Lean",
+        "url": "https://jameshaydon.github.io/algebra-llms-lean-flight-plan/",
+        "timestamp": "2026-05-19T04:21:49.597498",
+        "source": "Hacker News"
     }
 ]
