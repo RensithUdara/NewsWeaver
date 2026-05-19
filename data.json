@@ -268240,5 +268240,11 @@
         "url": "https://optimizedbyotto.com/post/balancing-persistence-vs-pivoting/",
         "timestamp": "2026-05-19T04:21:49.597344",
         "source": "Hacker News"
+    },
+    {
+        "title": "Formal proof that agentic AI governance latency can be O(1) instead of O(days)",
+        "url": "https://arxiv.org/abs/2605.17909",
+        "timestamp": "2026-05-19T04:21:49.597383",
+        "source": "Hacker News"
     }
 ]
