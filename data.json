@@ -269410,5 +269410,11 @@
         "url": "https://news.ycombinator.com/item?id=48195884",
         "timestamp": "2026-05-19T17:12:43.589813",
         "source": "Hacker News"
+    },
+    {
+        "title": "We made our sandbox filesystem 47× faster by deleting it",
+        "url": "https://microsandbox.dev/blog/block-backed-rootfs",
+        "timestamp": "2026-05-19T17:12:43.589847",
+        "source": "Hacker News"
     }
 ]
