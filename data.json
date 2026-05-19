@@ -269854,5 +269854,11 @@
         "url": "https://github.com/daemonphantom/Awayke",
         "timestamp": "2026-05-19T20:52:29.193657",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postgres FDW: Pushdown is a negotiation",
+        "url": "https://clickhouse.com/blog/postgres-fdw-pushdown-negotiation",
+        "timestamp": "2026-05-19T20:52:29.193694",
+        "source": "Hacker News"
     }
 ]
