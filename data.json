@@ -269110,5 +269110,11 @@
         "url": "https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/",
         "timestamp": "2026-05-19T14:09:25.248490",
         "source": "Hacker News"
+    },
+    {
+        "title": "Detecting CI/CD supply chain attacks with canary credentials",
+        "url": "https://tracebit.com/blog/detecting-cicd-supply-chain-attacks-with-canary-credentials",
+        "timestamp": "2026-05-19T14:09:25.248525",
+        "source": "Hacker News"
     }
 ]
