@@ -269092,5 +269092,11 @@
         "url": "https://github.com/brief-hq/dcbench",
         "timestamp": "2026-05-19T14:09:25.248385",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Super Tiny Compiler, but in Ada",
+        "url": "https://github.com/tomekw/stcc",
+        "timestamp": "2026-05-19T14:09:25.248419",
+        "source": "Hacker News"
     }
 ]
