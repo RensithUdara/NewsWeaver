@@ -268378,5 +268378,11 @@
         "url": "https://co-tok.github.io/",
         "timestamp": "2026-05-19T04:21:49.598208",
         "source": "Hacker News"
+    },
+    {
+        "title": "Benchmarking llama.cpp's new MTP support on Strix Halo",
+        "url": "https://calebcoffie.com/blog/benchmarking-llama-cpp-mtp-on-strix-halo",
+        "timestamp": "2026-05-19T04:21:49.598242",
+        "source": "Hacker News"
     }
 ]
