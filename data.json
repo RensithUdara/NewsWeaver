@@ -269062,5 +269062,11 @@
         "url": "https://www.norn-labs.com/blog/scammy-airline-websites",
         "timestamp": "2026-05-19T14:09:25.248185",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reverse-engineering MySQL 8.4's GTID_TAGGED_LOG_EVENT",
+        "url": "https://readyset.io/blog/replication-internals-decoding-the-mysql-binary-log-part-11-gtid_tagged_log_event-tagged-gtids-and-mysqls-new-serialization-framework",
+        "timestamp": "2026-05-19T14:09:25.248240",
+        "source": "Hacker News"
     }
 ]
