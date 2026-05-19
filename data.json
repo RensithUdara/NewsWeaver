@@ -269314,5 +269314,11 @@
         "url": "https://www.appen.com/whitepapers/benchmarking-subquadratics-latest-model-ssa-kernel",
         "timestamp": "2026-05-19T17:12:43.589220",
         "source": "Hacker News"
+    },
+    {
+        "title": "PoC: VPN over WebRTC to Bypass Whitelists",
+        "url": "https://github.com/kulikov0/whitelist-bypass,https://github.com/kulikov0/whitelist-bypass-iran",
+        "timestamp": "2026-05-19T17:12:43.589258",
+        "source": "Hacker News"
     }
 ]
