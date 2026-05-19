@@ -268768,5 +268768,11 @@
         "url": "https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds",
         "timestamp": "2026-05-19T11:29:28.810080",
         "source": "Hacker News"
+    },
+    {
+        "title": "Audit: Vuln-discovery agent reimplementing the Cloudflare Project Glasswing",
+        "url": "https://github.com/evilsocket/audit",
+        "timestamp": "2026-05-19T11:29:28.810115",
+        "source": "Hacker News"
     }
 ]
