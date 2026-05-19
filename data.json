@@ -270112,5 +270112,11 @@
         "url": "https://www.techdirt.com/2026/05/19/hey-platforms-add-take-it-down-to-your-transparency-reports/",
         "timestamp": "2026-05-19T22:06:16.811251",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sōzune – a reverse proxy built on Sōzu, with Traefik-style autodiscovery",
+        "url": "https://github.com/kemeter/sozune",
+        "timestamp": "2026-05-19T22:06:16.811275",
+        "source": "Hacker News"
     }
 ]
