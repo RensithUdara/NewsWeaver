@@ -269908,5 +269908,11 @@
         "url": "https://news.ycombinator.com/item?id=48199074",
         "timestamp": "2026-05-19T20:52:29.194049",
         "source": "Hacker News"
+    },
+    {
+        "title": "GhostTree: Unveiling Path Manipulation Techniques to Bypass Windows Security",
+        "url": "https://www.varonis.com/blog/ghosttree-ntfs-trick",
+        "timestamp": "2026-05-19T20:52:29.194083",
+        "source": "Hacker News"
     }
 ]
