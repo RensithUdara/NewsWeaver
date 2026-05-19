@@ -269848,5 +269848,11 @@
         "url": "https://clickhouse.com/blog/chatfeatured",
         "timestamp": "2026-05-19T20:52:29.193622",
         "source": "Hacker News"
+    },
+    {
+        "title": "Awayke: One-click menubar toggle to prevent lid-close sleep (Swift, open source)",
+        "url": "https://github.com/daemonphantom/Awayke",
+        "timestamp": "2026-05-19T20:52:29.193657",
+        "source": "Hacker News"
     }
 ]
