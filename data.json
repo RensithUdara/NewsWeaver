@@ -269332,5 +269332,11 @@
         "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
         "timestamp": "2026-05-19T17:12:43.589324",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: LibreOffice-rs – I built a pure-Rust LibreOffice using autoresearch",
+        "url": "https://github.com/clark-labs-inc/libreoffice-rs",
+        "timestamp": "2026-05-19T17:12:43.589357",
+        "source": "Hacker News"
     }
 ]
