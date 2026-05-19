@@ -269842,5 +269842,11 @@
         "url": "https://boingboing.net/2026/05/18/who-declares-global-health-emergency-over-congo-ebola-outbreak.html",
         "timestamp": "2026-05-19T20:52:29.193587",
         "source": "Hacker News"
+    },
+    {
+        "title": "How ChatFeatured Migrated from PlanetScale to Postgres Managed by ClickHouse",
+        "url": "https://clickhouse.com/blog/chatfeatured",
+        "timestamp": "2026-05-19T20:52:29.193622",
+        "source": "Hacker News"
     }
 ]
