@@ -269104,5 +269104,11 @@
         "url": "https://scale-lang.com/posts/2026-05-19-the-brain-still-needs-the-hammer",
         "timestamp": "2026-05-19T14:09:25.248455",
         "source": "Hacker News"
+    },
+    {
+        "title": "Neoclassical C++: segmented iterators revisited (1)",
+        "url": "https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/",
+        "timestamp": "2026-05-19T14:09:25.248490",
+        "source": "Hacker News"
     }
 ]
