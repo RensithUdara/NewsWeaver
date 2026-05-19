@@ -269638,5 +269638,11 @@
         "url": "https://lapdog.datadoghq.com/",
         "timestamp": "2026-05-19T19:17:50.781354",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ruby vs. Java vs. TypeScript: Building Claude Cowork Docx Plugin",
+        "url": "https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/",
+        "timestamp": "2026-05-19T19:17:50.781382",
+        "source": "Hacker News"
     }
 ]
