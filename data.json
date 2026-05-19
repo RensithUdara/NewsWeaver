@@ -268774,5 +268774,11 @@
         "url": "https://github.com/evilsocket/audit",
         "timestamp": "2026-05-19T11:29:28.810115",
         "source": "Hacker News"
+    },
+    {
+        "title": "Aislop – deterministic quality gate for AI-generated code (MIT, no LLMs)",
+        "url": "https://github.com/scanaislop/aislop",
+        "timestamp": "2026-05-19T11:29:28.810151",
+        "source": "Hacker News"
     }
 ]
