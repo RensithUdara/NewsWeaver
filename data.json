@@ -268138,5 +268138,11 @@
         "url": "https://twitter.com/the_smart_ape/status/2055941633179283523",
         "timestamp": "2026-05-19T00:09:38.492659",
         "source": "Hacker News"
+    },
+    {
+        "title": "Built an API client with age-encrypted vault for secrets",
+        "url": "https://github.com/xaaha/hulak",
+        "timestamp": "2026-05-19T00:09:38.492693",
+        "source": "Hacker News"
     }
 ]
