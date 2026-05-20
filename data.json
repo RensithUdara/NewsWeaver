@@ -271096,5 +271096,11 @@
         "url": "https://worksinprogress.co/issue/the-invention-of-buses/",
         "timestamp": "2026-05-20T11:34:24.677293",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust Database from Scratch",
+        "url": "https://github.com/ayoubnabil/aiondb",
+        "timestamp": "2026-05-20T11:34:24.779642",
+        "source": "Hacker News"
     }
 ]
