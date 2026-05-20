@@ -271414,5 +271414,11 @@
         "url": "https://medium.com/@dparkmit/i-dont-read-my-own-specs-anymore-ade29a6cc063",
         "timestamp": "2026-05-20T14:09:08.995967",
         "source": "Hacker News"
+    },
+    {
+        "title": "Replay-based regression testing for ROS 2",
+        "url": "https://github.com/Kaedim/perception-replay-ci",
+        "timestamp": "2026-05-20T14:09:08.996005",
+        "source": "Hacker News"
     }
 ]
