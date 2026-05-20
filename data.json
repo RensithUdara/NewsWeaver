@@ -272620,5 +272620,11 @@
         "url": "https://wordpress.org/plugins/primer-pay/",
         "timestamp": "2026-05-20T23:56:52.806275",
         "source": "Hacker News"
+    },
+    {
+        "title": "Deep – CLI/REPL for generating and iterating on codebases using DeepSeek",
+        "url": "https://github.com/cynchro/deepseekCLI",
+        "timestamp": "2026-05-20T23:56:52.806303",
+        "source": "Hacker News"
     }
 ]
