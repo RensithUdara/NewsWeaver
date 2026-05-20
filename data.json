@@ -271702,5 +271702,11 @@
         "url": "https://www.nytimes.com/2026/05/20/technology/openai-ipo.html",
         "timestamp": "2026-05-20T17:24:56.978770",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Sentience – governance that carries across AI agent sessions",
+        "url": "https://pypi.org/project/sentience-governor/0.2.5.1/",
+        "timestamp": "2026-05-20T17:24:56.978802",
+        "source": "Hacker News"
     }
 ]
