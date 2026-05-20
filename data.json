@@ -272542,5 +272542,11 @@
         "url": "https://www.barrons.com/articles/meta-stock-ai-layoffs-f9dba997",
         "timestamp": "2026-05-20T23:56:52.805895",
         "source": "Hacker News"
+    },
+    {
+        "title": "InferenceBench: A Benchmark for Open-Ended Inference Optimization by AI Agents",
+        "url": "https://inferencebench.ai/",
+        "timestamp": "2026-05-20T23:56:52.805923",
+        "source": "Hacker News"
     }
 ]
