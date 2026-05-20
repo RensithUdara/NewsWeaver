@@ -271174,5 +271174,11 @@
         "url": "https://domainintel.vercel.app/research",
         "timestamp": "2026-05-20T11:34:24.780120",
         "source": "Hacker News"
+    },
+    {
+        "title": "C++26: More Function Wrappers",
+        "url": "https://www.sandordargo.com/blog/2026/05/20/cpp26-copyable-function",
+        "timestamp": "2026-05-20T11:34:24.780155",
+        "source": "Hacker News"
     }
 ]
