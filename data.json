@@ -271390,5 +271390,11 @@
         "url": "https://blog.habets.se/2022/10/No-way-to-parse-integers-in-C.html",
         "timestamp": "2026-05-20T14:09:08.887475",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Cut AWS CloudWatch Costs by 50%",
+        "url": "https://medium.com/@srinu-n/how-i-cut-aws-cloudwatch-costs-by-50-a-vpc-flow-logs-case-study-5b1472aae46f",
+        "timestamp": "2026-05-20T14:09:08.995842",
+        "source": "Hacker News"
     }
 ]
