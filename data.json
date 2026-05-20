@@ -270514,5 +270514,11 @@
         "url": "https://news.ycombinator.com/item?id=48201455",
         "timestamp": "2026-05-20T01:26:33.916559",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: The user agents crawling HN today",
+        "url": "https://ai.realhackers.org/user_agents.txt",
+        "timestamp": "2026-05-20T01:26:33.916593",
+        "source": "Hacker News"
     }
 ]
