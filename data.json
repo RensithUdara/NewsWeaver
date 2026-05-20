@@ -272548,5 +272548,11 @@
         "url": "https://inferencebench.ai/",
         "timestamp": "2026-05-20T23:56:52.805923",
         "source": "Hacker News"
+    },
+    {
+        "title": "Valkey 9.1 trims memory 10% and pulls search into the core",
+        "url": "https://thenewstack.io/valkey-91-cuts-memory/",
+        "timestamp": "2026-05-20T23:56:52.805951",
+        "source": "Hacker News"
     }
 ]
