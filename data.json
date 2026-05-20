@@ -271372,5 +271372,11 @@
         "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
         "timestamp": "2026-05-20T14:09:08.886791",
         "source": "Hacker News"
+    },
+    {
+        "title": "When Fast Fourier Transform Meets Transformer for Image Restoration",
+        "url": "https://github.com/deng-ai-lab/SFHformer",
+        "timestamp": "2026-05-20T14:09:08.886882",
+        "source": "Hacker News"
     }
 ]
