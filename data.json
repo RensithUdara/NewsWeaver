@@ -271558,5 +271558,11 @@
         "url": "https://www.bostonmagazine.com/news/2026/05/05/natalie-scheublin-murder-prosecuted/",
         "timestamp": "2026-05-20T14:09:08.996867",
         "source": "Hacker News"
+    },
+    {
+        "title": "LatticeShield – Quantum-safe reverse proxy in pure Rust, no FFI",
+        "url": "https://github.com/nahuellamas/latticeshield",
+        "timestamp": "2026-05-20T14:09:08.996902",
+        "source": "Hacker News"
     }
 ]
