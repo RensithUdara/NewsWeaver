@@ -270658,5 +270658,11 @@
         "url": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
         "timestamp": "2026-05-20T05:36:48.346797",
         "source": "Hacker News"
+    },
+    {
+        "title": "Xezim – a Rust-based SystemVerilog simulator",
+        "url": "https://github.com/aionhw/xezim",
+        "timestamp": "2026-05-20T05:36:48.346840",
+        "source": "Hacker News"
     }
 ]
