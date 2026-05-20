@@ -270670,5 +270670,11 @@
         "url": "https://blog.gitguardian.com/how-we-got-a-cisa-github-leak-taken-down-in-26-hours/",
         "timestamp": "2026-05-20T05:36:48.346868",
         "source": "Hacker News"
+    },
+    {
+        "title": "Istio 1.30.0 (Including Agentgateway)",
+        "url": "https://istio.io/latest/news/releases/1.30.x/announcing-1.30/",
+        "timestamp": "2026-05-20T05:36:48.346896",
+        "source": "Hacker News"
     }
 ]
