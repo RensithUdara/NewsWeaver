@@ -271468,5 +271468,11 @@
         "url": "https://github.com/rgombash/ocl-nexus-local",
         "timestamp": "2026-05-20T14:09:08.996293",
         "source": "Hacker News"
+    },
+    {
+        "title": "The engine behind the 100 TB GitHub search engine",
+        "url": "https://github.blog/engineering/architecture-optimization/the-technology-behind-githubs-new-code-search/",
+        "timestamp": "2026-05-20T14:09:08.996328",
+        "source": "Hacker News"
     }
 ]
