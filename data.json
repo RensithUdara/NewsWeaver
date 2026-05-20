@@ -271432,5 +271432,11 @@
         "url": "https://www.propublica.org/article/alaska-telecom-subsidies-roger-shoffstall",
         "timestamp": "2026-05-20T14:09:08.996077",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ollama Doesn't Know Its GPU Is on Another Machine",
+        "url": "https://loopholelabs.io/blog/ollama-remote-gpu",
+        "timestamp": "2026-05-20T14:09:08.996114",
+        "source": "Hacker News"
     }
 ]
