@@ -270916,5 +270916,11 @@
         "url": "https://news.ycombinator.com/item?id=48204499",
         "timestamp": "2026-05-20T08:41:33.743892",
         "source": "Hacker News"
+    },
+    {
+        "title": "RFC 7489 obsoleted and receivers MUST now downgrade to quarantine by default",
+        "url": "https://www.rfc-editor.org/rfc/rfc9989.html",
+        "timestamp": "2026-05-20T08:41:33.743926",
+        "source": "Hacker News"
     }
 ]
