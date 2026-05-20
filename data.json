@@ -272656,5 +272656,11 @@
         "url": "https://docs.npmjs.com/staged-publishing/",
         "timestamp": "2026-05-20T23:56:52.806444",
         "source": "Hacker News"
+    },
+    {
+        "title": "Moe inference optimizations: 15% lower expert load by request reordering",
+        "url": "https://blog.doubleword.ai/moe-expert-coactivations",
+        "timestamp": "2026-05-20T23:56:52.806475",
+        "source": "Hacker News"
     }
 ]
