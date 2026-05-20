@@ -271852,5 +271852,11 @@
         "url": "https://www.githubstatus.com/incidents/g6ffrm0rfvz9",
         "timestamp": "2026-05-20T17:24:56.979480",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: IgniteMS – batch text embeddings at 253K msg/s on 8x A100",
+        "url": "https://github.com/Artain-AI/ignite-ms",
+        "timestamp": "2026-05-20T17:24:56.979521",
+        "source": "Hacker News"
     }
 ]
