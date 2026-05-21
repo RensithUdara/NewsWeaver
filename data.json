@@ -274744,5 +274744,11 @@
         "url": "https://news.ycombinator.com/item?id=48230097",
         "timestamp": "2026-05-21T23:51:21.237842",
         "source": "Hacker News"
+    },
+    {
+        "title": "How Node.js and V8 keep each other working",
+        "url": "https://joyeecheung.github.io/blog/2026/05/18/how-nodejs-and-v8-keep-each-other-working/",
+        "timestamp": "2026-05-21T23:51:21.237875",
+        "source": "Hacker News"
     }
 ]
