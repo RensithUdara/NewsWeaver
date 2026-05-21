@@ -273034,5 +273034,11 @@
         "url": "https://github.com/melezhik/Sparrow6/blob/master/documentation/taskchecks.md",
         "timestamp": "2026-05-21T06:37:59.713718",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Practical Guide to Profiling in Go",
+        "url": "https://blog.jetbrains.com/go/2026/05/20/golang-profiling-guide/",
+        "timestamp": "2026-05-21T06:37:59.713776",
+        "source": "Hacker News"
     }
 ]
