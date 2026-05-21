@@ -274360,5 +274360,11 @@
         "url": "https://thomasdhughes.com/ccac/",
         "timestamp": "2026-05-21T21:49:20.368928",
         "source": "Hacker News"
+    },
+    {
+        "title": "One bitmask in task_struct fixes 15 years of Linux signal conflicts",
+        "url": "https://gkoreli.com/linux-signal-stack-conflict",
+        "timestamp": "2026-05-21T21:49:20.368962",
+        "source": "Hacker News"
     }
 ]
