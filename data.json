@@ -274720,5 +274720,11 @@
         "url": "https://throw-cards.org/",
         "timestamp": "2026-05-21T23:51:21.237703",
         "source": "Hacker News"
+    },
+    {
+        "title": "Replacing Static BI with a Deterministic NLP-to-SQL Engine over Delta Lake",
+        "url": "https://hunnykathuria.substack.com/p/nlp-architecting-zero-intervention",
+        "timestamp": "2026-05-21T23:51:21.237738",
+        "source": "Hacker News"
     }
 ]
