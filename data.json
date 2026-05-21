@@ -273208,5 +273208,11 @@
         "url": "https://twitter.com/jarredsumner/status/2057280896231936258",
         "timestamp": "2026-05-21T10:23:43.984820",
         "source": "Hacker News"
+    },
+    {
+        "title": "Yet another Rust re-write: FalkorDB",
+        "url": "https://github.com/FalkorDB/falkordb-rs-next-gen",
+        "timestamp": "2026-05-21T10:23:43.984853",
+        "source": "Hacker News"
     }
 ]
