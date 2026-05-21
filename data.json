@@ -274678,5 +274678,11 @@
         "url": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
         "timestamp": "2026-05-21T23:51:21.139299",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-28910: Breaking macOS App Sandbox Data Containers and Hijacking Apps",
+        "url": "https://mysk.blog/2026/05/19/cve-2026-28910/",
+        "timestamp": "2026-05-21T23:51:21.237466",
+        "source": "Hacker News"
     }
 ]
