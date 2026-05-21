@@ -273196,5 +273196,11 @@
         "url": "https://quotesign.vercel.app",
         "timestamp": "2026-05-21T10:23:43.984753",
         "source": "Hacker News"
+    },
+    {
+        "title": "Auditing Apple's DifferentialPrivacy.framework: Bugs, Misconfig, Practical Risks",
+        "url": "https://arxiv.org/abs/2605.21378",
+        "timestamp": "2026-05-21T10:23:43.984786",
+        "source": "Hacker News"
     }
 ]
