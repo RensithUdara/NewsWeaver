@@ -273112,5 +273112,11 @@
         "url": "https://andreapivetta.com/posts/all-the-bugs-they-found.html",
         "timestamp": "2026-05-21T10:23:43.581668",
         "source": "Hacker News"
+    },
+    {
+        "title": "Numexpr: Fast numerical array expression evaluator for Python, NumPy, Pandas",
+        "url": "https://github.com/pydata/numexpr",
+        "timestamp": "2026-05-21T10:23:43.581913",
+        "source": "Hacker News"
     }
 ]
