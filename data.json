@@ -274186,5 +274186,11 @@
         "url": "https://www.bbc.co.uk/news/articles/clyp1e11px0o",
         "timestamp": "2026-05-21T20:13:28.305750",
         "source": "Hacker News"
+    },
+    {
+        "title": "Programmatic Devcontainer Interface",
+        "url": "https://github.com/crunchloop/devcontainer",
+        "timestamp": "2026-05-21T20:13:28.305772",
+        "source": "Hacker News"
     }
 ]
