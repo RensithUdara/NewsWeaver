@@ -272734,5 +272734,11 @@
         "url": "https://www.youtube.com/watch?v=Ph-TMMku1xk",
         "timestamp": "2026-05-21T02:48:52.696400",
         "source": "Hacker News"
+    },
+    {
+        "title": "AWS ExtendDB: the DynamoDB API with pluggable backends",
+        "url": "https://aws.amazon.com/blogs/database/introducing-extenddb-an-open-source-dynamodb-compatible-adapter-with-pluggable-storage-backends/",
+        "timestamp": "2026-05-21T02:48:52.696442",
+        "source": "Hacker News"
     }
 ]
