@@ -274312,5 +274312,11 @@
         "url": "https://invizcrypt.com/",
         "timestamp": "2026-05-21T21:49:20.368642",
         "source": "Hacker News"
+    },
+    {
+        "title": "WebGPU support in llama.cpp",
+        "url": "https://reeselevine.github.io/llamas-on-the-web/",
+        "timestamp": "2026-05-21T21:49:20.368678",
+        "source": "Hacker News"
     }
 ]
