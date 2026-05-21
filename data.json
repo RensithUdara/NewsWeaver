@@ -274594,5 +274594,11 @@
         "url": "https://www.memco.ai/field-guide",
         "timestamp": "2026-05-21T22:54:33.436798",
         "source": "Hacker News"
+    },
+    {
+        "title": "Aiointerpreters – Run CPU bound code in subinterpreters using asyncio",
+        "url": "https://github.com/Jamie-Chang/aiointerpreters",
+        "timestamp": "2026-05-21T22:54:33.436826",
+        "source": "Hacker News"
     }
 ]
