@@ -274774,5 +274774,11 @@
         "url": "https://frigade.com/blog/describe-the-world-not-the-widget",
         "timestamp": "2026-05-21T23:51:21.238015",
         "source": "Hacker News"
+    },
+    {
+        "title": "Genkit Middleware: Intercept, extend, and harden your agentic apps",
+        "url": "https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/",
+        "timestamp": "2026-05-21T23:51:21.238049",
+        "source": "Hacker News"
     }
 ]
