@@ -272764,5 +272764,11 @@
         "url": "https://www.ft.com/content/92a167c0-206b-4408-9a60-f56c6f68cf6a",
         "timestamp": "2026-05-21T02:48:52.696586",
         "source": "Hacker News"
+    },
+    {
+        "title": "PyTorch 2.12 Release",
+        "url": "https://pytorch.org/blog/pytorch-2-12-release-blog/",
+        "timestamp": "2026-05-21T02:48:52.696614",
+        "source": "Hacker News"
     }
 ]
