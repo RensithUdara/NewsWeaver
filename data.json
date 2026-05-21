@@ -272794,5 +272794,11 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7308241/",
         "timestamp": "2026-05-21T02:48:52.696728",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building DeepSeek's Answer to Claude Code",
+        "url": "https://dlcmh.github.io/deepseek-harness",
+        "timestamp": "2026-05-21T02:48:52.696755",
+        "source": "Hacker News"
     }
 ]
