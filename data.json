@@ -273508,5 +273508,11 @@
         "url": "https://news.ycombinator.com/item?id=48222290",
         "timestamp": "2026-05-21T13:41:22.065126",
         "source": "Hacker News"
+    },
+    {
+        "title": "Avoid unnecessary parser lookahead for operators",
+        "url": "https://github.com/astral-sh/ruff/pull/25290",
+        "timestamp": "2026-05-21T13:41:22.065161",
+        "source": "Hacker News"
     }
 ]
