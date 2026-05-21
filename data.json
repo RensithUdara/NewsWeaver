@@ -273244,5 +273244,11 @@
         "url": "https://reason.com/2026/05/15/the-surprising-divide-over-what-counts-as-true/",
         "timestamp": "2026-05-21T10:23:43.985023",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nvidia unveils its spreading language model, \"Nemotron-Labs-Diffusion\"",
+        "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-14B",
+        "timestamp": "2026-05-21T10:23:43.985058",
+        "source": "Hacker News"
     }
 ]
