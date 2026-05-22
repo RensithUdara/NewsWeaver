@@ -275902,5 +275902,11 @@
         "url": "https://tinycld.org/",
         "timestamp": "2026-05-22T15:25:33.750552",
         "source": "Hacker News"
+    },
+    {
+        "title": "A fake client's project tried to hack my machine with RCE",
+        "url": "https://dev.shivagaire.com.np/linkedin-client-rce-backdoor-npm-install",
+        "timestamp": "2026-05-22T15:25:33.750581",
+        "source": "Hacker News"
     }
 ]
