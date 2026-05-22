@@ -276094,5 +276094,11 @@
         "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
         "timestamp": "2026-05-22T17:21:02.414430",
         "source": "Hacker News"
+    },
+    {
+        "title": "RL Doesn't Work on Slurm",
+        "url": "https://blog.skypilot.co/rl-doesnt-work-on-slurm/",
+        "timestamp": "2026-05-22T17:21:02.414459",
+        "source": "Hacker News"
     }
 ]
