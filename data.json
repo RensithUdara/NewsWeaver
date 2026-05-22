@@ -275860,5 +275860,11 @@
         "url": "https://en.wikipedia.org/wiki/Aldus_Manutius",
         "timestamp": "2026-05-22T15:25:33.750324",
         "source": "Hacker News"
+    },
+    {
+        "title": "Recreating a Two Million Particle World at 30 Hz over WebSocket with Centrifugo",
+        "url": "https://centrifugal.dev/blog/2026/05/21/two-million-particles-on-centrifugo",
+        "timestamp": "2026-05-22T15:25:33.750354",
+        "source": "Hacker News"
     }
 ]
