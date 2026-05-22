@@ -275164,5 +275164,11 @@
         "url": "https://acepace.net/integerQuiz/",
         "timestamp": "2026-05-22T06:30:28.729238",
         "source": "Hacker News"
+    },
+    {
+        "title": "PopPy: Opportunistically Exploiting Parallelism in Python Compound AI Apps",
+        "url": "https://arxiv.org/abs/2605.18697",
+        "timestamp": "2026-05-22T06:30:28.729266",
+        "source": "Hacker News"
     }
 ]
