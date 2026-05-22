@@ -276160,5 +276160,11 @@
         "url": "https://demo.snapmeasureai.com/",
         "timestamp": "2026-05-22T17:21:02.414771",
         "source": "Hacker News"
+    },
+    {
+        "title": "Backtesting 500 weather-market bots on Kalshi",
+        "url": "https://www.turbinefi.com/blog/500-weather-strategy-backtest-kalshi-new-york-temperature",
+        "timestamp": "2026-05-22T17:21:02.414800",
+        "source": "Hacker News"
     }
 ]
