@@ -275074,5 +275074,11 @@
         "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
         "timestamp": "2026-05-22T06:30:28.453644",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: KVBoost – chunk-level KV cache reuse for HuggingFace, 5–48x faster TTFT",
+        "url": "https://pythongiant.github.io/KVBoost/",
+        "timestamp": "2026-05-22T06:30:28.453701",
+        "source": "Hacker News"
     }
 ]
