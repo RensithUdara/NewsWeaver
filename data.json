@@ -275608,5 +275608,11 @@
         "url": "https://faingezicht.com/articles/2026/04/14/emergent-inequality/",
         "timestamp": "2026-05-22T12:16:55.156928",
         "source": "Hacker News"
+    },
+    {
+        "title": "I wanted async/await but I got a concurrency model",
+        "url": "https://blog.kulman.sk/i-wanted-async-await/",
+        "timestamp": "2026-05-22T12:16:55.156949",
+        "source": "Hacker News"
     }
 ]
