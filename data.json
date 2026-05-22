@@ -276526,5 +276526,11 @@
         "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
         "timestamp": "2026-05-22T20:45:49.854932",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linux LPE via GRO managed-frag UAF (io_uring SEND_ZC and veth)",
+        "url": "https://gist.github.com/lcfr-eth/2566a5cef312c94a5ff8d62fa417955f",
+        "timestamp": "2026-05-22T20:45:49.854964",
+        "source": "Hacker News"
     }
 ]
