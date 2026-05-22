@@ -275818,5 +275818,11 @@
         "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
         "timestamp": "2026-05-22T15:25:33.750115",
         "source": "Hacker News"
+    },
+    {
+        "title": "Don't put aria-label on generic elements like divs",
+        "url": "https://www.matuzo.at/blog/2026/aria-label-generic-elements",
+        "timestamp": "2026-05-22T15:25:33.750145",
+        "source": "Hacker News"
     }
 ]
