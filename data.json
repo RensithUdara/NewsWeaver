@@ -276472,5 +276472,11 @@
         "url": "https://www.anthropic.com/research/glasswing-initial-update",
         "timestamp": "2026-05-22T20:45:49.680948",
         "source": "Hacker News"
+    },
+    {
+        "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+        "url": "https://github.com/anomalyco/models.dev",
+        "timestamp": "2026-05-22T20:45:49.681127",
+        "source": "Hacker News"
     }
 ]
