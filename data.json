@@ -276982,5 +276982,11 @@
         "url": "https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/",
         "timestamp": "2026-05-22T22:43:07.210637",
         "source": "Hacker News"
+    },
+    {
+        "title": "DeadBro – Lightweight APM for Rails apps (N+1 detection, error tracking, alerts)",
+        "url": "https://www.deadbro.com/",
+        "timestamp": "2026-05-22T22:43:07.210665",
+        "source": "Hacker News"
     }
 ]
