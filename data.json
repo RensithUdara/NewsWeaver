@@ -276358,5 +276358,11 @@
         "url": "https://arxiv.org/abs/2605.22001",
         "timestamp": "2026-05-22T19:09:43.974337",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tell HN: Packj flags malicious/risky open-source packages",
+        "url": "https://github.com/ossillate-inc/packj",
+        "timestamp": "2026-05-22T19:09:43.974365",
+        "source": "Hacker News"
     }
 ]
