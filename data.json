@@ -276244,5 +276244,11 @@
         "url": "https://www.kanbots.dev/",
         "timestamp": "2026-05-22T19:09:43.797753",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bun support is now limited and deprecated",
+        "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
+        "timestamp": "2026-05-22T19:09:43.797823",
+        "source": "Hacker News"
     }
 ]
