@@ -276742,5 +276742,11 @@
         "url": "https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/",
         "timestamp": "2026-05-22T21:48:04.675633",
         "source": "Hacker News"
+    },
+    {
+        "title": "Oops you specified provider but forgot quant",
+        "url": "https://github.com/qpwo/openrouter_triples",
+        "timestamp": "2026-05-22T21:48:04.675699",
+        "source": "Hacker News"
     }
 ]
