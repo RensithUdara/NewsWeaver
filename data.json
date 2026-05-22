@@ -275044,5 +275044,11 @@
         "url": "https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/",
         "timestamp": "2026-05-22T02:27:34.310119",
         "source": "TechCrunch"
+    },
+    {
+        "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+        "url": "https://arxiv.org/abs/2605.19269",
+        "timestamp": "2026-05-22T06:30:28.453374",
+        "source": "Hacker News"
     }
 ]
