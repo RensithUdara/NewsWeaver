@@ -276868,5 +276868,11 @@
         "url": "https://www.scrolllaunch.com",
         "timestamp": "2026-05-22T21:48:04.676464",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Had to Build a Cryptographic Audit Trail Just to Prove I Wrote My Own Code",
+        "url": "https://github.com/jaysyrk/teleos",
+        "timestamp": "2026-05-22T21:48:04.676500",
+        "source": "Hacker News"
     }
 ]
