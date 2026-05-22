@@ -276772,5 +276772,11 @@
         "url": "https://en.wikipedia.org/wiki/Dead_metaphor",
         "timestamp": "2026-05-22T21:48:04.675854",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Microcodegen.py – PRD → FastAPI app, one file, no LLM calls",
+        "url": "https://github.com/Anioko/microcodegen",
+        "timestamp": "2026-05-22T21:48:04.675891",
+        "source": "Hacker News"
     }
 ]
