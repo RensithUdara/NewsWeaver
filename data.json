@@ -275134,5 +275134,11 @@
         "url": "https://chatgpt.com/apps/powerpoint/",
         "timestamp": "2026-05-22T06:30:28.729097",
         "source": "Hacker News"
+    },
+    {
+        "title": "Efficient, SQL-backed C++ project indexer designed for large codebases",
+        "url": "https://github.com/walti1972/mcp-cpp-project-indexer",
+        "timestamp": "2026-05-22T06:30:28.729125",
+        "source": "Hacker News"
     }
 ]
