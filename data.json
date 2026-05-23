@@ -280102,5 +280102,11 @@
         "url": "https://candost.blog/newsletter/mediations-38/",
         "timestamp": "2026-05-23T22:31:02.280868",
         "source": "Hacker News"
+    },
+    {
+        "title": "We reduced a real Node.js production Docker image from 1.2GB to 78MB",
+        "url": "https://the-practical-developer.online/posts/docker-image-from-1gb-to-80mb/",
+        "timestamp": "2026-05-23T22:31:02.280908",
+        "source": "Hacker News"
     }
 ]
