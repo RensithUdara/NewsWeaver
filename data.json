@@ -279076,5 +279076,11 @@
         "url": "https://invoker.build",
         "timestamp": "2026-05-23T16:33:55.031164",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built a RAG and knowledge graph agent that runs locally",
+        "url": "https://news.ycombinator.com/item?id=48248801",
+        "timestamp": "2026-05-23T16:33:55.031193",
+        "source": "Hacker News"
     }
 ]
