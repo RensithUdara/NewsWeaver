@@ -277282,5 +277282,11 @@
         "url": "https://hypergrid.systems/war.gov-ufo-viewer/microfilm5",
         "timestamp": "2026-05-23T01:29:16.648146",
         "source": "Hacker News"
+    },
+    {
+        "title": "Malicious Postinstall Hook Found in 700 GitHub Repos, Including Node Projects",
+        "url": "https://socket.dev/blog/malicious-postinstall-hook-found-across-700-github-repos",
+        "timestamp": "2026-05-23T01:29:16.648192",
+        "source": "Hacker News"
     }
 ]
