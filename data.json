@@ -280246,5 +280246,11 @@
         "url": "https://fruitsy.surge.sh",
         "timestamp": "2026-05-23T23:34:46.472987",
         "source": "Hacker News"
+    },
+    {
+        "title": "Codex is flagged as malware on macOS",
+        "url": "https://github.com/openai/codex/issues/23195",
+        "timestamp": "2026-05-23T23:34:46.473043",
+        "source": "Hacker News"
     }
 ]
