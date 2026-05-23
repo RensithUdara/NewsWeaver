@@ -279178,5 +279178,11 @@
         "url": "https://substack.com/@netaskari/p-196106121",
         "timestamp": "2026-05-23T17:38:42.721803",
         "source": "Hacker News"
+    },
+    {
+        "title": "mvm – a fast virtual machine for Go",
+        "url": "https://mvm.sh/",
+        "timestamp": "2026-05-23T17:38:42.721842",
+        "source": "Hacker News"
     }
 ]
