@@ -278104,5 +278104,11 @@
         "url": "https://overco.de/posts/ai-doesnt-divide-developers-it-just-reveals-them/",
         "timestamp": "2026-05-23T10:48:18.480651",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fast, portable, non-Turing complete expression evaluation with gradual typing",
+        "url": "https://github.com/google/cel-go",
+        "timestamp": "2026-05-23T10:48:18.480690",
+        "source": "Hacker News"
     }
 ]
