@@ -278908,5 +278908,11 @@
         "url": "https://noqta.tn/en/news/polsia-ai-autonomous-company-30m-funding-2026",
         "timestamp": "2026-05-23T15:32:52.261304",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kysely (the type-safe SQL query builder for TypeScript) v0.29 is out btw",
+        "url": "https://github.com/kysely-org/kysely/releases/tag/v0.29.0",
+        "timestamp": "2026-05-23T15:32:52.261343",
+        "source": "Hacker News"
     }
 ]
