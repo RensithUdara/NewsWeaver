@@ -277492,5 +277492,11 @@
         "url": "https://dannorth.net/blog/introducing-bdd/",
         "timestamp": "2026-05-23T05:03:19.033628",
         "source": "Hacker News"
+    },
+    {
+        "title": "Computing the billionth prime in 1s with LLVM IR",
+        "url": "https://github.com/SheafificationOfG/QueenJewels",
+        "timestamp": "2026-05-23T05:03:19.033686",
+        "source": "Hacker News"
     }
 ]
