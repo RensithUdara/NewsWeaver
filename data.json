@@ -279220,5 +279220,11 @@
         "url": "https://davidgasquez.com/keep-your-slop-to-yourself",
         "timestamp": "2026-05-23T17:38:42.722082",
         "source": "Hacker News"
+    },
+    {
+        "title": "KinetiX: An intra-inference hardware interlock for LLMs",
+        "url": "https://github.com/johndoerch-eng/kinetix-latent-interlock",
+        "timestamp": "2026-05-23T17:38:42.722124",
+        "source": "Hacker News"
     }
 ]
