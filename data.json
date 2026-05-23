@@ -278020,5 +278020,11 @@
         "url": "https://idlewords.com/talks/ancient_web.htm",
         "timestamp": "2026-05-23T09:23:19.189016",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building an AWS Lambda-Like Runtime with Firecracker MicroVMs",
+        "url": "https://medium.com/@vivek1502/building-an-aws-lambda-like-runtime-with-firecracker-microvms-42a418c6e3d7",
+        "timestamp": "2026-05-23T09:23:19.189051",
+        "source": "Hacker News"
     }
 ]
