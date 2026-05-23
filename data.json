@@ -278158,5 +278158,11 @@
         "url": "https://en.wikipedia.org/wiki/Gu%C3%B0laugur_Fri%C3%B0%C3%BE%C3%B3rsson",
         "timestamp": "2026-05-23T10:48:18.481011",
         "source": "Hacker News"
+    },
+    {
+        "title": "Modulejail: Proactively shrink a Linux host's kernel-module attack surface",
+        "url": "https://github.com/jnuyens/modulejail",
+        "timestamp": "2026-05-23T10:48:18.481045",
+        "source": "Hacker News"
     }
 ]
