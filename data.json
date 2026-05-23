@@ -278812,5 +278812,11 @@
         "url": "https://gekk.info/articles/hp-quickweb.htm",
         "timestamp": "2026-05-23T15:32:52.260673",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open source Linux c2 inspired by void link C2",
+        "url": "https://github.com/josephrw12/cortex-c2",
+        "timestamp": "2026-05-23T15:32:52.260711",
+        "source": "Hacker News"
     }
 ]
