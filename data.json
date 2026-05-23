@@ -279670,5 +279670,11 @@
         "url": "https://www.counting-stuff.com/reflections-on-building-forum-software/",
         "timestamp": "2026-05-23T20:33:10.492851",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code isolated inside Docker with dmenu and fzf (POSIX sh)",
+        "url": "https://github.com/shirozuki/claude-cli",
+        "timestamp": "2026-05-23T20:33:10.802804",
+        "source": "Hacker News"
     }
 ]
