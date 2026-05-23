@@ -277324,5 +277324,11 @@
         "url": "https://github.com/pnegahdar/nano",
         "timestamp": "2026-05-23T01:29:16.648408",
         "source": "Hacker News"
+    },
+    {
+        "title": "The abstractions in SICP need a revisit",
+        "url": "https://www.khola.blog/p/sicp-an-architectural-trace-of-pointer",
+        "timestamp": "2026-05-23T01:29:16.648443",
+        "source": "Hacker News"
     }
 ]
