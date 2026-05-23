@@ -279484,5 +279484,11 @@
         "url": "https://veronicaexplains.net/my-first-writerdeck/",
         "timestamp": "2026-05-23T19:47:28.357388",
         "source": "Hacker News"
+    },
+    {
+        "title": "We made our filesystem 47× faster by deleting it",
+        "url": "https://microsandbox.dev/blog/oci-filesystem-47x-faster",
+        "timestamp": "2026-05-23T19:47:28.357709",
+        "source": "Hacker News"
     }
 ]
