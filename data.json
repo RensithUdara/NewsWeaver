@@ -277558,5 +277558,11 @@
         "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
         "timestamp": "2026-05-23T05:03:19.034112",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zero-dependency CLI that converts LinkedIn exports into Markdown for LLMs",
+        "url": "https://linkedin2md.daza.ar/",
+        "timestamp": "2026-05-23T05:03:19.034145",
+        "source": "Hacker News"
     }
 ]
