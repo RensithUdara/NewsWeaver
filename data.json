@@ -278614,5 +278614,11 @@
         "url": "https://www.bloomberg.com/news/articles/2026-05-20/airbnb-s-chesky-says-us-misunderstanding-use-of-chinese-open-source-ai-models",
         "timestamp": "2026-05-23T14:16:39.163294",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLM's code is just untrusted text, until you validate it",
+        "url": "https://hack8s.com/244/llms-code-is-just-untrusted-text-until-you-validate-it",
+        "timestamp": "2026-05-23T14:16:39.163345",
+        "source": "Hacker News"
     }
 ]
