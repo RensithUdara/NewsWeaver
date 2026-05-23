@@ -278548,5 +278548,11 @@
         "url": "https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html",
         "timestamp": "2026-05-23T12:45:20.948600",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building Self-Extending CLI Tools with Strands Agent",
+        "url": "https://aws.amazon.com/blogs/devops/building-self-extending-cli-tools-with-aws-strands/",
+        "timestamp": "2026-05-23T12:45:20.948629",
+        "source": "Hacker News"
     }
 ]
