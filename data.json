@@ -278344,5 +278344,11 @@
         "url": "https://hollisrobbinsanecdotal.substack.com/p/how-to-make-a-mint-off-the-coming",
         "timestamp": "2026-05-23T11:47:47.973789",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ccost – a Rust TUI to browse Claude Code logs and track API costs",
+        "url": "https://github.com/peterxcli/ccost",
+        "timestamp": "2026-05-23T11:47:47.973820",
+        "source": "Hacker News"
     }
 ]
