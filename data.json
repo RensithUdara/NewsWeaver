@@ -277534,5 +277534,11 @@
         "url": "https://news.ycombinator.com/item?id=48244732",
         "timestamp": "2026-05-23T05:03:19.033941",
         "source": "Hacker News"
+    },
+    {
+        "title": "Supply Chain Attack Targets Laravel-Lang Packages with Credential Stealer",
+        "url": "https://www.aikido.dev/blog/supply-chain-attack-targets-laravel-lang-packages-with-credential-stealer",
+        "timestamp": "2026-05-23T05:03:19.033976",
+        "source": "Hacker News"
     }
 ]
