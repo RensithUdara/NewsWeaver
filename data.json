@@ -279352,5 +279352,11 @@
         "url": "https://aios.perabytelabs.com",
         "timestamp": "2026-05-23T18:40:02.264149",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tick Architecture",
+        "url": "https://kx.com/blog/tick-architecture-simplicity-and-speed-the-kdb-way/",
+        "timestamp": "2026-05-23T18:40:02.264186",
+        "source": "Hacker News"
     }
 ]
