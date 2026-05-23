@@ -277732,5 +277732,11 @@
         "url": "https://pastebin.com/jQjvNrvA",
         "timestamp": "2026-05-23T07:37:10.975693",
         "source": "Hacker News"
+    },
+    {
+        "title": "Parsing IPv6 Addresses Crazily Fast with AVX-512",
+        "url": "https://lemire.me/blog/2026/05/23/parsing-ipv6-addresses-crazily-fast-with-avx-512/",
+        "timestamp": "2026-05-23T07:37:10.975728",
+        "source": "Hacker News"
     }
 ]
