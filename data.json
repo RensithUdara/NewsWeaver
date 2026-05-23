@@ -277798,5 +277798,11 @@
         "url": "https://news.sky.com/story/uk-faces-economic-catastrophe-unless-it-adapts-to-young-people-rewired-by-smartphones-13547229",
         "timestamp": "2026-05-23T07:37:10.976068",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pip 26.1 Ships Dependency Cooldowns and Experimental Lockfile Support",
+        "url": "https://www.infoq.com/news/2026/05/pip-261-dependency-cooldowns/",
+        "timestamp": "2026-05-23T07:37:10.976102",
+        "source": "Hacker News"
     }
 ]
