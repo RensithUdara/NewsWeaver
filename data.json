@@ -278698,5 +278698,11 @@
         "url": "https://centaur.run/",
         "timestamp": "2026-05-23T14:16:39.163949",
         "source": "Hacker News"
+    },
+    {
+        "title": "Emerging Patterns in Building GenAI Products",
+        "url": "https://martinfowler.com/articles/gen-ai-patterns/",
+        "timestamp": "2026-05-23T14:16:39.163984",
+        "source": "Hacker News"
     }
 ]
