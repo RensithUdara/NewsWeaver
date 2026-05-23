@@ -277630,5 +277630,11 @@
         "url": "https://news.ycombinator.com/item?id=48244375",
         "timestamp": "2026-05-23T05:03:19.034587",
         "source": "Hacker News"
+    },
+    {
+        "title": "Laravel Lang Compromised with RCE Backdoor Across 700 Versions",
+        "url": "https://socket.dev/blog/laravel-lang-compromise",
+        "timestamp": "2026-05-23T05:03:19.034623",
+        "source": "Hacker News"
     }
 ]
