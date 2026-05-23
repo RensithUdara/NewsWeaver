@@ -278626,5 +278626,11 @@
         "url": "https://fed.run",
         "timestamp": "2026-05-23T14:16:39.163415",
         "source": "Hacker News"
+    },
+    {
+        "title": "Preventing AI agents from executing destructive terminal commands",
+        "url": "https://github.com/7Majesty-M/terminal-guardian-mcp",
+        "timestamp": "2026-05-23T14:16:39.163457",
+        "source": "Hacker News"
     }
 ]
