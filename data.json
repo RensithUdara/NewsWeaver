@@ -277900,5 +277900,11 @@
         "url": "https://web.archive.org/web/20091103162537/http://software.intel.com/en-us/articles/what-the-is-parallelism-anyhow-1/",
         "timestamp": "2026-05-23T09:23:19.188249",
         "source": "Hacker News"
+    },
+    {
+        "title": "Speeding up MuJoCo 460x with Jax",
+        "url": "https://www.alexinch.com/blog/mjx",
+        "timestamp": "2026-05-23T09:23:19.188298",
+        "source": "Hacker News"
     }
 ]
