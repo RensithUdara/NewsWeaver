@@ -278416,5 +278416,11 @@
         "url": "https://publicdomainreview.org/collection/pushball/",
         "timestamp": "2026-05-23T11:47:47.974163",
         "source": "Hacker News"
+    },
+    {
+        "title": "Edge-native news platform with a JWT paywall running Fastly's edge stack",
+        "url": "https://www.the-daily-edge.com/",
+        "timestamp": "2026-05-23T11:47:47.974221",
+        "source": "Hacker News"
     }
 ]
