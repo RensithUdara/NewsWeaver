@@ -279730,5 +279730,11 @@
         "url": "https://www.davidpoll.com/2026/02/code-review-is-not-about-catching-bugs/",
         "timestamp": "2026-05-23T20:33:10.803110",
         "source": "Hacker News"
+    },
+    {
+        "title": "GateGraph – a gate that decides if an AI agent action may proceed before it runs",
+        "url": "https://github.com/humancoreai/Gategraph",
+        "timestamp": "2026-05-23T20:33:10.803138",
+        "source": "Hacker News"
     }
 ]
