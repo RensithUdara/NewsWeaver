@@ -278050,5 +278050,11 @@
         "url": "https://codecrafters.io/blog/pausing-new-challenges",
         "timestamp": "2026-05-23T09:23:19.189195",
         "source": "Hacker News"
+    },
+    {
+        "title": "I reproduced a Claude Code RCE. The bug pattern is everywhere",
+        "url": "https://vechron.com/2026/05/i-reproduced-a-claude-code-rce-the-bug-pattern-is-everywhere/",
+        "timestamp": "2026-05-23T09:23:19.189230",
+        "source": "Hacker News"
     }
 ]
