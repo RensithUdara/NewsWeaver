@@ -279556,5 +279556,11 @@
         "url": "https://news.ycombinator.com/item?id=48250592",
         "timestamp": "2026-05-23T19:47:28.655333",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cisco Foundry Security Spec: Open specification for agentic security evaluation",
+        "url": "https://github.com/CiscoDevNet/foundry-security-spec",
+        "timestamp": "2026-05-23T19:47:28.655362",
+        "source": "Hacker News"
     }
 ]
