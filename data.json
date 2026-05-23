@@ -280078,5 +280078,11 @@
         "url": "https://www.medpagetoday.com/meetingcoverage/asco/121397",
         "timestamp": "2026-05-23T22:31:02.280660",
         "source": "Hacker News"
+    },
+    {
+        "title": "Shamelessly vibecoded rust NTFS driver",
+        "url": "https://github.com/christhomas/rust-fs-ntfs",
+        "timestamp": "2026-05-23T22:31:02.280746",
+        "source": "Hacker News"
     }
 ]
