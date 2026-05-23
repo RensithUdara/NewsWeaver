@@ -277540,5 +277540,11 @@
         "url": "https://www.aikido.dev/blog/supply-chain-attack-targets-laravel-lang-packages-with-credential-stealer",
         "timestamp": "2026-05-23T05:03:19.033976",
         "source": "Hacker News"
+    },
+    {
+        "title": "Perplexity Bumblebee: Read-Only Tool for Dev Supply Chain Checks on macOS/Linux",
+        "url": "https://github.com/perplexityai/bumblebee",
+        "timestamp": "2026-05-23T05:03:19.034045",
+        "source": "Hacker News"
     }
 ]
