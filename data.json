@@ -277780,5 +277780,11 @@
         "url": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
         "timestamp": "2026-05-23T07:37:10.975966",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rubish: A Unix shell written in pure Ruby",
+        "url": "https://github.com/amatsuda/rubish",
+        "timestamp": "2026-05-23T07:37:10.975999",
+        "source": "Hacker News"
     }
 ]
