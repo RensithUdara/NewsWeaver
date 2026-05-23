@@ -278746,5 +278746,11 @@
         "url": "https://extensy.dev",
         "timestamp": "2026-05-23T14:16:39.164227",
         "source": "Hacker News"
+    },
+    {
+        "title": "How Metrics Drift: Goodhart's Law, Metric Gaming, and Reality Drift [pdf]",
+        "url": "https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/03_Research_and_Papers/07_Mechanism_Notes/when-metrics-become-targets-goodharts-law-and-metric-gaming.pdf",
+        "timestamp": "2026-05-23T14:16:39.164261",
+        "source": "Hacker News"
     }
 ]
