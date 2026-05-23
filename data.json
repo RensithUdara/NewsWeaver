@@ -277312,5 +277312,11 @@
         "url": "https://thehill.com/homenews/administration/5891580-legal-migrants-green-cards/",
         "timestamp": "2026-05-23T01:29:16.648337",
         "source": "Hacker News"
+    },
+    {
+        "title": "Laravel-Lang Supply Chain Attack",
+        "url": "https://github.com/Laravel-Lang/http-statuses/issues/277",
+        "timestamp": "2026-05-23T01:29:16.648373",
+        "source": "Hacker News"
     }
 ]
