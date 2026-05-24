@@ -281716,5 +281716,11 @@
         "url": "https://blog.sintef.com/energy/efficient-way-to-cool-a-drink/",
         "timestamp": "2026-05-24T15:33:52.196554",
         "source": "Hacker News"
+    },
+    {
+        "title": "DeepSeek Sparse Attention",
+        "url": "https://github.com/rasbt/LLMs-from-scratch/tree/main/ch04%2F09_dsa",
+        "timestamp": "2026-05-24T15:33:52.196584",
+        "source": "Hacker News"
     }
 ]
