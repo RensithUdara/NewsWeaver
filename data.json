@@ -281032,5 +281032,11 @@
         "url": "https://www.bbc.com/news/articles/cedpz1zqp8po",
         "timestamp": "2026-05-24T10:04:08.399835",
         "source": "Hacker News"
+    },
+    {
+        "title": "Build-time sponsorship verification for OSS libraries installed via NuGet",
+        "url": "https://github.com/SimonCropp/SponsorCheck",
+        "timestamp": "2026-05-24T10:04:08.399863",
+        "source": "Hacker News"
     }
 ]
