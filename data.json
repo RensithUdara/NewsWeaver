@@ -281476,5 +281476,11 @@
         "url": "https://news.ycombinator.com/item?id=48257336",
         "timestamp": "2026-05-24T14:12:03.689263",
         "source": "Hacker News"
+    },
+    {
+        "title": "Migrating a dozen side projects from Azure to one VPS with an LLM agent",
+        "url": "https://victorantos.com/posts/from-azure-to-one-vps-llm-migration/",
+        "timestamp": "2026-05-24T14:12:03.689292",
+        "source": "Hacker News"
     }
 ]
