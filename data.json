@@ -280714,5 +280714,11 @@
         "url": "https://fermatslibrary.com/s/sleep-and-mortality-a-population-based-22-year-follow-up-study",
         "timestamp": "2026-05-24T08:06:51.439633",
         "source": "Hacker News"
+    },
+    {
+        "title": "Local Root Privilege Escalation and Credential Disclosure in the Linux Kernel",
+        "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/05/20/cve-2026-46333-local-root-privilege-escalation-and-credential-disclosure-in-the-linux-kernel-ptrace-path",
+        "timestamp": "2026-05-24T08:06:51.439661",
+        "source": "Hacker News"
     }
 ]
