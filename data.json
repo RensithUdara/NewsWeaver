@@ -282586,5 +282586,11 @@
         "url": "https://news.ycombinator.com/item?id=48260692",
         "timestamp": "2026-05-24T20:42:16.512150",
         "source": "Hacker News"
+    },
+    {
+        "title": "A PR proposes to stabilize the Rust allocator API",
+        "url": "https://github.com/rust-lang/rust/pull/156882",
+        "timestamp": "2026-05-24T20:42:16.512167",
+        "source": "Hacker News"
     }
 ]
