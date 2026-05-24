@@ -282940,5 +282940,11 @@
         "url": "https://github.com/AlexWasHeree/NoteCast",
         "timestamp": "2026-05-24T22:38:24.644784",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to Catch Risky JavaScript Bugs with ESLint-plugin-security",
+        "url": "https://jsdev.space/howto/eslint-plugin-security/",
+        "timestamp": "2026-05-24T22:38:24.644828",
+        "source": "Hacker News"
     }
 ]
