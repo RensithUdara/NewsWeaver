@@ -282538,5 +282538,11 @@
         "url": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
         "timestamp": "2026-05-24T20:42:16.423617",
         "source": "Hacker News"
+    },
+    {
+        "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
+        "url": "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
+        "timestamp": "2026-05-24T20:42:16.423722",
+        "source": "Hacker News"
     }
 ]
