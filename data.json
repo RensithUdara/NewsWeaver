@@ -280420,5 +280420,11 @@
         "url": "https://news.ycombinator.com/item?id=48253012",
         "timestamp": "2026-05-24T01:32:13.193900",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bateschess – Chess Analytics Feeding Stockfish Evals into LLM's",
+        "url": "https://bateschess.com",
+        "timestamp": "2026-05-24T01:32:13.193929",
+        "source": "Hacker News"
     }
 ]
