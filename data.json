@@ -281614,5 +281614,11 @@
         "url": "https://esengine.github.io/DeepSeek-Reasonix/",
         "timestamp": "2026-05-24T15:33:52.021747",
         "source": "Hacker News"
+    },
+    {
+        "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+        "url": "https://arxiv.org/abs/2605.06445",
+        "timestamp": "2026-05-24T15:33:52.021850",
+        "source": "Hacker News"
     }
 ]
