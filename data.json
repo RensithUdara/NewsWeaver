@@ -281296,5 +281296,11 @@
         "url": "https://news.ycombinator.com/item?id=48256791",
         "timestamp": "2026-05-24T12:43:22.857557",
         "source": "Hacker News"
+    },
+    {
+        "title": "I missed NETworkManager on Windows so I built a Linux equivalent",
+        "url": "https://github.com/thongor77/nmlinux",
+        "timestamp": "2026-05-24T12:43:22.857593",
+        "source": "Hacker News"
     }
 ]
