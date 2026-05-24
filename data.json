@@ -281128,5 +281128,11 @@
         "url": "https://www.satisfice.com/responsible",
         "timestamp": "2026-05-24T11:35:21.361462",
         "source": "Hacker News"
+    },
+    {
+        "title": "I bypassed AWS API Gateway auth with a trailing slash. Got $12K bounty",
+        "url": "https://theguptalog.blogspot.com/2026/04/i-bypassed-aws-api-gateway-auth-with.html",
+        "timestamp": "2026-05-24T11:35:21.361490",
+        "source": "Hacker News"
     }
 ]
