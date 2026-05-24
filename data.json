@@ -282718,5 +282718,11 @@
         "url": "https://blog.bridgexapi.io/delivery-is-a-routing-problem-not-a-messaging-problem",
         "timestamp": "2026-05-24T21:39:34.681893",
         "source": "Hacker News"
+    },
+    {
+        "title": "Is DDD Overkill for My CRUD Project?",
+        "url": "https://docs.eventsourcingdb.io/blog/2026/05/25/is-ddd-overkill-for-my-crud-project/",
+        "timestamp": "2026-05-24T21:39:34.681909",
+        "source": "Hacker News"
     }
 ]
