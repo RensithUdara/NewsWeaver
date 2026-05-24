@@ -281386,5 +281386,11 @@
         "url": "https://github.com/Hookwarden/hookwarden",
         "timestamp": "2026-05-24T12:43:22.858099",
         "source": "Hacker News"
+    },
+    {
+        "title": "Software Engineering at Google",
+        "url": "https://abseil.io/resources/swe-book",
+        "timestamp": "2026-05-24T12:43:22.858133",
+        "source": "Hacker News"
     }
 ]
