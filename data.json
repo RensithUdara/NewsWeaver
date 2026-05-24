@@ -280930,5 +280930,11 @@
         "url": "https://www.theverge.com/tech/936822/google-discovers-headline-rewrites-strike-again",
         "timestamp": "2026-05-24T10:04:08.399263",
         "source": "Hacker News"
+    },
+    {
+        "title": "Google adds llms.txt check to Chrome Lighthouse",
+        "url": "https://searchengineland.com/google-llms-txt-chrome-lighthouse-478246",
+        "timestamp": "2026-05-24T10:04:08.399293",
+        "source": "Hacker News"
     }
 ]
