@@ -281422,5 +281422,11 @@
         "url": "https://www.datamatastudios.com/tools",
         "timestamp": "2026-05-24T12:43:22.858299",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lance – native supports image and video understanding, generation, and editing",
+        "url": "https://huggingface.co/bytedance-research/Lance",
+        "timestamp": "2026-05-24T12:43:22.858367",
+        "source": "Hacker News"
     }
 ]
