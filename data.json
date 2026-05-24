@@ -280546,5 +280546,11 @@
         "url": "https://korbonits.com/blog/2026-05-23-the-verification-problem/",
         "timestamp": "2026-05-24T05:42:58.877937",
         "source": "Hacker News"
+    },
+    {
+        "title": "Does bulk memmove speed up std:remove_if? (No.)",
+        "url": "https://quuxplusone.github.io/blog/2026/05/23/chunked-remove/",
+        "timestamp": "2026-05-24T05:42:58.878007",
+        "source": "Hacker News"
     }
 ]
