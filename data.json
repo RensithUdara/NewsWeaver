@@ -280822,5 +280822,11 @@
         "url": "https://dianagabaldon.com/2022/05/the-shape-of-things-2/",
         "timestamp": "2026-05-24T08:06:51.440149",
         "source": "Hacker News"
+    },
+    {
+        "title": "Beyond HTTP: Exposing WebRTC and Local Game Servers via UDP Tunnels",
+        "url": "https://claude.ai/public/artifacts/e608fb30-b023-4263-b693-ef04fab85be9",
+        "timestamp": "2026-05-24T08:06:51.440177",
+        "source": "Hacker News"
     }
 ]
