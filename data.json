@@ -281362,5 +281362,11 @@
         "url": "https://agenvoy.com/",
         "timestamp": "2026-05-24T12:43:22.857966",
         "source": "Hacker News"
+    },
+    {
+        "title": "Are Determinacy-Race Bugs Lurking in Your Multicore Application? (2009)",
+        "url": "https://web.archive.org/web/20091103173033/http://software.intel.com/en-us/articles/are-determinacy-race-bugs-lurking-in-your-multicore-application",
+        "timestamp": "2026-05-24T12:43:22.858000",
+        "source": "Hacker News"
     }
 ]
