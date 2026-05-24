@@ -282256,5 +282256,11 @@
         "url": "https://reason.com/2026/05/24/the-dj-who-brought-america-weird-al-tom-lehrer-and-cows-with-guns/",
         "timestamp": "2026-05-24T18:43:25.867170",
         "source": "Hacker News"
+    },
+    {
+        "title": "Migrating from Go to Rust",
+        "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+        "timestamp": "2026-05-24T18:43:25.867240",
+        "source": "Hacker News"
     }
 ]
