@@ -284746,5 +284746,11 @@
         "url": "https://www.theguardian.com/us-news/2026/may/25/los-angeles-delivery-robots",
         "timestamp": "2026-05-25T20:50:59.328776",
         "source": "Hacker News"
+    },
+    {
+        "title": "Slimcc: C23 compiler with C2y/GNU extensions for x86-64 Linux/BSD, written in C9",
+        "url": "https://github.com/fuhsnn/slimcc/tree/main",
+        "timestamp": "2026-05-25T20:50:59.328819",
+        "source": "Hacker News"
     }
 ]
