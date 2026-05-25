@@ -283972,5 +283972,11 @@
         "url": "https://nomagicpill.substack.com/p/confidence-scores-for-exam-questions",
         "timestamp": "2026-05-25T13:49:59.975076",
         "source": "Hacker News"
+    },
+    {
+        "title": "SQLiteGraph – embedded graph database with HNSW vector search",
+        "url": "https://github.com/oldnordic/sqlitegraph",
+        "timestamp": "2026-05-25T13:49:59.975112",
+        "source": "Hacker News"
     }
 ]
