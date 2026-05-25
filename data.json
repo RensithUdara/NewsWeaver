@@ -283486,5 +283486,11 @@
         "url": "https://github.com/atdrez/exon/discussions/2",
         "timestamp": "2026-05-25T06:07:40.044661",
         "source": "Hacker News"
+    },
+    {
+        "title": "How My minimal, memory-safe Go rsync steers clear of vulnerabilities",
+        "url": "https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/",
+        "timestamp": "2026-05-25T06:07:40.044690",
+        "source": "Hacker News"
     }
 ]
