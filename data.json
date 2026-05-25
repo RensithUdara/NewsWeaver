@@ -283630,5 +283630,11 @@
         "url": "https://beeble.com/en/blog/small-model-big-brain-why-the-27-billion-parameter-model-is-the-new-king-of-code",
         "timestamp": "2026-05-25T10:44:39.594942",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pathname lookup – The Linux Kernel documentation",
+        "url": "https://docs.kernel.org/filesystems/path-lookup.html",
+        "timestamp": "2026-05-25T10:44:39.594977",
+        "source": "Hacker News"
     }
 ]
