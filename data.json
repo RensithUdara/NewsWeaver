@@ -284434,5 +284434,11 @@
         "url": "https://nexttrain.london",
         "timestamp": "2026-05-25T17:58:50.114146",
         "source": "Hacker News"
+    },
+    {
+        "title": "What ClickHouse learned from a year of coding with AI agents",
+        "url": "https://thenewstack.io/clickhouse-ai-coding-agents/",
+        "timestamp": "2026-05-25T17:58:50.114181",
+        "source": "Hacker News"
     }
 ]
