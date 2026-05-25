@@ -284386,5 +284386,11 @@
         "url": "https://indecisiorama.bearblog.dev/bursting-my-ai-bubble/",
         "timestamp": "2026-05-25T17:58:50.113866",
         "source": "Hacker News"
+    },
+    {
+        "title": "Exit IP fingerprinting between VPN servers",
+        "url": "https://mullvad.net/en/blog/exit-ip-fingerprinting-between-vpn-servers",
+        "timestamp": "2026-05-25T17:58:50.113901",
+        "source": "Hacker News"
     }
 ]
