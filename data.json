@@ -284266,5 +284266,11 @@
         "url": "https://datacentremagazine.com/news/the-top-five-takeaways-from-day-one-of-data-centre-live-2026",
         "timestamp": "2026-05-25T16:11:36.065996",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a local proxy to catch IDOR/BOLA bugs. Looking for feedback",
+        "url": "https://github.com/rodrigo-areyzaga/accguard",
+        "timestamp": "2026-05-25T16:11:36.066030",
+        "source": "Hacker News"
     }
 ]
