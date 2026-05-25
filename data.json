@@ -283168,5 +283168,11 @@
         "url": "https://osselcna2026.sched.com/event/2JQsf/what-running-freebsd-on-a-modern-laptop-taught-me-deb-goodkin-the-freebsd-foundation",
         "timestamp": "2026-05-24T23:39:53.933377",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
+        "url": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
+        "timestamp": "2026-05-25T01:36:57.666347",
+        "source": "Hacker News"
     }
 ]
