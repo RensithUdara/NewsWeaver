@@ -283444,5 +283444,11 @@
         "url": "https://gitlab.com/ohwr/project/ertm15-llrf-wr/-/wikis/home",
         "timestamp": "2026-05-25T06:07:40.044454",
         "source": "Hacker News"
+    },
+    {
+        "title": "A curated list of static analysis (SAST) tools",
+        "url": "https://github.com/analysis-tools-dev/static-analysis",
+        "timestamp": "2026-05-25T06:07:40.044482",
+        "source": "Hacker News"
     }
 ]
