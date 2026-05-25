@@ -284872,5 +284872,11 @@
         "url": "https://phys.org/news/2026-05-mathematicians-decades-mystery-hidden-high.html",
         "timestamp": "2026-05-25T20:50:59.329609",
         "source": "Hacker News"
+    },
+    {
+        "title": "Security Advisory for Cargo (CVE-2026-5222)",
+        "url": "https://blog.rust-lang.org/2026/05/25/cve-2026-5222/",
+        "timestamp": "2026-05-25T20:50:59.329644",
+        "source": "Hacker News"
     }
 ]
