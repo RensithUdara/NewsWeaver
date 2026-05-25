@@ -284458,5 +284458,11 @@
         "url": "https://hnrss.github.io/",
         "timestamp": "2026-05-25T17:58:50.114310",
         "source": "Hacker News"
+    },
+    {
+        "title": "StubZero: $148,337 RCE in Google Cloud Production",
+        "url": "https://brutecat.com/articles/google-cloud-rce/",
+        "timestamp": "2026-05-25T17:58:50.114347",
+        "source": "Hacker News"
     }
 ]
