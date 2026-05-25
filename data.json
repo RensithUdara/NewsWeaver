@@ -283912,5 +283912,11 @@
         "url": "https://www.theguardian.com/world/2026/may/25/pope-leo-encyclical-ai-artificial-intelligence-slavery",
         "timestamp": "2026-05-25T13:49:59.974718",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a free zero-knowledge memory layer for AI agents (<5ms local recall)",
+        "url": "https://github.com/sovseal/core",
+        "timestamp": "2026-05-25T13:49:59.974755",
+        "source": "Hacker News"
     }
 ]
