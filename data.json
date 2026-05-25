@@ -283978,5 +283978,11 @@
         "url": "https://github.com/oldnordic/sqlitegraph",
         "timestamp": "2026-05-25T13:49:59.975112",
         "source": "Hacker News"
+    },
+    {
+        "title": "Helm2cue: An experiment in converting Go text/template to CUE",
+        "url": "https://github.com/cue-exp/helm2cue",
+        "timestamp": "2026-05-25T13:49:59.975185",
+        "source": "Hacker News"
     }
 ]
