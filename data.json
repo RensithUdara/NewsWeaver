@@ -284656,5 +284656,11 @@
         "url": "https://pollinations.aivaded.com",
         "timestamp": "2026-05-25T19:39:56.865073",
         "source": "Hacker News"
+    },
+    {
+        "title": "Detecting and removing dangerous secrets on workstations before Shai-Hulud does",
+        "url": "https://recyclebin.zip/posts/2026-05-25-secret-scanning-fleet-bagel/",
+        "timestamp": "2026-05-25T19:39:56.865101",
+        "source": "Hacker News"
     }
 ]
