@@ -283552,5 +283552,11 @@
         "url": "https://dubroy.com/blog/bytecode-vms-in-surprising-places/",
         "timestamp": "2026-05-25T10:44:39.293839",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gorilla: A fast, scalable, in-memory time series database (2016)",
+        "url": "https://blog.acolyer.org/2016/05/03/gorilla-a-fast-scalable-in-memory-time-series-database/",
+        "timestamp": "2026-05-25T10:44:39.294305",
+        "source": "Hacker News"
     }
 ]
