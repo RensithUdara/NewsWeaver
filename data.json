@@ -283606,5 +283606,11 @@
         "url": "https://unherd.com/newsroom/are-smartphones-really-to-blame-for-declining-birth-rates/",
         "timestamp": "2026-05-25T10:44:39.594804",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Finite Inventory for the Linux Inode",
+        "url": "https://loke.dev/blog/linux-inode-exhaustion-metadata-limits",
+        "timestamp": "2026-05-25T10:44:39.594839",
+        "source": "Hacker News"
     }
 ]
