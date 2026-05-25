@@ -285190,5 +285190,11 @@
         "url": "https://type.lol/",
         "timestamp": "2026-05-25T23:17:49.137772",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Nerve – self hosted runtime for AI agents",
+        "url": "https://github.com/ClickHouse/nerve",
+        "timestamp": "2026-05-25T23:17:49.137800",
+        "source": "Hacker News"
     }
 ]
