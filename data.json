@@ -285466,5 +285466,11 @@
         "url": "https://github.com/patchen0518/AgentBrew",
         "timestamp": "2026-05-26T04:35:28.098888",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ollama v0.30.0-rc23: \"directly support llama.cpp\" & \"compatibility with GGUF\"",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.30.0-rc23",
+        "timestamp": "2026-05-26T04:35:28.098919",
+        "source": "Hacker News"
     }
 ]
