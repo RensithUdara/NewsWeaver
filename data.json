@@ -286852,5 +286852,11 @@
         "url": "https://www.secwest.net/starlette",
         "timestamp": "2026-05-26T21:14:51.615751",
         "source": "Hacker News"
+    },
+    {
+        "title": "Disclosing the Badhost Vulnerability in Starlette",
+        "url": "https://ostif.org/disclosing-the-badhost-vulnerability-in-starlette/",
+        "timestamp": "2026-05-26T21:14:51.615779",
+        "source": "Hacker News"
     }
 ]
