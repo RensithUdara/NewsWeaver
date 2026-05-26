@@ -285478,5 +285478,11 @@
         "url": "https://www.nber.org/papers/w32163",
         "timestamp": "2026-05-26T04:35:28.098978",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Auto GPU Kernel – Autonomous GPU-kernel discovery and optimizer",
+        "url": "https://github.com/Dogacel/auto-gpu-kernel",
+        "timestamp": "2026-05-26T04:35:28.099007",
+        "source": "Hacker News"
     }
 ]
