@@ -286348,5 +286348,11 @@
         "url": "https://news.ycombinator.com/item?id=48282741",
         "timestamp": "2026-05-26T17:35:23.854059",
         "source": "Hacker News"
+    },
+    {
+        "title": "The surprising depths of prompt caching",
+        "url": "https://opub.dev/blog/surprising-depths-of-prompt-caching",
+        "timestamp": "2026-05-26T17:35:23.854100",
+        "source": "Hacker News"
     }
 ]
