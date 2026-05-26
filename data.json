@@ -286636,5 +286636,11 @@
         "url": "https://www.lesswrong.com/posts/RZeg98Tdrq47vbjva/rtmh-pope-leo-s-magnifica-humanitas-on-ai",
         "timestamp": "2026-05-26T19:34:02.100905",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Clark-agent, a Rust library for LLM tool loops",
+        "url": "https://github.com/clark-labs-inc/clark-agent",
+        "timestamp": "2026-05-26T19:34:02.100940",
+        "source": "Hacker News"
     }
 ]
