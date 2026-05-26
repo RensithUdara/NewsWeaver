@@ -285484,5 +285484,11 @@
         "url": "https://github.com/Dogacel/auto-gpu-kernel",
         "timestamp": "2026-05-26T04:35:28.099007",
         "source": "Hacker News"
+    },
+    {
+        "title": "Polymorphic Associations in Postgres",
+        "url": "https://danolivo.substack.com/p/on-polymorphic-associations-in-postgres",
+        "timestamp": "2026-05-26T04:35:28.099036",
+        "source": "Hacker News"
     }
 ]
