@@ -285706,5 +285706,11 @@
         "url": "https://blog.mempko.com/the-open-closed-problem-in-ai/",
         "timestamp": "2026-05-26T08:07:07.261331",
         "source": "Hacker News"
+    },
+    {
+        "title": "Prompt Politeness Affects LLM Accuracy",
+        "url": "https://arxiv.org/abs/2510.04950",
+        "timestamp": "2026-05-26T08:07:07.261360",
+        "source": "Hacker News"
     }
 ]
