@@ -286012,5 +286012,11 @@
         "url": "https://read.misalignedmag.com/critical-views-on-llms-and-health-advice-an-academic-reading-list-9cbecbff83f5",
         "timestamp": "2026-05-26T14:15:04.445391",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLM Transparency",
+        "url": "https://github.com/st-tech/ppf-contact-solver/blob/main/articles/llm_transparency.md",
+        "timestamp": "2026-05-26T14:15:04.445420",
+        "source": "Hacker News"
     }
 ]
