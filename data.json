@@ -285970,5 +285970,11 @@
         "url": "https://www.inventbuild.studio/blog/slow-code-coding-by-hand-monthly-36c2f33c9513802388a0c11e40f92305",
         "timestamp": "2026-05-26T14:15:04.445184",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bring Your Own Signal: pluggable overload control for stateful databases",
+        "url": "https://www.uber.com/us/en/blog/from-static-rate-limiting-to-intelligent-load-management/",
+        "timestamp": "2026-05-26T14:15:04.445214",
+        "source": "Hacker News"
     }
 ]
