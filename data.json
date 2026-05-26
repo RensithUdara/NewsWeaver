@@ -285790,5 +285790,11 @@
         "url": "https://joebaldwin.me.uk/blog/google-ruins-fitbit/",
         "timestamp": "2026-05-26T08:07:07.261797",
         "source": "Hacker News"
+    },
+    {
+        "title": "Heimdall: Formally Verified eBPF-to-Rust Migration",
+        "url": "https://arxiv.org/abs/2605.25411",
+        "timestamp": "2026-05-26T08:07:07.261826",
+        "source": "Hacker News"
     }
 ]
