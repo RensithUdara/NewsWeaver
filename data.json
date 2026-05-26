@@ -286828,5 +286828,11 @@
         "url": "https://www.bbc.com/news/articles/c39228nxyr4o",
         "timestamp": "2026-05-26T21:14:51.615631",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built a tool to auto-accept AI slop and bigtech devs loves it",
+        "url": "https://github.com/Alcray/SlopeAutoAcceptor",
+        "timestamp": "2026-05-26T21:14:51.615660",
+        "source": "Hacker News"
     }
 ]
