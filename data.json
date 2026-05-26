@@ -286618,5 +286618,11 @@
         "url": "https://news.ycombinator.com/item?id=48284645",
         "timestamp": "2026-05-26T19:34:02.100800",
         "source": "Hacker News"
+    },
+    {
+        "title": "Standard relu should have been defined as passing the value at zero",
+        "url": "https://twitter.com/ID_AA_Carmack/status/2059347005621645404",
+        "timestamp": "2026-05-26T19:34:02.100835",
+        "source": "Hacker News"
     }
 ]
