@@ -285262,5 +285262,11 @@
         "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
         "timestamp": "2026-05-25T23:17:49.138200",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+        "url": "https://support.apple.com/en-us/127115",
+        "timestamp": "2026-05-26T00:16:22.495604",
+        "source": "Hacker News"
     }
 ]
