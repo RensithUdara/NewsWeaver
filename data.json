@@ -286648,5 +286648,11 @@
         "url": "https://www.theparisreview.org/blog/2026/05/22/barthelme-the-houstonian/",
         "timestamp": "2026-05-26T19:34:02.100974",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Tool that hashes files into poems",
+        "url": "https://github.com/alebeck/rhymesum",
+        "timestamp": "2026-05-26T19:34:02.101009",
+        "source": "Hacker News"
     }
 ]
