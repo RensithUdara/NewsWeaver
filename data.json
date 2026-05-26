@@ -285628,5 +285628,11 @@
         "url": "https://news.ycombinator.com/item?id=48275508",
         "timestamp": "2026-05-26T08:07:06.967859",
         "source": "Hacker News"
+    },
+    {
+        "title": "Logseq Doctor: heal your flat old Markdown files before importing to Logseq",
+        "url": "https://github.com/andreoliwa/logseq-doctor",
+        "timestamp": "2026-05-26T08:07:06.968295",
+        "source": "Hacker News"
     }
 ]
