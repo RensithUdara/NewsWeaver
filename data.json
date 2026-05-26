@@ -286600,5 +286600,11 @@
         "url": "https://matgreten.dev/posts/visibility-into-the-black-box/",
         "timestamp": "2026-05-26T19:34:02.100695",
         "source": "Hacker News"
+    },
+    {
+        "title": "False Positive OSV Advisories Reported by Amazon Inspector",
+        "url": "https://github.com/ossf/malicious-packages/pull/1276/files",
+        "timestamp": "2026-05-26T19:34:02.100730",
+        "source": "Hacker News"
     }
 ]
