@@ -286876,5 +286876,11 @@
         "url": "https://lostfutures.substack.com/p/pyongyang-once-had-a-muslim-governor",
         "timestamp": "2026-05-26T21:14:51.615866",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: DDoS detection in 500 lines of Python (MIT, no cloud, no account)",
+        "url": "https://github.com/Flowtriq/ftagent-lite",
+        "timestamp": "2026-05-26T21:14:51.615923",
+        "source": "Hacker News"
     }
 ]
