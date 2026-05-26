@@ -286492,5 +286492,11 @@
         "url": "https://akselmo.dev/posts/stop-advertising-in-your-commits/",
         "timestamp": "2026-05-26T19:34:01.783202",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+        "url": "https://github.com/logannye/rosalind",
+        "timestamp": "2026-05-26T19:34:01.783380",
+        "source": "Hacker News"
     }
 ]
