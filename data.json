@@ -285796,5 +285796,11 @@
         "url": "https://arxiv.org/abs/2605.25411",
         "timestamp": "2026-05-26T08:07:07.261826",
         "source": "Hacker News"
+    },
+    {
+        "title": "Contrastive Decoding Diffing: Recovering Finetuning Data Without Weight Access",
+        "url": "https://arxiv.org/abs/2605.25902",
+        "timestamp": "2026-05-26T08:07:07.261856",
+        "source": "Hacker News"
     }
 ]
