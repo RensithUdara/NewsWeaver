@@ -287254,5 +287254,11 @@
         "url": "https://sherwood.news/tech/figures-robots-just-sorted-packages-for-200-hours-straight/",
         "timestamp": "2026-05-26T23:45:08.019892",
         "source": "Hacker News"
+    },
+    {
+        "title": "Keyblind – encrypted secrets vault that hides API keys from AI agents",
+        "url": "https://github.com/aarifmms/keyblind",
+        "timestamp": "2026-05-26T23:45:08.019923",
+        "source": "Hacker News"
     }
 ]
