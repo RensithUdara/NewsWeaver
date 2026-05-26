@@ -286972,5 +286972,11 @@
         "url": "https://twitter.com/InstituteGC/status/2059379354560319651",
         "timestamp": "2026-05-26T22:40:15.785020",
         "source": "Hacker News"
+    },
+    {
+        "title": "Microsoft Research: LLMs Corrupt your files during delegated work",
+        "url": "https://www.microsoft.com/en-us/research/publication/llms-corrupt-your-documents-when-you-delegate/",
+        "timestamp": "2026-05-26T22:40:15.785048",
+        "source": "Hacker News"
     }
 ]
