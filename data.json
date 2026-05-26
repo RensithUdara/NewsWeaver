@@ -285568,5 +285568,11 @@
         "url": "https://www.microsoft.com/en-us/research/articles/webwright-a-terminal-is-all-you-need-for-web-agents/",
         "timestamp": "2026-05-26T04:35:28.099520",
         "source": "Hacker News"
+    },
+    {
+        "title": "Self-hosting Wafrn behind another Caddy, with Bluesky support",
+        "url": "https://blog.goodanser.com/fediverse/post/03c6a4f4-cdd4-4027-a6a4-5017dd9154bd",
+        "timestamp": "2026-05-26T04:35:28.099554",
+        "source": "Hacker News"
     }
 ]
