@@ -285556,5 +285556,11 @@
         "url": "https://www.opengsd.net/",
         "timestamp": "2026-05-26T04:35:28.099460",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Rapel – chunked resumable downloads in unstable networks",
+        "url": "https://github.com/redraw/rapel",
+        "timestamp": "2026-05-26T04:35:28.099490",
+        "source": "Hacker News"
     }
 ]
