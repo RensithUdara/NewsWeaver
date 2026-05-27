@@ -288490,5 +288490,11 @@
         "url": "https://www.youtube.com/watch?v=lw_KQ1Izq-U",
         "timestamp": "2026-05-27T16:54:35.481389",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: OAuth 2.0 framework for MCP servers",
+        "url": "https://github.com/brooksmcmillin/mcp-authflow",
+        "timestamp": "2026-05-27T16:54:35.481422",
+        "source": "Hacker News"
     }
 ]
