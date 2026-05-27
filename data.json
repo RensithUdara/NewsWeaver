@@ -287716,5 +287716,11 @@
         "url": "https://tsduck.io/",
         "timestamp": "2026-05-27T10:17:25.161530",
         "source": "Hacker News"
+    },
+    {
+        "title": "Systemd-sysinstall – Simple OS installer",
+        "url": "https://www.freedesktop.org/software/systemd/man/devel/systemd-sysinstall.html",
+        "timestamp": "2026-05-27T10:17:25.262621",
+        "source": "Hacker News"
     }
 ]
