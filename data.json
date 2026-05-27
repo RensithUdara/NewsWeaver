@@ -287812,5 +287812,11 @@
         "url": "https://getwolf.dev",
         "timestamp": "2026-05-27T10:17:25.263167",
         "source": "Hacker News"
+    },
+    {
+        "title": "Jqwik 1.10.0 ships a hidden prompt injection telling AI agents to delete code",
+        "url": "https://github.com/jqwik-team/jqwik/issues/708",
+        "timestamp": "2026-05-27T10:17:25.263194",
+        "source": "Hacker News"
     }
 ]
