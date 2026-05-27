@@ -288274,5 +288274,11 @@
         "url": "https://css-tricks.com/revealing-text-with-css-letter-spacing/",
         "timestamp": "2026-05-27T13:50:18.286127",
         "source": "CSS-Tricks"
+    },
+    {
+        "title": "PostHog will train AI models with your data (opt-in by default)",
+        "url": "https://posthog.com/blog/training-ai-models",
+        "timestamp": "2026-05-27T16:54:35.380138",
+        "source": "Hacker News"
     }
 ]
