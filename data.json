@@ -288292,5 +288292,11 @@
         "url": "https://help.delduca.org",
         "timestamp": "2026-05-27T16:54:35.380297",
         "source": "Hacker News"
+    },
+    {
+        "title": "Theseus: Translating Win32 to WASM",
+        "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
+        "timestamp": "2026-05-27T16:54:35.380370",
+        "source": "Hacker News"
     }
 ]
