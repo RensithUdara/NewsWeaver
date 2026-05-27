@@ -288394,5 +288394,11 @@
         "url": "https://funnyquotes.lol/",
         "timestamp": "2026-05-27T16:54:35.480787",
         "source": "Hacker News"
+    },
+    {
+        "title": "Training a 22MB prompt injection classifier that runs inline in a Lambda",
+        "url": "https://www.stackone.com/blog/training-22mb-prompt-injection-classifier/",
+        "timestamp": "2026-05-27T16:54:35.480823",
+        "source": "Hacker News"
     }
 ]
