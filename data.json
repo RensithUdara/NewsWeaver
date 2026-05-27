@@ -288406,5 +288406,11 @@
         "url": "https://dmitriibuchilin.substack.com/p/we-hardened-an-llm-agent-each-defense",
         "timestamp": "2026-05-27T16:54:35.480878",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mutant Spider doesn't steal passwords. It resets MFA and steals the token",
+        "url": "https://venturebeat.com/security/attack-dominating-financial-services-resets-mfa-steals-token",
+        "timestamp": "2026-05-27T16:54:35.480951",
+        "source": "Hacker News"
     }
 ]
