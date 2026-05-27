@@ -288400,5 +288400,11 @@
         "url": "https://www.stackone.com/blog/training-22mb-prompt-injection-classifier/",
         "timestamp": "2026-05-27T16:54:35.480823",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: When your agent LLM judge become your enemy",
+        "url": "https://dmitriibuchilin.substack.com/p/we-hardened-an-llm-agent-each-defense",
+        "timestamp": "2026-05-27T16:54:35.480878",
+        "source": "Hacker News"
     }
 ]
