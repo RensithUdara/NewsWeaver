@@ -288772,5 +288772,11 @@
         "url": "https://thedreydossier.substack.com/p/i-found-a-second-votegov-and-its",
         "timestamp": "2026-05-27T19:13:49.147526",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building current, a browser-based file sharing tool, with Rust and WASM",
+        "url": "https://current.rdvz.app/blog/building-current",
+        "timestamp": "2026-05-27T19:13:49.147560",
+        "source": "Hacker News"
     }
 ]
