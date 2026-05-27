@@ -288442,5 +288442,11 @@
         "url": "https://www.nytimes.com/2026/05/25/travel/hudson-valley-painting-thomas-cole-frederic-church.html",
         "timestamp": "2026-05-27T16:54:35.481121",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Hm – a task runner with a Python DSL, growing into a CI/CD system",
+        "url": "https://github.com/harmont-dev/harmont-cli",
+        "timestamp": "2026-05-27T16:54:35.481154",
+        "source": "Hacker News"
     }
 ]
