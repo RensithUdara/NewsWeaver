@@ -288370,5 +288370,11 @@
         "url": "https://lipsum-lorem.com",
         "timestamp": "2026-05-27T16:54:35.480645",
         "source": "Hacker News"
+    },
+    {
+        "title": "grpyc: Fast gRPC replacement for Python, built in Rust",
+        "url": "https://grpyc.com",
+        "timestamp": "2026-05-27T16:54:35.480681",
+        "source": "Hacker News"
     }
 ]
