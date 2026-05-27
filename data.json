@@ -289282,5 +289282,11 @@
         "url": "https://www.mendral.com/blog/you-should-not-update",
         "timestamp": "2026-05-27T23:53:56.837307",
         "source": "Hacker News"
+    },
+    {
+        "title": "Atom Exhaustion Is Not a Footgun. It's One Third of Our CVEs",
+        "url": "https://www.erlef.org/blog/eef/atom-exhaustion",
+        "timestamp": "2026-05-27T23:53:56.837337",
+        "source": "Hacker News"
     }
 ]
