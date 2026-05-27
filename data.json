@@ -287674,5 +287674,11 @@
         "url": "https://miniscript.org/MiniMicro/index.html#about",
         "timestamp": "2026-05-27T10:17:25.160838",
         "source": "Hacker News"
+    },
+    {
+        "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+        "url": "https://badhost.org/",
+        "timestamp": "2026-05-27T10:17:25.160876",
+        "source": "Hacker News"
     }
 ]
