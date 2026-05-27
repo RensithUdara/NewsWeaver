@@ -288610,5 +288610,11 @@
         "url": "https://www.ycombinator.com/companies/reflex/jobs",
         "timestamp": "2026-05-27T19:13:49.048731",
         "source": "Hacker News"
+    },
+    {
+        "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+        "url": "https://arxiv.org/abs/2605.21779",
+        "timestamp": "2026-05-27T19:13:49.048872",
+        "source": "Hacker News"
     }
 ]
