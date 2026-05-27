@@ -288034,5 +288034,11 @@
         "url": "http://www.typewritten.org/Manual/",
         "timestamp": "2026-05-27T13:50:16.286305",
         "source": "Hacker News"
+    },
+    {
+        "title": "Feed Validation Service",
+        "url": "https://validator.w3.org/feed/",
+        "timestamp": "2026-05-27T13:50:16.286339",
+        "source": "Hacker News"
     }
 ]
