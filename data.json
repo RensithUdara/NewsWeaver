@@ -288040,5 +288040,11 @@
         "url": "https://validator.w3.org/feed/",
         "timestamp": "2026-05-27T13:50:16.286339",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why AI Agents Cannot Change Software Systems",
+        "url": "https://phroneses.com/articles/build/notes/agents-cannot-maintain-systems.html",
+        "timestamp": "2026-05-27T13:50:16.286373",
+        "source": "Hacker News"
     }
 ]
