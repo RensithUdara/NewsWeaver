@@ -288100,5 +288100,11 @@
         "url": "https://news.ycombinator.com/item?id=48294165",
         "timestamp": "2026-05-27T13:50:16.286713",
         "source": "Hacker News"
+    },
+    {
+        "title": "Binary Compatible Critical Section Delegation",
+        "url": "https://danglingpointers.substack.com/p/binary-compatible-critical-section",
+        "timestamp": "2026-05-27T13:50:16.286748",
+        "source": "Hacker News"
     }
 ]
