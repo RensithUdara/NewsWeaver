@@ -288154,5 +288154,11 @@
         "url": "https://sitchy.vercel.app/",
         "timestamp": "2026-05-27T13:50:16.287023",
         "source": "Hacker News"
+    },
+    {
+        "title": "In Defense of Manual Memory Management",
+        "url": "https://dayvster.com/blog/in-defense-of-manual-memory-management/",
+        "timestamp": "2026-05-27T13:50:16.287058",
+        "source": "Hacker News"
     }
 ]
