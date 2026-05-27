@@ -287836,5 +287836,11 @@
         "url": "https://www.eucloudcost.com/kubernetes/",
         "timestamp": "2026-05-27T10:17:25.263283",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a Real-Time Stock Momentum Ranking System",
+        "url": "https://medium.com/@DolphinDB_Inc/building-a-real-time-stock-momentum-ranking-system-with-dolphindb-stream-processing-8ee9d9c484b4",
+        "timestamp": "2026-05-27T10:17:25.263312",
+        "source": "Hacker News"
     }
 ]
