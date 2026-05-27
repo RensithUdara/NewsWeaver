@@ -287638,5 +287638,11 @@
         "url": "https://arps18.github.io/posts/claude-code-mastery/",
         "timestamp": "2026-05-27T06:09:12.219916",
         "source": "Hacker News"
+    },
+    {
+        "title": "A locus-coeruleus model for LLM agents (phasic and tonic attention gain)",
+        "url": "https://github.com/mrshanebarron/lc-attention",
+        "timestamp": "2026-05-27T06:09:12.219940",
+        "source": "Hacker News"
     }
 ]
