@@ -288076,5 +288076,11 @@
         "url": "https://www.unite.ai/why-does-ai-love-writing-about-lighthouse-keepers/",
         "timestamp": "2026-05-27T13:50:16.286544",
         "source": "Hacker News"
+    },
+    {
+        "title": "A helm plugin to show the manifests resource tree of a release",
+        "url": "https://github.com/major1201/helm-tree",
+        "timestamp": "2026-05-27T13:50:16.286610",
+        "source": "Hacker News"
     }
 ]
