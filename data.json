@@ -288376,5 +288376,11 @@
         "url": "https://grpyc.com",
         "timestamp": "2026-05-27T16:54:35.480681",
         "source": "Hacker News"
+    },
+    {
+        "title": "A new register allocator for ZJIT",
+        "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
+        "timestamp": "2026-05-27T16:54:35.480716",
+        "source": "Hacker News"
     }
 ]
