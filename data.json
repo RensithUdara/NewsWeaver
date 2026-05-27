@@ -287680,5 +287680,11 @@
         "url": "https://badhost.org/",
         "timestamp": "2026-05-27T10:17:25.160876",
         "source": "Hacker News"
+    },
+    {
+        "title": "Raft Consensus with a Minority of Nodes",
+        "url": "https://padhye.org/raft-minority/",
+        "timestamp": "2026-05-27T10:17:25.161006",
+        "source": "Hacker News"
     }
 ]
