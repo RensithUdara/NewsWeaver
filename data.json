@@ -289888,5 +289888,11 @@
         "url": "https://www.washingtonpost.com/health/2026/05/27/us-send-americans-exposed-ebola-kenya-quarantine-facility/",
         "timestamp": "2026-05-28T10:35:57.335827",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A tool to debug complex Stripe interactions (built with Claude's help)",
+        "url": "https://github.com/progapandist/stripeek",
+        "timestamp": "2026-05-28T10:35:57.335860",
+        "source": "Hacker News"
     }
 ]
