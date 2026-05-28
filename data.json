@@ -289486,5 +289486,11 @@
         "url": "https://herbertlui.net/are-your-creative-projects-livestock-or-pets/",
         "timestamp": "2026-05-28T02:05:19.874254",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Teleport-env – <500ms stateful rollbacks for AI agents via CRIU",
+        "url": "https://github.com/JaiCode08/teleport-env",
+        "timestamp": "2026-05-28T02:05:19.874290",
+        "source": "Hacker News"
     }
 ]
