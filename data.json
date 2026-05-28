@@ -291106,5 +291106,11 @@
         "url": "https://www.ucl.ac.uk/news/2026/may/how-wasp-societies-overcome-fierce-leadership-battles",
         "timestamp": "2026-05-28T23:07:09.749483",
         "source": "Hacker News"
+    },
+    {
+        "title": "Starting a VM from a macOS sandbox: Seatbelt allow rules for virtualization",
+        "url": "https://brentfitzgerald.com/posts/lima-vms-from-a-sandboxed-agent/",
+        "timestamp": "2026-05-28T23:07:09.749534",
+        "source": "Hacker News"
     }
 ]
