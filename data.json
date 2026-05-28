@@ -291130,5 +291130,11 @@
         "url": "https://www.ft.com/content/bd9f59a1-2d60-4122-a7da-6985dd536f94",
         "timestamp": "2026-05-28T23:07:09.749645",
         "source": "Hacker News"
+    },
+    {
+        "title": "code2prompt: Convert any folder into a single LLM prompt",
+        "url": "https://github.com/mufeedvh/code2prompt",
+        "timestamp": "2026-05-28T23:07:09.749681",
+        "source": "Hacker News"
     }
 ]
