@@ -289894,5 +289894,11 @@
         "url": "https://github.com/progapandist/stripeek",
         "timestamp": "2026-05-28T10:35:57.335860",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sandboxing for dummies: Process isolation, seccomp and writing good policies",
+        "url": "https://renato.boo/blog/2026/05/11/sandboxing-linux-seccomp",
+        "timestamp": "2026-05-28T10:35:57.335894",
+        "source": "Hacker News"
     }
 ]
