@@ -290842,5 +290842,11 @@
         "url": "https://techcrunch.com/2026/05/28/a-security-lapse-at-prison-payphone-service-pay-tel-publicly-exposed-over-300000-callers-drivers-licenses/",
         "timestamp": "2026-05-28T19:56:31.977490",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Various LLM Smells",
+        "url": "https://shvbsle.in/various-llm-smells/",
+        "timestamp": "2026-05-28T21:51:13.371704",
+        "source": "Hacker News"
     }
 ]
