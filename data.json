@@ -290860,5 +290860,11 @@
         "url": "https://news.ycombinator.com/item?id=48315206",
         "timestamp": "2026-05-28T21:51:13.371958",
         "source": "Hacker News"
+    },
+    {
+        "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
+        "url": "https://coalton-lang.github.io/",
+        "timestamp": "2026-05-28T21:51:13.372081",
+        "source": "Hacker News"
     }
 ]
