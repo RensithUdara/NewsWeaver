@@ -290440,5 +290440,11 @@
         "url": "https://news.ycombinator.com/item?id=48312377",
         "timestamp": "2026-05-28T17:46:56.620676",
         "source": "Hacker News"
+    },
+    {
+        "title": "MySQL Time-Travel Queries Using Indexed Binlogs",
+        "url": "https://www.infoq.com/news/2026/05/bintrail-mysql-timetravel/",
+        "timestamp": "2026-05-28T17:46:56.620709",
+        "source": "Hacker News"
     }
 ]
