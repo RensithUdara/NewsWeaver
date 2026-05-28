@@ -290284,5 +290284,11 @@
         "url": "https://github.com/highpost/tailscale-macos-vm",
         "timestamp": "2026-05-28T17:46:56.295159",
         "source": "Hacker News"
+    },
+    {
+        "title": "Creusot helps you prove your Rust code is correct",
+        "url": "https://github.com/creusot-rs/creusot/tree/master",
+        "timestamp": "2026-05-28T17:46:56.295193",
+        "source": "Hacker News"
     }
 ]
