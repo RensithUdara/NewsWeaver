@@ -289924,5 +289924,11 @@
         "url": "https://marque.at",
         "timestamp": "2026-05-28T10:35:57.336066",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I packaged a Python AI agent and Vue dashboard into one Electron app",
+        "url": "https://github.com/sir1st/hermes-desktop",
+        "timestamp": "2026-05-28T10:35:57.336133",
+        "source": "Hacker News"
     }
 ]
