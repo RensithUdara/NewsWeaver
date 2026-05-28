@@ -291244,5 +291244,11 @@
         "url": "https://www.bloomberg.com/news/articles/2026-05-28/starbucks-to-take-ai-usage-into-account-in-tech-workers-bonuses",
         "timestamp": "2026-05-28T23:07:09.750334",
         "source": "Hacker News"
+    },
+    {
+        "title": "HartBreaker: Deterministic Fuzzing of Multi-Hart RISC-V CPUs",
+        "url": "https://comsec.ethz.ch/research/hardware-design-security/hartbreaker-deterministic-fuzzing-of-multi-hart-risc-v-cpus-with-non-deterministic-programs/",
+        "timestamp": "2026-05-28T23:07:09.750377",
+        "source": "Hacker News"
     }
 ]
