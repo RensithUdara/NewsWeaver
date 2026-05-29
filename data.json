@@ -291706,5 +291706,11 @@
         "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
         "timestamp": "2026-05-29T04:45:43.360618",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+        "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+        "timestamp": "2026-05-29T08:31:02.728794",
+        "source": "Hacker News"
     }
 ]
