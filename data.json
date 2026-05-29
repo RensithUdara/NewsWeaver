@@ -292858,5 +292858,11 @@
         "url": "https://giovannigatti.github.io/cve-bench/",
         "timestamp": "2026-05-29T20:07:48.359036",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+        "url": "https://github.com/jmaczan/tiny-vllm",
+        "timestamp": "2026-05-29T20:07:48.359253",
+        "source": "Hacker News"
     }
 ]
