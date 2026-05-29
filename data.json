@@ -291784,5 +291784,11 @@
         "url": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia",
         "timestamp": "2026-05-29T08:31:02.968230",
         "source": "Hacker News"
+    },
+    {
+        "title": "Multi-stage distributed query execution in ClickHouse Cloud",
+        "url": "https://clickhouse.com/blog/multi-stage-distributed-query-execution-clickhouse-cloud",
+        "timestamp": "2026-05-29T08:31:02.968258",
+        "source": "Hacker News"
     }
 ]
