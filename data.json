@@ -292564,5 +292564,11 @@
         "url": "https://research.roundtable.ai/captchas-detect-ai/",
         "timestamp": "2026-05-29T17:54:49.376018",
         "source": "Hacker News"
+    },
+    {
+        "title": "Someone used my open source project to phish people",
+        "url": "https://andrej.sh/posts/phishing-through-my-open-source-project",
+        "timestamp": "2026-05-29T17:54:49.376048",
+        "source": "Hacker News"
     }
 ]
