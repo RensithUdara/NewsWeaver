@@ -293308,5 +293308,11 @@
         "url": "https://www.youtube.com/watch?v=PwSyjz1off4",
         "timestamp": "2026-05-29T23:24:48.488377",
         "source": "Hacker News"
+    },
+    {
+        "title": "Turn a folder of PDFs into a live JSON API",
+        "url": "https://parseapi.dev/blog/show-hn-folder-to-json-api",
+        "timestamp": "2026-05-29T23:24:48.488411",
+        "source": "Hacker News"
     }
 ]
