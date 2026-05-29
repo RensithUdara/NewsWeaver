@@ -292678,5 +292678,11 @@
         "url": "https://www.zdnet.com/article/open-source-security-is-a-mess-ibm-and-red-hat-bet-5-billion-to-fix-it/",
         "timestamp": "2026-05-29T17:54:49.703436",
         "source": "Hacker News"
+    },
+    {
+        "title": "AionOS – self-healing microkernel in Zig (boots on real hardware)",
+        "url": "https://github.com/rodancz/aion",
+        "timestamp": "2026-05-29T17:54:49.703467",
+        "source": "Hacker News"
     }
 ]
