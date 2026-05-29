@@ -292936,5 +292936,11 @@
         "url": "https://twitter.com/i/status/2060397901650825238",
         "timestamp": "2026-05-29T20:07:48.666661",
         "source": "Hacker News"
+    },
+    {
+        "title": "MCP: defending the runtime layer of agent security",
+        "url": "https://arcis-website.pages.dev/blog/posts/defending-agent-tool-calls",
+        "timestamp": "2026-05-29T20:07:48.666688",
+        "source": "Hacker News"
     }
 ]
