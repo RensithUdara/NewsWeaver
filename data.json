@@ -291496,5 +291496,11 @@
         "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
         "timestamp": "2026-05-29T04:45:42.712622",
         "source": "Hacker News"
+    },
+    {
+        "title": "Python utility package for building Claude Code hooks",
+        "url": "https://github.com/RasmusGodske/claude-hook-utils",
+        "timestamp": "2026-05-29T04:45:42.712653",
+        "source": "Hacker News"
     }
 ]
