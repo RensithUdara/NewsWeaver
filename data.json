@@ -291790,5 +291790,11 @@
         "url": "https://clickhouse.com/blog/multi-stage-distributed-query-execution-clickhouse-cloud",
         "timestamp": "2026-05-29T08:31:02.968258",
         "source": "Hacker News"
+    },
+    {
+        "title": "Opus 4.8 Killer: NexusCortex Isn't an LLM – It's a Sparse AI Cortex Built in Go",
+        "url": "https://github.com/office233/Nexuscortex/branches",
+        "timestamp": "2026-05-29T08:31:02.968286",
+        "source": "Hacker News"
     }
 ]
