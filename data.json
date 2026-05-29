@@ -292102,5 +292102,11 @@
         "url": "https://news.ycombinator.com/item?id=48321838",
         "timestamp": "2026-05-29T11:51:45.837844",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Stopped Fighting My Tools and Built a Game Engine in D",
+        "url": "https://blog.dlang.org/2026/05/29/i-stopped-fighting-my-tools-and-built-a-game-engine-in-d/",
+        "timestamp": "2026-05-29T11:51:45.837871",
+        "source": "Hacker News"
     }
 ]
