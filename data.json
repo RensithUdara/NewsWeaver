@@ -292570,5 +292570,11 @@
         "url": "https://andrej.sh/posts/phishing-through-my-open-source-project",
         "timestamp": "2026-05-29T17:54:49.376048",
         "source": "Hacker News"
+    },
+    {
+        "title": "ATLAS: Autoformalized Textbook Library At Scale",
+        "url": "https://github.com/facebookresearch/atlas-lean",
+        "timestamp": "2026-05-29T17:54:49.376108",
+        "source": "Hacker News"
     }
 ]
