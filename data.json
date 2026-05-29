@@ -291604,5 +291604,11 @@
         "url": "https://www.cbsnews.com/news/blue-origin-new-glenn-rocket-explodes-launchpad-florida/",
         "timestamp": "2026-05-29T04:45:43.016259",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sled – An Embedded Database in Rust",
+        "url": "https://github.com/spacejam/sled",
+        "timestamp": "2026-05-29T04:45:43.016288",
+        "source": "Hacker News"
     }
 ]
