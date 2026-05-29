@@ -292030,5 +292030,11 @@
         "url": "https://github.com/yujonglee/openrouter-toolkit",
         "timestamp": "2026-05-29T11:51:45.539254",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cache Aware Scheduling Shows Nice Wins for AMD Zen 5 on PostgreSQL, Valkey",
+        "url": "https://www.phoronix.com/review/cache-aware-scheduling-hedt",
+        "timestamp": "2026-05-29T11:51:45.539582",
+        "source": "Hacker News"
     }
 ]
