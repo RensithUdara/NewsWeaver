@@ -291730,5 +291730,11 @@
         "url": "https://www.zot.sh",
         "timestamp": "2026-05-29T08:31:02.729302",
         "source": "Hacker News"
+    },
+    {
+        "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
+        "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+        "timestamp": "2026-05-29T08:31:02.729421",
+        "source": "Hacker News"
     }
 ]
