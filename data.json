@@ -292114,5 +292114,11 @@
         "url": "https://www.loweringthebar.net/2026/05/chatgpt-confesses.html",
         "timestamp": "2026-05-29T11:51:45.837899",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Adaptive Runtime – AI agent layer, no GPU, crash recovery",
+        "url": "https://github.com/stateflow-dev/adaptive-runtime",
+        "timestamp": "2026-05-29T11:51:45.837926",
+        "source": "Hacker News"
     }
 ]
