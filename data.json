@@ -293194,5 +293194,11 @@
         "url": "https://www.science.org/content/article/how-lab-accident-changed-my-approach-science",
         "timestamp": "2026-05-29T22:02:10.266462",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to securely connect ADK agents to models on Cloud Run",
+        "url": "https://leoy.blog/posts/securely-connect-agents-to-models/",
+        "timestamp": "2026-05-29T22:02:10.266490",
+        "source": "Hacker News"
     }
 ]
