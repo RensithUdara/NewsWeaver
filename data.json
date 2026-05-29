@@ -291664,5 +291664,11 @@
         "url": "https://www.theregister.com/devops/2026/05/06/ruby-inventor-matz-working-on-native-compiler-with-ai-help/5230532",
         "timestamp": "2026-05-29T04:45:43.016604",
         "source": "Hacker News"
+    },
+    {
+        "title": "RSQL – High-Performance, Open Source PostgreSQL Client (Tauri v2, React, Rust)",
+        "url": "https://github.com/rust-dd/rsql",
+        "timestamp": "2026-05-29T04:45:43.016634",
+        "source": "Hacker News"
     }
 ]
