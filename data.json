@@ -293314,5 +293314,11 @@
         "url": "https://parseapi.dev/blog/show-hn-folder-to-json-api",
         "timestamp": "2026-05-29T23:24:48.488411",
         "source": "Hacker News"
+    },
+    {
+        "title": "AWS reportedly to tuck Grok into Bedrock, despite zero enterprise demand",
+        "url": "https://www.theregister.com/ai-ml/2026/05/29/aws-reportedly-to-tuck-elon-musks-grok-into-bedrock-despite-zero-enterprise-demand/5248832",
+        "timestamp": "2026-05-29T23:24:48.488468",
+        "source": "Hacker News"
     }
 ]
