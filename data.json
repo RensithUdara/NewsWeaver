@@ -291988,5 +291988,11 @@
         "url": "https://www.producthunt.com/products/nodus-hn-radar",
         "timestamp": "2026-05-29T08:31:03.318201",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+        "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+        "timestamp": "2026-05-29T11:51:45.538802",
+        "source": "Hacker News"
     }
 ]
