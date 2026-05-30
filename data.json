@@ -295546,5 +295546,11 @@
         "url": "https://medium.com/@tbelbek/why-anthropic-just-became-the-most-valuable-ai-company-on-earth-and-what-it-means-46daa94d9cf8",
         "timestamp": "2026-05-30T19:55:21.829128",
         "source": "Hacker News"
+    },
+    {
+        "title": "API Drift Detection: Catch Breaking Changes Before They Reach Production",
+        "url": "https://apiguard.co/blog/api-drift-detection-guide",
+        "timestamp": "2026-05-30T19:55:21.829193",
+        "source": "Hacker News"
     }
 ]
