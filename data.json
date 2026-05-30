@@ -294142,5 +294142,11 @@
         "url": "https://www.bbc.co.uk/news/articles/czx21820rn4o",
         "timestamp": "2026-05-30T09:33:09.127947",
         "source": "Hacker News"
+    },
+    {
+        "title": "Yocto vs. Debian for building embedded Linux systems",
+        "url": "https://sigma-star.at/blog/2026/05/you-probably-dont-need-yocto-and-thats-fine/",
+        "timestamp": "2026-05-30T09:33:09.127975",
+        "source": "Hacker News"
     }
 ]
