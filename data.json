@@ -293896,5 +293896,11 @@
         "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
         "timestamp": "2026-05-30T07:47:35.352876",
         "source": "Hacker News"
+    },
+    {
+        "title": "Macsurf, \"modern\" web browser for macOS 9",
+        "url": "https://github.com/mplsllc/macsurf",
+        "timestamp": "2026-05-30T07:47:35.352905",
+        "source": "Hacker News"
     }
 ]
