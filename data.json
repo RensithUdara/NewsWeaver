@@ -296284,5 +296284,11 @@
         "url": "https://www.sciencedaily.com/releases/2026/05/260528074032.htm",
         "timestamp": "2026-05-30T23:39:04.781395",
         "source": "Hacker News"
+    },
+    {
+        "title": "Custom Errors Are Non-Negotiable in My Rust Applications",
+        "url": "https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications",
+        "timestamp": "2026-05-30T23:39:04.781424",
+        "source": "Hacker News"
     }
 ]
