@@ -294856,5 +294856,11 @@
         "url": "https://extend.redsystem.dev",
         "timestamp": "2026-05-30T15:19:07.758446",
         "source": "Hacker News"
+    },
+    {
+        "title": "Collection of Claude Code Skills",
+        "url": "https://github.com/glebis/claude-skills",
+        "timestamp": "2026-05-30T15:19:07.758474",
+        "source": "Hacker News"
     }
 ]
