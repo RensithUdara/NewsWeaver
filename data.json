@@ -295468,5 +295468,11 @@
         "url": "https://www.youtube.com/watch?v=14ktgvoH4Mc",
         "timestamp": "2026-05-30T18:43:15.632807",
         "source": "Hacker News"
+    },
+    {
+        "title": "GitHub Copilot charges GPT 5.5 with a 57x multiplier per request from June first",
+        "url": "https://docs.github.com/en/copilot/reference/copilot-billing/request-based-billing-legacy/model-multipliers-for-annual-plans",
+        "timestamp": "2026-05-30T18:43:15.632841",
+        "source": "Hacker News"
     }
 ]
