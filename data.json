@@ -294790,5 +294790,11 @@
         "url": "https://why-openbsd.rocks/fact/",
         "timestamp": "2026-05-30T15:19:07.758100",
         "source": "Hacker News"
+    },
+    {
+        "title": "Three bugs that aren't in dial9",
+        "url": "https://dial9-rs.github.io/blog/3-bugs-that-arent-in-dial9/",
+        "timestamp": "2026-05-30T15:19:07.758130",
+        "source": "Hacker News"
     }
 ]
