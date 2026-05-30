@@ -295606,5 +295606,11 @@
         "url": "https://github.com/inerrata/brief",
         "timestamp": "2026-05-30T19:55:21.829477",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Nimic – write pure Python and compile AOT to native binaries via Nim",
+        "url": "https://github.com/dima-quant/nimic",
+        "timestamp": "2026-05-30T19:55:21.829506",
+        "source": "Hacker News"
     }
 ]
