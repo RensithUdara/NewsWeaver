@@ -294484,5 +294484,11 @@
         "url": "https://clueful.co/tribal",
         "timestamp": "2026-05-30T12:11:40.519708",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lunacy: A Lua JIT Written in Rust",
+        "url": "https://redvice.org/2026/lunacy/",
+        "timestamp": "2026-05-30T12:11:40.519735",
+        "source": "Hacker News"
     }
 ]
