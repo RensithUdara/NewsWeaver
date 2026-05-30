@@ -294106,5 +294106,11 @@
         "url": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
         "timestamp": "2026-05-30T09:33:09.127771",
         "source": "Hacker News"
+    },
+    {
+        "title": "Replacing WebView2 print-to-PDF with an embedded Typst engine (Rust)",
+        "url": "https://4worlds.dev/lore/014-typst-pdf-engine/",
+        "timestamp": "2026-05-30T09:33:09.127803",
+        "source": "Hacker News"
     }
 ]
