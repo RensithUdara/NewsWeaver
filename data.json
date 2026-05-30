@@ -295852,5 +295852,11 @@
         "url": "https://github.com/gi-dellav/zerostack/releases/tag/v1.3.4",
         "timestamp": "2026-05-30T20:44:01.726199",
         "source": "Hacker News"
+    },
+    {
+        "title": "768GB Intel Optane DIMMs to run 1T-parameter LLM with single GPU at 4tps",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/enthusiast-runs-1-trillion-parameter-llm-from-768gb-of-intel-optane-dimm-memory-sticks-local-kimi-k2-5-install-achieved-roughly-4-tokens-per-second",
+        "timestamp": "2026-05-30T20:44:01.726228",
+        "source": "Hacker News"
     }
 ]
