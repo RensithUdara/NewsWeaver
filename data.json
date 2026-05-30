@@ -294202,5 +294202,11 @@
         "url": "https://pandoc-templates.org/",
         "timestamp": "2026-05-30T11:02:53.871649",
         "source": "Hacker News"
+    },
+    {
+        "title": "Floor and Ceil versus Denormals on CPU and GPU",
+        "url": "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu",
+        "timestamp": "2026-05-30T11:02:53.871927",
+        "source": "Hacker News"
     }
 ]
