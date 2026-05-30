@@ -293782,5 +293782,11 @@
         "url": "https://www.ft.com/content/e98d7451-19ee-472e-9b92-8938eab0e205",
         "timestamp": "2026-05-30T05:03:55.361990",
         "source": "Hacker News"
+    },
+    {
+        "title": "I made a CPU only spiking neuron network lib that comes pretty close to PyTorch",
+        "url": "https://huggingface.co/etoxin/neuronguard-wikipedia-classifier",
+        "timestamp": "2026-05-30T05:03:55.362047",
+        "source": "Hacker News"
     }
 ]
