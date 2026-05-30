@@ -295738,5 +295738,11 @@
         "url": "https://news.ycombinator.com/item?id=48340424",
         "timestamp": "2026-05-30T20:44:01.725580",
         "source": "Hacker News"
+    },
+    {
+        "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+        "url": "https://github.com/wolfSSL/wolfCOSE",
+        "timestamp": "2026-05-30T20:44:01.725613",
+        "source": "Hacker News"
     }
 ]
