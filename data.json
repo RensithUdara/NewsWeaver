@@ -294220,5 +294220,11 @@
         "url": "https://www.axios.com/2026/05/29/ai-billionaires-tech-taxes-wealth",
         "timestamp": "2026-05-30T11:02:54.128581",
         "source": "Hacker News"
+    },
+    {
+        "title": "Finding a needle in a 4 GB haystack: from 0.75 GB/s to 49 GB/s in Go",
+        "url": "https://segflow.github.io/post/fast-file-search-go/",
+        "timestamp": "2026-05-30T11:02:54.128633",
+        "source": "Hacker News"
     }
 ]
