@@ -295756,5 +295756,11 @@
         "url": "https://rajveerbachkaniwala.com/blog/2026/05/19/stream2llm-overlap-context-streaming-prefill-reduced-ttft/",
         "timestamp": "2026-05-30T20:44:01.725673",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Helm plugin for working with OCI-based Helm charts",
+        "url": "https://github.com/esnet/helm-oci",
+        "timestamp": "2026-05-30T20:44:01.725702",
+        "source": "Hacker News"
     }
 ]
