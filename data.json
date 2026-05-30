@@ -295810,5 +295810,11 @@
         "url": "https://listomania.substack.com/p/soft-serve-and-soft-power",
         "timestamp": "2026-05-30T20:44:01.725969",
         "source": "Hacker News"
+    },
+    {
+        "title": "Secure GCP Auth in Bitbucket Pipelines",
+        "url": "https://emilytburak.net/posts/bitbucket-pipes-gap-gcp-oidc/",
+        "timestamp": "2026-05-30T20:44:01.725998",
+        "source": "Hacker News"
     }
 ]
