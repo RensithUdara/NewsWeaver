@@ -295984,5 +295984,11 @@
         "url": "https://www.bbc.co.uk/news/articles/c202d0l92weo",
         "timestamp": "2026-05-30T21:42:46.844394",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rotary GPU: Exploring Local Execution for Large Moe Models Under Limited VRAM",
+        "url": "https://arxiv.org/abs/2605.29135",
+        "timestamp": "2026-05-30T21:42:46.844429",
+        "source": "Hacker News"
     }
 ]
