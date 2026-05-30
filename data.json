@@ -293704,5 +293704,11 @@
         "url": "https://addyosmani.com/blog/orchestration-tax/",
         "timestamp": "2026-05-30T05:03:55.361518",
         "source": "Hacker News"
+    },
+    {
+        "title": "PROMPTPurify: 14 MB CPU-only prompt-injection guard (benchmarked vs. OSS guard)",
+        "url": "https://github.com/securelayer7/PROMPTPurify",
+        "timestamp": "2026-05-30T05:03:55.361551",
+        "source": "Hacker News"
     }
 ]
