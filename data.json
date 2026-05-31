@@ -298534,5 +298534,11 @@
         "url": "https://www.emergence.ai/blog/emergence-world-a-laboratory-for-evaluating-long-horizon-agent-autonomy",
         "timestamp": "2026-05-31T21:02:13.486522",
         "source": "Hacker News"
+    },
+    {
+        "title": "Deep Dive into Kubernetes Gateway API",
+        "url": "https://www.romaglushko.com/blog/k8s-gateway-api/",
+        "timestamp": "2026-05-31T21:02:13.486549",
+        "source": "Hacker News"
     }
 ]
