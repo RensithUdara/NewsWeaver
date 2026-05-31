@@ -298174,5 +298174,11 @@
         "url": "https://www.youtube.com/watch?v=_2qXIDO-cWw",
         "timestamp": "2026-05-31T18:53:53.970083",
         "source": "Hacker News"
+    },
+    {
+        "title": "RIS-Kernel: Running 64k context LLMs on CPU via sparse attention",
+        "url": "https://github.com/santosardr/riskernel",
+        "timestamp": "2026-05-31T18:53:53.970111",
+        "source": "Hacker News"
     }
 ]
