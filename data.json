@@ -298786,5 +298786,11 @@
         "url": "https://containers.dev/",
         "timestamp": "2026-05-31T22:10:07.781809",
         "source": "Hacker News"
+    },
+    {
+        "title": "A (small) language model walks through its training text",
+        "url": "https://github.com/chrishwiggins/shannon-language-model",
+        "timestamp": "2026-05-31T22:10:07.781837",
+        "source": "Hacker News"
     }
 ]
