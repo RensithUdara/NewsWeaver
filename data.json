@@ -298054,5 +298054,11 @@
         "url": "https://www.legalquants.com/blog/noroboto-and-the-pdf-that-lied-twice",
         "timestamp": "2026-05-31T17:46:40.790379",
         "source": "Hacker News"
+    },
+    {
+        "title": "Don't manage your AWS ECS deployments with IaC",
+        "url": "https://newsletter.masterpoint.io/p/deploying-your-apps-into-ecs",
+        "timestamp": "2026-05-31T17:46:40.790407",
+        "source": "Hacker News"
     }
 ]
