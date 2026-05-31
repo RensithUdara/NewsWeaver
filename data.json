@@ -297406,5 +297406,11 @@
         "url": "https://hannesweissteiner.com/pdfs/frost.pdf",
         "timestamp": "2026-05-31T14:13:23.879163",
         "source": "Hacker News"
+    },
+    {
+        "title": "New DuckDB-Iceberg Features in v1.5.3",
+        "url": "https://duckdb.org/2026/05/29/new-iceberg-features",
+        "timestamp": "2026-05-31T14:13:23.879196",
+        "source": "Hacker News"
     }
 ]
