@@ -298216,5 +298216,11 @@
         "url": "https://en.wikipedia.org/wiki/Preference_falsification",
         "timestamp": "2026-05-31T18:53:53.970278",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fixing JavaScript observability, one library at a time",
+        "url": "https://blog.sentry.io/fixing-javascript-observability/",
+        "timestamp": "2026-05-31T18:53:53.970306",
+        "source": "Hacker News"
     }
 ]
