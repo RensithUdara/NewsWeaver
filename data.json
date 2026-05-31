@@ -297922,5 +297922,11 @@
         "url": "https://www.economist.com/graphic-detail/2026/05/25/why-science-is-becoming-less-innovative",
         "timestamp": "2026-05-31T16:46:50.984601",
         "source": "Hacker News"
+    },
+    {
+        "title": "Simple way to make locally client Ollama available via WebSockets",
+        "url": "https://github.com/sascha10000/ollama-wsock-connector",
+        "timestamp": "2026-05-31T16:46:50.984629",
+        "source": "Hacker News"
     }
 ]
