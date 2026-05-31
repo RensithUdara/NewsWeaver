@@ -298744,5 +298744,11 @@
         "url": "https://news.ycombinator.com/item?id=48350107",
         "timestamp": "2026-05-31T22:10:07.781553",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agent-stack – one command to make any repo token-efficient for Claude Code",
+        "url": "https://github.com/drmahdikazempour/agent-stack",
+        "timestamp": "2026-05-31T22:10:07.781582",
+        "source": "Hacker News"
     }
 ]
