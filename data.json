@@ -298918,5 +298918,11 @@
         "url": "https://til.rfy.nz",
         "timestamp": "2026-05-31T23:16:08.573027",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Monolith, live typed queries on real Postgres for Java (no JDBC)",
+        "url": "https://github.com/singlr-ai/monolith",
+        "timestamp": "2026-05-31T23:16:08.573056",
+        "source": "Hacker News"
     }
 ]
