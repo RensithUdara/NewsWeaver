@@ -297808,5 +297808,11 @@
         "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
         "timestamp": "2026-05-31T16:46:50.690111",
         "source": "Hacker News"
+    },
+    {
+        "title": "Remote-cmd – Python CLI for SSH server management without the Ansible overhead",
+        "url": "https://github.com/Vae-Scrooge/remote-cmd",
+        "timestamp": "2026-05-31T16:46:50.984058",
+        "source": "Hacker News"
     }
 ]
