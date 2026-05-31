@@ -297790,5 +297790,11 @@
         "url": "https://github.com/pewdiepie-archdaemon/odysseus",
         "timestamp": "2026-05-31T16:46:50.689913",
         "source": "Hacker News"
+    },
+    {
+        "title": "Chibil: A C compiler targeting .NET IL",
+        "url": "https://github.com/MichalStrehovsky/chibil",
+        "timestamp": "2026-05-31T16:46:50.689948",
+        "source": "Hacker News"
     }
 ]
