@@ -297166,5 +297166,11 @@
         "url": "https://agentdeck.site/",
         "timestamp": "2026-05-31T11:09:39.847521",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code plugin that shows what's happening",
+        "url": "https://github.com/jarrodwatts/claude-hud",
+        "timestamp": "2026-05-31T11:09:39.847543",
+        "source": "Hacker News"
     }
 ]
