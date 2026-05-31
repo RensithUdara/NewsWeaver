@@ -298156,5 +298156,11 @@
         "url": "https://www.theregister.com/ai-ml/2026/05/28/ai-agents-get-their-own-phone-directory-built-atop-dns/5247539",
         "timestamp": "2026-05-31T18:53:53.969995",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why Julia's GPU Accelerated Ode Solvers Are 20x-100x Faster Than Jax and PyTorch",
+        "url": "https://www.stochasticlifestyle.com/why-julias-gpu-accelerated-ode-solvers-are-20x-100x-faster-than-jax-and-pytorch/",
+        "timestamp": "2026-05-31T18:53:53.970025",
+        "source": "Hacker News"
     }
 ]
