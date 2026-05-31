@@ -296662,5 +296662,11 @@
         "url": "https://theblackwall.vercel.app/",
         "timestamp": "2026-05-31T06:00:39.354796",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gradient animation using a WebGL shader",
+        "url": "https://garden.bradwoods.io/notes/shaders/gradient",
+        "timestamp": "2026-05-31T06:00:39.354824",
+        "source": "Hacker News"
     }
 ]
