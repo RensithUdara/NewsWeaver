@@ -297412,5 +297412,11 @@
         "url": "https://duckdb.org/2026/05/29/new-iceberg-features",
         "timestamp": "2026-05-31T14:13:23.879196",
         "source": "Hacker News"
+    },
+    {
+        "title": "A local-first explainer-video generator (Kokoro TTS, no cloud, no paid SaaS)",
+        "url": "https://github.com/nemock/video-explainer-system",
+        "timestamp": "2026-05-31T14:13:23.879227",
+        "source": "Hacker News"
     }
 ]
