@@ -298708,5 +298708,11 @@
         "url": "https://tiendli.com",
         "timestamp": "2026-05-31T22:10:07.781379",
         "source": "Hacker News"
+    },
+    {
+        "title": "Spaniel – OpenTelemetry viewer for local development (Postman for your traces)",
+        "url": "https://github.com/zfogg/spaniel",
+        "timestamp": "2026-05-31T22:10:07.781409",
+        "source": "Hacker News"
     }
 ]
