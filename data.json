@@ -296554,5 +296554,11 @@
         "url": "https://huggingface.co/hardware",
         "timestamp": "2026-05-31T01:38:22.464382",
         "source": "Hacker News"
+    },
+    {
+        "title": "CIFSwitch: A non-universal Linux local root vulnerability",
+        "url": "https://heyitsas.im/posts/cifswitch/",
+        "timestamp": "2026-05-31T01:38:22.464418",
+        "source": "Hacker News"
     }
 ]
