@@ -296920,5 +296920,11 @@
         "url": "https://sourcehut.org/blog/2021-12-08-100-rabbits-interview/",
         "timestamp": "2026-05-31T09:19:00.815837",
         "source": "Hacker News"
+    },
+    {
+        "title": "A New Design for Pretty Printer Implementations in Rust",
+        "url": "https://blog.wybxc.cc/blog/pretty-printer-pye/",
+        "timestamp": "2026-05-31T09:19:00.815865",
+        "source": "Hacker News"
     }
 ]
