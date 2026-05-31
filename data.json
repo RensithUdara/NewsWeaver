@@ -296446,5 +296446,11 @@
         "url": "https://vercel.com/kb/guide/protect-ai-endpoints-with-vercel-botid",
         "timestamp": "2026-05-31T01:38:22.463708",
         "source": "Hacker News"
+    },
+    {
+        "title": "From Silos to Service Topology: Why Netflix Built a Real-Time Service Map",
+        "url": "https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc",
+        "timestamp": "2026-05-31T01:38:22.463742",
+        "source": "Hacker News"
     }
 ]
