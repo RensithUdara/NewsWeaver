@@ -298480,5 +298480,11 @@
         "url": "https://gizmodo.com/police-in-china-sure-love-smart-glasses-2000763598",
         "timestamp": "2026-05-31T19:59:55.393618",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building Rust Procedural Macros from the Grounds Up",
+        "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
+        "timestamp": "2026-05-31T19:59:55.393646",
+        "source": "Hacker News"
     }
 ]
