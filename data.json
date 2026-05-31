@@ -298546,5 +298546,11 @@
         "url": "https://twitter.com/jeremybernier/status/2058243373161722185",
         "timestamp": "2026-05-31T21:02:13.486569",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ruby Client for the Model Context Protocol (MCP)",
+        "url": "https://github.com/zarpay/manceps",
+        "timestamp": "2026-05-31T21:02:13.486626",
+        "source": "Hacker News"
     }
 ]
