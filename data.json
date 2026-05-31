@@ -297388,5 +297388,11 @@
         "url": "https://www.inkandswitch.com/newsletter/dispatch-015/",
         "timestamp": "2026-05-31T14:13:23.584735",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+        "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+        "timestamp": "2026-05-31T14:13:23.879079",
+        "source": "Hacker News"
     }
 ]
