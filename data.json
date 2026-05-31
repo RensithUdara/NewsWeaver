@@ -298042,5 +298042,11 @@
         "url": "https://www.youtube.com/watch?v=BD3vLtWhT5A",
         "timestamp": "2026-05-31T17:46:40.790274",
         "source": "Hacker News"
+    },
+    {
+        "title": "Git-courer – A complete, JSON-first Git layer for LLM agents",
+        "url": "https://github.com/Alejandro-M-P/git-courer",
+        "timestamp": "2026-05-31T17:46:40.790349",
+        "source": "Hacker News"
     }
 ]
