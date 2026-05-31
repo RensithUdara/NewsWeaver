@@ -296590,5 +296590,11 @@
         "url": "https://av2.aomedia.org",
         "timestamp": "2026-05-31T06:00:39.044520",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a LangGraph pipeline for production data engineering",
+        "url": "https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline",
+        "timestamp": "2026-05-31T06:00:39.044550",
+        "source": "Hacker News"
     }
 ]
