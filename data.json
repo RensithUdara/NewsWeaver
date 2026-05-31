@@ -297610,5 +297610,11 @@
         "url": "https://rocketup.pages.dev/posts/what_we_built_in_2_weeks/",
         "timestamp": "2026-05-31T15:40:30.923886",
         "source": "Hacker News"
+    },
+    {
+        "title": "Root cause: the 2-year-old bug behind \"Ollama pull stuck at 99%\"",
+        "url": "https://gist.github.com/alvinttang/94b5be372ced98fa3e3fba4d53dc9c51",
+        "timestamp": "2026-05-31T15:40:30.923918",
+        "source": "Hacker News"
     }
 ]
