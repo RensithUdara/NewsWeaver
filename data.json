@@ -298834,5 +298834,11 @@
         "url": "https://finance.yahoo.com/markets/article/the-global-oil-market-is-running-out-of-options-you-cannot-print-molecules-100000694.html",
         "timestamp": "2026-05-31T22:10:07.782044",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a programming language in C (Arc) with a custom interpreter",
+        "url": "https://github.com/VxidDev/arc",
+        "timestamp": "2026-05-31T22:10:07.782074",
+        "source": "Hacker News"
     }
 ]
