@@ -298330,5 +298330,11 @@
         "url": "https://twitter.com/i/status/2060746160558543217",
         "timestamp": "2026-05-31T19:59:55.304092",
         "source": "Hacker News"
+    },
+    {
+        "title": "Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock",
+        "url": "https://lwn.net/Articles/104185/",
+        "timestamp": "2026-05-31T19:59:55.304184",
+        "source": "Hacker News"
     }
 ]
