@@ -299290,5 +299290,11 @@
         "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
         "timestamp": "2026-06-01T10:32:39.369905",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cessation of public development of Kefir C compiler",
+        "url": "https://kefir.protopopov.lv/posts/announce2.html",
+        "timestamp": "2026-06-01T10:32:39.370001",
+        "source": "Hacker News"
     }
 ]
