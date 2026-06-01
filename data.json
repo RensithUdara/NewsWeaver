@@ -299500,5 +299500,11 @@
         "url": "https://www.bloomberg.com/news/features/2026-06-01/valve-s-antitrust-reckoning-over-steam-has-echoes-of-apple-google-app-store-sui",
         "timestamp": "2026-06-01T10:32:39.674336",
         "source": "Hacker News"
+    },
+    {
+        "title": "Proveyouragent: Cryptographic identity for AI agents (Ed25519 and DPoP)",
+        "url": "https://github.com/lujainkhalil/proveyouragent",
+        "timestamp": "2026-06-01T10:32:39.674376",
+        "source": "Hacker News"
     }
 ]
