@@ -299302,5 +299302,11 @@
         "url": "https://blainsmith.com/articles/httptrace-with-go/",
         "timestamp": "2026-06-01T10:32:39.370034",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rift: Better Alternative to Git Worktrees",
+        "url": "https://github.com/anomalyco/rift",
+        "timestamp": "2026-06-01T10:32:39.370187",
+        "source": "Hacker News"
     }
 ]
