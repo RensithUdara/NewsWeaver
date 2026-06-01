@@ -299020,5 +299020,11 @@
         "url": "https://samhenrycliff.medium.com/memo-from-the-interstellar-information-service-re-earths-latest-space-plan-8f2f0afb3751",
         "timestamp": "2026-06-01T00:15:28.241917",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenJDK: Removal of the JVM Compiler Interface (JVMCI), in JDK 27",
+        "url": "https://bugs.openjdk.org/browse/JDK-8382582",
+        "timestamp": "2026-06-01T00:15:28.241945",
+        "source": "Hacker News"
     }
 ]
