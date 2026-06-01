@@ -299944,5 +299944,11 @@
         "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
         "timestamp": "2026-06-01T20:40:49.180363",
         "source": "Hacker News"
+    },
+    {
+        "title": "Should you normalize RGB values by 255 or 256?",
+        "url": "https://30fps.net/pages/255-vs-256-division/",
+        "timestamp": "2026-06-01T20:40:49.180401",
+        "source": "Hacker News"
     }
 ]
