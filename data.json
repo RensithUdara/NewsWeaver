@@ -300334,5 +300334,11 @@
         "url": "https://www.biorxiv.org/content/10.1101/2025.05.28.656524v1.full",
         "timestamp": "2026-06-01T22:51:39.599160",
         "source": "Hacker News"
+    },
+    {
+        "title": "Implicit.js, a way for agents to do 3D design with math",
+        "url": "https://github.com/earthtojake/implicit.js",
+        "timestamp": "2026-06-01T22:51:39.599188",
+        "source": "Hacker News"
     }
 ]
