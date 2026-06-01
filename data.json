@@ -300178,5 +300178,11 @@
         "url": "https://xcancel.com/arcprize/status/2061512025638121516",
         "timestamp": "2026-06-01T20:40:49.486544",
         "source": "Hacker News"
+    },
+    {
+        "title": "Microsoft's Postgres VS Code extension now available for Cursor",
+        "url": "https://techcommunity.microsoft.com/blog/adforpostgresql/your-postgresql-workflow-just-found-its-new-home-in-cursor/4524081",
+        "timestamp": "2026-06-01T20:40:49.486573",
+        "source": "Hacker News"
     }
 ]
