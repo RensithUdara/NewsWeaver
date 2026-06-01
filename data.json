@@ -300382,5 +300382,11 @@
         "url": "https://csmeyer.substack.com/p/a-tale-of-two-weekend-projects",
         "timestamp": "2026-06-01T22:51:39.599388",
         "source": "Hacker News"
+    },
+    {
+        "title": "Jenesis – A modern Java build tool",
+        "url": "https://github.com/raphw/jenesis/tree/main/demo",
+        "timestamp": "2026-06-01T22:51:39.599417",
+        "source": "Hacker News"
     }
 ]
