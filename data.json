@@ -299116,5 +299116,11 @@
         "url": "https://fortune.com/2026/05/31/tech-companies-ai-washing-layoffs-wix-block-snap-atlassian-disposable-workers/",
         "timestamp": "2026-06-01T05:16:50.967337",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bugs I didn't expect while building a zsh cleanup script for macOS dev machines",
+        "url": "https://github.com/milyzc/clean-mac",
+        "timestamp": "2026-06-01T05:16:50.967401",
+        "source": "Hacker News"
     }
 ]
