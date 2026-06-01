@@ -299392,5 +299392,11 @@
         "url": "https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html",
         "timestamp": "2026-06-01T10:32:39.673788",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Open-source sync-engine for managing websites at scale",
+        "url": "https://github.com/gospecter/specter",
+        "timestamp": "2026-06-01T10:32:39.673817",
+        "source": "Hacker News"
     }
 ]
