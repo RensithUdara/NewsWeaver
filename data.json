@@ -299578,5 +299578,11 @@
         "url": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
         "timestamp": "2026-06-01T10:32:40.030530",
         "source": "TechCrunch"
+    },
+    {
+        "title": "NPM packages from Red Hat have been compromised",
+        "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+        "timestamp": "2026-06-01T16:23:43.304100",
+        "source": "Hacker News"
     }
 ]
