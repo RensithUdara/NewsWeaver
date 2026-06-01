@@ -299374,5 +299374,11 @@
         "url": "https://www.youtube.com/watch?v=St_kJZXZ_nE",
         "timestamp": "2026-06-01T10:32:39.673701",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rebuilding the Access Edge: Why We Replaced PPPoE with a Custom DHCP Server",
+        "url": "https://medium.com/@mustafa.n.gaid/rebuilding-the-access-edge-why-we-replaced-pppoe-with-a-custom-dhcp-server-9a062e1ab484",
+        "timestamp": "2026-06-01T10:32:39.673730",
+        "source": "Hacker News"
     }
 ]
