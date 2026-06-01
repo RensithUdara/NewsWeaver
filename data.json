@@ -299674,5 +299674,11 @@
         "url": "https://news.ycombinator.com/item?id=48357725",
         "timestamp": "2026-06-01T16:23:43.304693",
         "source": "Hacker News"
+    },
+    {
+        "title": "Using Git's rerere feature to escape recurring conflict hell",
+        "url": "https://gist.github.com/skipcloud/f1033afb4fa5681d69fa63458cc95928",
+        "timestamp": "2026-06-01T16:23:43.304784",
+        "source": "Hacker News"
     }
 ]
