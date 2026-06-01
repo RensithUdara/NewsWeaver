@@ -299452,5 +299452,11 @@
         "url": "https://intrascope.app/",
         "timestamp": "2026-06-01T10:32:39.674102",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fine-tuning an LLM to write docs like it's 1995",
+        "url": "https://passo.uno/fine-tuning-docs-llm/",
+        "timestamp": "2026-06-01T10:32:39.674132",
+        "source": "Hacker News"
     }
 ]
