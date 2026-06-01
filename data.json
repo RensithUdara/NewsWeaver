@@ -300256,5 +300256,11 @@
         "url": "https://www.nytimes.com/2026/05/29/us/south-carolina-sonic-boom.html",
         "timestamp": "2026-06-01T22:51:39.598723",
         "source": "Hacker News"
+    },
+    {
+        "title": "Arch Linux: Varnish Renamed to Vinyl-Cache with Breaking Changes for Users",
+        "url": "https://archlinux.org/news/breaking-changes-for-all-users-of-varnish-which-is-renamed-to-vinyl-cache/",
+        "timestamp": "2026-06-01T22:51:39.598772",
+        "source": "Hacker News"
     }
 ]
