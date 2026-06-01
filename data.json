@@ -300100,5 +300100,11 @@
         "url": "https://arijan.dev/posts/niri-not-for-me/",
         "timestamp": "2026-06-01T20:40:49.486146",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linux 7.2 Proceeding to Deprecate Af_alg Due to \"Massive Attack Surface\"",
+        "url": "https://www.phoronix.com/news/Linux-AF-ALG-Deprecation",
+        "timestamp": "2026-06-01T20:40:49.486175",
+        "source": "Hacker News"
     }
 ]
