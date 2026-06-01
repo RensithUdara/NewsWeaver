@@ -299728,5 +299728,11 @@
         "url": "https://www.reuters.com/business/ai-giant-anthropic-confidentially-files-us-ipo-2026-06-01",
         "timestamp": "2026-06-01T16:23:43.384952",
         "source": "Hacker News"
+    },
+    {
+        "title": "Red Hat Cloud Services Publish Pipeline Compromised, Shipped Malicious NPM",
+        "url": "https://safedep.io/redhat-cloud-services-hit-by-mini-shai-hulud-npm-worm/",
+        "timestamp": "2026-06-01T16:23:43.384974",
+        "source": "Hacker News"
     }
 ]
