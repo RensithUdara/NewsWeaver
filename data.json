@@ -299296,5 +299296,11 @@
         "url": "https://kefir.protopopov.lv/posts/announce2.html",
         "timestamp": "2026-06-01T10:32:39.370001",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
+        "url": "https://blainsmith.com/articles/httptrace-with-go/",
+        "timestamp": "2026-06-01T10:32:39.370034",
+        "source": "Hacker News"
     }
 ]
