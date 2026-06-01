@@ -299314,5 +299314,11 @@
         "url": "https://www.chiply.dev/post-ij-sierpinski",
         "timestamp": "2026-06-01T10:32:39.370246",
         "source": "Hacker News"
+    },
+    {
+        "title": "Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)",
+        "url": "https://surrealdb.com/blog/surrealdb-3-x-by-the-numbers",
+        "timestamp": "2026-06-01T10:32:39.370443",
+        "source": "Hacker News"
     }
 ]
