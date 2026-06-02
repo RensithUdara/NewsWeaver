@@ -301468,5 +301468,11 @@
         "url": "https://github.com/tanakamasayuki/PCMFlowG722",
         "timestamp": "2026-06-02T17:09:08.540077",
         "source": "Hacker News"
+    },
+    {
+        "title": "CLI tool that packages data science projects for LLM context windows",
+        "url": "https://github.com/arianmokhtariha/data2prompt",
+        "timestamp": "2026-06-02T17:09:08.938292",
+        "source": "Hacker News"
     }
 ]
