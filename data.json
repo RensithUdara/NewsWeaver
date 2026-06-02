@@ -300760,5 +300760,11 @@
         "url": "https://worksinprogress.co/issue/samurai-city/",
         "timestamp": "2026-06-02T04:56:42.550560",
         "source": "Hacker News"
+    },
+    {
+        "title": "ShadowProtect: Wireshark for AI Agents",
+        "url": "https://pypi.org/project/shadowprotect/0.1.0/",
+        "timestamp": "2026-06-02T04:56:42.550594",
+        "source": "Hacker News"
     }
 ]
