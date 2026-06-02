@@ -301456,5 +301456,11 @@
         "url": "https://blog.davidedmundson.co.uk/blog/596/",
         "timestamp": "2026-06-02T17:09:08.539894",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why Custom Attributes in .NET Give Me Nightmares",
+        "url": "https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/",
+        "timestamp": "2026-06-02T17:09:08.539924",
+        "source": "Hacker News"
     }
 ]
