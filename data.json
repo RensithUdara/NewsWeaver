@@ -301834,5 +301834,11 @@
         "url": "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/",
         "timestamp": "2026-06-02T20:16:08.905853",
         "source": "Hacker News"
+    },
+    {
+        "title": "How we index images for RAG",
+        "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+        "timestamp": "2026-06-02T20:16:08.905959",
+        "source": "Hacker News"
     }
 ]
