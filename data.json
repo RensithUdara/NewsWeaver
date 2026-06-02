@@ -300460,5 +300460,11 @@
         "url": "https://plato.stanford.edu/entries/frame-problem/",
         "timestamp": "2026-06-02T00:05:54.220288",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: DepsGuard – one command to harden NPM/pnpm/yarn/bun/uv configs",
+        "url": "https://github.com/arnica/depsguard",
+        "timestamp": "2026-06-02T00:05:54.220384",
+        "source": "Hacker News"
     }
 ]
