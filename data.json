@@ -301942,5 +301942,11 @@
         "url": "https://unvoid.substack.com/p/the-ai-trap-were-walking-into",
         "timestamp": "2026-06-02T20:16:09.005339",
         "source": "Hacker News"
+    },
+    {
+        "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+        "url": "https://tiki.li/blog/blqsort",
+        "timestamp": "2026-06-02T20:16:09.005396",
+        "source": "Hacker News"
     }
 ]
