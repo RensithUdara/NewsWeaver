@@ -301312,5 +301312,11 @@
         "url": "https://gitlab.com/soapbox-pub/ditto/-/blob/main/WALLET.md",
         "timestamp": "2026-06-02T12:48:45.555650",
         "source": "Hacker News"
+    },
+    {
+        "title": "An AI agent ported our codebase from Python to Rust",
+        "url": "https://aboutcode.org/blog/agentic-scancode-port-case-study/",
+        "timestamp": "2026-06-02T12:48:45.555685",
+        "source": "Hacker News"
     }
 ]
