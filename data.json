@@ -301330,5 +301330,11 @@
         "url": "https://web.archive.org/web/20031003042205/http://www.fastcompany.com/magazine/06/writestuff.html",
         "timestamp": "2026-06-02T12:48:45.555790",
         "source": "Hacker News"
+    },
+    {
+        "title": "New RFC 9989 for DMARC and updated guidance for postmasters",
+        "url": "https://www.dmarctrust.com/blog/dmarcbis-rfc-9989-9990-9991",
+        "timestamp": "2026-06-02T12:48:45.555824",
+        "source": "Hacker News"
     }
 ]
