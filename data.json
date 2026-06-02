@@ -300544,5 +300544,11 @@
         "url": "https://medium.com/@arielf/human-all-too-human-will-we-become-hostages-to-our-own-minds-by-implementing-universal-ai-388f4ab2018e",
         "timestamp": "2026-06-02T00:05:54.395392",
         "source": "Hacker News"
+    },
+    {
+        "title": "KineQuetEngine – Bio-inspired context engine in Rust (sub-100µs latency)",
+        "url": "https://github.com/gemirson/kinequet",
+        "timestamp": "2026-06-02T00:05:54.395422",
+        "source": "Hacker News"
     }
 ]
