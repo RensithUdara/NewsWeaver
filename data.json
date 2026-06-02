@@ -301240,5 +301240,11 @@
         "url": "https://english.kyodonews.net/articles/-/77153",
         "timestamp": "2026-06-02T12:48:45.555214",
         "source": "Hacker News"
+    },
+    {
+        "title": "LlamaStash – Zero-overhead, terminal-native llama.cpp launcher",
+        "url": "https://github.com/llamastash/llamastash",
+        "timestamp": "2026-06-02T12:48:45.555248",
+        "source": "Hacker News"
     }
 ]
