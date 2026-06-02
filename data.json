@@ -301462,5 +301462,11 @@
         "url": "https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/",
         "timestamp": "2026-06-02T17:09:08.539924",
         "source": "Hacker News"
+    },
+    {
+        "title": "PCMFlowG722 wideband (HD voice) codec for ESP32",
+        "url": "https://github.com/tanakamasayuki/PCMFlowG722",
+        "timestamp": "2026-06-02T17:09:08.540077",
+        "source": "Hacker News"
     }
 ]
