@@ -300700,5 +300700,11 @@
         "url": "https://www.wsj.com/finance/currencies/how-online-sleuthing-helped-catch-the-google-polymarket-trader-b6ccebb0",
         "timestamp": "2026-06-02T04:56:42.550129",
         "source": "Hacker News"
+    },
+    {
+        "title": "BreakShield CI – Detects Breaking API Changes in PRs Using AST",
+        "url": "https://breakshield-ci.vercel.app",
+        "timestamp": "2026-06-02T04:56:42.550180",
+        "source": "Hacker News"
     }
 ]
