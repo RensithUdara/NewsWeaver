@@ -301540,5 +301540,11 @@
         "url": "https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large",
         "timestamp": "2026-06-02T17:09:08.938641",
         "source": "Hacker News"
+    },
+    {
+        "title": "Training over a thousand LoRA adapters at once",
+        "url": "https://osmosis.ai/blogs/training-thousands-of-lora-adapters-at-once",
+        "timestamp": "2026-06-02T17:09:08.938670",
+        "source": "Hacker News"
     }
 ]
