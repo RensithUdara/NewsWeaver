@@ -301906,5 +301906,11 @@
         "url": "https://www.nature.com/articles/s41467-026-73331-6",
         "timestamp": "2026-06-02T20:16:09.005128",
         "source": "Hacker News"
+    },
+    {
+        "title": "Riscrithm (v1.1) – An intuitive RISC-V assembler and optimizer written in Go",
+        "url": "https://github.com/ghetea-patrick/riscrithm/releases/tag/v1.1.0",
+        "timestamp": "2026-06-02T20:16:09.005163",
+        "source": "Hacker News"
     }
 ]
