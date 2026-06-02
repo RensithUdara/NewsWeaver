@@ -301948,5 +301948,11 @@
         "url": "https://tiki.li/blog/blqsort",
         "timestamp": "2026-06-02T20:16:09.005396",
         "source": "Hacker News"
+    },
+    {
+        "title": "Microsoft Execution Containers (MXC)",
+        "url": "https://github.com/microsoft/mxc",
+        "timestamp": "2026-06-02T20:16:09.005432",
+        "source": "Hacker News"
     }
 ]
