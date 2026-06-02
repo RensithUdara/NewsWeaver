@@ -301618,5 +301618,11 @@
         "url": "https://www.theregister.com/security/2026/06/02/microsoft-reaches-for-olive-branch-after-public-dustup-with-0-day-researcher/5249945",
         "timestamp": "2026-06-02T17:09:08.939050",
         "source": "Hacker News"
+    },
+    {
+        "title": "Coreutils for Windows",
+        "url": "https://github.com/microsoft/coreutils",
+        "timestamp": "2026-06-02T17:09:08.939080",
+        "source": "Hacker News"
     }
 ]
