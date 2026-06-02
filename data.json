@@ -301876,5 +301876,11 @@
         "url": "https://vllm.ai/blog/2026-06-02-session-aware-agentic-routing",
         "timestamp": "2026-06-02T20:16:09.004928",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a React and MDX workspace so AI agents stop generating giant HTML files",
+        "url": "https://github.com/quan0715/open-press",
+        "timestamp": "2026-06-02T20:16:09.004968",
+        "source": "Hacker News"
     }
 ]
