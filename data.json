@@ -301306,5 +301306,11 @@
         "url": "https://www.bbc.co.uk/news/articles/crmp0krp98ro",
         "timestamp": "2026-06-02T12:48:45.555612",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ditto · a Nostr to Bitcoin Wallet",
+        "url": "https://gitlab.com/soapbox-pub/ditto/-/blob/main/WALLET.md",
+        "timestamp": "2026-06-02T12:48:45.555650",
+        "source": "Hacker News"
     }
 ]
