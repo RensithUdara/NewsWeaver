@@ -304054,5 +304054,11 @@
         "url": "https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla",
         "timestamp": "2026-06-03T21:38:30.230348",
         "source": "Dev.to"
+    },
+    {
+        "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
+        "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
+        "timestamp": "2026-06-03T21:38:30.230364",
+        "source": "Dev.to"
     }
 ]
