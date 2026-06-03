@@ -303898,5 +303898,11 @@
         "url": "https://www.economist.com/graphic-detail/2026/06/01/do-you-really-want-that-computer-science-degree",
         "timestamp": "2026-06-03T21:38:29.883872",
         "source": "Hacker News"
+    },
+    {
+        "title": "Inference Optimization for MiniMax Sparse Attention",
+        "url": "https://www.together.ai/blog/serving-minimax-m3-for-efficient-inference-unlocking-1m-token-context-and-multimodality-without-regrets",
+        "timestamp": "2026-06-03T21:38:29.883912",
+        "source": "Hacker News"
     }
 ]
