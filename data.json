@@ -303628,5 +303628,11 @@
         "url": "https://twitter.com/themidasproj/status/2062188060004241592",
         "timestamp": "2026-06-03T18:41:55.812899",
         "source": "Hacker News"
+    },
+    {
+        "title": "Better-PaaS – A Lightweight Self-Hosted PaaS in Go, Nixpacks, and Caddy",
+        "url": "https://github.com/sumon-ohid/better-paas",
+        "timestamp": "2026-06-03T18:41:55.812934",
+        "source": "Hacker News"
     }
 ]
