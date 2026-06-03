@@ -303604,5 +303604,11 @@
         "url": "https://www.bmj.com/content/393/bmj-2025-088050",
         "timestamp": "2026-06-03T18:41:55.812751",
         "source": "Hacker News"
+    },
+    {
+        "title": "Regular Expression Matching Can Be Simple and Fast (2007)",
+        "url": "https://swtch.com/~rsc/regexp/regexp1.html",
+        "timestamp": "2026-06-03T18:41:55.812787",
+        "source": "Hacker News"
     }
 ]
