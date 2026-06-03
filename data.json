@@ -302842,5 +302842,11 @@
         "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
         "timestamp": "2026-06-03T10:06:35.332685",
         "source": "Hacker News"
+    },
+    {
+        "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+        "url": "https://redis.io/blog/announcing-redis-8-8/",
+        "timestamp": "2026-06-03T10:06:35.332745",
+        "source": "Hacker News"
     }
 ]
