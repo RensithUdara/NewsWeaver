@@ -304030,5 +304030,11 @@
         "url": "https://matthewboston.com/blog/the-agentic-test-pyramid.html",
         "timestamp": "2026-06-03T21:38:29.884788",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: TurboPrefill – Multi-GPU prefill acceleration for llama.cpp",
+        "url": "https://github.com/sergey-automation/TurboPrefill",
+        "timestamp": "2026-06-03T21:38:29.884824",
+        "source": "Hacker News"
     }
 ]
