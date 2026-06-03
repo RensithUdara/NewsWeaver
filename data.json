@@ -302872,5 +302872,11 @@
         "url": "https://www.heise.de/en/blog/How-Goedel-and-Turing-outlined-the-limits-of-AI-11313804.html",
         "timestamp": "2026-06-03T10:06:35.332906",
         "source": "Hacker News"
+    },
+    {
+        "title": "Build 2026: WSL improvements and the new Containers CLI and APIs",
+        "url": "https://build.microsoft.com/en-US/sessions/DEM346",
+        "timestamp": "2026-06-03T10:06:35.332944",
+        "source": "Hacker News"
     }
 ]
