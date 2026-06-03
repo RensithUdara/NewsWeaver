@@ -303304,5 +303304,11 @@
         "url": "https://www.dotfurry.org/",
         "timestamp": "2026-06-03T14:58:17.822642",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Constellation is an open-source Hasura-compatible GraphQL engine in Go",
+        "url": "https://nhost.io/blog/introducing-constellation",
+        "timestamp": "2026-06-03T14:58:17.822676",
+        "source": "Hacker News"
     }
 ]
