@@ -303256,5 +303256,11 @@
         "url": "https://www.bloomberg.com/news/articles/2026-06-03/asml-becomes-europe-s-most-valuable-stock-ever-on-ai-boom",
         "timestamp": "2026-06-03T14:58:17.822316",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Post-Quantum Future for Let's Encrypt",
+        "url": "https://letsencrypt.org/2026/06/03/pq-certs.html",
+        "timestamp": "2026-06-03T14:58:17.822370",
+        "source": "Hacker News"
     }
 ]
