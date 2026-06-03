@@ -303994,5 +303994,11 @@
         "url": "https://finance.yahoo.com/economy/policy/articles/bernie-sanders-introduce-bill-giving-135431485.html",
         "timestamp": "2026-06-03T21:38:29.884506",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why Vector Search Alone Isn't Enough: Hybrid Retrieval for RAG",
+        "url": "https://www.infoq.com/articles/vector-search-hybrid-retrieval-rag/",
+        "timestamp": "2026-06-03T21:38:29.884575",
+        "source": "Hacker News"
     }
 ]
