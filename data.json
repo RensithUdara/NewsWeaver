@@ -303616,5 +303616,11 @@
         "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
         "timestamp": "2026-06-03T18:41:55.812822",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Cf-colo-watcher – Monitor which Cloudflare colo is serving you",
+        "url": "https://github.com/haydenjames/cf-colo-watcher",
+        "timestamp": "2026-06-03T18:41:55.812857",
+        "source": "Hacker News"
     }
 ]
