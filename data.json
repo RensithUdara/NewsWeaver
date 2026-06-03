@@ -303484,5 +303484,11 @@
         "url": "https://news.ycombinator.com/item?id=48387095",
         "timestamp": "2026-06-03T18:41:55.714556",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gooey: A GPU-accelerated UI framework for Zig",
+        "url": "https://github.com/duanebester/gooey",
+        "timestamp": "2026-06-03T18:41:55.714631",
+        "source": "Hacker News"
     }
 ]
