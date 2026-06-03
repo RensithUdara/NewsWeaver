@@ -302860,5 +302860,11 @@
         "url": "https://www.asahi.com/ajw/articles/16615541",
         "timestamp": "2026-06-03T10:06:35.332828",
         "source": "Hacker News"
+    },
+    {
+        "title": "A runtime verification pipeline that reduced hallucinations from 67% to 11%",
+        "url": "https://www.crukx.dev/",
+        "timestamp": "2026-06-03T10:06:35.332868",
+        "source": "Hacker News"
     }
 ]
