@@ -302650,5 +302650,11 @@
         "url": "https://www.theregister.com/cyber-crime/2026/06/02/dumbass-criminal-breaks-the-first-rule-of-ransomware-club/5250380",
         "timestamp": "2026-06-03T05:11:06.127957",
         "source": "Hacker News"
+    },
+    {
+        "title": "GPU Forecasters: Language Models as Selective Surrogates for Kernel Optimization",
+        "url": "https://arxiv.org/abs/2605.31464",
+        "timestamp": "2026-06-03T05:11:06.128001",
+        "source": "Hacker News"
     }
 ]
