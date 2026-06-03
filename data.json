@@ -303346,5 +303346,11 @@
         "url": "https://news.ycombinator.com/item?id=48384741",
         "timestamp": "2026-06-03T14:58:17.822915",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Testbump – automated test driven versioning",
+        "url": "https://github.com/ivoputzer/testbump",
+        "timestamp": "2026-06-03T14:58:17.822949",
+        "source": "Hacker News"
     }
 ]
