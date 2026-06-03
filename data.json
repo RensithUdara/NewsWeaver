@@ -303274,5 +303274,11 @@
         "url": "https://internals.laxmena.com/p/why-claude-codes-agent-loop-is-over",
         "timestamp": "2026-06-03T14:58:17.822475",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Rust runtime for React that hits 97k req/s by keeping V8 idle",
+        "url": "https://rari.build/blog/building-rari-with-rari",
+        "timestamp": "2026-06-03T14:58:17.822508",
+        "source": "Hacker News"
     }
 ]
