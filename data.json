@@ -303496,5 +303496,11 @@
         "url": "https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai",
         "timestamp": "2026-06-03T18:41:55.714666",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Post-Quantum Future for Let's Encrypt",
+        "url": "https://letsencrypt.org/2026/06/03/pq-certs",
+        "timestamp": "2026-06-03T18:41:55.714706",
+        "source": "Hacker News"
     }
 ]
