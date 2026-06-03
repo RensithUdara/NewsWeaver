@@ -302530,5 +302530,11 @@
         "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
         "timestamp": "2026-06-03T00:09:56.342848",
         "source": "TechCrunch"
+    },
+    {
+        "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+        "url": "https://blog.ammaraskar.com/github-token-stealing/",
+        "timestamp": "2026-06-03T05:11:05.872722",
+        "source": "Hacker News"
     }
 ]
