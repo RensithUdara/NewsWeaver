@@ -303844,5 +303844,11 @@
         "url": "https://brume.aftertone.co/",
         "timestamp": "2026-06-03T21:38:29.584004",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+        "url": "https://github.com/zaydmulani09/mnemo",
+        "timestamp": "2026-06-03T21:38:29.584041",
+        "source": "Hacker News"
     }
 ]
