@@ -303514,5 +303514,11 @@
         "url": "https://www.mikeash.com/pyblog/fluid-simulation-for-dummies.html",
         "timestamp": "2026-06-03T18:41:55.714782",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Nutrepedia – nutrition info in 29 locales built with Clojure and Htmx",
+        "url": "https://nutrepedia.com/en-us/",
+        "timestamp": "2026-06-03T18:41:55.714819",
+        "source": "Hacker News"
     }
 ]
