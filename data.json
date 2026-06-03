@@ -303874,5 +303874,11 @@
         "url": "https://groupdiy.com/threads/the-new-ti-5532-chips-are-not-5532s-weve-used-for-decades.93707/",
         "timestamp": "2026-06-03T21:38:29.584532",
         "source": "Hacker News"
+    },
+    {
+        "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
+        "url": "https://github.com/tastyeffectco/sandboxes",
+        "timestamp": "2026-06-03T21:38:29.584567",
+        "source": "Hacker News"
     }
 ]
