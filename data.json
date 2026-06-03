@@ -302476,5 +302476,11 @@
         "url": "https://github.com/OoneBreath/claude-code-project-brain",
         "timestamp": "2026-06-03T00:09:55.640408",
         "source": "Hacker News"
+    },
+    {
+        "title": "databow: a Rust CLI to query any database with an ADBC driver",
+        "url": "https://columnar.tech/blog/introducing-databow//",
+        "timestamp": "2026-06-03T00:09:55.640443",
+        "source": "Hacker News"
     }
 ]
