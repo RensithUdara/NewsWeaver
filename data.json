@@ -302806,5 +302806,11 @@
         "url": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
         "timestamp": "2026-06-03T10:06:35.014128",
         "source": "Hacker News"
+    },
+    {
+        "title": "Writing Portable ARM64 Assembly (2023)",
+        "url": "https://ariadne.space/2023/04/12/writing-portable-arm-assembly.html",
+        "timestamp": "2026-06-03T10:06:35.014165",
+        "source": "Hacker News"
     }
 ]
