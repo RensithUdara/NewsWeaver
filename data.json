@@ -302734,5 +302734,11 @@
         "url": "https://docsalot.dev/blog/llms-txt-vs-sitemap-xml",
         "timestamp": "2026-06-03T05:11:06.128412",
         "source": "Hacker News"
+    },
+    {
+        "title": "Platypus – create native Mac applications from command line scripts",
+        "url": "https://github.com/sveinbjornt/Platypus",
+        "timestamp": "2026-06-03T05:11:06.128440",
+        "source": "Hacker News"
     }
 ]
