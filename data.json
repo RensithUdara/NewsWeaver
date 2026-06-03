@@ -303526,5 +303526,11 @@
         "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
         "timestamp": "2026-06-03T18:41:55.714855",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Rscrypto, pure-Rust crypto with industry leading public benches",
+        "url": "https://github.com/loadingalias/rscrypto",
+        "timestamp": "2026-06-03T18:41:55.714995",
+        "source": "Hacker News"
     }
 ]
