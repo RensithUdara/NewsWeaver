@@ -306316,5 +306316,11 @@
         "url": "https://news.ycombinator.com/item?id=48405952",
         "timestamp": "2026-06-04T23:20:48.937759",
         "source": "Hacker News"
+    },
+    {
+        "title": "Migrating Sidekiq Background Jobs to Temporal in Ruby on Rails (2025)",
+        "url": "https://release.com/blog/temporal-vs-sidekiq",
+        "timestamp": "2026-06-04T23:20:48.937855",
+        "source": "Hacker News"
     }
 ]
