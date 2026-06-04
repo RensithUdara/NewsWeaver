@@ -304396,5 +304396,11 @@
         "url": "https://en.wikipedia.org/wiki/Ian_Mackintosh",
         "timestamp": "2026-06-04T02:02:23.638119",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: CPU-only fact-check, summarize, explain, translate any text",
+        "url": "https://github.com/kouhxp/fftext",
+        "timestamp": "2026-06-04T02:02:23.638153",
+        "source": "Hacker News"
     }
 ]
