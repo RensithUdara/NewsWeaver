@@ -306214,5 +306214,11 @@
         "url": "https://economist.com/leaders/2026/06/04/how-to-fight-back-against-gen-z-socialism",
         "timestamp": "2026-06-04T22:08:10.982953",
         "source": "Hacker News"
+    },
+    {
+        "title": "A faster bump allocator for rust",
+        "url": "https://owen.cafe/posts/stumpalo/",
+        "timestamp": "2026-06-04T22:08:10.982982",
+        "source": "Hacker News"
     }
 ]
