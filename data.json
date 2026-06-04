@@ -306322,5 +306322,11 @@
         "url": "https://release.com/blog/temporal-vs-sidekiq",
         "timestamp": "2026-06-04T23:20:48.937855",
         "source": "Hacker News"
+    },
+    {
+        "title": "Metadata in Malloy: Annotations and Tags (2025)",
+        "url": "https://docs.malloydata.dev/blog/2025-06-16-annotations-and-tags/",
+        "timestamp": "2026-06-04T23:20:48.937894",
+        "source": "Hacker News"
     }
 ]
