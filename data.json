@@ -304810,5 +304810,11 @@
         "url": "https://www.lemonde.fr/en/obituaries/article/2026/06/04/marjane-satrapi-author-of-persepolis-dies-at-56_6754122_15.html",
         "timestamp": "2026-06-04T10:32:57.486298",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lambda isn't leaking memory, your metrics are lying to you",
+        "url": "https://engineering.taktile.com/blog/onnx-memory-usage-on-lambda/",
+        "timestamp": "2026-06-04T10:32:57.486326",
+        "source": "Hacker News"
     }
 ]
