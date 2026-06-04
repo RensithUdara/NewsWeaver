@@ -304366,5 +304366,11 @@
         "url": "https://app.productnow.ai/app/home",
         "timestamp": "2026-06-04T02:02:23.637905",
         "source": "Hacker News"
+    },
+    {
+        "title": "MSI PRO B850-P coreboot port: GFX init, Promontory21, and ACPI improvements",
+        "url": "https://blog.3mdeb.com/2026/2026-06-03-msi_pro_b850p_part5/",
+        "timestamp": "2026-06-04T02:02:23.637945",
+        "source": "Hacker News"
     }
 ]
