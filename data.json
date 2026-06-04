@@ -305704,5 +305704,11 @@
         "url": "https://www.pcmag.com/opinions/welcome-to-superchip-era-nvidia-rtx-spark-upend-pc-industry-computex-2026",
         "timestamp": "2026-06-04T18:36:44.990738",
         "source": "Hacker News"
+    },
+    {
+        "title": "Streaming Patterns with DuckDB",
+        "url": "https://duckdb.org/2025/10/13/duckdb-streaming-patterns",
+        "timestamp": "2026-06-04T18:36:44.990766",
+        "source": "Hacker News"
     }
 ]
