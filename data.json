@@ -305302,5 +305302,11 @@
         "url": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
         "timestamp": "2026-06-04T13:44:11.553618",
         "source": "CSS-Tricks"
+    },
+    {
+        "title": "KVarN: Native vLLM KV-cache quantization back end by Huawei",
+        "url": "https://github.com/huawei-csl/KVarN",
+        "timestamp": "2026-06-04T16:36:29.823280",
+        "source": "Hacker News"
     }
 ]
