@@ -304840,5 +304840,11 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
         "timestamp": "2026-06-04T10:32:57.486437",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLM memory systems benchmark: high recall near-zero precision for tested systems",
+        "url": "https://arxiv.org/abs/2605.11325",
+        "timestamp": "2026-06-04T10:32:57.486465",
+        "source": "Hacker News"
     }
 ]
