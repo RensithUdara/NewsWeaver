@@ -304486,5 +304486,11 @@
         "url": "https://write-ups.security-chu.com/2026/06/California-Back-Pain-Specialists-with-data-breach.html",
         "timestamp": "2026-06-04T02:02:23.638621",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pie: Yet another open-source coding agent in Rust",
+        "url": "https://github.com/c4pt0r/pie",
+        "timestamp": "2026-06-04T02:02:23.638656",
+        "source": "Hacker News"
     }
 ]
