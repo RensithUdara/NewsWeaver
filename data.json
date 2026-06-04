@@ -304456,5 +304456,11 @@
         "url": "https://digitalgoods.proxysto.re/en",
         "timestamp": "2026-06-04T02:02:23.638454",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Structure-Aware Fuzzing Experiment",
+        "url": "https://fitzgen.com/2026/06/01/structure-aware-fuzzing-experiment.html",
+        "timestamp": "2026-06-04T02:02:23.638488",
+        "source": "Hacker News"
     }
 ]
