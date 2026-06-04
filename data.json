@@ -305842,5 +305842,11 @@
         "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
         "timestamp": "2026-06-04T20:36:00.361792",
         "source": "Hacker News"
+    },
+    {
+        "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+        "url": "https://github.com/anthropics/defending-code-reference-harness",
+        "timestamp": "2026-06-04T20:36:00.361853",
+        "source": "Hacker News"
     }
 ]
