@@ -305050,5 +305050,11 @@
         "url": "https://news.ycombinator.com/item?id=48397731",
         "timestamp": "2026-06-04T13:44:09.272050",
         "source": "Hacker News"
+    },
+    {
+        "title": "When su replaced login for becoming another Unix login",
+        "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement",
+        "timestamp": "2026-06-04T13:44:09.272137",
+        "source": "Hacker News"
     }
 ]
