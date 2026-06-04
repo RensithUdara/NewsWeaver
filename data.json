@@ -304888,5 +304888,11 @@
         "url": "https://alejandromp.com/development/blog/replacing-bash-with-swift-in-an-ai-harness/",
         "timestamp": "2026-06-04T10:32:57.486694",
         "source": "Hacker News"
+    },
+    {
+        "title": "Miasma NPM Supply Chain Attack: Self-Spreading Worm via Phantom Gyp",
+        "url": "https://www.stepsecurity.io/blog/binding-gyp-npm-supply-chain-attack-spreads-like-worm",
+        "timestamp": "2026-06-04T10:32:57.486724",
+        "source": "Hacker News"
     }
 ]
