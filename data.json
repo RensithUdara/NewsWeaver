@@ -304852,5 +304852,11 @@
         "url": "https://help.x.com/en/rules-and-policies/authenticity",
         "timestamp": "2026-06-04T10:32:57.486520",
         "source": "Hacker News"
+    },
+    {
+        "title": "git-fsmonitor--daemon",
+        "url": "https://manpages.ubuntu.com/manpages/stonking/man1/git-fsmonitor--daemon.1.html",
+        "timestamp": "2026-06-04T10:32:57.486549",
+        "source": "Hacker News"
     }
 ]
