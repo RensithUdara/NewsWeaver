@@ -305890,5 +305890,11 @@
         "url": "https://www.afpc.org/uploads/documents/Special_Report_-_Strategic_Implications_of_Lunar_Mass_Drivers-5.27.26.pdf",
         "timestamp": "2026-06-04T20:36:00.459421",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why Vector Search fails at LLM memory (and a benchmark to prove it)",
+        "url": "https://github.com/tenurehq/precisionMemBench",
+        "timestamp": "2026-06-04T20:36:00.459458",
+        "source": "Hacker News"
     }
 ]
