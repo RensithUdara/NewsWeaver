@@ -306010,5 +306010,11 @@
         "url": "https://play-bot-or-not.vercel.app/",
         "timestamp": "2026-06-04T20:36:00.460227",
         "source": "Hacker News"
+    },
+    {
+        "title": "ConjureEnum: lightweight header-only C++20 enum and typename reflection",
+        "url": "https://github.com/fix8mt/conjure_enum",
+        "timestamp": "2026-06-04T20:36:00.460262",
+        "source": "Hacker News"
     }
 ]
