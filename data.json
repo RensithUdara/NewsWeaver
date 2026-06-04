@@ -304780,5 +304780,11 @@
         "url": "https://www.youtube.com/watch?v=YOBK-xBOFcc",
         "timestamp": "2026-06-04T10:32:57.486157",
         "source": "Hacker News"
+    },
+    {
+        "title": "A thread-safe disk based persistent queue in Python",
+        "url": "https://github.com/peter-wangxu/persist-queue",
+        "timestamp": "2026-06-04T10:32:57.486186",
+        "source": "Hacker News"
     }
 ]
