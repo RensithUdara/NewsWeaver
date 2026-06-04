@@ -305410,5 +305410,11 @@
         "url": "https://9to5google.com/2026/06/04/google-search-profiles/",
         "timestamp": "2026-06-04T16:36:29.893116",
         "source": "Hacker News"
+    },
+    {
+        "title": "Browser-Based OAuth Client: The architecture you shouldn't be using",
+        "url": "https://fusionauth.io/blog/browser-based-oauth-client-security-architecture",
+        "timestamp": "2026-06-04T16:36:29.893131",
+        "source": "Hacker News"
     }
 ]
