@@ -306220,5 +306220,11 @@
         "url": "https://owen.cafe/posts/stumpalo/",
         "timestamp": "2026-06-04T22:08:10.982982",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Next Generation of Heroku Postgres (Postgres Advanced)",
+        "url": "https://www.heroku.com/blog/introducing-the-next-generation-of-heroku-postgres/",
+        "timestamp": "2026-06-04T22:08:10.983010",
+        "source": "Hacker News"
     }
 ]
