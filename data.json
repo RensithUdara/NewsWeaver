@@ -305992,5 +305992,11 @@
         "url": "https://www.youtube.com/watch?v=Xk0llAE8GoY",
         "timestamp": "2026-06-04T20:36:00.460124",
         "source": "Hacker News"
+    },
+    {
+        "title": "Magic Enum C++: Header-only C++17 library provides static reflection for enums",
+        "url": "https://github.com/Neargye/magic_enum",
+        "timestamp": "2026-06-04T20:36:00.460159",
+        "source": "Hacker News"
     }
 ]
