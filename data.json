@@ -304516,5 +304516,11 @@
         "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
         "timestamp": "2026-06-04T06:52:26.013544",
         "source": "Hacker News"
+    },
+    {
+        "title": "CP/M-86 & MS-DOS Cross Development Environment",
+        "url": "https://github.com/tsupplis/cpm86-crossdev",
+        "timestamp": "2026-06-04T06:52:26.013895",
+        "source": "Hacker News"
     }
 ]
