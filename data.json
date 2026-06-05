@@ -307456,5 +307456,11 @@
         "url": "https://everythingengineer.substack.com/p/why-engineering-managers-are-the",
         "timestamp": "2026-06-05T15:41:35.182071",
         "source": "Hacker News"
+    },
+    {
+        "title": "I made a tool that ranks reviewable PRs",
+        "url": "https://github.com/toniperic/pr-bro",
+        "timestamp": "2026-06-05T15:41:35.182103",
+        "source": "Hacker News"
     }
 ]
