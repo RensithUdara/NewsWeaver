@@ -308440,5 +308440,11 @@
         "url": "https://news.ycombinator.com/item?id=48419692",
         "timestamp": "2026-06-05T23:43:23.264429",
         "source": "Hacker News"
+    },
+    {
+        "title": "Safsaf – A Web Framework for Guile",
+        "url": "https://www.cbaines.net/posts/safsaf_a_guile_web_framework/",
+        "timestamp": "2026-06-05T23:43:23.264456",
+        "source": "Hacker News"
     }
 ]
