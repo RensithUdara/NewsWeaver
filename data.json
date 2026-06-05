@@ -307432,5 +307432,11 @@
         "url": "https://status.claude.com/incidents/fprlnsvdnr2k",
         "timestamp": "2026-06-05T15:41:35.181944",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Agents Remember – Git-aware memory for coding agents",
+        "url": "https://github.com/Foxfire1st/agents-remember-md",
+        "timestamp": "2026-06-05T15:41:35.181972",
+        "source": "Hacker News"
     }
 ]
