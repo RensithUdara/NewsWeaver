@@ -306850,5 +306850,11 @@
         "url": "https://world-playground-deceit.net/blog/2026/06/a-peek-at-posix-sh-s-future-goodies.html",
         "timestamp": "2026-06-05T10:09:35.013107",
         "source": "Hacker News"
+    },
+    {
+        "title": "Automated Oracle to PostgreSQL Migration in Seconds",
+        "url": "https://www.spectralcore.com/blog/why-we-built-sql-tran-oracle-to-postgresql-migration",
+        "timestamp": "2026-06-05T10:09:35.013167",
+        "source": "Hacker News"
     }
 ]
