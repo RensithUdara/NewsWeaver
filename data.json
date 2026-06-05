@@ -307780,5 +307780,11 @@
         "url": "https://justinjackson.ca/hard-thing",
         "timestamp": "2026-06-05T19:21:48.448257",
         "source": "Hacker News"
+    },
+    {
+        "title": "Inside FAISS: Billion-Scale Similarity Search",
+        "url": "https://fremaconsulting.ch/blog/faiss",
+        "timestamp": "2026-06-05T19:21:48.448280",
+        "source": "Hacker News"
     }
 ]
