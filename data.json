@@ -307204,5 +307204,11 @@
         "url": "https://engine9000.com/",
         "timestamp": "2026-06-05T12:48:55.614146",
         "source": "Hacker News"
+    },
+    {
+        "title": "vLLM: An Efficient Inference Engine for Large Language Models [pdf]",
+        "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2025/Archive/EECS-2025-192.pdf",
+        "timestamp": "2026-06-05T12:48:55.614175",
+        "source": "Hacker News"
     }
 ]
