@@ -307912,5 +307912,11 @@
         "url": "https://www.latent.space/p/bad-envs",
         "timestamp": "2026-06-05T19:21:48.621608",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Busbar – every LLM behind one URL, in a single Rust binary",
+        "url": "https://github.com/MattJackson/busbarAI",
+        "timestamp": "2026-06-05T19:21:48.621629",
+        "source": "Hacker News"
     }
 ]
