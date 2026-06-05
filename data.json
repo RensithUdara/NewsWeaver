@@ -308206,5 +308206,11 @@
         "url": "https://github.com/EgleAudioSuite/egle/releases/tag/v1.1.0",
         "timestamp": "2026-06-05T22:24:38.430308",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I created a RAW to HDRI stacker in (mostly) Common Lisp",
+        "url": "https://github.com/IBL-tools/rawtohdri",
+        "timestamp": "2026-06-05T22:24:38.430345",
+        "source": "Hacker News"
     }
 ]
