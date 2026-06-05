@@ -306496,5 +306496,11 @@
         "url": "https://github.com/alibaba/open-code-review",
         "timestamp": "2026-06-05T01:34:40.069030",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux\"",
+        "url": "https://github.com/tarpediem/zenvision-linux",
+        "timestamp": "2026-06-05T01:34:40.069153",
+        "source": "Hacker News"
     }
 ]
