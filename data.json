@@ -306946,5 +306946,11 @@
         "url": "https://goportfolio.cloud/",
         "timestamp": "2026-06-05T10:09:35.013620",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+        "url": "https://github.com/zdk/lowfat",
+        "timestamp": "2026-06-05T10:09:35.013649",
+        "source": "Hacker News"
     }
 ]
