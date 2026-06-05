@@ -308518,5 +308518,11 @@
         "url": "https://www.ft.com/content/127f11bc-e29a-4a2a-ba33-b729b39b838a",
         "timestamp": "2026-06-05T23:43:23.264800",
         "source": "Hacker News"
+    },
+    {
+        "title": "The perils of UUID primary keys in SQLite",
+        "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+        "timestamp": "2026-06-05T23:43:23.264831",
+        "source": "Hacker News"
     }
 ]
