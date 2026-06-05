@@ -307624,5 +307624,11 @@
         "url": "https://www.kqed.org/forum/2010101914030/waymos-growing-pains",
         "timestamp": "2026-06-05T17:32:26.085651",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Micron: a high performance C++23 (re)implementation of Libc and the STL",
+        "url": "https://github.com/rfgplk/micron.cpp",
+        "timestamp": "2026-06-05T17:32:26.085720",
+        "source": "Hacker News"
     }
 ]
