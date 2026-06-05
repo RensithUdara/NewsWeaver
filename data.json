@@ -308302,5 +308302,11 @@
         "url": "https://www.independent.ie/business/irish-business/meet-the-irishman-raising-millions-to-fund-journalists-reporting-on-the-rise-of-ai/a/154861316.html",
         "timestamp": "2026-06-05T22:24:38.430970",
         "source": "Hacker News"
+    },
+    {
+        "title": "Port React Compiler to Rust",
+        "url": "https://github.com/facebook/react/pull/36173",
+        "timestamp": "2026-06-05T22:24:38.431007",
+        "source": "Hacker News"
     }
 ]
