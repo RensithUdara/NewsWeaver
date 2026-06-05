@@ -308092,5 +308092,11 @@
         "url": "https://boingboing.net/2026/06/03/meta-backs-off-tracking-workers-keystrokes-after-they-revolt.html",
         "timestamp": "2026-06-05T21:00:46.124667",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scale Kubernetes deployments to zero using KEDA",
+        "url": "https://mijndertstuij.nl/posts/scale-to-zero-keda-cron-scaler/",
+        "timestamp": "2026-06-05T21:00:46.124695",
+        "source": "Hacker News"
     }
 ]
