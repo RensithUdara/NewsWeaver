@@ -306772,5 +306772,11 @@
         "url": "https://isupmap.com/",
         "timestamp": "2026-06-05T10:09:34.700297",
         "source": "Hacker News"
+    },
+    {
+        "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
+        "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+        "timestamp": "2026-06-05T10:09:34.700372",
+        "source": "Hacker News"
     }
 ]
