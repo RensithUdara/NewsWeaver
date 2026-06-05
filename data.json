@@ -307138,5 +307138,11 @@
         "url": "https://alexispurslane.github.io/rsync-analysis/",
         "timestamp": "2026-06-05T12:48:55.613790",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Bear Bash DeBugger: A lightweight debugger for Bash scripts",
+        "url": "https://github.com/bearstech/bbdb",
+        "timestamp": "2026-06-05T12:48:55.613818",
+        "source": "Hacker News"
     }
 ]
