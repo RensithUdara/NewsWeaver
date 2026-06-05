@@ -307540,5 +307540,11 @@
         "url": "https://github.com/microsoft/pg_durable",
         "timestamp": "2026-06-05T17:32:25.768732",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+        "timestamp": "2026-06-05T17:32:25.768812",
+        "source": "Hacker News"
     }
 ]
