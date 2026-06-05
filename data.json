@@ -307294,5 +307294,11 @@
         "url": "https://mouseless.click",
         "timestamp": "2026-06-05T15:41:35.002489",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cooldown Support for Ruby Bundler",
+        "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+        "timestamp": "2026-06-05T15:41:35.002524",
+        "source": "Hacker News"
     }
 ]
