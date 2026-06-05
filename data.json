@@ -306670,5 +306670,11 @@
         "url": "https://www.npr.org/2026/05/06/nx-s1-5812662/medicare-bridge-glp1-drugs-copay",
         "timestamp": "2026-06-05T01:34:40.318910",
         "source": "Hacker News"
+    },
+    {
+        "title": "3ds-CLI, full Linux env on a Nintendo 3ds using RISC V emulation",
+        "url": "https://github.com/cmdada/3DS-CLI",
+        "timestamp": "2026-06-05T01:34:40.318944",
+        "source": "Hacker News"
     }
 ]
