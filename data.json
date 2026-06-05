@@ -308200,5 +308200,11 @@
         "url": "https://honestprivacypolicies.org/",
         "timestamp": "2026-06-05T22:24:38.430270",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a music suite to replace five apps, all in one and free (Tauri/Rust)",
+        "url": "https://github.com/EgleAudioSuite/egle/releases/tag/v1.1.0",
+        "timestamp": "2026-06-05T22:24:38.430308",
+        "source": "Hacker News"
     }
 ]
