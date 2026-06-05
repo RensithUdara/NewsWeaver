@@ -306856,5 +306856,11 @@
         "url": "https://www.spectralcore.com/blog/why-we-built-sql-tran-oracle-to-postgresql-migration",
         "timestamp": "2026-06-05T10:09:35.013167",
         "source": "Hacker News"
+    },
+    {
+        "title": "RNG: Flat Datacenter Networks at Scale",
+        "url": "https://arxiv.org/abs/2604.15261",
+        "timestamp": "2026-06-05T10:09:35.013197",
+        "source": "Hacker News"
     }
 ]
