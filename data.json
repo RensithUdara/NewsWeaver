@@ -306502,5 +306502,11 @@
         "url": "https://github.com/tarpediem/zenvision-linux",
         "timestamp": "2026-06-05T01:34:40.069153",
         "source": "Hacker News"
+    },
+    {
+        "title": "WSL 2 is getting faster Windows file system access",
+        "url": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
+        "timestamp": "2026-06-05T01:34:40.069414",
+        "source": "Hacker News"
     }
 ]
