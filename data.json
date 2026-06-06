@@ -308830,5 +308830,11 @@
         "url": "https://www.anthropic.com/research/making-claude-a-chemist",
         "timestamp": "2026-06-06T05:35:58.386868",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sites in Codex",
+        "url": "https://developers.openai.com/codex/sites",
+        "timestamp": "2026-06-06T05:35:58.386906",
+        "source": "Hacker News"
     }
 ]
