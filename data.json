@@ -308680,5 +308680,11 @@
         "url": "https://github.com/jeffhuen/RustyCSV",
         "timestamp": "2026-06-06T01:34:18.245828",
         "source": "Hacker News"
+    },
+    {
+        "title": "Re: Cache: 0-click SXSS on Next.js via reflected headers",
+        "url": "https://zhero-web-sec.github.io/research-and-things/re-cache-excessive-reflection-type-confusion-and-0-click-sxss-on-nextjs",
+        "timestamp": "2026-06-06T01:34:18.245886",
+        "source": "Hacker News"
     }
 ]
