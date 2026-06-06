@@ -309064,5 +309064,11 @@
         "url": "https://www.crunchydata.com/blog/the-integer-at-the-end-of-the-universe-integer-overflow-in-postgres",
         "timestamp": "2026-06-06T08:08:28.258557",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI coding agents use your technology",
+        "url": "https://developer.microsoft.com/blog/how-ai-coding-agents-actually-use-your-technology",
+        "timestamp": "2026-06-06T08:08:28.258583",
+        "source": "Hacker News"
     }
 ]
