@@ -308770,5 +308770,11 @@
         "url": "https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0",
         "timestamp": "2026-06-06T05:35:58.287503",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nine Ways to Do Inheritance in Rust, a Language Without Inheritance",
+        "url": "https://medium.com/@carlmkadie/nine-ways-to-do-inheritance-in-rust-a-language-without-inheritance-14825bf1e215",
+        "timestamp": "2026-06-06T05:35:58.287648",
+        "source": "Hacker News"
     }
 ]
