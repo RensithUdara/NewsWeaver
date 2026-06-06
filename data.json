@@ -308674,5 +308674,11 @@
         "url": "https://en.wikipedia.org/wiki/ELoran",
         "timestamp": "2026-06-06T01:34:18.245799",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ultra-fast CSV parsing and encoding for Elixir",
+        "url": "https://github.com/jeffhuen/RustyCSV",
+        "timestamp": "2026-06-06T01:34:18.245828",
+        "source": "Hacker News"
     }
 ]
