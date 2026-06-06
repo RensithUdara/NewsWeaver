@@ -308842,5 +308842,11 @@
         "url": "https://github.com/hit9/nanocode",
         "timestamp": "2026-06-06T05:35:58.386943",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dots.tts: 2B-parameter continuous, end-to-end autoregressive TTS system",
+        "url": "https://rednote-hilab.github.io/dots.tts-demo/",
+        "timestamp": "2026-06-06T05:35:58.386980",
+        "source": "Hacker News"
     }
 ]
