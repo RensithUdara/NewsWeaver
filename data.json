@@ -309022,5 +309022,11 @@
         "url": "https://github.com/withlimon/verilator-windows",
         "timestamp": "2026-06-06T08:08:28.258341",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fixing \"unfixable\" 41TB BTRFS by Claude's one-shot",
+        "url": "https://mloduchowski.com/-mounted-bitter-fs-better-with-claude/",
+        "timestamp": "2026-06-06T08:08:28.258368",
+        "source": "Hacker News"
     }
 ]
