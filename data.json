@@ -310474,5 +310474,11 @@
         "url": "https://projecteuler.net/problem=1000",
         "timestamp": "2026-06-06T19:04:25.675991",
         "source": "Hacker News"
+    },
+    {
+        "title": "USSH: A shell protocol and client/server pair built on top of USTP-Secure",
+        "url": "https://github.com/x1colegal/ussh",
+        "timestamp": "2026-06-06T19:04:25.676025",
+        "source": "Hacker News"
     }
 ]
