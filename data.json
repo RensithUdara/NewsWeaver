@@ -309160,5 +309160,11 @@
         "url": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
         "timestamp": "2026-06-06T10:17:48.132533",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zig Zen Update",
+        "url": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
+        "timestamp": "2026-06-06T10:17:48.132590",
+        "source": "Hacker News"
     }
 ]
