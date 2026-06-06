@@ -309304,5 +309304,11 @@
         "url": "https://brave.com/blog/brave-origin/ource=perplexity",
         "timestamp": "2026-06-06T10:17:48.230492",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a workflow orchestrator where each stage defines the next one",
+        "url": "https://processflow.tech/",
+        "timestamp": "2026-06-06T10:17:48.230527",
+        "source": "Hacker News"
     }
 ]
