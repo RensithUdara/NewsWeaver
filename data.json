@@ -310636,5 +310636,11 @@
         "url": "https://byacommonthread.com/blog/what-should-i-eat",
         "timestamp": "2026-06-06T20:18:34.207120",
         "source": "Hacker News"
+    },
+    {
+        "title": "Huawei post-trained DeepSeek's 1.6T model on 1k Ascend 910C chips",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-led-team-claims-it-post-trained-deepseeks-1-6-trillion-parameter-models-on-ascend-910c-chips",
+        "timestamp": "2026-06-06T20:18:34.207160",
+        "source": "Hacker News"
     }
 ]
