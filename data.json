@@ -310390,5 +310390,11 @@
         "url": "https://github.com/abyo-software/s4",
         "timestamp": "2026-06-06T17:53:38.129594",
         "source": "Hacker News"
+    },
+    {
+        "title": "CSP: Bookmarklets should bypass pages' policies (2013 → Infeasible 2026)",
+        "url": "https://issues.chromium.org/issues/40077444",
+        "timestamp": "2026-06-06T17:53:38.129622",
+        "source": "Hacker News"
     }
 ]
