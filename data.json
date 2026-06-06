@@ -309244,5 +309244,11 @@
         "url": "https://equixly.com/blog/2026/06/05/how-we-fight-gpu-scarcity-without-compromise/",
         "timestamp": "2026-06-06T10:17:48.230067",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claumon – Forecasting Claude Code usage limits with a Gamma process",
+        "url": "https://github.com/fabioconcina/claumon",
+        "timestamp": "2026-06-06T10:17:48.230103",
+        "source": "Hacker News"
     }
 ]
