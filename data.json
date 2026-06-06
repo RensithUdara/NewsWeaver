@@ -310894,5 +310894,11 @@
         "url": "https://news.ycombinator.com/item?id=48428991",
         "timestamp": "2026-06-06T21:31:13.473169",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kernel Boot Process and how it works",
+        "url": "https://0xax.gitbooks.io/linux-insides/content/Booting/",
+        "timestamp": "2026-06-06T21:31:13.473198",
+        "source": "Hacker News"
     }
 ]
