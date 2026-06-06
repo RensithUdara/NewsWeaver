@@ -310108,5 +310108,11 @@
         "url": "https://www.phoronix.com/news/OpenCV-5.0-Released",
         "timestamp": "2026-06-06T16:49:26.826791",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ape: A New Vulkan Driver Written in the Zig Programming Language",
+        "url": "https://www.phoronix.com/news/Vulkan-Ape-Driver",
+        "timestamp": "2026-06-06T16:49:26.826819",
+        "source": "Hacker News"
     }
 ]
