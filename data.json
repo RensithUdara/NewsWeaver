@@ -310492,5 +310492,11 @@
         "url": "https://www.shieldra.ai/",
         "timestamp": "2026-06-06T19:04:25.676094",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zapros: Modern and extensible HTTP client for Python",
+        "url": "https://zapros.dev",
+        "timestamp": "2026-06-06T19:04:25.676127",
+        "source": "Hacker News"
     }
 ]
