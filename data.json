@@ -311026,5 +311026,11 @@
         "url": "https://www.youtube.com/watch?v=z3pV6FHvcgM",
         "timestamp": "2026-06-06T22:39:51.057390",
         "source": "Hacker News"
+    },
+    {
+        "title": "How much do amd64 microarchitecture levels help in Go?",
+        "url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
+        "timestamp": "2026-06-06T22:39:51.057434",
+        "source": "Hacker News"
     }
 ]
