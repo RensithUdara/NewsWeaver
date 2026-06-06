@@ -308956,5 +308956,11 @@
         "url": "https://www.autodidacts.io/social-cache-busting/",
         "timestamp": "2026-06-06T08:08:28.017298",
         "source": "Hacker News"
+    },
+    {
+        "title": "We shrank our TimescaleDB chunks from 30 days to 7",
+        "url": "https://tech.wmg.com/why-we-shrank-our-timescaledb-chunks-from-30-days-to-7-07cab8afefc5",
+        "timestamp": "2026-06-06T08:08:28.017444",
+        "source": "Hacker News"
     }
 ]
