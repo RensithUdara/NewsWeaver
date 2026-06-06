@@ -309466,5 +309466,11 @@
         "url": "https://www.youtube.com/watch?v=F8X9_Dp3ZUk",
         "timestamp": "2026-06-06T11:47:14.113336",
         "source": "Hacker News"
+    },
+    {
+        "title": "Introduction – Rust for Python Programmers",
+        "url": "https://microsoft.github.io/RustTraining/python-book/",
+        "timestamp": "2026-06-06T11:47:14.113358",
+        "source": "Hacker News"
     }
 ]
