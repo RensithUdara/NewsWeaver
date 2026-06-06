@@ -309586,5 +309586,11 @@
         "url": "https://cleantechnica.com/2026/06/04/donut-labs-manufacturing-is-different/",
         "timestamp": "2026-06-06T12:56:11.395998",
         "source": "Hacker News"
+    },
+    {
+        "title": "Free LLM inference handbook: 100 engineers cloned it in week 1",
+        "url": "https://github.com/harshuljain13/llm-inference-at-scale",
+        "timestamp": "2026-06-06T12:56:11.396031",
+        "source": "Hacker News"
     }
 ]
