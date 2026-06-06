@@ -309826,5 +309826,11 @@
         "url": "https://smck.ai/",
         "timestamp": "2026-06-06T14:25:18.473219",
         "source": "Hacker News"
+    },
+    {
+        "title": "FokosDB: Strongly consistent storage DB ontop of Cloudflare Durable Objects",
+        "url": "https://www.lambrospetrou.com/articles/fokosdb/",
+        "timestamp": "2026-06-06T14:25:18.473247",
+        "source": "Hacker News"
     }
 ]
