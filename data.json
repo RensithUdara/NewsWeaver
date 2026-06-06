@@ -309322,5 +309322,11 @@
         "url": "https://oceanographicmagazine.com/news/trump-administration-dismantles-critical-ocean-floor-observation-network/",
         "timestamp": "2026-06-06T10:17:48.230667",
         "source": "Hacker News"
+    },
+    {
+        "title": "Performance: Unroll popcount reductions and add a NextClear fast path",
+        "url": "https://github.com/bits-and-blooms/bitset/pull/219",
+        "timestamp": "2026-06-06T10:17:48.230742",
+        "source": "Hacker News"
     }
 ]
