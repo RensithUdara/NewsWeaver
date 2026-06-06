@@ -308896,5 +308896,11 @@
         "url": "https://www.ft.com/content/e6df645d-1709-4a77-b15d-aa43a0209efd",
         "timestamp": "2026-06-06T05:35:58.387332",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: What does YC Paxel do with your source code?",
+        "url": "https://github.com/codesoda/paxel/tree/main/rootfs/rails",
+        "timestamp": "2026-06-06T05:35:58.387368",
+        "source": "Hacker News"
     }
 ]
