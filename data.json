@@ -309010,5 +309010,11 @@
         "url": "https://world.hey.com/dhh/let-the-agents-democratize-open-source-9fd630a9",
         "timestamp": "2026-06-06T08:08:28.258283",
         "source": "Hacker News"
+    },
+    {
+        "title": "Magecart skimmer turns Stripe into a malware command server",
+        "url": "https://sansec.io/research/stripe-api-skimmer-infrastructure",
+        "timestamp": "2026-06-06T08:08:28.258313",
+        "source": "Hacker News"
     }
 ]
