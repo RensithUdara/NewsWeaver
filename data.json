@@ -310258,5 +310258,11 @@
         "url": "https://www.lindau-nobel.org/blog-adversity-quasicrystals-and-a-nobel-the-forbidden-fivefold-symmetry-that-was/",
         "timestamp": "2026-06-06T17:53:38.128920",
         "source": "Hacker News"
+    },
+    {
+        "title": "Authenticate PostgreSQL with SSH Keys",
+        "url": "https://github.com/ChronicallyJD/pam_pg_sshkey",
+        "timestamp": "2026-06-06T17:53:38.128951",
+        "source": "Hacker News"
     }
 ]
