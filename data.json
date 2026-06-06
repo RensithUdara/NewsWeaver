@@ -309016,5 +309016,11 @@
         "url": "https://sansec.io/research/stripe-api-skimmer-infrastructure",
         "timestamp": "2026-06-06T08:08:28.258313",
         "source": "Hacker News"
+    },
+    {
+        "title": "Verilator Binary for Windows Without WSL or VM or OSS-CAD Suite or Perl Wrapper",
+        "url": "https://github.com/withlimon/verilator-windows",
+        "timestamp": "2026-06-06T08:08:28.258341",
+        "source": "Hacker News"
     }
 ]
