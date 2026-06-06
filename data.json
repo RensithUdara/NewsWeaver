@@ -310906,5 +310906,11 @@
         "url": "https://computerhistory.org/stories/explorers-of-the-lost-computers/",
         "timestamp": "2026-06-06T21:31:13.473237",
         "source": "Hacker News"
+    },
+    {
+        "title": "366-byte C program emulator can run Linux and Doom – IOCCC29 winner",
+        "url": "https://github.com/ioccc-src/winner/blob/master/2025/cable/prog.c",
+        "timestamp": "2026-06-06T21:31:13.473267",
+        "source": "Hacker News"
     }
 ]
