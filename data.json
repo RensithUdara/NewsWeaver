@@ -310738,5 +310738,11 @@
         "url": "https://blog.jsweeting.me/recent-thoughts-on-ai-use",
         "timestamp": "2026-06-06T20:18:34.207660",
         "source": "Hacker News"
+    },
+    {
+        "title": "Deterministic Implementation of a .NET Runtime",
+        "url": "https://github.com/Smaug123/WoofWare.PawPrint",
+        "timestamp": "2026-06-06T20:18:34.207689",
+        "source": "Hacker News"
     }
 ]
