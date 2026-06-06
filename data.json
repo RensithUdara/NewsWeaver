@@ -309058,5 +309058,11 @@
         "url": "https://www.youtube.com/watch?v=DjLnIb41DuQ",
         "timestamp": "2026-06-06T08:08:28.258502",
         "source": "Hacker News"
+    },
+    {
+        "title": "Integer Overflow in Postgres",
+        "url": "https://www.crunchydata.com/blog/the-integer-at-the-end-of-the-universe-integer-overflow-in-postgres",
+        "timestamp": "2026-06-06T08:08:28.258557",
+        "source": "Hacker News"
     }
 ]
