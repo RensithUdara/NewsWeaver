@@ -312910,5 +312910,11 @@
         "url": "https://www.alexself.dev/blog/automated-doubt",
         "timestamp": "2026-06-07T18:52:05.194267",
         "source": "Hacker News"
+    },
+    {
+        "title": "sqlite: A CGo-free port of SQLite/SQLite3",
+        "url": "https://gitlab.com/cznic/sqlite",
+        "timestamp": "2026-06-07T18:52:05.194727",
+        "source": "Hacker News"
     }
 ]
