@@ -312880,5 +312880,11 @@
         "url": "https://open.spotify.com/playlist/4EOmTlEROIU9hz6EbkBxAx",
         "timestamp": "2026-06-07T17:37:49.595047",
         "source": "Hacker News"
+    },
+    {
+        "title": "Softmax: Why neural networks need non-linearity? life isn't straight-line simple",
+        "url": "https://blog.sparsh.dev/softmax-activation-function/",
+        "timestamp": "2026-06-07T17:37:49.595080",
+        "source": "Hacker News"
     }
 ]
