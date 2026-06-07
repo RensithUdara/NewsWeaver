@@ -311440,5 +311440,11 @@
         "url": "https://huggingface.co/datasets/danb21/social-media-robustness-sdxl-instantid",
         "timestamp": "2026-06-07T01:56:41.149403",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Word-by-word translation aligner tool",
+        "url": "https://aligner.tinygods.dev/",
+        "timestamp": "2026-06-07T01:56:41.149433",
+        "source": "Hacker News"
     }
 ]
