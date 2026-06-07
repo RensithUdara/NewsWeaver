@@ -311692,5 +311692,11 @@
         "url": "https://api.mountainscholar.org/server/api/core/bitstreams/1c38c421-207d-4097-84fe-7f5ae5fbdacf/content",
         "timestamp": "2026-06-07T06:18:08.246795",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: TabyAgent – A lighter and easier alternative to OpenClaw/Hermes",
+        "url": "https://github.com/gpdir16/tabyAgent",
+        "timestamp": "2026-06-07T06:18:08.246899",
+        "source": "Hacker News"
     }
 ]
