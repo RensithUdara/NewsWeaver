@@ -312568,5 +312568,11 @@
         "url": "https://stackoverflow.com/questions/71401443/differences-between-lodash-and-ramda",
         "timestamp": "2026-06-07T16:06:16.243770",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fantasy-land: interoperability of common algebraic structures in JavaScript",
+        "url": "https://github.com/fantasyland/fantasy-land",
+        "timestamp": "2026-06-07T16:06:16.243805",
+        "source": "Hacker News"
     }
 ]
