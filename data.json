@@ -311614,5 +311614,11 @@
         "url": "https://www.nytimes.com/interactive/2024/06/24/well/live/midlife-health-body-changes-guide.html",
         "timestamp": "2026-06-07T06:18:08.246237",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reverse-engineering SwiftUIs DocumentGroup to restyle and group untouchable tabs",
+        "url": "https://github.com/uncSoft/Tabberwocky",
+        "timestamp": "2026-06-07T06:18:08.246273",
+        "source": "Hacker News"
     }
 ]
