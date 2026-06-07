@@ -312442,5 +312442,11 @@
         "url": "https://octavio.substack.com/p/the-roi-of-ai-coding-looks-completely",
         "timestamp": "2026-06-07T14:52:12.983327",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mitigating the LLM Rerun Crisis for Minimized-Inference-Cost Web Automation",
+        "url": "https://arxiv.org/abs/2604.09718",
+        "timestamp": "2026-06-07T14:52:12.983356",
+        "source": "Hacker News"
     }
 ]
