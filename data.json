@@ -311482,5 +311482,11 @@
         "url": "https://www.marines.mil/portals/1/Publications/MCO%20P10110.42B.pdf",
         "timestamp": "2026-06-07T01:56:41.149636",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Guix Nix Abomination: Leveraging Guix Derivations in Nix",
+        "url": "https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix",
+        "timestamp": "2026-06-07T01:56:41.149666",
+        "source": "Hacker News"
     }
 ]
