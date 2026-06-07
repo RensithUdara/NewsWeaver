@@ -311896,5 +311896,11 @@
         "url": "https://ra.co/features/4505",
         "timestamp": "2026-06-07T09:41:24.201220",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Modern Proxmox Docker Architecture with Disposable VMs, VirtIO-FS, and ZFS",
+        "url": "https://du.nkel.dev/blog/2026-05-16_rootless_docker_virtiofs_proxmox/",
+        "timestamp": "2026-06-07T09:41:24.201254",
+        "source": "Hacker News"
     }
 ]
