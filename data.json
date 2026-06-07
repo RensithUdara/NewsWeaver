@@ -313546,5 +313546,11 @@
         "url": "https://www.youtube.com/watch?v=85M0cTnNKCI",
         "timestamp": "2026-06-07T22:34:19.140418",
         "source": "Hacker News"
+    },
+    {
+        "title": "Who uses the CPU when you type `tail -f`? – SABTI Riad",
+        "url": "https://blog.sabti.dev/posts/who-uses-the-cpu-tail-f/",
+        "timestamp": "2026-06-07T22:34:19.140444",
+        "source": "Hacker News"
     }
 ]
