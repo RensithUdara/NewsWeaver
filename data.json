@@ -311422,5 +311422,11 @@
         "url": "https://blog.ericgoldman.org/archives/2026/06/when-can-amazon-block-an-agentic-ai-service-amazon-v-perplexity-guest-blog-post.htm",
         "timestamp": "2026-06-07T01:56:41.149305",
         "source": "Hacker News"
+    },
+    {
+        "title": "Passing DBs Through Continuations",
+        "url": "https://remy.wang/blog/cps.html",
+        "timestamp": "2026-06-07T01:56:41.149335",
+        "source": "Hacker News"
     }
 ]
