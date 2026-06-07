@@ -312412,5 +312412,11 @@
         "url": "https://www.sleekcms.com/",
         "timestamp": "2026-06-07T14:52:12.983182",
         "source": "Hacker News"
+    },
+    {
+        "title": "Helping Claude Code to find undocumented DuckDB APIs from the code",
+        "url": "https://flaky.build/helping-claude-code-to-find-undocumented-apis-from-the-code/",
+        "timestamp": "2026-06-07T14:52:12.983211",
+        "source": "Hacker News"
     }
 ]
