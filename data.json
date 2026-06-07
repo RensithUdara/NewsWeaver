@@ -312712,5 +312712,11 @@
         "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o",
         "timestamp": "2026-06-07T17:37:49.337469",
         "source": "Hacker News"
+    },
+    {
+        "title": "Backrest – a web UI and orchestrator for restic backup",
+        "url": "https://github.com/garethgeorge/backrest",
+        "timestamp": "2026-06-07T17:37:49.337961",
+        "source": "Hacker News"
     }
 ]
