@@ -313366,5 +313366,11 @@
         "url": "https://medvedev.im/articles/2026-06-07/quicktake-200",
         "timestamp": "2026-06-07T21:21:40.765664",
         "source": "Hacker News"
+    },
+    {
+        "title": "MemGraphRAG: Memory-Based Multi-Agent System for Graph RAG",
+        "url": "https://arxiv.org/abs/2606.00610",
+        "timestamp": "2026-06-07T21:21:40.765725",
+        "source": "Hacker News"
     }
 ]
