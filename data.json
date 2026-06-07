@@ -311698,5 +311698,11 @@
         "url": "https://github.com/gpdir16/tabyAgent",
         "timestamp": "2026-06-07T06:18:08.246899",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rl.cu: Training LLM RL with Pure CUDA",
+        "url": "https://github.com/KJLdefeated/RL.cu",
+        "timestamp": "2026-06-07T06:18:08.247001",
+        "source": "Hacker News"
     }
 ]
