@@ -312478,5 +312478,11 @@
         "url": "https://xcancel.com/OTregub/status/2063208671056634128",
         "timestamp": "2026-06-07T14:52:12.983501",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cursor's canvas library is closed source, I built a shim for the web",
+        "url": "https://github.com/thisismydesign/cursor-canvas-web",
+        "timestamp": "2026-06-07T14:52:12.983529",
+        "source": "Hacker News"
     }
 ]
