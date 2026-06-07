@@ -313288,5 +313288,11 @@
         "url": "https://timesofsandiego.com/crime/2026/06/07/a-flock-license-plate-reader-linked-a-san-diego-man-to-a-violent-crime-he-was-five-miles-away/",
         "timestamp": "2026-06-07T21:21:40.678251",
         "source": "Hacker News"
+    },
+    {
+        "title": "Do we fear the serializable isolation level more than we fear subtle bugs?",
+        "url": "https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609",
+        "timestamp": "2026-06-07T21:21:40.678271",
+        "source": "Hacker News"
     }
 ]
