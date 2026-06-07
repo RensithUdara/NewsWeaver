@@ -311728,5 +311728,11 @@
         "url": "https://en.wikipedia.org/wiki/Latting_Observatory",
         "timestamp": "2026-06-07T06:18:08.247149",
         "source": "Hacker News"
+    },
+    {
+        "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
+        "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
+        "timestamp": "2026-06-07T09:41:24.099864",
+        "source": "Hacker News"
     }
 ]
