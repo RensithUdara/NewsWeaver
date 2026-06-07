@@ -312652,5 +312652,11 @@
         "url": "https://www.nytimes.com/2026/06/07/magazine/scott-pelley-interview.html",
         "timestamp": "2026-06-07T16:06:16.244374",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A parser for the ISO 10303 EXPRESS language for its 40th anniversary",
+        "url": "https://github.com/rochus-keller/EXPRESS",
+        "timestamp": "2026-06-07T16:06:16.244409",
+        "source": "Hacker News"
     }
 ]
