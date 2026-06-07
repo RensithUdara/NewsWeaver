@@ -311434,5 +311434,11 @@
         "url": "https://weather.com/science/weather-explainers/news/2026-02-19-el-nino-la-nina-neutral-enso-pacific-ocean-us-weather",
         "timestamp": "2026-06-07T01:56:41.149363",
         "source": "Hacker News"
+    },
+    {
+        "title": "Deepfake Detector Robustness Testing",
+        "url": "https://huggingface.co/datasets/danb21/social-media-robustness-sdxl-instantid",
+        "timestamp": "2026-06-07T01:56:41.149403",
+        "source": "Hacker News"
     }
 ]
