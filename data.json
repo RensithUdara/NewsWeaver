@@ -311518,5 +311518,11 @@
         "url": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
         "timestamp": "2026-06-07T01:56:41.536434",
         "source": "Dev.to"
+    },
+    {
+        "title": "Valve P2P networking broken for more than 2 months",
+        "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+        "timestamp": "2026-06-07T06:18:07.941192",
+        "source": "Hacker News"
     }
 ]
