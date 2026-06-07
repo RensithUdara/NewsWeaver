@@ -312622,5 +312622,11 @@
         "url": "https://emot.substack.com/p/what-i-learned-analyzing-1248-world",
         "timestamp": "2026-06-07T16:06:16.244206",
         "source": "Hacker News"
+    },
+    {
+        "title": "From Jupyter Notebook to production: How to ship AI systems that work",
+        "url": "https://thenewstack.io/notebook-to-production-ai/",
+        "timestamp": "2026-06-07T16:06:16.244239",
+        "source": "Hacker News"
     }
 ]
