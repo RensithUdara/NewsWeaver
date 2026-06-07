@@ -312724,5 +312724,11 @@
         "url": "https://unpdf.ai/",
         "timestamp": "2026-06-07T17:37:49.594089",
         "source": "Hacker News"
+    },
+    {
+        "title": "AbTARS – Self-hosted AI agent with persistent memory and 5-layer self-healing",
+        "url": "https://github.com/aksika/abtars",
+        "timestamp": "2026-06-07T17:37:49.594174",
+        "source": "Hacker News"
     }
 ]
