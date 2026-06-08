@@ -313864,5 +313864,11 @@
         "url": "https://www.npmjs.com/package/@lateos/npm-scan",
         "timestamp": "2026-06-08T02:01:56.162085",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ARouter – drop-in OpenAI/Anthropic proxy that cuts cost and fails over",
+        "url": "https://github.com/sricola/arouter",
+        "timestamp": "2026-06-08T02:01:56.162118",
+        "source": "Hacker News"
     }
 ]
