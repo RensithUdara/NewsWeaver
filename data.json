@@ -313816,5 +313816,11 @@
         "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
         "timestamp": "2026-06-08T02:01:55.910018",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+        "url": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
+        "timestamp": "2026-06-08T02:01:55.910132",
+        "source": "Hacker News"
     }
 ]
