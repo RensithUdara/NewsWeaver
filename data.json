@@ -314602,5 +314602,11 @@
         "url": "https://chromium.woolyss.com/",
         "timestamp": "2026-06-08T15:28:22.681127",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a Korean ambiguity solver fast enough to skip the GPU: 7,300 words/SEC",
+        "url": "https://kimchi-reader.app/blog/int8-cpu-korean-disambiguation",
+        "timestamp": "2026-06-08T15:28:22.681159",
+        "source": "Hacker News"
     }
 ]
