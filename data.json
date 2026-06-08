@@ -314050,5 +314050,11 @@
         "url": "https://www.bbc.com/news/articles/c14yz5jg476o",
         "timestamp": "2026-06-08T06:56:34.946112",
         "source": "Hacker News"
+    },
+    {
+        "title": "A discovery about GCC's unidirectional rotation algorithm",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260603-00/?p=112378",
+        "timestamp": "2026-06-08T06:56:34.946145",
+        "source": "Hacker News"
     }
 ]
