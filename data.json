@@ -313810,5 +313810,11 @@
         "url": "https://teenage.engineering/products/apc-2",
         "timestamp": "2026-06-08T02:01:55.909962",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+        "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+        "timestamp": "2026-06-08T02:01:55.910018",
+        "source": "Hacker News"
     }
 ]
