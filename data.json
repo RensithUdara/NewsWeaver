@@ -315478,5 +315478,11 @@
         "url": "https://www.ipm.fraunhofer.de/en/press-publications/press-releases/Qurie-GmbH-founding-electrocaloric-cooling.html",
         "timestamp": "2026-06-08T22:12:21.417054",
         "source": "Hacker News"
+    },
+    {
+        "title": "My Rust SIMD code was silently running as scalar Part 2",
+        "url": "https://coloneltoad.substack.com/p/why-my-windows-benchmarks-were-lying",
+        "timestamp": "2026-06-08T22:12:21.417087",
+        "source": "Hacker News"
     }
 ]
