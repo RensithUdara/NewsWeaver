@@ -315112,5 +315112,11 @@
         "url": "https://www.apple.com/apple-intelligence/",
         "timestamp": "2026-06-08T20:33:52.012912",
         "source": "Hacker News"
+    },
+    {
+        "title": "120k Lines of Rust: Inside the Nosdesk Backend",
+        "url": "https://kyle.au/blog/nosdesk-backend-rust",
+        "timestamp": "2026-06-08T20:33:52.012981",
+        "source": "Hacker News"
     }
 ]
