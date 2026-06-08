@@ -314356,5 +314356,11 @@
         "url": "https://news.ycombinator.com/item?id=48444025",
         "timestamp": "2026-06-08T11:51:33.527225",
         "source": "Hacker News"
+    },
+    {
+        "title": "WOS: a Rust ARM64 kernel from scratch with MMU and GICv2 working",
+        "url": "https://github.com/jietra/wos",
+        "timestamp": "2026-06-08T11:51:33.527260",
+        "source": "Hacker News"
     }
 ]
