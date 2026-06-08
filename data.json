@@ -314026,5 +314026,11 @@
         "url": "https://b-ark.ca/2026/06/07/cannibalism.html",
         "timestamp": "2026-06-08T06:56:34.945734",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tiny hackable CUDA language model implementation",
+        "url": "https://github.com/markusheimerl/gpt",
+        "timestamp": "2026-06-08T06:56:34.945770",
+        "source": "Hacker News"
     }
 ]
