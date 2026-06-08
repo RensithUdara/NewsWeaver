@@ -315724,5 +315724,11 @@
         "url": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
         "timestamp": "2026-06-08T23:37:47.409642",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why Compiler Engineers Avoid Strassen's Algorithm for Matrix Multiplication",
+        "url": "https://leetarxiv.substack.com/p/why-compilers-rarely-use-strassens-algorithm",
+        "timestamp": "2026-06-08T23:37:47.409674",
+        "source": "Hacker News"
     }
 ]
