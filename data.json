@@ -314896,5 +314896,11 @@
         "url": "https://blog.mattglassman.net/steven-speilberg-on-the-rewatchables/",
         "timestamp": "2026-06-08T18:10:38.438328",
         "source": "Hacker News"
+    },
+    {
+        "title": "We Cut Semgrep's Taint Analysis Time by 75%",
+        "url": "https://semgrep.dev/blog/2026/how-we-cut-semgreps-taint-analysis-time-by-75-percent/",
+        "timestamp": "2026-06-08T18:10:38.438359",
+        "source": "Hacker News"
     }
 ]
