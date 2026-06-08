@@ -314548,5 +314548,11 @@
         "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
         "timestamp": "2026-06-08T15:28:22.571539",
         "source": "Hacker News"
+    },
+    {
+        "title": "Are you expected to run five Python type-checkers now?",
+        "url": "https://pyrefly.org/blog/too-many-type-checkers/",
+        "timestamp": "2026-06-08T15:28:22.571648",
+        "source": "Hacker News"
     }
 ]
