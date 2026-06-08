@@ -313840,5 +313840,11 @@
         "url": "https://unmeshed.io/blog/your-backend-is-full-of-hidden-workflows",
         "timestamp": "2026-06-08T02:01:55.910574",
         "source": "Hacker News"
+    },
+    {
+        "title": "KNN early termination in Manticore Search",
+        "url": "https://manticoresearch.com/blog/knn-early-termination/",
+        "timestamp": "2026-06-08T02:01:55.910788",
+        "source": "Hacker News"
     }
 ]
