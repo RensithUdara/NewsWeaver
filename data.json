@@ -317260,5 +317260,11 @@
         "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
         "timestamp": "2026-06-09T18:59:21.811145",
         "source": "Hacker News"
+    },
+    {
+        "title": "The LD_DEBUG environment variable (2012)",
+        "url": "https://bnikolic.co.uk/blog/linux-ld-debug.html",
+        "timestamp": "2026-06-09T18:59:21.811287",
+        "source": "Hacker News"
     }
 ]
