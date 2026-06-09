@@ -316138,5 +316138,11 @@
         "url": "https://loro.dev/blog/mergeable-containers",
         "timestamp": "2026-06-09T05:43:48.094083",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenLTM – Local, self-decaying memory for AI coding agents",
+        "url": "https://github.com/RohiRIK/OpenLtm",
+        "timestamp": "2026-06-09T05:43:48.094110",
+        "source": "Hacker News"
     }
 ]
