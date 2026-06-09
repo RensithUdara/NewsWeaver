@@ -317740,5 +317740,11 @@
         "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
         "timestamp": "2026-06-09T22:23:06.902757",
         "source": "Hacker News"
+    },
+    {
+        "title": "Exif Smuggling",
+        "url": "https://github.com/signalblur/exifsmugglingpoc",
+        "timestamp": "2026-06-09T22:23:06.902792",
+        "source": "Hacker News"
     }
 ]
