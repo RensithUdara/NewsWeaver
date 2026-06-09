@@ -316612,5 +316612,11 @@
         "url": "https://lr0.org/blog/p/yahoo/",
         "timestamp": "2026-06-09T11:47:39.456511",
         "source": "Hacker News"
+    },
+    {
+        "title": "Test-case reducers are underappreciated debugging tools",
+        "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
+        "timestamp": "2026-06-09T11:47:39.456538",
+        "source": "Hacker News"
     }
 ]
