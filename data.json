@@ -316090,5 +316090,11 @@
         "url": "https://astral.sh/blog/uv-audit",
         "timestamp": "2026-06-09T05:43:48.093877",
         "source": "Hacker News"
+    },
+    {
+        "title": "OxyJen v0.5: a deterministic graph runtime for AI workflows",
+        "url": "https://github.com/11divyansh/OxyJen",
+        "timestamp": "2026-06-09T05:43:48.093904",
+        "source": "Hacker News"
     }
 ]
