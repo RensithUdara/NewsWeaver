@@ -316270,5 +316270,11 @@
         "url": "https://www.abc.net.au/news/2026-06-09/apple-child-safety-features-revamped/106777228",
         "timestamp": "2026-06-09T08:49:37.865857",
         "source": "Hacker News"
+    },
+    {
+        "title": "An open-source aircraft identification library in Python",
+        "url": "https://github.com/xuhao1/pyAircraftIden",
+        "timestamp": "2026-06-09T08:49:37.865885",
+        "source": "Hacker News"
     }
 ]
