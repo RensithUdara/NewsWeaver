@@ -317416,5 +317416,11 @@
         "url": "https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1529-8817.2000.00019.x",
         "timestamp": "2026-06-09T18:59:21.907692",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Future of wasi-gfx and wasi:webgpu",
+        "url": "https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/",
+        "timestamp": "2026-06-09T18:59:21.907722",
+        "source": "Hacker News"
     }
 ]
