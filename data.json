@@ -317800,5 +317800,11 @@
         "url": "https://rogmash.neocities.org/synthesizer1",
         "timestamp": "2026-06-09T22:23:07.083782",
         "source": "Hacker News"
+    },
+    {
+        "title": "Port React compiler to Rust (merged)",
+        "url": "https://github.com/react/react/pull/36173",
+        "timestamp": "2026-06-09T22:23:07.083813",
+        "source": "Hacker News"
     }
 ]
