@@ -315916,5 +315916,11 @@
         "url": "https://blog.andr2i.com/posts/2026-06-08-optimization-catalog-when-float-division-beats-integer-division",
         "timestamp": "2026-06-09T01:29:12.424342",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Durable, asynchronous LLM workflow engine in Rust",
+        "url": "https://crates.io/crates/langcontinuation",
+        "timestamp": "2026-06-09T01:29:12.424371",
+        "source": "Hacker News"
     }
 ]
