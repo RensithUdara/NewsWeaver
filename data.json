@@ -315898,5 +315898,11 @@
         "url": "https://medium.com/data-science-collective/i-analyzed-163k-lines-of-kuzus-codebase-here-s-why-apple-wanted-it-12294a7035fa",
         "timestamp": "2026-06-09T01:29:12.424261",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lscpu for Mac / Apple Silicon",
+        "url": "https://github.com/hcarvalhoalves/lscpumac",
+        "timestamp": "2026-06-09T01:29:12.424288",
+        "source": "Hacker News"
     }
 ]
