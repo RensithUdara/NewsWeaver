@@ -317530,5 +317530,11 @@
         "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
         "timestamp": "2026-06-09T20:58:08.334254",
         "source": "Hacker News"
+    },
+    {
+        "title": "Blaise v0.10.0: Native Back End, Threads and Incremental Compilation",
+        "url": "https://github.com/graemeg/blaise/discussions/82",
+        "timestamp": "2026-06-09T20:58:08.334286",
+        "source": "Hacker News"
     }
 ]
