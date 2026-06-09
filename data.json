@@ -317452,5 +317452,11 @@
         "url": "https://medicalxpress.com/news/2026-05-reverse-ketamine-effects-antidepressants.html",
         "timestamp": "2026-06-09T18:59:21.907883",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rpdfium: Ruby implementation of Pdfium, Chrome's PDF engine",
+        "url": "https://github.com/retsef/rpdfium",
+        "timestamp": "2026-06-09T18:59:21.907917",
+        "source": "Hacker News"
     }
 ]
