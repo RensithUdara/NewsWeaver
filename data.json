@@ -316378,5 +316378,11 @@
         "url": "https://trustedrouter.com/",
         "timestamp": "2026-06-09T08:49:37.866458",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Biber – ELF and PE binary inspector written in Zig",
+        "url": "https://github.com/hrasityilmaz/Biber",
+        "timestamp": "2026-06-09T08:49:37.866486",
+        "source": "Hacker News"
     }
 ]
