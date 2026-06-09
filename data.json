@@ -317926,5 +317926,11 @@
         "url": "https://www.reuters.com/world/middle-east/five-facts-sea-drones-after-us-helicopter-rescue-2026-06-09/",
         "timestamp": "2026-06-09T22:23:07.084514",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nvidia CUDA Python 1.0 and CUDA 13.3 Release",
+        "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-3-enhances-gpu-development-with-tile-programming-in-c-compiler-autotuning-and-python-updates/",
+        "timestamp": "2026-06-09T22:23:07.084546",
+        "source": "Hacker News"
     }
 ]
