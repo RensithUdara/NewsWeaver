@@ -316672,5 +316672,11 @@
         "url": "https://medicalxpress.com/news/2026-06-popular-joint-pain-supplement-dementia.html",
         "timestamp": "2026-06-09T11:47:39.456803",
         "source": "Hacker News"
+    },
+    {
+        "title": "RubyLLM 1.16: concurrent tool execution, Rails-style instrumentation, and more",
+        "url": "https://github.com/crmne/ruby_llm/releases/tag/1.16.0",
+        "timestamp": "2026-06-09T11:47:39.456831",
+        "source": "Hacker News"
     }
 ]
