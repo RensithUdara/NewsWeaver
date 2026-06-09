@@ -317746,5 +317746,11 @@
         "url": "https://github.com/signalblur/exifsmugglingpoc",
         "timestamp": "2026-06-09T22:23:06.902792",
         "source": "Hacker News"
+    },
+    {
+        "title": "Grit: Rewriting Git in Rust with Agents",
+        "url": "https://blog.gitbutler.com/true-grit",
+        "timestamp": "2026-06-09T22:23:06.903004",
+        "source": "Hacker News"
     }
 ]
