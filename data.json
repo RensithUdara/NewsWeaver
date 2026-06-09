@@ -317674,5 +317674,11 @@
         "url": "https://www.theverge.com/science/946608/donut-labs-debunk-solid-state-battery",
         "timestamp": "2026-06-09T20:58:08.464407",
         "source": "Hacker News"
+    },
+    {
+        "title": "AutoMegaKernel: Compiling a LLM into a single CUDA kernel",
+        "url": "https://arxiv.org/abs/2606.09682",
+        "timestamp": "2026-06-09T20:58:08.464437",
+        "source": "Hacker News"
     }
 ]
