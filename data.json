@@ -316576,5 +316576,11 @@
         "url": "https://themaister.net/blog/2026/06/08/a-cute-little-trick-to-running-classic-iir-filters-on-the-gpu/",
         "timestamp": "2026-06-09T11:47:39.456352",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust goal: cargo script (like uv does for Python)",
+        "url": "https://rust-lang.github.io/rfcs/3935-Project-Goals-2026.html#running-rust-scripts-will-get-more-convenient-with-cargo-script",
+        "timestamp": "2026-06-09T11:47:39.456378",
+        "source": "Hacker News"
     }
 ]
