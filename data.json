@@ -316636,5 +316636,11 @@
         "url": "https://news.ycombinator.com/item?id=48459609",
         "timestamp": "2026-06-09T11:47:39.456626",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A static SPA to query ATF / BATFE historic AFMER data",
+        "url": "https://ryjones.github.io/AFMER-SPA/?ymin=2000&ymax=2024&text=BOEING",
+        "timestamp": "2026-06-09T11:47:39.456665",
+        "source": "Hacker News"
     }
 ]
