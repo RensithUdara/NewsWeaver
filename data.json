@@ -317302,5 +317302,11 @@
         "url": "https://www.nial-array-language.org/ndocs/Design%20of%20QNial%20V7.pdf",
         "timestamp": "2026-06-09T18:59:21.907014",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cache Stampede Prevention: Distributed Locking, Pub/Sub, and Request Coalescing",
+        "url": "https://engineeringatscale.substack.com/p/cache-stampede-distributed-locking",
+        "timestamp": "2026-06-09T18:59:21.907050",
+        "source": "Hacker News"
     }
 ]
