@@ -318034,5 +318034,11 @@
         "url": "https://github.com/willianpinho/mcp-gateway-scan",
         "timestamp": "2026-06-09T23:47:50.541855",
         "source": "Hacker News"
+    },
+    {
+        "title": "RoguePlanet: Windows 0-day privilege escalation",
+        "url": "https://github.com/MSNightmare/RoguePlanet",
+        "timestamp": "2026-06-09T23:47:50.541881",
+        "source": "Hacker News"
     }
 ]
