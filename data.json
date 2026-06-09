@@ -316132,5 +316132,11 @@
         "url": "https://www.trademylease.com",
         "timestamp": "2026-06-09T05:43:48.094058",
         "source": "Hacker News"
+    },
+    {
+        "title": "CRDTs merge concurrent edits. Why not concurrent creation?",
+        "url": "https://loro.dev/blog/mergeable-containers",
+        "timestamp": "2026-06-09T05:43:48.094083",
+        "source": "Hacker News"
     }
 ]
