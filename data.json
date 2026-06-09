@@ -317158,5 +317158,11 @@
         "url": "https://www.theguardian.com/sport/2026/may/04/f1-under-increasing-pressure-engine-rules-battery",
         "timestamp": "2026-06-09T16:41:22.961785",
         "source": "Hacker News"
+    },
+    {
+        "title": "Omnifs: APIs and data sources as files you can ls, cat, grep, and pipe",
+        "url": "https://omnifs.dev/",
+        "timestamp": "2026-06-09T16:41:22.961817",
+        "source": "Hacker News"
     }
 ]
