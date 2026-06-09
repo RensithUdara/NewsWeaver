@@ -317980,5 +317980,11 @@
         "url": "https://craftbot.live",
         "timestamp": "2026-06-09T23:47:50.541589",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenClaw agent leaked mock AWS keys and CRM data in phishing tests",
+        "url": "https://www.varonis.com/blog/openclaw-phishing",
+        "timestamp": "2026-06-09T23:47:50.541634",
+        "source": "Hacker News"
     }
 ]
