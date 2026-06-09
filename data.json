@@ -316984,5 +316984,11 @@
         "url": "https://news.ycombinator.com/item?id=48463273",
         "timestamp": "2026-06-09T16:41:22.649613",
         "source": "Hacker News"
+    },
+    {
+        "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
+        "url": "https://arxiv.org/abs/2603.24647",
+        "timestamp": "2026-06-09T16:41:22.649648",
+        "source": "Hacker News"
     }
 ]
