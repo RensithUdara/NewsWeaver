@@ -316756,5 +316756,11 @@
         "url": "https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer",
         "timestamp": "2026-06-09T14:07:21.133817",
         "source": "Hacker News"
+    },
+    {
+        "title": "Adopting the Parallel DWARF linker in dsymutil",
+        "url": "https://jonasdevlieghere.com/post/dsymutil-parallel-linker/",
+        "timestamp": "2026-06-09T14:07:21.134167",
+        "source": "Hacker News"
     }
 ]
