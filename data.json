@@ -315910,5 +315910,11 @@
         "url": "https://lapcatsoftware.com/articles/2026/6/1.html",
         "timestamp": "2026-06-09T01:29:12.424315",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hot path optimization. When float division beats integer division",
+        "url": "https://blog.andr2i.com/posts/2026-06-08-optimization-catalog-when-float-division-beats-integer-division",
+        "timestamp": "2026-06-09T01:29:12.424342",
+        "source": "Hacker News"
     }
 ]
