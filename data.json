@@ -316594,5 +316594,11 @@
         "url": "https://www.theverge.com/tech/945246/virtual-os-museum-dos-windows-mac-os",
         "timestamp": "2026-06-09T11:47:39.456430",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Trusthook – verify webhook signatures for 18 Go providers in one call",
+        "url": "https://github.com/eben-vranken/trusthook",
+        "timestamp": "2026-06-09T11:47:39.456457",
+        "source": "Hacker News"
     }
 ]
