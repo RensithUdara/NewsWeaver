@@ -316474,5 +316474,11 @@
         "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
         "timestamp": "2026-06-09T11:47:39.145507",
         "source": "Hacker News"
+    },
+    {
+        "title": "The beauty and simplicity of the good old C-style void* in C++",
+        "url": "https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/",
+        "timestamp": "2026-06-09T11:47:39.145537",
+        "source": "Hacker News"
     }
 ]
