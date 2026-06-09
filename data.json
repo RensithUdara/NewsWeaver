@@ -316180,5 +316180,11 @@
         "url": "https://ferd.ca/queues-don-t-fix-overload.html",
         "timestamp": "2026-06-09T05:43:48.094331",
         "source": "Hacker News"
+    },
+    {
+        "title": "Universal XSS in Firefox Focus for iOS",
+        "url": "https://github.com/v12-security/pocs/tree/main/firefox",
+        "timestamp": "2026-06-09T05:43:48.094374",
+        "source": "Hacker News"
     }
 ]
