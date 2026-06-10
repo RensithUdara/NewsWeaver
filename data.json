@@ -320182,5 +320182,11 @@
         "url": "https://www.youtube.com/watch?v=2KIzXrtKlbg",
         "timestamp": "2026-06-10T23:12:26.024759",
         "source": "Hacker News"
+    },
+    {
+        "title": "Patch for critical vulnerability in p2pool (Monero) to be released on 2026-06-13",
+        "url": "https://github.com/SChernykh/p2pool/releases/tag/pre-release-v4.16",
+        "timestamp": "2026-06-10T23:12:26.024792",
+        "source": "Hacker News"
     }
 ]
