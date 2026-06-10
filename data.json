@@ -318982,5 +318982,11 @@
         "url": "https://www.mdpi.com/2227-9717/14/9/1466",
         "timestamp": "2026-06-10T13:56:52.699849",
         "source": "Hacker News"
+    },
+    {
+        "title": "SereneUI; open-source database client built for SereneDB and Postgres",
+        "url": "https://github.com/serenedb/serenedb/tree/main/serene-ui",
+        "timestamp": "2026-06-10T13:56:52.699883",
+        "source": "Hacker News"
     }
 ]
