@@ -319624,5 +319624,11 @@
         "url": "https://voz.us/en/technology/260603/36246/british-media-will-be-able-to-prevent-their-content-from-feeding-google-s-ai-search.html",
         "timestamp": "2026-06-10T19:28:27.112174",
         "source": "Hacker News"
+    },
+    {
+        "title": "DuckDB Storage Engine for MariaDB",
+        "url": "https://mariadb.org/duckdb-storage-engine-for-mariadb-when-the-sea-lion-learns-to-quack/",
+        "timestamp": "2026-06-10T19:28:27.112201",
+        "source": "Hacker News"
     }
 ]
