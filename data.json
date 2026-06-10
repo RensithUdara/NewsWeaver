@@ -319840,5 +319840,11 @@
         "url": "https://www.getonit.ai/eloquent-review",
         "timestamp": "2026-06-10T21:34:31.343105",
         "source": "Hacker News"
+    },
+    {
+        "title": "Defeat the Heap: Zero-Copy Data Movement in AXI4MLIR",
+        "url": "https://arxiv.org/abs/2606.11158",
+        "timestamp": "2026-06-10T21:34:31.343131",
+        "source": "Hacker News"
     }
 ]
