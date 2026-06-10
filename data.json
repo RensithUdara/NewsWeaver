@@ -318406,5 +318406,11 @@
         "url": "https://news.ycombinator.com/item?id=48472031",
         "timestamp": "2026-06-10T06:14:02.911148",
         "source": "Hacker News"
+    },
+    {
+        "title": "Command injection in NLTK collocations via eval()",
+        "url": "https://aydinnyunus.github.io/2026/06/07/command-injection-nltk-collocations-eval/",
+        "timestamp": "2026-06-10T06:14:02.911175",
+        "source": "Hacker News"
     }
 ]
