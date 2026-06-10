@@ -318322,5 +318322,11 @@
         "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2015109",
         "timestamp": "2026-06-10T01:54:04.072675",
         "source": "Hacker News"
+    },
+    {
+        "title": "FreezeTube – 200-line Chrome extension that disables YouTube's infinite scroll",
+        "url": "https://chromewebstore.google.com/detail/freezetube/jbhihladabkggdgbhkgdgpbjjogehgnk",
+        "timestamp": "2026-06-10T01:54:04.072770",
+        "source": "Hacker News"
     }
 ]
