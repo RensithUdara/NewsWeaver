@@ -319498,5 +319498,11 @@
         "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
         "timestamp": "2026-06-10T16:55:05.711198",
         "source": "Articles on Smashing Magazine — For Web Designers And Developers"
+    },
+    {
+        "title": "Claude Desktop spins up a VM without no way of stopping it",
+        "url": "https://github.com/anthropics/claude-code/issues/29045",
+        "timestamp": "2026-06-10T19:28:26.802827",
+        "source": "Hacker News"
     }
 ]
