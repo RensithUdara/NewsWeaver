@@ -318970,5 +318970,11 @@
         "url": "https://steel.dev/blog/claude-code-deep-research-autopsy",
         "timestamp": "2026-06-10T13:56:52.699781",
         "source": "Hacker News"
+    },
+    {
+        "title": "Prisma launching integrated Compute and Postgres hosting",
+        "url": "https://www.prisma.io/blog/launching-prisma-compute-public-beta",
+        "timestamp": "2026-06-10T13:56:52.699815",
+        "source": "Hacker News"
     }
 ]
