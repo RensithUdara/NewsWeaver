@@ -319018,5 +319018,11 @@
         "url": "https://beyondtheprior.com/post/why-llms-lack-taste/",
         "timestamp": "2026-06-10T13:56:52.700050",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering",
+        "url": "https://github.com/entGriff/ezra",
+        "timestamp": "2026-06-10T13:56:52.700081",
+        "source": "Hacker News"
     }
 ]
