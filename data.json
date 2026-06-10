@@ -318316,5 +318316,11 @@
         "url": "https://www.interfaceware.com",
         "timestamp": "2026-06-10T01:54:04.072643",
         "source": "Hacker News"
+    },
+    {
+        "title": "Firefox adds Google Play Integrity checks for it's AI features",
+        "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2015109",
+        "timestamp": "2026-06-10T01:54:04.072675",
+        "source": "Hacker News"
     }
 ]
