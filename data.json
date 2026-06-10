@@ -320146,5 +320146,11 @@
         "url": "https://vatnode.dev",
         "timestamp": "2026-06-10T23:12:26.024562",
         "source": "Hacker News"
+    },
+    {
+        "title": "/dmg – a Claude Code skill for persistent memory and session sync",
+        "url": "https://github.com/responsiblparty/claude-dmg-skill",
+        "timestamp": "2026-06-10T23:12:26.024594",
+        "source": "Hacker News"
     }
 ]
