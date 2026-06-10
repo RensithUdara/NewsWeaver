@@ -319810,5 +319810,11 @@
         "url": "https://trk.barrons.com/view/699d75232ec2b6256c871dadrg22t.12dw/c6474167",
         "timestamp": "2026-06-10T21:34:31.342949",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Case for a Simulation-Driven Exploration of Distributed GenAI Platforms",
+        "url": "https://dl.acm.org/doi/10.1145/3805621.3807623",
+        "timestamp": "2026-06-10T21:34:31.342990",
+        "source": "Hacker News"
     }
 ]
