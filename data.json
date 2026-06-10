@@ -319204,5 +319204,11 @@
         "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
         "timestamp": "2026-06-10T16:55:04.131142",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postgres by Example",
+        "url": "https://github.com/boringcollege/postgres-by-example",
+        "timestamp": "2026-06-10T16:55:04.131307",
+        "source": "Hacker News"
     }
 ]
