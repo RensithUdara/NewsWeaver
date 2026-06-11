@@ -321028,5 +321028,11 @@
         "url": "https://www.caddis.app/",
         "timestamp": "2026-06-11T14:51:01.736150",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hijacking Cloud Identities by Recycling Namespaces in Global OIDC Issuers",
+        "url": "https://astrix.security/learn/blog/subjugation-hijacking-cloud-identities-by-recycling-namespaces-in-global-oidc-issuers/",
+        "timestamp": "2026-06-11T14:51:01.736176",
+        "source": "Hacker News"
     }
 ]
