@@ -322162,5 +322162,11 @@
         "url": "https://www.youtube.com/watch?v=rXuPTQdVv7U",
         "timestamp": "2026-06-11T23:57:42.391303",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making FlashAttention-4 faster for inference",
+        "url": "https://modal.com/blog/flash-attention-4-faster",
+        "timestamp": "2026-06-11T23:57:42.391329",
+        "source": "Hacker News"
     }
 ]
