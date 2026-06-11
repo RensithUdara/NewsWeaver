@@ -320722,5 +320722,11 @@
         "url": "https://sigma-star.at/blog/2026/06/trustzone-intermezzo/",
         "timestamp": "2026-06-11T11:07:19.611496",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why isn't Quarkus 2x faster than Spring on my machine?",
+        "url": "https://quarkus.io/blog/hidden-cost-rootless-container-networking/",
+        "timestamp": "2026-06-11T11:07:19.611527",
+        "source": "Hacker News"
     }
 ]
