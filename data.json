@@ -322090,5 +322090,11 @@
         "url": "https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/",
         "timestamp": "2026-06-11T23:57:42.152507",
         "source": "Hacker News"
+    },
+    {
+        "title": "Breaking LiteLLM: From Low-Privilege User to Admin and RCE",
+        "url": "https://www.obsidiansecurity.com/blog/litellm-privilege-escalation-rce",
+        "timestamp": "2026-06-11T23:57:42.390930",
+        "source": "Hacker News"
     }
 ]
