@@ -320836,5 +320836,11 @@
         "url": "https://news.ycombinator.com/item?id=48488440",
         "timestamp": "2026-06-11T11:07:19.612062",
         "source": "Hacker News"
+    },
+    {
+        "title": "Minimax M3 weights to be released on Friday",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7/discussions/33",
+        "timestamp": "2026-06-11T11:07:19.612091",
+        "source": "Hacker News"
     }
 ]
