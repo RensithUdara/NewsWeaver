@@ -321130,5 +321130,11 @@
         "url": "https://www.anthropic.com/claude-corps",
         "timestamp": "2026-06-11T14:51:01.736682",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cheadergen: Generate C headers for your Rust package(s)",
+        "url": "https://cheadergen.com",
+        "timestamp": "2026-06-11T14:51:01.736709",
+        "source": "Hacker News"
     }
 ]
