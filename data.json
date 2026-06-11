@@ -322018,5 +322018,11 @@
         "url": "https://arxiv.org/abs/2606.05951",
         "timestamp": "2026-06-11T22:24:22.198174",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: An Indian exam photo resizer built with Rust and WASM",
+        "url": "https://resizer.exammint.in/",
+        "timestamp": "2026-06-11T22:24:22.198205",
+        "source": "Hacker News"
     }
 ]
