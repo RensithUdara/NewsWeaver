@@ -321682,5 +321682,11 @@
         "url": "https://statusgator.com/services/webflow",
         "timestamp": "2026-06-11T20:32:05.685133",
         "source": "Hacker News"
+    },
+    {
+        "title": "Local Privacy Filter for Claude Code",
+        "url": "https://github.com/outgate-ai/og-local",
+        "timestamp": "2026-06-11T20:32:05.685149",
+        "source": "Hacker News"
     }
 ]
