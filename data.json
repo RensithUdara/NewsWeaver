@@ -321532,5 +321532,11 @@
         "url": "https://www.neowin.net/news/euro-office-must-default-to-odf-to-be-considered-genuinely-european-libreoffice-argues/",
         "timestamp": "2026-06-11T18:04:13.229385",
         "source": "Hacker News"
+    },
+    {
+        "title": "VDBBench 2.0: now measures cost, not just performance",
+        "url": "https://zilliz.com/blog/vdbbench-adds-cost-aware-benchmarking-for-vector-databases",
+        "timestamp": "2026-06-11T18:04:13.229412",
+        "source": "Hacker News"
     }
 ]
