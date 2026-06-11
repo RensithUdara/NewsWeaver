@@ -322174,5 +322174,11 @@
         "url": "https://twitter.com/brainsandtennis/status/2065190286519906657",
         "timestamp": "2026-06-11T23:57:42.391355",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Emergenv: Compose+compute env files from SSH-encrypted fragments in Git",
+        "url": "https://github.com/anoyomoose/emergenv",
+        "timestamp": "2026-06-11T23:57:42.391382",
+        "source": "Hacker News"
     }
 ]
