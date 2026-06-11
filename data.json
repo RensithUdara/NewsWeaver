@@ -320266,5 +320266,11 @@
         "url": "https://cacm.acm.org/news/the-end-of-the-coder/",
         "timestamp": "2026-06-11T01:40:51.560834",
         "source": "Hacker News"
+    },
+    {
+        "title": "Are insecure code completions in PyCharm a vulnerability?",
+        "url": "https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability",
+        "timestamp": "2026-06-11T01:40:51.560862",
+        "source": "Hacker News"
     }
 ]
