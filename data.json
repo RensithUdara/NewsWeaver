@@ -321298,5 +321298,11 @@
         "url": "https://waymo.com/blog/2026/06/waymo-premier/",
         "timestamp": "2026-06-11T18:04:12.985180",
         "source": "Hacker News"
+    },
+    {
+        "title": "FPS.cob: A first person shooter in COBOL",
+        "url": "https://github.com/icitry/FPS.cob",
+        "timestamp": "2026-06-11T18:04:12.985234",
+        "source": "Hacker News"
     }
 ]
