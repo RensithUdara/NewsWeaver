@@ -320968,5 +320968,11 @@
         "url": "https://mimo.xiaomi.com/mimocode",
         "timestamp": "2026-06-11T14:51:01.456340",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open Reproduction of DeepSeek-R1",
+        "url": "https://github.com/huggingface/open-r1",
+        "timestamp": "2026-06-11T14:51:01.456368",
+        "source": "Hacker News"
     }
 ]
