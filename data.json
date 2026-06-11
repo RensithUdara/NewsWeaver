@@ -320794,5 +320794,11 @@
         "url": "https://isanyoneinthere.com",
         "timestamp": "2026-06-11T11:07:19.611866",
         "source": "Hacker News"
+    },
+    {
+        "title": "Angry bug hunter with Microsoft beef drops new Windows 0-day",
+        "url": "https://www.theregister.com/security/2026/06/10/nightmare-eclipse-publishes-new-windows-defender-zero-day/5253725",
+        "timestamp": "2026-06-11T11:07:19.611894",
+        "source": "Hacker News"
     }
 ]
