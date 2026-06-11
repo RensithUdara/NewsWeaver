@@ -321538,5 +321538,11 @@
         "url": "https://zilliz.com/blog/vdbbench-adds-cost-aware-benchmarking-for-vector-databases",
         "timestamp": "2026-06-11T18:04:13.229412",
         "source": "Hacker News"
+    },
+    {
+        "title": "Velxio 3.0 – An AI hardware Agent that designs circuits an emulator",
+        "url": "https://github.com/davidmonterocrespo24/velxio/releases/tag/v3.0.0",
+        "timestamp": "2026-06-11T18:04:13.229438",
+        "source": "Hacker News"
     }
 ]
