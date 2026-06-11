@@ -321916,5 +321916,11 @@
         "url": "https://www.republicbike.com/google_bikes.asp?hl=en-GB",
         "timestamp": "2026-06-11T22:24:22.197590",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Diffcat – a TUI for delightful Git diffs",
+        "url": "https://github.com/trebaud/diffcat",
+        "timestamp": "2026-06-11T22:24:22.197628",
+        "source": "Hacker News"
     }
 ]
