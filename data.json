@@ -320290,5 +320290,11 @@
         "url": "https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work",
         "timestamp": "2026-06-11T01:40:51.560959",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: Releasing code under AGPLv3, but want to block LLM reconstruction?",
+        "url": "https://news.ycombinator.com/item?id=48485069",
+        "timestamp": "2026-06-11T01:40:51.560989",
+        "source": "Hacker News"
     }
 ]
