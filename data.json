@@ -320674,5 +320674,11 @@
         "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
         "timestamp": "2026-06-11T11:07:19.434359",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A skill to audit your dbt project for what an AI agent will get wrong",
+        "url": "https://github.com/GetCassis/dbt-agent-readiness",
+        "timestamp": "2026-06-11T11:07:19.611246",
+        "source": "Hacker News"
     }
 ]
