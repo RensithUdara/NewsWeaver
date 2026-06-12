@@ -322924,5 +322924,11 @@
         "url": "https://www.the-sun.com/news/16485544/facebook-down-query-error-meta-instagram/",
         "timestamp": "2026-06-12T14:34:26.573430",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Secret-keystore – KMS-encrypted .env that never touches process.env",
+        "url": "https://www.npmjs.com/package/@faizahmed/secret-keystore",
+        "timestamp": "2026-06-12T14:34:26.573460",
+        "source": "Hacker News"
     }
 ]
