@@ -323704,5 +323704,11 @@
         "url": "https://lr0.org/blog/p/arabic/",
         "timestamp": "2026-06-12T21:11:22.396733",
         "source": "Hacker News"
+    },
+    {
+        "title": "Heimdall – config-driven RTL fuzzing harness for RISC-V on FPGA",
+        "url": "https://github.com/Midstall/heimdall",
+        "timestamp": "2026-06-12T21:11:22.396763",
+        "source": "Hacker News"
     }
 ]
