@@ -322552,5 +322552,11 @@
         "url": "https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs",
         "timestamp": "2026-06-12T08:10:38.457050",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a plugin system without runtime, storage, or shared JavaScript context",
+        "url": "https://tolgee.io/blog/building-a-plugin-system-for-tolgee-without-a-runtime-storage-or-shared-js-context",
+        "timestamp": "2026-06-12T08:10:38.457150",
+        "source": "Hacker News"
     }
 ]
