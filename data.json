@@ -323746,5 +323746,11 @@
         "url": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
         "timestamp": "2026-06-12T21:11:22.397015",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Rubric – test what your LLM agent did, not just what it said",
+        "url": "https://github.com/Kareem-Rashed/rubric-eval",
+        "timestamp": "2026-06-12T21:11:22.397048",
+        "source": "Hacker News"
     }
 ]
