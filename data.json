@@ -323920,5 +323920,11 @@
         "url": "https://carette.xyz/posts/the_return_of_the_engineer/",
         "timestamp": "2026-06-12T22:48:18.062698",
         "source": "Hacker News"
+    },
+    {
+        "title": "Trojaned OpenSSH (In 2002)",
+        "url": "http://miod.online.fr/software/openbsd/stories/trojan.html",
+        "timestamp": "2026-06-12T22:48:18.062751",
+        "source": "Hacker News"
     }
 ]
