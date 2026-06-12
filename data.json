@@ -322636,5 +322636,11 @@
         "url": "https://blog.rduffy.uk/posts/co-authored-by-is-a-lie/",
         "timestamp": "2026-06-12T08:10:38.457519",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Token efficient command line tool for textual operation of browsers",
+        "url": "https://github.com/DO-SAY-Go/web-cli",
+        "timestamp": "2026-06-12T08:10:38.457545",
+        "source": "Hacker News"
     }
 ]
