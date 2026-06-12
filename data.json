@@ -323518,5 +323518,11 @@
         "url": "https://clickhouse.com/blog/clickhouse-fast-joins",
         "timestamp": "2026-06-12T19:26:52.600289",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Fake Bug Report Hijacks Your AI Coding Agent – and Nothing Catches It",
+        "url": "https://tenetsecurity.ai/blog/agentjacking-coding-agents-with-fake-sentry-errors/",
+        "timestamp": "2026-06-12T19:26:52.600310",
+        "source": "Hacker News"
     }
 ]
