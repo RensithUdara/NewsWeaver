@@ -323512,5 +323512,11 @@
         "url": "https://red.anthropic.com/2026/n-days/",
         "timestamp": "2026-06-12T19:26:52.600268",
         "source": "Hacker News"
+    },
+    {
+        "title": "How ClickHouse Became Fast at Joins",
+        "url": "https://clickhouse.com/blog/clickhouse-fast-joins",
+        "timestamp": "2026-06-12T19:26:52.600289",
+        "source": "Hacker News"
     }
 ]
