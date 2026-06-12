@@ -322504,5 +322504,11 @@
         "url": "https://briandouglas.ie/llm-tailwind-template/",
         "timestamp": "2026-06-12T08:10:38.202092",
         "source": "Hacker News"
+    },
+    {
+        "title": "Auto mode for pi.dev. An LLM reviews your coding agent's commands",
+        "url": "https://github.com/vinzenzu/pi-auto-reviewer",
+        "timestamp": "2026-06-12T08:10:38.456785",
+        "source": "Hacker News"
     }
 ]
