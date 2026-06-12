@@ -323386,5 +323386,11 @@
         "url": "https://freshsources.com/blog/files/cpp-source.html",
         "timestamp": "2026-06-12T19:26:52.599784",
         "source": "Hacker News"
+    },
+    {
+        "title": "Service Bindings for Postgres: Per-App Roles and Grants",
+        "url": "https://openrun.dev/blog/service-binding/",
+        "timestamp": "2026-06-12T19:26:52.599806",
+        "source": "Hacker News"
     }
 ]
