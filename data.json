@@ -322510,5 +322510,11 @@
         "url": "https://github.com/vinzenzu/pi-auto-reviewer",
         "timestamp": "2026-06-12T08:10:38.456785",
         "source": "Hacker News"
+    },
+    {
+        "title": "Docker Sandbox Kit for Mistral Vibe CLI",
+        "url": "https://github.com/cdr-chakotay/sbx-mistral",
+        "timestamp": "2026-06-12T08:10:38.456829",
+        "source": "Hacker News"
     }
 ]
