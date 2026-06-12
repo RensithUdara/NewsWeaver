@@ -323098,5 +323098,11 @@
         "url": "https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/",
         "timestamp": "2026-06-12T17:24:20.314076",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Script to bulk delete Claude chats from the web UI",
+        "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
+        "timestamp": "2026-06-12T17:24:20.314137",
+        "source": "Hacker News"
     }
 ]
