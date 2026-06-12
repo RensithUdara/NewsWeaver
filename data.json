@@ -322834,5 +322834,11 @@
         "url": "https://holaclaw.ai/",
         "timestamp": "2026-06-12T14:34:26.572899",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fake Bug Fix PR Conceals Credential Stealer in Astro.config.mjs Using Blockchain",
+        "url": "https://safedep.io/astro-config-blockchain-c2-supply-chain/",
+        "timestamp": "2026-06-12T14:34:26.572933",
+        "source": "Hacker News"
     }
 ]
