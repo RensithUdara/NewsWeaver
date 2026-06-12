@@ -323590,5 +323590,11 @@
         "url": "https://pangolin.net/news/1-19-release",
         "timestamp": "2026-06-12T21:11:22.396094",
         "source": "Hacker News"
+    },
+    {
+        "title": ">400 AUR Packages Compromised with NPM post-install malware",
+        "url": "https://archlinux.org/news/active-aur-malicious-packages-incident/",
+        "timestamp": "2026-06-12T21:11:22.396136",
+        "source": "Hacker News"
     }
 ]
