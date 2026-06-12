@@ -322840,5 +322840,11 @@
         "url": "https://safedep.io/astro-config-blockchain-c2-supply-chain/",
         "timestamp": "2026-06-12T14:34:26.572933",
         "source": "Hacker News"
+    },
+    {
+        "title": "MiniMax-M3: A native multimodal model with 1M context",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+        "timestamp": "2026-06-12T14:34:26.572965",
+        "source": "Hacker News"
     }
 ]
