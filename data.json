@@ -322798,5 +322798,11 @@
         "url": "https://github.com/WebAssembly/WASI/releases/tag/v0.3.0",
         "timestamp": "2026-06-12T14:34:26.270928",
         "source": "Hacker News"
+    },
+    {
+        "title": "Maxproof",
+        "url": "https://arxiv.org/abs/2606.13473",
+        "timestamp": "2026-06-12T14:34:26.270965",
+        "source": "Hacker News"
     }
 ]
