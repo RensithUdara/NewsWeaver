@@ -323560,5 +323560,11 @@
         "url": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
         "timestamp": "2026-06-12T19:26:53.172655",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Swift at Apple: Migrating the TrueType Hinting Interpreter",
+        "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+        "timestamp": "2026-06-12T21:11:22.301468",
+        "source": "Hacker News"
     }
 ]
