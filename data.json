@@ -325372,5 +325372,11 @@
         "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
         "timestamp": "2026-06-13T17:15:31.375824",
         "source": "Hacker News"
+    },
+    {
+        "title": "The adder at the heart of Intel's 8087 floating-point chip",
+        "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+        "timestamp": "2026-06-13T17:15:31.376114",
+        "source": "Hacker News"
     }
 ]
