@@ -325654,5 +325654,11 @@
         "url": "https://tinywind.io",
         "timestamp": "2026-06-13T18:44:29.078284",
         "source": "Hacker News"
+    },
+    {
+        "title": "Memory-mapped files considered harmful (for databases) (2022)",
+        "url": "https://quasar.ai/2022/01/24/memory-mapped-files-considered-harmful/",
+        "timestamp": "2026-06-13T18:44:29.078310",
+        "source": "Hacker News"
     }
 ]
