@@ -325408,5 +325408,11 @@
         "url": "https://quickthoughts.ca/posts/a-case-for-pragmatism-in-ai/",
         "timestamp": "2026-06-13T17:15:31.464146",
         "source": "Hacker News"
+    },
+    {
+        "title": "We recommend Highway over std::simd",
+        "url": "https://github.com/google/highway/blob/master/g3doc/std_simd_comparison.md",
+        "timestamp": "2026-06-13T17:15:31.464178",
+        "source": "Hacker News"
     }
 ]
