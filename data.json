@@ -324160,5 +324160,11 @@
         "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
         "timestamp": "2026-06-13T04:45:16.379026",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
+        "url": "https://tectonic-typesetting.github.io/en-US/",
+        "timestamp": "2026-06-13T04:45:16.379538",
+        "source": "Hacker News"
     }
 ]
