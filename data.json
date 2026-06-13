@@ -324568,5 +324568,11 @@
         "url": "https://cyrusradfar.com/thoughts/sandboxing-from-vms-to-agents",
         "timestamp": "2026-06-13T08:04:23.010144",
         "source": "Hacker News"
+    },
+    {
+        "title": "A new pkg.go.dev API for Go",
+        "url": "https://opensource.googleblog.com/2026/06/a-new-pkggodev-api-for-go.html",
+        "timestamp": "2026-06-13T08:04:23.010170",
+        "source": "Hacker News"
     }
 ]
