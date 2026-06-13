@@ -325288,5 +325288,11 @@
         "url": "https://watchum.io/",
         "timestamp": "2026-06-13T15:56:18.619634",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: OmnySSH – TUI SSH manager with dashboard, SFTP and snippets (Rust)",
+        "url": "https://github.com/timhartmann7/omnyssh",
+        "timestamp": "2026-06-13T15:56:18.619675",
+        "source": "Hacker News"
     }
 ]
