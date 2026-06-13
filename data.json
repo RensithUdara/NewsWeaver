@@ -325258,5 +325258,11 @@
         "url": "https://news.ycombinator.com/item?id=48518272",
         "timestamp": "2026-06-13T15:56:18.619452",
         "source": "Hacker News"
+    },
+    {
+        "title": "PhantomBench: Benchmarking the Non-Existential Threat of Language Models",
+        "url": "https://arxiv.org/abs/2606.11105",
+        "timestamp": "2026-06-13T15:56:18.619489",
+        "source": "Hacker News"
     }
 ]
