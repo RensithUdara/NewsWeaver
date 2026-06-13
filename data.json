@@ -326122,5 +326122,11 @@
         "url": "https://intertwingly.net/blog/2026/06/11/The-Ruby-JRuby-Was-Built-to-Run.html",
         "timestamp": "2026-06-13T22:35:07.850707",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rails: The Sharp Parts. Lock Is Not a Mutex",
+        "url": "https://baweaver.com/writing/2026/06/05/rails-sharp-parts-lock-is-not-a-mutex/",
+        "timestamp": "2026-06-13T22:35:07.850753",
+        "source": "Hacker News"
     }
 ]
