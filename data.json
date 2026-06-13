@@ -325642,5 +325642,11 @@
         "url": "https://www.youtube.com/watch?v=tz23G_UXCGA",
         "timestamp": "2026-06-13T18:44:29.078232",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Deterministic and offline duplicate-code detector",
+        "url": "https://github.com/Rafaelpta/dupehound",
+        "timestamp": "2026-06-13T18:44:29.078258",
+        "source": "Hacker News"
     }
 ]
