@@ -326302,5 +326302,11 @@
         "url": "https://www.bbc.com/news/articles/cy8wppwdxl6o",
         "timestamp": "2026-06-13T23:42:30.747626",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust-like compiler pipeline to resolve Matlab language semantics",
+        "url": "https://runmat.com/blog/inside-runmat-runtime-compiler-pipeline",
+        "timestamp": "2026-06-13T23:42:30.747758",
+        "source": "Hacker News"
     }
 ]
