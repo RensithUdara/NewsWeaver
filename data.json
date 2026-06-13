@@ -324304,5 +324304,11 @@
         "url": "https://dnsweep.com",
         "timestamp": "2026-06-13T04:45:16.638763",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Lean 4-verified Balansis lib to eliminate NaN and make zero-division safe",
+        "url": "https://github.com/XTeam-Pro/Balansis",
+        "timestamp": "2026-06-13T04:45:16.638794",
+        "source": "Hacker News"
     }
 ]
