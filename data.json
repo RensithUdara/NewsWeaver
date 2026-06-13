@@ -324412,5 +324412,11 @@
         "url": "https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development",
         "timestamp": "2026-06-13T08:04:22.714055",
         "source": "Hacker News"
+    },
+    {
+        "title": "A generic dynamic array in C that stores no capacity and needs no struct",
+        "url": "https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e",
+        "timestamp": "2026-06-13T08:04:22.714162",
+        "source": "Hacker News"
     }
 ]
