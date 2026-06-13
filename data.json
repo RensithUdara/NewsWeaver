@@ -325492,5 +325492,11 @@
         "url": "https://vercel.com/changelog/vercel-drop",
         "timestamp": "2026-06-13T17:15:31.464660",
         "source": "Hacker News"
+    },
+    {
+        "title": "More Tailscale tricks for your jailbroken Kindle",
+        "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+        "timestamp": "2026-06-13T17:15:31.464721",
+        "source": "Hacker News"
     }
 ]
