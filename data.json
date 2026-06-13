@@ -325498,5 +325498,11 @@
         "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
         "timestamp": "2026-06-13T17:15:31.464721",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Lightweight C++23 S3 client with no extra deps (just curl and OpenSSL)",
+        "url": "https://github.com/ggcr/s3cpp",
+        "timestamp": "2026-06-13T17:15:31.464752",
+        "source": "Hacker News"
     }
 ]
