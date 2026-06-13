@@ -325432,5 +325432,11 @@
         "url": "https://taskandpurpose.com/news/ivas-headset-never-used/",
         "timestamp": "2026-06-13T17:15:31.464276",
         "source": "Hacker News"
+    },
+    {
+        "title": "TensorSharp: Open Source Local LLM Inference Engine",
+        "url": "https://github.com/zhongkaifu/TensorSharp",
+        "timestamp": "2026-06-13T17:15:31.464310",
+        "source": "Hacker News"
     }
 ]
