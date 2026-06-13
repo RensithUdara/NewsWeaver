@@ -325066,5 +325066,11 @@
         "url": "https://comuniq.xyz/post?t=1241",
         "timestamp": "2026-06-13T14:27:26.527396",
         "source": "Hacker News"
+    },
+    {
+        "title": "New malware campaign tricks AI scanners with fake nuclear weapon prompts",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/hades-malware-campaign-now-tricks-ai-bots-by-injecting-text-about-biological-and-nuclear-weapons-failsafe-mechanisms-triggered-by-prompts-for-weapon-creation-stop-scans-before-payload-is-seen",
+        "timestamp": "2026-06-13T14:27:26.527446",
+        "source": "Hacker News"
     }
 ]
