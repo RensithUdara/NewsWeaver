@@ -325420,5 +325420,11 @@
         "url": "https://www.economist.com/china/2026/06/11/chinas-notorious-university-entrance-exam-is-changing",
         "timestamp": "2026-06-13T17:15:31.464210",
         "source": "Hacker News"
+    },
+    {
+        "title": "Write-heavy sysbench tests, a large server, modern Postgres and MySQL",
+        "url": "http://smalldatum.blogspot.com/2026/06/write-heavy-sysbench-tests-large-server.html",
+        "timestamp": "2026-06-13T17:15:31.464245",
+        "source": "Hacker News"
     }
 ]
