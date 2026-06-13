@@ -324622,5 +324622,11 @@
         "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
         "timestamp": "2026-06-13T10:36:41.302871",
         "source": "Hacker News"
+    },
+    {
+        "title": "Exceptions should not be handled – they should be aggregated",
+        "url": "https://zenodo.org/records/20492768",
+        "timestamp": "2026-06-13T10:36:41.303361",
+        "source": "Hacker News"
     }
 ]
