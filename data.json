@@ -324088,5 +324088,11 @@
         "url": "https://www.youtube.com/watch?v=KbNctTQnVHI",
         "timestamp": "2026-06-13T00:07:14.406744",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Agent Joe – a Rust only coding agent with no shell access",
+        "url": "https://github.com/Kapperchino/agent-joe",
+        "timestamp": "2026-06-13T00:07:14.406779",
+        "source": "Hacker News"
     }
 ]
