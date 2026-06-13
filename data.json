@@ -324898,5 +324898,11 @@
         "url": "https://adelaide.casa/divacore/",
         "timestamp": "2026-06-13T12:11:12.297359",
         "source": "Hacker News"
+    },
+    {
+        "title": "Brute-force SSH attacks in the wild and how to stop them",
+        "url": "https://www.flux.utah.edu/paper/singh-nsdi24",
+        "timestamp": "2026-06-13T12:11:12.297394",
+        "source": "Hacker News"
     }
 ]
