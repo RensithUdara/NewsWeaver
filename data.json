@@ -324418,5 +324418,11 @@
         "url": "https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e",
         "timestamp": "2026-06-13T08:04:22.714162",
         "source": "Hacker News"
+    },
+    {
+        "title": "WASM_of_OCaml on WASI: A Working Prototype Looking for a Production User",
+        "url": "https://ocaml.org/backstage/2026-06-09-wasm-of-ocaml-on-wasi-a-working-prototype-looking-for-a-production-user",
+        "timestamp": "2026-06-13T08:04:23.009425",
+        "source": "Hacker News"
     }
 ]
