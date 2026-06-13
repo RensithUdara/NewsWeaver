@@ -324166,5 +324166,11 @@
         "url": "https://tectonic-typesetting.github.io/en-US/",
         "timestamp": "2026-06-13T04:45:16.379538",
         "source": "Hacker News"
+    },
+    {
+        "title": "A key remapping daemon for Linux",
+        "url": "https://github.com/rvaiya/keyd",
+        "timestamp": "2026-06-13T04:45:16.379685",
+        "source": "Hacker News"
     }
 ]
