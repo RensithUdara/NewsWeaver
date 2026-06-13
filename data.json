@@ -324496,5 +324496,11 @@
         "url": "https://developer.microsoft.com/blog/your-agent-just-scaffolded-a-project-from-2020",
         "timestamp": "2026-06-13T08:04:23.009810",
         "source": "Hacker News"
+    },
+    {
+        "title": "Loop Engineering: Designing loops that prompt coding agents",
+        "url": "https://addyosmani.com/blog/loop-engineering/",
+        "timestamp": "2026-06-13T08:04:23.009848",
+        "source": "Hacker News"
     }
 ]
