@@ -324820,5 +324820,11 @@
         "url": "https://olliewilliams.xyz/blog/dark-mode/",
         "timestamp": "2026-06-13T12:11:12.296818",
         "source": "Hacker News"
+    },
+    {
+        "title": "Apple Lisa Emulator in Rust/WebAssembly",
+        "url": "https://old.reddit.com/r/ClaudeCode/comments/1u4opmn/apple_lisa_emulator_in_rust_and_webassembly_the/",
+        "timestamp": "2026-06-13T12:11:12.296868",
+        "source": "Hacker News"
     }
 ]
