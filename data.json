@@ -326110,5 +326110,11 @@
         "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
         "timestamp": "2026-06-13T21:24:01.324158",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+        "url": "https://blog.pyodide.org/posts/314-release/",
+        "timestamp": "2026-06-13T22:35:07.543957",
+        "source": "Hacker News"
     }
 ]
