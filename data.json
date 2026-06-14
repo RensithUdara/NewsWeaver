@@ -328306,5 +328306,11 @@
         "url": "https://zinnia-os.org/",
         "timestamp": "2026-06-14T21:43:12.360899",
         "source": "Hacker News"
+    },
+    {
+        "title": "Yserver: A modern X11 server written in Rust",
+        "url": "https://github.com/joske/yserver",
+        "timestamp": "2026-06-14T21:43:12.360931",
+        "source": "Hacker News"
     }
 ]
