@@ -328078,5 +328078,11 @@
         "url": "https://gwern.net/guardian-angel",
         "timestamp": "2026-06-14T18:58:45.439580",
         "source": "Hacker News"
+    },
+    {
+        "title": "\"A benchmark for catching when code doesn't do what its documentation claims\"",
+        "url": "https://github.com/02zerocool/truth-benchmark",
+        "timestamp": "2026-06-14T18:58:45.439616",
+        "source": "Hacker News"
     }
 ]
