@@ -328480,5 +328480,11 @@
         "url": "https://news.ycombinator.com/item?id=48532821",
         "timestamp": "2026-06-14T21:43:12.598105",
         "source": "Hacker News"
+    },
+    {
+        "title": "Setting Node and PNPM Versions in Cloudflare Workers Programmatically",
+        "url": "https://senhongo.com/blog/cloudflare-workers-node-pnpm/",
+        "timestamp": "2026-06-14T21:43:12.598132",
+        "source": "Hacker News"
     }
 ]
