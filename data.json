@@ -327940,5 +327940,11 @@
         "url": "https://github.com/10fra/data-review",
         "timestamp": "2026-06-14T18:58:45.438767",
         "source": "Hacker News"
+    },
+    {
+        "title": "Using Notes in the Glasgow Haskell Compiler",
+        "url": "https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/coding-style#2-using-notes",
+        "timestamp": "2026-06-14T18:58:45.438834",
+        "source": "Hacker News"
     }
 ]
