@@ -326752,5 +326752,11 @@
         "url": "https://obscura.com/cursed-knowledge/",
         "timestamp": "2026-06-14T06:53:15.021574",
         "source": "Hacker News"
+    },
+    {
+        "title": "An architectural blueprint to excise MS-DOS device debt (CON, NUL) from Windows",
+        "url": "https://feedbackportal.microsoft.com/feedback/idea/dca14930-b767-f111-9b47-6045bdbd0989",
+        "timestamp": "2026-06-14T06:53:15.021611",
+        "source": "Hacker News"
     }
 ]
