@@ -327484,5 +327484,11 @@
         "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
         "timestamp": "2026-06-14T16:08:02.076655",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU",
+        "url": "https://github.com/alebal123bal/khadas_yolov8n_multithread",
+        "timestamp": "2026-06-14T16:08:02.076722",
+        "source": "Hacker News"
     }
 ]
