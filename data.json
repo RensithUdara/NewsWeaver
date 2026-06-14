@@ -328084,5 +328084,11 @@
         "url": "https://github.com/02zerocool/truth-benchmark",
         "timestamp": "2026-06-14T18:58:45.439616",
         "source": "Hacker News"
+    },
+    {
+        "title": "Debugging Postgres Autovacuum",
+        "url": "https://www.citusdata.com/blog/2022/07/28/debugging-postgres-autovacuum-problems-13-tips/",
+        "timestamp": "2026-06-14T18:58:45.439648",
+        "source": "Hacker News"
     }
 ]
