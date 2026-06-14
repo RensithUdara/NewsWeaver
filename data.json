@@ -328450,5 +328450,11 @@
         "url": "https://claude-code-is-dead.vercel.app/#second",
         "timestamp": "2026-06-14T21:43:12.597960",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Replicant Detector with Datastar, Common Lisp, BKNR Datastore",
+        "url": "https://rep-detect.lambda-combine.net/",
+        "timestamp": "2026-06-14T21:43:12.597992",
+        "source": "Hacker News"
     }
 ]
