@@ -328234,5 +328234,11 @@
         "url": "https://classics.mit.edu/Virgil/aeneid.html",
         "timestamp": "2026-06-14T20:17:38.530720",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Pg-status – lightweight HTTP sidecar for PG master/replica discovery",
+        "url": "https://github.com/krylosov-aa/pg-status",
+        "timestamp": "2026-06-14T20:17:38.530755",
+        "source": "Hacker News"
     }
 ]
