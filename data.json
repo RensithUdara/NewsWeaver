@@ -328300,5 +328300,11 @@
         "url": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
         "timestamp": "2026-06-14T20:17:38.945804",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Zinnia: A modular 64-bit Unix-like kernel written in Rust",
+        "url": "https://zinnia-os.org/",
+        "timestamp": "2026-06-14T21:43:12.360899",
+        "source": "Hacker News"
     }
 ]
