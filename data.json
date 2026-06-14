@@ -326812,5 +326812,11 @@
         "url": "https://isgin01.github.io/posts/effective-note-taking/",
         "timestamp": "2026-06-14T06:53:15.021923",
         "source": "Hacker News"
+    },
+    {
+        "title": "SchemaFlow: Agentic Database Change Impact Analysis, SQL Gen and Eval Guardrails",
+        "url": "https://developers.openai.com/cookbook/examples/partners/schemaflow_design_guide/schemaflow_cookbook",
+        "timestamp": "2026-06-14T06:53:15.021954",
+        "source": "Hacker News"
     }
 ]
