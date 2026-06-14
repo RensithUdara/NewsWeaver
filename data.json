@@ -328462,5 +328462,11 @@
         "url": "https://solaris.franzai.com/",
         "timestamp": "2026-06-14T21:43:12.598022",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: cuSBF – faster Bloom filter on GPUs for DNA sequences",
+        "url": "https://github.com/tdortman/cuSBF",
+        "timestamp": "2026-06-14T21:43:12.598050",
+        "source": "Hacker News"
     }
 ]
