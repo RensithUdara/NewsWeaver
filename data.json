@@ -327466,5 +327466,11 @@
         "url": "https://www.dailymail.com/news/article-15897903/measles-surge-utah-US-elimination-status.html",
         "timestamp": "2026-06-14T16:08:02.076464",
         "source": "Hacker News"
+    },
+    {
+        "title": "The only scalable delete in Postgres is DROP TABLE",
+        "url": "https://planetscale.com/blog/the-only-scalable-delete",
+        "timestamp": "2026-06-14T16:08:02.076576",
+        "source": "Hacker News"
     }
 ]
