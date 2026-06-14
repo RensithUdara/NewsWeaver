@@ -328000,5 +328000,11 @@
         "url": "https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable",
         "timestamp": "2026-06-14T18:58:45.439143",
         "source": "Hacker News"
+    },
+    {
+        "title": "Benchmarking Claude Code for Oracle to PostgreSQL Migrations",
+        "url": "https://hexacluster.ai/blog/claude-code-vs-hexarocket-for-oracle-to-postgresql-migrations-benchmarking",
+        "timestamp": "2026-06-14T18:58:45.439173",
+        "source": "Hacker News"
     }
 ]
