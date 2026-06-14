@@ -327754,5 +327754,11 @@
         "url": "https://julienreszka.com/blog/the-future-of-work-is-getting-out-of-the-way/",
         "timestamp": "2026-06-14T17:41:46.121967",
         "source": "Hacker News"
+    },
+    {
+        "title": "FFI in Miri at 8000 segfaults per second [video]",
+        "url": "https://www.youtube.com/watch?v=9X-ngiKo_Y0",
+        "timestamp": "2026-06-14T17:41:46.122015",
+        "source": "Hacker News"
     }
 ]
