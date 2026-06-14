@@ -327142,5 +327142,11 @@
         "url": "https://docs.dagploy.com/home/blog/blog-post/build-claude-alternative-in-20-mins",
         "timestamp": "2026-06-14T12:17:31.060384",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cross-Language Detection of Malicious Packages in npm and PyPI (2023) [pdf]",
+        "url": "https://www.acsac.org/2023/files/web/slides/ladisa-69-crosslanguagedetectionmalicious.pdf",
+        "timestamp": "2026-06-14T12:17:31.060410",
+        "source": "Hacker News"
     }
 ]
