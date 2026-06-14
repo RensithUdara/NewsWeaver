@@ -328330,5 +328330,11 @@
         "url": "https://www.sixthtone.com/news/1018060",
         "timestamp": "2026-06-14T21:43:12.597320",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zerostack v1.5 – A Unix-inspired coding agent written in pure Rust",
+        "url": "https://crates.io/crates/zerostack/1.5.0#zerostack",
+        "timestamp": "2026-06-14T21:43:12.597365",
+        "source": "Hacker News"
     }
 ]
