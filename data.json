@@ -326956,5 +326956,11 @@
         "url": "https://news.ycombinator.com/item?id=48525711",
         "timestamp": "2026-06-14T10:19:01.562945",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Oidc-SSH-ca – Issues short-lived SSH certs for GitHub Actions via OIDC",
+        "url": "https://github.com/atsuoishimoto/oidc-ssh-ca",
+        "timestamp": "2026-06-14T10:19:01.562971",
+        "source": "Hacker News"
     }
 ]
