@@ -327868,5 +327868,11 @@
         "url": "https://www.informationphilosopher.com/solutions/philosophers/ryle/Ryle_KnowHow.pdf",
         "timestamp": "2026-06-14T17:41:46.122621",
         "source": "Hacker News"
+    },
+    {
+        "title": "Is it possible to write a kernel module which will blow the PC speaker?",
+        "url": "https://lore.kernel.org/lkml/CABG1boPZkP_HxOY+96cKqrv9UKujWnaWK-_dPQX+Zk6BSuZrwA@mail.gmail.com/",
+        "timestamp": "2026-06-14T17:41:46.122652",
+        "source": "Hacker News"
     }
 ]
