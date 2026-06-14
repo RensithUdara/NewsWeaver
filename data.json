@@ -326878,5 +326878,11 @@
         "url": "https://docfai.app/features/",
         "timestamp": "2026-06-14T10:19:01.562535",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Quick Primer on DuckDB, S3, and Plotly Studio",
+        "url": "https://chris-parmer.com/duckdb-s3-and-plotly/",
+        "timestamp": "2026-06-14T10:19:01.562568",
+        "source": "Hacker News"
     }
 ]
