@@ -329140,5 +329140,11 @@
         "url": "https://news.ycombinator.com/item?id=48539681",
         "timestamp": "2026-06-15T11:26:18.941890",
         "source": "Hacker News"
+    },
+    {
+        "title": "IISU Frontend final alpha (v0.0.7) released",
+        "url": "https://github.com/iisu-network/iiSU/releases/tag/0.0.7.2",
+        "timestamp": "2026-06-15T11:26:18.941920",
+        "source": "Hacker News"
     }
 ]
