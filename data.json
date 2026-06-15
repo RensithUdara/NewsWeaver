@@ -329770,5 +329770,11 @@
         "url": "https://forgottenbytes.net/commander_keen.html",
         "timestamp": "2026-06-15T19:59:40.445974",
         "source": "Hacker News"
+    },
+    {
+        "title": "How TimescaleDB compresses time-series data",
+        "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
+        "timestamp": "2026-06-15T19:59:40.446058",
+        "source": "Hacker News"
     }
 ]
