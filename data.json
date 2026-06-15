@@ -329512,5 +329512,11 @@
         "url": "https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1003&context=eecs_theses",
         "timestamp": "2026-06-15T16:23:38.082634",
         "source": "Hacker News"
+    },
+    {
+        "title": "Memory safety CVEs differ between Rust and C/C++",
+        "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+        "timestamp": "2026-06-15T16:23:38.082663",
+        "source": "Hacker News"
     }
 ]
