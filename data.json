@@ -328912,5 +328912,11 @@
         "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
         "timestamp": "2026-06-15T05:22:15.945876",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI Agents Don't Need SMS APIs. They Need Infrastructure",
+        "url": "https://blog.bridgexapi.io/from-rest-apis-to-mcp-making-messaging-infrastructure-ai-native",
+        "timestamp": "2026-06-15T05:22:15.945907",
+        "source": "Hacker News"
     }
 ]
