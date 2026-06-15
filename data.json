@@ -329494,5 +329494,11 @@
         "url": "https://brianschrader.com/archive/would-you-believe-that-this-is-it/",
         "timestamp": "2026-06-15T16:23:38.082539",
         "source": "Hacker News"
+    },
+    {
+        "title": "UCCL-EP: DeepEP-style expert parallelism on any NIC, no GPU-initiated comms",
+        "url": "https://fergusfinn.com/blog/uccl-ep-without-owning-the-nic/",
+        "timestamp": "2026-06-15T16:23:38.082573",
+        "source": "Hacker News"
     }
 ]
