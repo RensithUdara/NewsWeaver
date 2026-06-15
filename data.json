@@ -328738,5 +328738,11 @@
         "url": "https://ens.domains",
         "timestamp": "2026-06-15T00:01:15.882645",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Wtdb – give every Git worktree its own database",
+        "url": "https://github.com/willhackett/wtdb",
+        "timestamp": "2026-06-15T00:01:15.882682",
+        "source": "Hacker News"
     }
 ]
