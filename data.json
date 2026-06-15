@@ -329002,5 +329002,11 @@
         "url": "https://news.ycombinator.com/item?id=48536531",
         "timestamp": "2026-06-15T05:22:15.946324",
         "source": "Hacker News"
+    },
+    {
+        "title": "Stripping KiezelPay (and other network calls) from Pebble Watch Faces",
+        "url": "http://luke.abq.nm.us/blog/2026-06-14-Pebble-Watchface-Strip-KiezelPay/",
+        "timestamp": "2026-06-15T05:22:15.946355",
+        "source": "Hacker News"
     }
 ]
