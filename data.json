@@ -329590,5 +329590,11 @@
         "url": "https://machine0.io",
         "timestamp": "2026-06-15T16:23:38.083066",
         "source": "Hacker News"
+    },
+    {
+        "title": "GPT-5 Nano Vulnerability test results you should know before deploying",
+        "url": "https://lateos.ai/llm-research/gpt5-nano/",
+        "timestamp": "2026-06-15T16:23:38.083096",
+        "source": "Hacker News"
     }
 ]
