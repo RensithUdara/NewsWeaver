@@ -329470,5 +329470,11 @@
         "url": "https://www.ea.com/ea-advertising",
         "timestamp": "2026-06-15T16:23:38.082373",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Debugs a Postgres Alarm: Multixacts, SLRU Caches, and a False Crisis",
+        "url": "https://www.arthur.ai/blog/ai-sre-debugs-postgres-io-spike",
+        "timestamp": "2026-06-15T16:23:38.082405",
+        "source": "Hacker News"
     }
 ]
