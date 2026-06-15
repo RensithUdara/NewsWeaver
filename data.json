@@ -330262,5 +330262,11 @@
         "url": "https://en.wikipedia.org/wiki/GEDCOM",
         "timestamp": "2026-06-15T22:20:39.313097",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cisco SD-WAN Manager arbitrary file write (CVE-2026-20262) – CISA KEV",
+        "url": "https://hellorecon.com/blog/cve-2026-20262",
+        "timestamp": "2026-06-15T22:20:39.313146",
+        "source": "Hacker News"
     }
 ]
