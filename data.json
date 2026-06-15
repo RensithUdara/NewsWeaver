@@ -329506,5 +329506,11 @@
         "url": "https://github.com/SplittyDev/darkbloom-dashboard",
         "timestamp": "2026-06-15T16:23:38.082604",
         "source": "Hacker News"
+    },
+    {
+        "title": "Compiling Haskell into Lean: Common Abstract Syntax for Haskell and Provers",
+        "url": "https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1003&context=eecs_theses",
+        "timestamp": "2026-06-15T16:23:38.082634",
+        "source": "Hacker News"
     }
 ]
