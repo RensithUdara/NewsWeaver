@@ -331354,5 +331354,11 @@
         "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
         "timestamp": "2026-06-16T15:24:24.912357",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Claude: Elevated errors across many models",
+        "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
+        "timestamp": "2026-06-16T19:00:03.885406",
+        "source": "Hacker News"
     }
 ]
