@@ -331072,5 +331072,11 @@
         "url": "https://ursb.me/en/posts/after-ai-takes-everything/",
         "timestamp": "2026-06-16T15:24:24.467778",
         "source": "Hacker News"
+    },
+    {
+        "title": "A 10-KB model that decides when a 4B-parameter robot policy wakes up",
+        "url": "https://huggingface.co/spaces/Kaikaku/aegis-demo",
+        "timestamp": "2026-06-16T15:24:24.467838",
+        "source": "Hacker News"
     }
 ]
