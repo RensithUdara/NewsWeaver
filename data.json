@@ -331846,5 +331846,11 @@
         "url": "https://www.nytimes.com/2026/06/16/opinion/anthropic-fable-ai-trump-administration.html",
         "timestamp": "2026-06-16T21:42:12.382602",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a fail-closed execution gate for AI agents",
+        "url": "https://kronyqldemo.netlify.app/demo/ase-proof",
+        "timestamp": "2026-06-16T21:42:12.382629",
+        "source": "Hacker News"
     }
 ]
