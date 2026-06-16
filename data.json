@@ -330748,5 +330748,11 @@
         "url": "https://geoffstearns.com/blog/skills-are-where-your-judgment-goes/",
         "timestamp": "2026-06-16T10:23:16.445588",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a Deep Research Agent That Survives",
+        "url": "https://steel.dev/blog/durable-researcher",
+        "timestamp": "2026-06-16T10:23:16.445643",
+        "source": "Hacker News"
     }
 ]
