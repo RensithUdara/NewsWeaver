@@ -331786,5 +331786,11 @@
         "url": "https://ziglang.org/news/welcoming-new-team-members/",
         "timestamp": "2026-06-16T21:42:12.382323",
         "source": "Hacker News"
+    },
+    {
+        "title": "Swift-OS – operating system written in Embedded Swift for aarch64",
+        "url": "https://github.com/asaptf/swift-os/tree/main",
+        "timestamp": "2026-06-16T21:42:12.382353",
+        "source": "Hacker News"
     }
 ]
