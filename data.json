@@ -330442,5 +330442,11 @@
         "url": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
         "timestamp": "2026-06-16T00:06:57.271073",
         "source": "Hacker News"
+    },
+    {
+        "title": "Using OxCaml to implement type-safe reference counting between OCaml and Python",
+        "url": "https://blog.janestreet.com/oxcaml-typesafe-reference-counting-python/",
+        "timestamp": "2026-06-16T00:06:57.271113",
+        "source": "Hacker News"
     }
 ]
