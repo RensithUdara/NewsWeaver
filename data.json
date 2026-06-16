@@ -332086,5 +332086,11 @@
         "url": "https://www.theregister.com/ai-ml/2026/05/27/4-in-10-ai-agents-headed-for-demotion-or-the-rubbish-bin/5246964",
         "timestamp": "2026-06-16T23:10:41.200911",
         "source": "Hacker News"
+    },
+    {
+        "title": "Portsh: A batch/shell polyglot that implements a Lisp",
+        "url": "https://github.com/smasher164/portsh",
+        "timestamp": "2026-06-16T23:10:41.200940",
+        "source": "Hacker News"
     }
 ]
