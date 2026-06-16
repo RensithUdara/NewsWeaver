@@ -332170,5 +332170,11 @@
         "url": "https://carefully.understood.systems/blog-2026-06-10-static-type-shovel.html",
         "timestamp": "2026-06-16T23:10:41.201294",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tokdiet a local proxy that cuts LLM token spend ~70% without quality loss",
+        "url": "https://github.com/agiwhitelist/tokdiet",
+        "timestamp": "2026-06-16T23:10:41.201320",
+        "source": "Hacker News"
     }
 ]
