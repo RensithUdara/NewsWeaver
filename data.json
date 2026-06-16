@@ -330814,5 +330814,11 @@
         "url": "https://news.ycombinator.com/item?id=48552893",
         "timestamp": "2026-06-16T10:23:16.445942",
         "source": "Hacker News"
+    },
+    {
+        "title": "SearchLeak: We Turned M365 Copilot into a One-Click Data Exfiltration Weapon",
+        "url": "https://www.varonis.com/blog/searchleak",
+        "timestamp": "2026-06-16T10:23:16.445969",
+        "source": "Hacker News"
     }
 ]
