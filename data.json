@@ -330478,5 +330478,11 @@
         "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
         "timestamp": "2026-06-16T00:06:57.559832",
         "source": "TechCrunch"
+    },
+    {
+        "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+        "timestamp": "2026-06-16T05:26:46.695825",
+        "source": "Hacker News"
     }
 ]
