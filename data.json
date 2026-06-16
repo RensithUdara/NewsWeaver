@@ -330454,5 +330454,11 @@
         "url": "https://github.com/nz366/zero_browser",
         "timestamp": "2026-06-16T00:06:57.271144",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scalable GPU Acceleration of Scalar Functions in Analytical Databases",
+        "url": "https://www.microsoft.com/en-us/research/publication/scalable-gpu-acceleration-of-scalar-functions-in-analytical-databases-compilation-benchmarking-and-optimization/",
+        "timestamp": "2026-06-16T00:06:57.271177",
+        "source": "Hacker News"
     }
 ]
