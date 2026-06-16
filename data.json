@@ -332026,5 +332026,11 @@
         "url": "https://www.techdirt.com/2026/06/16/the-uks-teen-social-media-ban-is-political-theater-not-child-safety-policy/",
         "timestamp": "2026-06-16T23:10:40.734006",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+        "url": "https://github.com/nvlabs/cutile-rs",
+        "timestamp": "2026-06-16T23:10:40.734301",
+        "source": "Hacker News"
     }
 ]
