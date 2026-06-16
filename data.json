@@ -330874,5 +330874,11 @@
         "url": "https://mcpize.com/mcp/prodata-ai",
         "timestamp": "2026-06-16T10:23:16.446246",
         "source": "Hacker News"
+    },
+    {
+        "title": "ML research datasets from ArXiv and Semantic Scholar (JSONL, quality-scored)",
+        "url": "https://huggingface.co/fineset-io",
+        "timestamp": "2026-06-16T10:23:16.446274",
+        "source": "Hacker News"
     }
 ]
