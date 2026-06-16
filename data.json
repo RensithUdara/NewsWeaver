@@ -330778,5 +330778,11 @@
         "url": "https://tomevault.io/standards/state-reports/2026",
         "timestamp": "2026-06-16T10:23:16.445768",
         "source": "Hacker News"
+    },
+    {
+        "title": "I'm building a local-first TypeScript guard for runaway AI-agent costs",
+        "url": "https://github.com/salimassili62-afk/ai-costguard",
+        "timestamp": "2026-06-16T10:23:16.445795",
+        "source": "Hacker News"
     }
 ]
