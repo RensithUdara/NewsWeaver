@@ -330718,5 +330718,11 @@
         "url": "https://emailsdone.dev/#prompt-generator",
         "timestamp": "2026-06-16T10:23:16.445427",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Claude Code plugin that makes coding agents measurably cheaper over time",
+        "url": "https://github.com/vukkt/token-warden",
+        "timestamp": "2026-06-16T10:23:16.445474",
+        "source": "Hacker News"
     }
 ]
