@@ -330730,5 +330730,11 @@
         "url": "https://www.pitchlikethis.com",
         "timestamp": "2026-06-16T10:23:16.445504",
         "source": "Hacker News"
+    },
+    {
+        "title": "Attention Backpropagation: Step by step derivation",
+        "url": "https://liyuan24.github.io/writings/attention_backprop.html",
+        "timestamp": "2026-06-16T10:23:16.445531",
+        "source": "Hacker News"
     }
 ]
