@@ -331384,5 +331384,11 @@
         "url": "https://parksb.github.io/en/article/32.html",
         "timestamp": "2026-06-16T19:00:03.885643",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making ast.walk 220x Faster",
+        "url": "https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/",
+        "timestamp": "2026-06-16T19:00:03.885680",
+        "source": "Hacker News"
     }
 ]
