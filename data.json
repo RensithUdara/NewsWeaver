@@ -331096,5 +331096,11 @@
         "url": "https://github.com/lolu1032/pantheon-skills",
         "timestamp": "2026-06-16T15:24:24.467976",
         "source": "Hacker News"
+    },
+    {
+        "title": "How We Run Firecracker VMs Inside EC2 and Start Browsers in <1s",
+        "url": "https://browser-use.com/posts/firecracker-browser-infra",
+        "timestamp": "2026-06-16T15:24:24.468009",
+        "source": "Hacker News"
     }
 ]
