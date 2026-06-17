@@ -332800,5 +332800,11 @@
         "url": "https://news.ycombinator.com/item?id=48568662",
         "timestamp": "2026-06-17T11:26:43.493315",
         "source": "Hacker News"
+    },
+    {
+        "title": "Captured Logs Reveal Hackers Using Claude and Codex to Breach Companies",
+        "url": "https://research.openanalysis.net/claude/codex/hacking/ai%20hacking/llm/redteam/policy%20violation/2026/06/16/compromised-claude-hacking.html",
+        "timestamp": "2026-06-17T11:26:43.493341",
+        "source": "Hacker News"
     }
 ]
