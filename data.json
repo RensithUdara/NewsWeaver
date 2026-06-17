@@ -333556,5 +333556,11 @@
         "url": "https://www.mondayeconomist.com/p/quitting-social-media",
         "timestamp": "2026-06-17T17:33:59.774889",
         "source": "Hacker News"
+    },
+    {
+        "title": "FMAG: A single-instruction GPU virtual machine and toolchain",
+        "url": "https://github.com/jangafx/FMAG",
+        "timestamp": "2026-06-17T17:33:59.774921",
+        "source": "Hacker News"
     }
 ]
