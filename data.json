@@ -334198,5 +334198,11 @@
         "url": "https://the-criterion-closet.vercel.app/",
         "timestamp": "2026-06-17T23:04:23.261986",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hydra – a one-line Gradle RASP that seals app secrets until the device is clean",
+        "url": "https://github.com/iamjosephmj/hydra",
+        "timestamp": "2026-06-17T23:04:23.262021",
+        "source": "Hacker News"
     }
 ]
