@@ -333934,5 +333934,11 @@
         "url": "https://www.phoronix.com/news/Linux-7.2-Slab",
         "timestamp": "2026-06-17T21:31:49.442898",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gemma 4 E2B running in-browser at 255 tok/s",
+        "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
+        "timestamp": "2026-06-17T21:31:49.442933",
+        "source": "Hacker News"
     }
 ]
