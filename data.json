@@ -333742,5 +333742,11 @@
         "url": "https://namespace-status.com/incidents/01KVBEJCE25NBJGE12VBQHJ54F",
         "timestamp": "2026-06-17T19:38:17.912760",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lessons Learnt from Writing an AI Agent",
+        "url": "https://www.browserless.io/blog/writing-an-ai-agent",
+        "timestamp": "2026-06-17T19:38:17.912785",
+        "source": "Hacker News"
     }
 ]
