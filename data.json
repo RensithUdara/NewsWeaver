@@ -332590,5 +332590,11 @@
         "url": "https://news.berkeley.edu/2026/06/11/a-breakthrough-in-electron-microscopy-delivers-sharper-images-of-our-bodys-tiniest-proteins/",
         "timestamp": "2026-06-17T06:51:21.521453",
         "source": "Hacker News"
+    },
+    {
+        "title": "Neither Parallel nor Sequential: How DiffusionGemma Commits Tokens",
+        "url": "https://arxiv.org/abs/2606.14620",
+        "timestamp": "2026-06-17T06:51:21.521494",
+        "source": "Hacker News"
     }
 ]
