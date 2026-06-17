@@ -332524,5 +332524,11 @@
         "url": "https://gopeek-lovat.vercel.app/blog-github-issues-battery-m3-mac.html",
         "timestamp": "2026-06-17T06:51:21.521028",
         "source": "Hacker News"
+    },
+    {
+        "title": "Custom Memcpy Implementation for ClickHouse",
+        "url": "https://github.com/ClickHouse/ClickHouse/blob/master/base/glibc-compatibility/memcpy/memcpy.h",
+        "timestamp": "2026-06-17T06:51:21.521061",
+        "source": "Hacker News"
     }
 ]
