@@ -333184,5 +333184,11 @@
         "url": "https://github.com/clisystems/utfs",
         "timestamp": "2026-06-17T14:34:27.203492",
         "source": "Hacker News"
+    },
+    {
+        "title": "Frame perfect: Syncing cursor position and app rendering",
+        "url": "https://github.com/michalsustr/egui-cursor",
+        "timestamp": "2026-06-17T14:34:27.203521",
+        "source": "Hacker News"
     }
 ]
