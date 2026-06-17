@@ -333748,5 +333748,11 @@
         "url": "https://www.browserless.io/blog/writing-an-ai-agent",
         "timestamp": "2026-06-17T19:38:17.912785",
         "source": "Hacker News"
+    },
+    {
+        "title": "ReixOS: Experimental microkernel written in Embedded Swift for ARM64",
+        "url": "https://github.com/eliorodr2104/ReixOS",
+        "timestamp": "2026-06-17T19:38:17.912816",
+        "source": "Hacker News"
     }
 ]
