@@ -332596,5 +332596,11 @@
         "url": "https://arxiv.org/abs/2606.14620",
         "timestamp": "2026-06-17T06:51:21.521494",
         "source": "Hacker News"
+    },
+    {
+        "title": "Disbatch – turn a PowerShell/batch script into a GUI, with a risk analyzer",
+        "url": "https://github.com/SlashRevet/disbatch",
+        "timestamp": "2026-06-17T06:51:21.521526",
+        "source": "Hacker News"
     }
 ]
