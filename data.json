@@ -332932,5 +332932,11 @@
         "url": "https://news.ycombinator.com/item?id=48568372",
         "timestamp": "2026-06-17T11:26:43.493941",
         "source": "Hacker News"
+    },
+    {
+        "title": "CLI over MCP: a small Chrome DevTools experiment in Copilot CLI",
+        "url": "https://dev.to/maximsaplin/cli-over-mcp-a-small-chrome-devtools-experiment-in-copilot-cli-5gpi",
+        "timestamp": "2026-06-17T11:26:43.889605",
+        "source": "Dev.to"
     }
 ]
