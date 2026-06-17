@@ -333178,5 +333178,11 @@
         "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
         "timestamp": "2026-06-17T14:34:27.203462",
         "source": "Hacker News"
+    },
+    {
+        "title": "A 24-byte TAR-like file system for microcontrollers",
+        "url": "https://github.com/clisystems/utfs",
+        "timestamp": "2026-06-17T14:34:27.203492",
+        "source": "Hacker News"
     }
 ]
