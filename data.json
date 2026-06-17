@@ -333388,5 +333388,11 @@
         "url": "https://www.thesignalist.io/s/the-dialogue-dividend/",
         "timestamp": "2026-06-17T17:33:59.673561",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Deconvolution – a Rust image deconvolution and restoration crate",
+        "url": "https://github.com/pbkx/deconvolution",
+        "timestamp": "2026-06-17T17:33:59.673744",
+        "source": "Hacker News"
     }
 ]
