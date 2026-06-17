@@ -332530,5 +332530,11 @@
         "url": "https://github.com/ClickHouse/ClickHouse/blob/master/base/glibc-compatibility/memcpy/memcpy.h",
         "timestamp": "2026-06-17T06:51:21.521061",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fearless Concurrency on the GPU",
+        "url": "https://arxiv.org/abs/2606.15991",
+        "timestamp": "2026-06-17T06:51:21.521093",
+        "source": "Hacker News"
     }
 ]
