@@ -335140,5 +335140,11 @@
         "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
         "timestamp": "2026-06-18T12:40:58.342790",
         "source": "Hacker News"
+    },
+    {
+        "title": "Vinyl Cache and Varnish Cache",
+        "url": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish",
+        "timestamp": "2026-06-18T12:40:58.342898",
+        "source": "Hacker News"
     }
 ]
