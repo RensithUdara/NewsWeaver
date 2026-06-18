@@ -335932,5 +335932,11 @@
         "url": "https://news.weill.cornell.edu/news/2026/06/experimental-treatment-directly-kills-prostate-tumor-cells-while-reawakening-antitumor",
         "timestamp": "2026-06-18T18:36:48.917800",
         "source": "Hacker News"
+    },
+    {
+        "title": "Setting up PostgreSQL for running integration tests",
+        "url": "https://gajus.com/blog/setting-up-postgre-sql-for-running-integration-tests",
+        "timestamp": "2026-06-18T18:36:48.917828",
+        "source": "Hacker News"
     }
 ]
