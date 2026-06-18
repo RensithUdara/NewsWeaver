@@ -335200,5 +335200,11 @@
         "url": "https://legacyupdate.net/",
         "timestamp": "2026-06-18T12:40:58.599801",
         "source": "Hacker News"
+    },
+    {
+        "title": "Eve Content Agent Template",
+        "url": "https://github.com/vercel-labs/eve-content-agent-template",
+        "timestamp": "2026-06-18T12:40:58.599854",
+        "source": "Hacker News"
     }
 ]
