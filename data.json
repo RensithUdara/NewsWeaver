@@ -336274,5 +336274,11 @@
         "url": "https://vawaa.com/",
         "timestamp": "2026-06-18T23:01:42.256993",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running GLM-5.2 5x faster at 500tps with limitation",
+        "url": "https://abhishek.it/blog/glm-5.2-tilert-8xb200-benchmark",
+        "timestamp": "2026-06-18T23:01:42.257039",
+        "source": "Hacker News"
     }
 ]
