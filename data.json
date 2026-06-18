@@ -334696,5 +334696,11 @@
         "url": "https://www.clickcast.tech/",
         "timestamp": "2026-06-18T05:11:18.924712",
         "source": "Hacker News"
+    },
+    {
+        "title": "An event-driven AI pipeline using FastAPI, Redpanda, and Docker",
+        "url": "https://github.com/Infodatamatrix/AIKafkaPipelineDemo",
+        "timestamp": "2026-06-18T05:11:18.924742",
+        "source": "Hacker News"
     }
 ]
