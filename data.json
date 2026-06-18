@@ -335584,5 +335584,11 @@
         "url": "https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content",
         "timestamp": "2026-06-18T16:16:57.862774",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust PNG crate gets even faster, used by GNOME and Chromium",
+        "url": "https://blog.image-rs.org/2026/06/18/png-adoption.html",
+        "timestamp": "2026-06-18T16:16:57.862813",
+        "source": "Hacker News"
     }
 ]
