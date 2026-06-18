@@ -335878,5 +335878,11 @@
         "url": "https://substack.com/@markellens/p-202605003",
         "timestamp": "2026-06-18T18:36:48.917523",
         "source": "Hacker News"
+    },
+    {
+        "title": "Compile Zod (30x faster Zod validation)",
+        "url": "https://gajus.com/blog/optimize-zod",
+        "timestamp": "2026-06-18T18:36:48.917548",
+        "source": "Hacker News"
     }
 ]
