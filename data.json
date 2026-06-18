@@ -334534,5 +334534,11 @@
         "url": "https://github.com/adamarutyunov/usp",
         "timestamp": "2026-06-18T00:24:22.021610",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making GHC Upgrades Easy",
+        "url": "https://blog.haskell.org/making-ghc-upgrades-easy/",
+        "timestamp": "2026-06-18T00:24:22.021635",
+        "source": "Hacker News"
     }
 ]
