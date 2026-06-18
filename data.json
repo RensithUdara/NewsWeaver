@@ -335800,5 +335800,11 @@
         "url": "https://conversationswithtyler.com/episodes/dave-baszucki/",
         "timestamp": "2026-06-18T18:36:48.917179",
         "source": "Hacker News"
+    },
+    {
+        "title": "Robust External Hash Aggregation in the Solid State Age (2024)",
+        "url": "https://duckdb.org/library/robust-external-hash-aggregation/",
+        "timestamp": "2026-06-18T18:36:48.917208",
+        "source": "Hacker News"
     }
 ]
