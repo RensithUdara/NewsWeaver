@@ -336022,5 +336022,11 @@
         "url": "https://mcmansionhell.com/post/148605513816/mcmansions-101-what-makes-a-mcmansion-bad",
         "timestamp": "2026-06-18T21:08:01.466153",
         "source": "Hacker News"
+    },
+    {
+        "title": "Inflect-Nano, a 4.63M-parameter local TTS model with its own vocoder",
+        "url": "https://huggingface.co/owensong/Inflect-Nano-v1",
+        "timestamp": "2026-06-18T21:08:01.716021",
+        "source": "Hacker News"
     }
 ]
