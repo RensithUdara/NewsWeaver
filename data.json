@@ -334780,5 +334780,11 @@
         "url": "https://vuldb.com/cve/CVE-2026-55200",
         "timestamp": "2026-06-18T05:11:18.925200",
         "source": "Hacker News"
+    },
+    {
+        "title": "FP8 GEMM Optimization on AMD CDNA4 Architecture",
+        "url": "https://rocm.blogs.amd.com/software-tools-optimization/cdna4-gemm-kernels/README.html",
+        "timestamp": "2026-06-18T05:11:18.925232",
+        "source": "Hacker News"
     }
 ]
