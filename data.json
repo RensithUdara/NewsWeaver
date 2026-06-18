@@ -335764,5 +335764,11 @@
         "url": "https://news.ycombinator.com/item?id=48589357",
         "timestamp": "2026-06-18T18:36:48.637723",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ossature can now catch code that compiles but is wrong",
+        "url": "https://ossature.dev/blog/code-compiles-but-is-wrong/",
+        "timestamp": "2026-06-18T18:36:48.917021",
+        "source": "Hacker News"
     }
 ]
