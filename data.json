@@ -334924,5 +334924,11 @@
         "url": "https://medium.com/@DolphinDB_Inc/portfolio-backtesting-with-weight-files-1c88bc5950e0",
         "timestamp": "2026-06-18T09:46:14.980632",
         "source": "Hacker News"
+    },
+    {
+        "title": "Real-Time Portfolio Analytics with Declarative Stream Processing",
+        "url": "https://medium.com/@DolphinDB_Inc/orca-declarative-stream-api-application-real-time-monitoring-of-account-level-portfolio-p-l-f47f77412638",
+        "timestamp": "2026-06-18T09:46:14.980660",
+        "source": "Hacker News"
     }
 ]
