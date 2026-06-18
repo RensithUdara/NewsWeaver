@@ -335134,5 +335134,11 @@
         "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
         "timestamp": "2026-06-18T12:40:58.342624",
         "source": "Hacker News"
+    },
+    {
+        "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+        "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+        "timestamp": "2026-06-18T12:40:58.342790",
+        "source": "Hacker News"
     }
 ]
