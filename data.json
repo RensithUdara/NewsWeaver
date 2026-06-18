@@ -334540,5 +334540,11 @@
         "url": "https://blog.haskell.org/making-ghc-upgrades-easy/",
         "timestamp": "2026-06-18T00:24:22.021635",
         "source": "Hacker News"
+    },
+    {
+        "title": "Loop Unrolling in the ML Era",
+        "url": "https://hiraditya.github.io/posts/why-loop-unrolling-is-popular-again/",
+        "timestamp": "2026-06-18T00:24:22.021661",
+        "source": "Hacker News"
     }
 ]
