@@ -334642,5 +334642,11 @@
         "url": "https://news.ycombinator.com/item?id=48581031",
         "timestamp": "2026-06-18T05:11:18.924355",
         "source": "Hacker News"
+    },
+    {
+        "title": "Amazon S3 Annotations",
+        "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/",
+        "timestamp": "2026-06-18T05:11:18.924412",
+        "source": "Hacker News"
     }
 ]
