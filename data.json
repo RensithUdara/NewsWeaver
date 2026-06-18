@@ -334786,5 +334786,11 @@
         "url": "https://rocm.blogs.amd.com/software-tools-optimization/cdna4-gemm-kernels/README.html",
         "timestamp": "2026-06-18T05:11:18.925232",
         "source": "Hacker News"
+    },
+    {
+        "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
+        "url": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
+        "timestamp": "2026-06-18T05:11:18.925265",
+        "source": "Hacker News"
     }
 ]
