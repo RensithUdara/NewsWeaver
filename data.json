@@ -334774,5 +334774,11 @@
         "url": "https://actu.epfl.ch/news/epfl-launches-the-world-s-first-fully-open-medical/",
         "timestamp": "2026-06-18T05:11:18.925167",
         "source": "Hacker News"
+    },
+    {
+        "title": "Remote Code Execution in Libssh2",
+        "url": "https://vuldb.com/cve/CVE-2026-55200",
+        "timestamp": "2026-06-18T05:11:18.925200",
+        "source": "Hacker News"
     }
 ]
