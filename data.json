@@ -337078,5 +337078,11 @@
         "url": "https://en.wikipedia.org/wiki/Narcissism_of_small_differences",
         "timestamp": "2026-06-19T11:13:34.119394",
         "source": "Hacker News"
+    },
+    {
+        "title": "Squidbleed (CVE-2026-47729) Heartbleeds ancient cousin, hiding in Squid since 97",
+        "url": "https://blog.calif.io/p/squidbleed-cve-2026-47729",
+        "timestamp": "2026-06-19T11:13:34.119451",
+        "source": "Hacker News"
     }
 ]
