@@ -336748,5 +336748,11 @@
         "url": "https://www.darpa.mil/research/challenges/lift",
         "timestamp": "2026-06-19T06:51:18.515581",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
+        "url": "https://github.com/cajal-technologies/talos",
+        "timestamp": "2026-06-19T06:51:18.515662",
+        "source": "Hacker News"
     }
 ]
