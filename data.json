@@ -337804,5 +337804,11 @@
         "url": "https://stevekinney.com/writing/thoughts-on-ai-safety",
         "timestamp": "2026-06-19T18:23:17.159392",
         "source": "Hacker News"
+    },
+    {
+        "title": "Simplicity always wins:SOTA on swe-pro,tb2,-verif on 21 models with simple-agent",
+        "url": "https://github.com/strands-labs/benchmark-harnesses",
+        "timestamp": "2026-06-19T18:23:17.159434",
+        "source": "Hacker News"
     }
 ]
