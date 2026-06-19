@@ -338560,5 +338560,11 @@
         "url": "https://www.npr.org/2026/06/19/nx-s1-5863044/dc-reflecting-pool-algae-green-trump",
         "timestamp": "2026-06-19T23:42:57.717810",
         "source": "Hacker News"
+    },
+    {
+        "title": "Accepted proposal: a goroutine leak profiler in the Go standard library",
+        "url": "https://rednafi.com/shards/2026/06/go-goroutine-leak-profile/",
+        "timestamp": "2026-06-19T23:42:57.717840",
+        "source": "Hacker News"
     }
 ]
