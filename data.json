@@ -337714,5 +337714,11 @@
         "url": "https://www.kentik.com/blog/when-local-blocks-go-global-the-india-telegram-bgp-incident/",
         "timestamp": "2026-06-19T18:23:17.159057",
         "source": "Hacker News"
+    },
+    {
+        "title": "\"Optimizing\" Concurrent Regexes",
+        "url": "https://ayende.com/blog/204035-a/optimizing-concurrent-regexes",
+        "timestamp": "2026-06-19T18:23:17.159093",
+        "source": "Hacker News"
     }
 ]
