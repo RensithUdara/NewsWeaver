@@ -337606,5 +337606,11 @@
         "url": "https://news.ycombinator.com/item?id=48600224",
         "timestamp": "2026-06-19T16:43:57.302851",
         "source": "Hacker News"
+    },
+    {
+        "title": "Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK",
+        "url": "https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f",
+        "timestamp": "2026-06-19T16:43:57.363565",
+        "source": "Dev.to"
     }
 ]
