@@ -337318,5 +337318,11 @@
         "url": "https://doodle.wtf/?prompt=a%203%20wheeled%20bicycle",
         "timestamp": "2026-06-19T14:21:25.551097",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reverse engineering the Qualcomm NPU compiler",
+        "url": "https://datavorous.github.io/writing/qairt/",
+        "timestamp": "2026-06-19T14:21:25.551124",
+        "source": "Hacker News"
     }
 ]
