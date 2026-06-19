@@ -337012,5 +337012,11 @@
         "url": "https://infosec.exchange/@masek/116775772309957886",
         "timestamp": "2026-06-19T11:13:34.119011",
         "source": "Hacker News"
+    },
+    {
+        "title": "Docker-compatible REST API on top of Apple's containerization libraries v1.0.0",
+        "url": "https://github.com/socktainer/socktainer",
+        "timestamp": "2026-06-19T11:13:34.119043",
+        "source": "Hacker News"
     }
 ]
