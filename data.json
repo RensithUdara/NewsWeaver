@@ -337738,5 +337738,11 @@
         "url": "https://circuitbored.com/viewtopic.php?t=247",
         "timestamp": "2026-06-19T18:23:17.159162",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+        "url": "https://github.com/JustVugg/nanoeuler",
+        "timestamp": "2026-06-19T18:23:17.159183",
+        "source": "Hacker News"
     }
 ]
