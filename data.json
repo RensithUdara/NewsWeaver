@@ -337306,5 +337306,11 @@
         "url": "https://stackoverflow.blog/2026/06/17/ai-agents-expose-the-security-checks-you-never-actually-wrote/",
         "timestamp": "2026-06-19T14:21:25.551040",
         "source": "Hacker News"
+    },
+    {
+        "title": "CrankGPT - a fully offline, off-the-grid AI box",
+        "url": "https://squeezlabs.github.io/handcrank/",
+        "timestamp": "2026-06-19T14:21:25.551070",
+        "source": "Hacker News"
     }
 ]
