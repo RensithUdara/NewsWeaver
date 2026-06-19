@@ -337234,5 +337234,11 @@
         "url": "https://blog.cloudflare.com/temporary-accounts/",
         "timestamp": "2026-06-19T14:21:25.550672",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lessons from my overly-introspective, self-improving coding agent",
+        "url": "https://ngrok.com/blog/bmo-self-improving-coding-agent",
+        "timestamp": "2026-06-19T14:21:25.550717",
+        "source": "Hacker News"
     }
 ]
