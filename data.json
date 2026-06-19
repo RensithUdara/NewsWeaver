@@ -337036,5 +337036,11 @@
         "url": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-722e599d4420e5d71c812e09bf3965b7",
         "timestamp": "2026-06-19T11:13:34.119168",
         "source": "Hacker News"
+    },
+    {
+        "title": "Node.js Security Fix Silently Broke node-fetch, which broke other tools",
+        "url": "https://jdstaerk.substack.com/p/nodejs-security-fix-silently-broke",
+        "timestamp": "2026-06-19T11:13:34.119204",
+        "source": "Hacker News"
     }
 ]
