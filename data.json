@@ -338614,5 +338614,11 @@
         "url": "https://www.smh.com.au/technology/australian-start-up-boss-who-faked-revenue-gets-nine-years-jail-20260618-p60847.html",
         "timestamp": "2026-06-19T23:42:57.718091",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: StaleTrace – A temporal ledger that catches stale-state agent bugs",
+        "url": "https://stale-trace.vercel.app/",
+        "timestamp": "2026-06-19T23:42:57.718123",
+        "source": "Hacker News"
     }
 ]
