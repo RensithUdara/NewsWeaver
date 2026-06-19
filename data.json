@@ -337252,5 +337252,11 @@
         "url": "https://readgrounded.com/episodes/005-area-x/",
         "timestamp": "2026-06-19T14:21:25.550779",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built a production-ready web crawler in Rust with TTL and anti-dupe",
+        "url": "https://github.com/AICrox2025/SuperCrawl/",
+        "timestamp": "2026-06-19T14:21:25.550818",
+        "source": "Hacker News"
     }
 ]
