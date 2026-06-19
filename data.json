@@ -338044,5 +338044,11 @@
         "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
         "timestamp": "2026-06-19T20:10:56.610965",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: CWC scans your Claude Code history and auto-builds agent workflows",
+        "url": "https://github.com/fayzan123/claude-workflow-composer",
+        "timestamp": "2026-06-19T20:10:56.610992",
+        "source": "Hacker News"
     }
 ]
