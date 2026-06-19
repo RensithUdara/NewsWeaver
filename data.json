@@ -336550,5 +336550,11 @@
         "url": "https://www.economist.com/leaders/2026/06/18/ai-has-granted-america-vast-new-power",
         "timestamp": "2026-06-19T01:49:29.282114",
         "source": "Hacker News"
+    },
+    {
+        "title": "Finally MCP's Tool Poisoning Gap Solved: A Protocol-Level Defense",
+        "url": "https://github.com/modelcontextprotocol/modelcontextprotocol/discussions/2913",
+        "timestamp": "2026-06-19T01:49:29.282147",
+        "source": "Hacker News"
     }
 ]
