@@ -339388,5 +339388,11 @@
         "url": "https://blog.cloudflare.com/welcome-to-connectivity-cloud/",
         "timestamp": "2026-06-20T11:34:11.146017",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+        "url": "https://bootimus.com",
+        "timestamp": "2026-06-20T11:34:11.146048",
+        "source": "Hacker News"
     }
 ]
