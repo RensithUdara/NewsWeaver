@@ -338674,5 +338674,11 @@
         "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
         "timestamp": "2026-06-20T01:51:56.706156",
         "source": "Hacker News"
+    },
+    {
+        "title": "Aikido Code Audit",
+        "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+        "timestamp": "2026-06-20T01:51:56.706321",
+        "source": "Hacker News"
     }
 ]
