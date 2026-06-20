@@ -339424,5 +339424,11 @@
         "url": "https://www.bbc.co.uk/news/articles/c0eyq7rnn22o",
         "timestamp": "2026-06-20T11:34:11.146259",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Web-Scale Data Engine for Video-to-Action Robot Learning",
+        "url": "https://huggingface.co/spaces/Rice-RobotPI-Lab/EgoInfinity",
+        "timestamp": "2026-06-20T11:34:11.146291",
+        "source": "Hacker News"
     }
 ]
