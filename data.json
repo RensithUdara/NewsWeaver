@@ -339556,5 +339556,11 @@
         "url": "https://www.nature.com/articles/s41591-026-04414-6",
         "timestamp": "2026-06-20T13:08:59.558912",
         "source": "Hacker News"
+    },
+    {
+        "title": "Looking Ahead to Postgres 19",
+        "url": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
+        "timestamp": "2026-06-20T13:08:59.558939",
+        "source": "Hacker News"
     }
 ]
