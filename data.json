@@ -339034,5 +339034,11 @@
         "url": "https://grantslatton.com/bureaulogy",
         "timestamp": "2026-06-20T06:10:13.909771",
         "source": "Hacker News"
+    },
+    {
+        "title": "Chromium Embedded Framework (CEF)",
+        "url": "https://github.com/chromiumembedded/cef",
+        "timestamp": "2026-06-20T06:10:13.909807",
+        "source": "Hacker News"
     }
 ]
