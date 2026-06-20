@@ -339574,5 +339574,11 @@
         "url": "https://justingarrison.com/blog/2026-06-20-ipad-laptop/",
         "timestamp": "2026-06-20T13:08:59.558994",
         "source": "Hacker News"
+    },
+    {
+        "title": "A 3D cube written in JSX and CSS running natively at 60 FPS on a $3 MCU [video]",
+        "url": "https://www.youtube.com/watch?v=pC3kNSWaL18",
+        "timestamp": "2026-06-20T13:08:59.559021",
+        "source": "Hacker News"
     }
 ]
