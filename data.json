@@ -339430,5 +339430,11 @@
         "url": "https://huggingface.co/spaces/Rice-RobotPI-Lab/EgoInfinity",
         "timestamp": "2026-06-20T11:34:11.146291",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lakehouse//RT",
+        "url": "https://www.databricks.com/blog/introducing-lakehousert-real-time-performance-unified-lakehouse",
+        "timestamp": "2026-06-20T11:34:11.146327",
+        "source": "Hacker News"
     }
 ]
