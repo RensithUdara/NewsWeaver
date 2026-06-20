@@ -339202,5 +339202,11 @@
         "url": "https://www.scicollab.org/",
         "timestamp": "2026-06-20T09:42:32.616302",
         "source": "Hacker News"
+    },
+    {
+        "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+        "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+        "timestamp": "2026-06-20T09:42:32.616366",
+        "source": "Hacker News"
     }
 ]
