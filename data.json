@@ -339394,5 +339394,11 @@
         "url": "https://bootimus.com",
         "timestamp": "2026-06-20T11:34:11.146048",
         "source": "Hacker News"
+    },
+    {
+        "title": "Apple unifies device management in devicectl: Impact on iOS test automation and",
+        "url": "https://bitrise.io/blog/post/wwdc-2026-device-hub-and-what-it-means-for-ci-cd",
+        "timestamp": "2026-06-20T11:34:11.146112",
+        "source": "Hacker News"
     }
 ]
