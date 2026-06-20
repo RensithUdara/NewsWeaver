@@ -340606,5 +340606,11 @@
         "url": "https://twitter.com/karatzas_thomas/status/2061840456992919997",
         "timestamp": "2026-06-20T21:03:34.635860",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pulse – a local dashboard for Claude Code, approve tool calls from your phone",
+        "url": "https://github.com/nikitadoudikov/claude-pulse",
+        "timestamp": "2026-06-20T21:03:34.635892",
+        "source": "Hacker News"
     }
 ]
