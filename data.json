@@ -339742,5 +339742,11 @@
         "url": "https://pedantic.run",
         "timestamp": "2026-06-20T15:10:11.601938",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cargo-Geiger",
+        "url": "https://github.com/geiger-rs/cargo-geiger",
+        "timestamp": "2026-06-20T15:10:11.601969",
+        "source": "Hacker News"
     }
 ]
