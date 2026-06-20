@@ -340624,5 +340624,11 @@
         "url": "https://www.youtube.com/watch?v=stPijjCneXM",
         "timestamp": "2026-06-20T21:03:34.635982",
         "source": "Hacker News"
+    },
+    {
+        "title": "'Helmsniff'; a Helm Security Scanner",
+        "url": "https://github.com/VahidR/helmsniff",
+        "timestamp": "2026-06-20T21:03:34.636015",
+        "source": "Hacker News"
     }
 ]
