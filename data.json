@@ -340324,5 +340324,11 @@
         "url": "https://www.argusred.com/cli",
         "timestamp": "2026-06-20T19:50:26.090917",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
+        "url": "https://github.com/overflowy/make-look-scanned",
+        "timestamp": "2026-06-20T19:50:26.090944",
+        "source": "Hacker News"
     }
 ]
