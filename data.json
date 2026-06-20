@@ -339364,5 +339364,11 @@
         "url": "https://garden.azl.au/ai/local-models/local-models-friction-struggle",
         "timestamp": "2026-06-20T11:34:11.145886",
         "source": "Hacker News"
+    },
+    {
+        "title": "Safe SIMD in Rust, even on the inside",
+        "url": "https://shnatsel.medium.com/safe-simd-in-rust-even-on-the-inside-c6f1ff381828",
+        "timestamp": "2026-06-20T11:34:11.145920",
+        "source": "Hacker News"
     }
 ]
