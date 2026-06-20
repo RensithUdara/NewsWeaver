@@ -340288,5 +340288,11 @@
         "url": "https://openacme.org/blog/you-dont-need-event-driven",
         "timestamp": "2026-06-20T18:01:05.313029",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Stopped Trusting SSH Key Files",
+        "url": "https://igorstechnoclub.com/why-i-stopped-trusting-ssh-key-files/",
+        "timestamp": "2026-06-20T18:01:05.313060",
+        "source": "Hacker News"
     }
 ]
