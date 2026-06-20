@@ -339616,5 +339616,11 @@
         "url": "https://www.thegamer.com/ubisoft-co-founder-claude-guillemot-dead/",
         "timestamp": "2026-06-20T13:08:59.559177",
         "source": "Hacker News"
+    },
+    {
+        "title": "Our billing pipeline was suddenly slow. A hidden bottleneck in ClickHouse",
+        "url": "https://blog.cloudflare.com/clickhouse-query-plan-contention/",
+        "timestamp": "2026-06-20T13:08:59.559204",
+        "source": "Hacker News"
     }
 ]
