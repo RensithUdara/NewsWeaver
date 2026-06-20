@@ -340846,5 +340846,11 @@
         "url": "https://boardgamegeek.com/boardgame/1644/tipp-kick",
         "timestamp": "2026-06-20T22:18:23.818462",
         "source": "Hacker News"
+    },
+    {
+        "title": "Codex (GPT-5.5, Plus plan) – rate-limit cost per token jumped 10x+ since June 16",
+        "url": "https://github.com/openai/codex/issues/28879",
+        "timestamp": "2026-06-20T22:18:23.818478",
+        "source": "Hacker News"
     }
 ]
