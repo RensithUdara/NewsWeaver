@@ -339472,5 +339472,11 @@
         "url": "https://twitter.com/YogSoth0/status/2068158039744507993",
         "timestamp": "2026-06-20T11:34:11.146520",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pure Go GUI toolkit built on GoGPU",
+        "url": "https://github.com/gogpu/ui",
+        "timestamp": "2026-06-20T11:34:11.146551",
+        "source": "Hacker News"
     }
 ]
