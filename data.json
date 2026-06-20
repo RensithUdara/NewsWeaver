@@ -340906,5 +340906,11 @@
         "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
         "timestamp": "2026-06-20T23:37:46.015229",
         "source": "Hacker News"
+    },
+    {
+        "title": "Epoll vs. Io_uring in Linux",
+        "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+        "timestamp": "2026-06-20T23:37:46.015268",
+        "source": "Hacker News"
     }
 ]
