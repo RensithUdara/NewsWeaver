@@ -339178,5 +339178,11 @@
         "url": "https://www.phoronix.com/review/ampere-altra-nvidia-vera",
         "timestamp": "2026-06-20T09:42:32.616175",
         "source": "Hacker News"
+    },
+    {
+        "title": "EPEX: Matrix-free coefficient expansion for low-memory LWE experiments",
+        "url": "https://zenodo.org/records/20743190",
+        "timestamp": "2026-06-20T09:42:32.616205",
+        "source": "Hacker News"
     }
 ]
