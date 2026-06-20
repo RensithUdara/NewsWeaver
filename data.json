@@ -340276,5 +340276,11 @@
         "url": "https://map.simonsarris.com/p/that-which-is-unique-breaks",
         "timestamp": "2026-06-20T18:01:05.312968",
         "source": "Hacker News"
+    },
+    {
+        "title": "Shard your locks: benchmarking 6 Go cache designs",
+        "url": "https://strebkov.dev/posts/shard-your-locks/",
+        "timestamp": "2026-06-20T18:01:05.312998",
+        "source": "Hacker News"
     }
 ]
