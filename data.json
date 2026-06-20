@@ -340690,5 +340690,11 @@
         "url": "https://nypost.com/2026/06/20/us-news/world-cup-tourists-arent-leaving-tips-and-nyc-restaurants-are-fighting-back/",
         "timestamp": "2026-06-20T21:03:34.636361",
         "source": "Hacker News"
+    },
+    {
+        "title": "AutoJack: A single page can RCE the host running your AI agent",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/",
+        "timestamp": "2026-06-20T21:03:34.636390",
+        "source": "Hacker News"
     }
 ]
