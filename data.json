@@ -340108,5 +340108,11 @@
         "url": "https://www.lispm.net/apps/uhf-x11/",
         "timestamp": "2026-06-20T18:01:05.127738",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ember, a native iOS Hacker News reader I built around accessibility",
+        "url": "https://github.com/DatanoiseTV/ember-hackernews",
+        "timestamp": "2026-06-20T18:01:05.127856",
+        "source": "Hacker News"
     }
 ]
