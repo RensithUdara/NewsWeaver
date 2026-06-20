@@ -340612,5 +340612,11 @@
         "url": "https://github.com/nikitadoudikov/claude-pulse",
         "timestamp": "2026-06-20T21:03:34.635892",
         "source": "Hacker News"
+    },
+    {
+        "title": "MosaicLeaks: Can your research agent keep a secret?",
+        "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+        "timestamp": "2026-06-20T21:03:34.635924",
+        "source": "Hacker News"
     }
 ]
