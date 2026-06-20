@@ -339754,5 +339754,11 @@
         "url": "https://chromewebstore.google.com/detail/publish-to-dochost/ihnogobgkjojleeiajngmcdlaccjdmdi",
         "timestamp": "2026-06-20T15:10:11.602021",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fast Great-Circle Distance Calculation in CUDA C++",
+        "url": "https://developer.nvidia.com/blog/fast-great-circle-distance-calculation-cuda-c/",
+        "timestamp": "2026-06-20T15:10:11.602061",
+        "source": "Hacker News"
     }
 ]
