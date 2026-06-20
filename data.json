@@ -340312,5 +340312,11 @@
         "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
         "timestamp": "2026-06-20T19:50:26.090740",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+        "url": "https://github.com/oven-sh/WebKit/pull/249",
+        "timestamp": "2026-06-20T19:50:26.090835",
+        "source": "Hacker News"
     }
 ]
