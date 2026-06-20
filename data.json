@@ -340384,5 +340384,11 @@
         "url": "https://www.sentibook.com/",
         "timestamp": "2026-06-20T19:50:26.402717",
         "source": "Hacker News"
+    },
+    {
+        "title": "HSIP–local identity server in Rust with Ed25519 signing and AI agent governance",
+        "url": "https://github.com/rewired89/HSIP-1PHASE",
+        "timestamp": "2026-06-20T19:50:26.402743",
+        "source": "Hacker News"
     }
 ]
