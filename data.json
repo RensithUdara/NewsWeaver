@@ -340756,5 +340756,11 @@
         "url": "https://opensource.posit.co/blog/2026-06-19_ai-newsletter/",
         "timestamp": "2026-06-20T22:18:23.818168",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: VLMs Can Respond Twice as Fast Without Losing Quality",
+        "url": "https://github.com/sergey-automation/TurboPrefill-VLM-Validation",
+        "timestamp": "2026-06-20T22:18:23.818186",
+        "source": "Hacker News"
     }
 ]
