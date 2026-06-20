@@ -340282,5 +340282,11 @@
         "url": "https://strebkov.dev/posts/shard-your-locks/",
         "timestamp": "2026-06-20T18:01:05.312998",
         "source": "Hacker News"
+    },
+    {
+        "title": "You probably don't need event-driven architecture",
+        "url": "https://openacme.org/blog/you-dont-need-event-driven",
+        "timestamp": "2026-06-20T18:01:05.313029",
+        "source": "Hacker News"
     }
 ]
