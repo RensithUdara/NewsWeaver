@@ -339466,5 +339466,11 @@
         "url": "https://blog.apnic.net/2026/06/19/rethinking-vulnerability-management-in-the-age-of-ai-and-ci-cd/",
         "timestamp": "2026-06-20T11:34:11.146487",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Was Too Stoned to Configure Nginx Auth and Now My 0Days Are Touring the World",
+        "url": "https://twitter.com/YogSoth0/status/2068158039744507993",
+        "timestamp": "2026-06-20T11:34:11.146520",
+        "source": "Hacker News"
     }
 ]
