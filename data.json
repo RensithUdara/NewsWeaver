@@ -340876,5 +340876,11 @@
         "url": "https://en.wikipedia.org/wiki/The_Scorpion_and_the_Frog",
         "timestamp": "2026-06-20T22:18:23.818542",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Alloy – a PyTorch backend and inference engine for Apple Silicon",
+        "url": "https://github.com/rayanht/alloy",
+        "timestamp": "2026-06-20T22:18:23.818559",
+        "source": "Hacker News"
     }
 ]
