@@ -339928,5 +339928,11 @@
         "url": "https://lilapp.us/",
         "timestamp": "2026-06-20T16:47:13.006223",
         "source": "Hacker News"
+    },
+    {
+        "title": "Evaluation order and nontermination in query languages",
+        "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
+        "timestamp": "2026-06-20T16:47:13.006258",
+        "source": "Hacker News"
     }
 ]
