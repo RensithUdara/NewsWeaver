@@ -342136,5 +342136,11 @@
         "url": "https://portal.neuralwatt.com/",
         "timestamp": "2026-06-21T16:19:21.833151",
         "source": "Hacker News"
+    },
+    {
+        "title": "Googles specification (and tooling) for the LLM wiki",
+        "url": "https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf",
+        "timestamp": "2026-06-21T16:19:21.833204",
+        "source": "Hacker News"
     }
 ]
