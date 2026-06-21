@@ -341962,5 +341962,11 @@
         "url": "https://www.caltech.edu/about/news/a-stars-death-throes-involves-a-lot-of-kicking",
         "timestamp": "2026-06-21T14:39:40.314118",
         "source": "Hacker News"
+    },
+    {
+        "title": "Performance Improvements in Libffi",
+        "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
+        "timestamp": "2026-06-21T14:39:40.314149",
+        "source": "Hacker News"
     }
 ]
