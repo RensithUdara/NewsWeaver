@@ -342424,5 +342424,11 @@
         "url": "https://www.mooreds.com/wordpress/archives/3741",
         "timestamp": "2026-06-21T17:56:51.211245",
         "source": "Hacker News"
+    },
+    {
+        "title": "A simple self-hosted service to generate per-serving macros of online recipes",
+        "url": "https://github.com/harrisonfaulkner/recipe-macros-scraper",
+        "timestamp": "2026-06-21T17:56:51.211275",
+        "source": "Hacker News"
     }
 ]
