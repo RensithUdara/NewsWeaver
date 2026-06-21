@@ -342460,5 +342460,11 @@
         "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
         "timestamp": "2026-06-21T19:22:49.414440",
         "source": "Hacker News"
+    },
+    {
+        "title": "An Embedded Linux on a Single Floppy",
+        "url": "https://github.com/w84death/floppinux",
+        "timestamp": "2026-06-21T19:22:49.414511",
+        "source": "Hacker News"
     }
 ]
