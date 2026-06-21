@@ -342076,5 +342076,11 @@
         "url": "https://intrinsiqq.com",
         "timestamp": "2026-06-21T14:39:40.314773",
         "source": "Hacker News"
+    },
+    {
+        "title": "(How to Write a (Lisp) Interpreter (In Python))",
+        "url": "https://norvig.com/lispy.html",
+        "timestamp": "2026-06-21T16:19:21.658572",
+        "source": "Hacker News"
     }
 ]
