@@ -342082,5 +342082,11 @@
         "url": "https://norvig.com/lispy.html",
         "timestamp": "2026-06-21T16:19:21.658572",
         "source": "Hacker News"
+    },
+    {
+        "title": "System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",
+        "url": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
+        "timestamp": "2026-06-21T16:19:21.658795",
+        "source": "Hacker News"
     }
 ]
