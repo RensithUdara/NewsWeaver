@@ -341296,5 +341296,11 @@
         "url": "https://en.wikipedia.org/wiki/Armstrong_effect",
         "timestamp": "2026-06-21T07:00:54.437273",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bab: A hash function for content-addressable storage",
+        "url": "https://bab-hash.org/spec",
+        "timestamp": "2026-06-21T07:00:54.749496",
+        "source": "Hacker News"
     }
 ]
