@@ -341944,5 +341944,11 @@
         "url": "https://docs.scion.org/en/latest/index.html",
         "timestamp": "2026-06-21T14:39:40.314020",
         "source": "Hacker News"
+    },
+    {
+        "title": "Don't rely on instructions; use Agent Hooks to enforce guardrails",
+        "url": "https://bitbytebit.substack.com/p/agent-hooks-deterministic-guardrails",
+        "timestamp": "2026-06-21T14:39:40.314052",
+        "source": "Hacker News"
     }
 ]
