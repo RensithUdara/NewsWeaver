@@ -341746,5 +341746,11 @@
         "url": "https://av.codes/blog/on-local-inference/",
         "timestamp": "2026-06-21T12:27:48.509516",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tokoscope – Automatic LLM token compression and cost monitoring in 2 lines",
+        "url": "https://tokoscope.com",
+        "timestamp": "2026-06-21T12:27:48.509537",
+        "source": "Hacker News"
     }
 ]
