@@ -341284,5 +341284,11 @@
         "url": "https://spectrum.ieee.org/alan-turings-delilah",
         "timestamp": "2026-06-21T07:00:54.437056",
         "source": "Hacker News"
+    },
+    {
+        "title": "Excessive nil pointer checks in Go",
+        "url": "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/",
+        "timestamp": "2026-06-21T07:00:54.437246",
+        "source": "Hacker News"
     }
 ]
