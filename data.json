@@ -342676,5 +342676,11 @@
         "url": "https://domaincomb.com/",
         "timestamp": "2026-06-21T20:50:18.529050",
         "source": "Hacker News"
+    },
+    {
+        "title": "F* file system – file search that reads SSD directly bypassing OS kernel",
+        "url": "https://github.com/dmtrKovalenko/ffs",
+        "timestamp": "2026-06-21T20:50:18.529083",
+        "source": "Hacker News"
     }
 ]
