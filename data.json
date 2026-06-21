@@ -341140,5 +341140,11 @@
         "url": "https://myintelbrief.com/",
         "timestamp": "2026-06-21T02:01:49.597222",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Cc-fleet – run other LLMs as Claude Code workers, your sub drives",
+        "url": "https://github.com/ethanhq/cc-fleet",
+        "timestamp": "2026-06-21T02:01:49.597250",
+        "source": "Hacker News"
     }
 ]
