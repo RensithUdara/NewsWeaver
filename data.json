@@ -342394,5 +342394,11 @@
         "url": "https://www.tsoon.com/posts/game-theory/",
         "timestamp": "2026-06-21T17:56:51.211099",
         "source": "Hacker News"
+    },
+    {
+        "title": "ZSTD –auto it picks the optimal compression level for you",
+        "url": "https://github.com/detechs-debug/zstd-auto",
+        "timestamp": "2026-06-21T17:56:51.211126",
+        "source": "Hacker News"
     }
 ]
