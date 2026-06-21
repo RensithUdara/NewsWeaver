@@ -341260,5 +341260,11 @@
         "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
         "timestamp": "2026-06-21T07:00:54.436699",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building reliable agentic AI systems",
+        "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+        "timestamp": "2026-06-21T07:00:54.436787",
+        "source": "Hacker News"
     }
 ]
