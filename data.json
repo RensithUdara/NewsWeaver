@@ -342898,5 +342898,11 @@
         "url": "http://pixi.prefix.dev/latest/",
         "timestamp": "2026-06-21T22:07:14.208894",
         "source": "Hacker News"
+    },
+    {
+        "title": "EGC – MCP server that gives AI coding tools memory across sessions",
+        "url": "https://github.com/Fmarzochi/EGC",
+        "timestamp": "2026-06-21T22:07:14.208927",
+        "source": "Hacker News"
     }
 ]
