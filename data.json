@@ -341884,5 +341884,11 @@
         "url": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
         "timestamp": "2026-06-21T14:39:40.013075",
         "source": "Hacker News"
+    },
+    {
+        "title": "Two Qwen3 models on one DGX Spark: the residency math",
+        "url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
+        "timestamp": "2026-06-21T14:39:40.013248",
+        "source": "Hacker News"
     }
 ]
