@@ -341938,5 +341938,11 @@
         "url": "https://news.ycombinator.com/item?id=48619311",
         "timestamp": "2026-06-21T14:39:40.313988",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scion: A next-generation inter-domain routing architecture",
+        "url": "https://docs.scion.org/en/latest/index.html",
+        "timestamp": "2026-06-21T14:39:40.314020",
+        "source": "Hacker News"
     }
 ]
