@@ -341248,5 +341248,11 @@
         "url": "https://www.visualsource.net/repo/github.com/microsoft/typescript",
         "timestamp": "2026-06-21T02:01:49.597914",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Rlsgate – Block the Supabase RLS leak before you deploy (CLI)",
+        "url": "https://github.com/GerardoRdz96/rlsgate",
+        "timestamp": "2026-06-21T02:01:49.597940",
+        "source": "Hacker News"
     }
 ]
