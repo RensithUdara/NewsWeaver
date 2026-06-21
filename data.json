@@ -342628,5 +342628,11 @@
         "url": "https://www.orangecrumbs.com/l/unusual-deaths",
         "timestamp": "2026-06-21T19:22:49.727477",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open-source Vulkan driver NVK gains experimental DLSS support",
+        "url": "https://www.tomshardware.com/pc-components/gpu-drivers/open-source-nvidia-vulkan-driver-nvk-gains-experimental-dlss-support-by-importing-pre-baked-cuda-binaries",
+        "timestamp": "2026-06-21T19:22:49.727512",
+        "source": "Hacker News"
     }
 ]
