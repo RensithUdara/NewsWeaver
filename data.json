@@ -341548,5 +341548,11 @@
         "url": "https://github.com/m0rvayne/mcp-osascript",
         "timestamp": "2026-06-21T10:39:06.281427",
         "source": "Hacker News"
+    },
+    {
+        "title": "Softmax-free ~354M: tile-skip kernels for long-context VRAM savings (sparse)",
+        "url": "https://huggingface.co/Tripstoph/RRT-Foundation",
+        "timestamp": "2026-06-21T10:39:06.281461",
+        "source": "Hacker News"
     }
 ]
