@@ -341788,5 +341788,11 @@
         "url": "https://www.cbsnews.com/news/sales-legend-walking-in-different-shoes/",
         "timestamp": "2026-06-21T12:27:48.509662",
         "source": "Hacker News"
+    },
+    {
+        "title": "David Ahl's Basic Computer Games Ported to C",
+        "url": "https://github.com/proteanthread/bcg",
+        "timestamp": "2026-06-21T12:27:48.509682",
+        "source": "Hacker News"
     }
 ]
