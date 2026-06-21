@@ -341464,5 +341464,11 @@
         "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
         "timestamp": "2026-06-21T10:39:06.190842",
         "source": "Hacker News"
+    },
+    {
+        "title": "A 3D voxel game engine written in APL",
+        "url": "https://github.com/namgyaaal/avoxelgame",
+        "timestamp": "2026-06-21T10:39:06.190897",
+        "source": "Hacker News"
     }
 ]
