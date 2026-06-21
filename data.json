@@ -341356,5 +341356,11 @@
         "url": "https://notedog.run/",
         "timestamp": "2026-06-21T07:00:54.749834",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Quikdown – 17 KB bidirectional Markdown parser and rich-fence editor",
+        "url": "https://github.com/deftio/quikdown",
+        "timestamp": "2026-06-21T07:00:54.749864",
+        "source": "Hacker News"
     }
 ]
