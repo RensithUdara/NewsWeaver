@@ -341542,5 +341542,11 @@
         "url": "https://en.wikipedia.org/wiki/Kalman_filter",
         "timestamp": "2026-06-21T10:39:06.281393",
         "source": "Hacker News"
+    },
+    {
+        "title": "MCP server that lets Claude click menus on your Mac and fix its own mistakes",
+        "url": "https://github.com/m0rvayne/mcp-osascript",
+        "timestamp": "2026-06-21T10:39:06.281427",
+        "source": "Hacker News"
     }
 ]
