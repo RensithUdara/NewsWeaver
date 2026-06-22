@@ -343420,5 +343420,11 @@
         "url": "https://lmao.center/blog/wiggle-accidents/",
         "timestamp": "2026-06-22T07:35:58.826202",
         "source": "Hacker News"
+    },
+    {
+        "title": "Codex logging bug may write TBs to local SSDs",
+        "url": "https://github.com/openai/codex/issues/28224",
+        "timestamp": "2026-06-22T07:35:58.826318",
+        "source": "Hacker News"
     }
 ]
