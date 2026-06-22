@@ -344590,5 +344590,11 @@
         "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ub2kmt/comment/oswjlhg/",
         "timestamp": "2026-06-22T22:23:33.914842",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: RSVP is a Go library for HTTP server graceful shutdown",
+        "url": "https://github.com/jbarham/rsvp",
+        "timestamp": "2026-06-22T22:23:33.914898",
+        "source": "Hacker News"
     }
 ]
