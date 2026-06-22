@@ -343378,5 +343378,11 @@
         "url": "https://apod.nasa.gov/apod/ap260621.html",
         "timestamp": "2026-06-22T02:06:34.186157",
         "source": "Hacker News"
+    },
+    {
+        "title": "Entity Core Protocol",
+        "url": "https://github.com/EntityChurch/entity-core-protocol/blob/master/specs/ENTITY-CORE-PROTOCOL.md",
+        "timestamp": "2026-06-22T02:06:34.186188",
+        "source": "Hacker News"
     }
 ]
