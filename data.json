@@ -343756,5 +343756,11 @@
         "url": "https://emot.substack.com/p/a-marinharia-dos-descobrimentos-technology",
         "timestamp": "2026-06-22T13:12:52.885869",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why round-robin load balancing causes incidents (and 9 alternatives)",
+        "url": "https://www.azion.com/en/blog/ai-load-balancing-beyond-round-robin/",
+        "timestamp": "2026-06-22T13:12:52.885900",
+        "source": "Hacker News"
     }
 ]
