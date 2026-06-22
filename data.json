@@ -343852,5 +343852,11 @@
         "url": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
         "timestamp": "2026-06-22T13:12:52.886304",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I rebuilt the only parts of my IDE I use, in Rust, over a weekend",
+        "url": "https://github.com/kyle-ssg/kyde",
+        "timestamp": "2026-06-22T13:12:52.886331",
+        "source": "Hacker News"
     }
 ]
