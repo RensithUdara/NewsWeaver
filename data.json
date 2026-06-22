@@ -343288,5 +343288,11 @@
         "url": "https://worksinprogress.co/issue/watt-lies-beneath/",
         "timestamp": "2026-06-22T02:06:34.185646",
         "source": "Hacker News"
+    },
+    {
+        "title": "Josh helps Rust manage code across multiple repositories",
+        "url": "https://blog.rust-lang.org/inside-rust/2026/06/04/how-josh-helps-rust-manage-code-across-multiple-repositories/",
+        "timestamp": "2026-06-22T02:06:34.185678",
+        "source": "Hacker News"
     }
 ]
