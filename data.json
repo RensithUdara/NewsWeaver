@@ -344404,5 +344404,11 @@
         "url": "https://github.com/Arthur-Ficial/translate",
         "timestamp": "2026-06-22T20:33:37.238585",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Performance of Generics in Go",
+        "url": "https://dominik.info/blog/go-generics-performance",
+        "timestamp": "2026-06-22T20:33:37.238619",
+        "source": "Hacker News"
     }
 ]
