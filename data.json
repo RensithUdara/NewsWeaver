@@ -344128,5 +344128,11 @@
         "url": "https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security",
         "timestamp": "2026-06-22T17:52:15.997730",
         "source": "Hacker News"
+    },
+    {
+        "title": "Iris – A portable runtime for durable AI agents",
+        "url": "https://github.com/xoai/iris",
+        "timestamp": "2026-06-22T17:52:15.997814",
+        "source": "Hacker News"
     }
 ]
