@@ -344272,5 +344272,11 @@
         "url": "https://oak.space/oak/oak",
         "timestamp": "2026-06-22T20:33:36.934382",
         "source": "Hacker News"
+    },
+    {
+        "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+        "url": "https://github.com/dorukkumkumoglu/optocamzero",
+        "timestamp": "2026-06-22T20:33:36.934450",
+        "source": "Hacker News"
     }
 ]
