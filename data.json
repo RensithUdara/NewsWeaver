@@ -344458,5 +344458,11 @@
         "url": "https://codrlabs.com/blog/shoutout-canadian-youth-shipped-when-graduates-skipped",
         "timestamp": "2026-06-22T20:33:37.238898",
         "source": "Hacker News"
+    },
+    {
+        "title": "DeepSeek V4 Flash optimized framework and model variants for DGX Spark",
+        "url": "https://github.com/sleepyeldrazi/ds4-nvfp4-spark",
+        "timestamp": "2026-06-22T20:33:37.238933",
+        "source": "Hacker News"
     }
 ]
