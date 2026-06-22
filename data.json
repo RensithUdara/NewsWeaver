@@ -344740,5 +344740,11 @@
         "url": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/",
         "timestamp": "2026-06-22T22:23:34.400000",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Is it time for a new Embedded Linux build system?",
+        "url": "https://yoebuild.org/blog/time-for-a-new-build-system/",
+        "timestamp": "2026-06-22T23:48:06.637090",
+        "source": "Hacker News"
     }
 ]
