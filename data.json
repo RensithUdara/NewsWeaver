@@ -344062,5 +344062,11 @@
         "url": "https://github.com/huiung/claude-citizen",
         "timestamp": "2026-06-22T17:52:15.997442",
         "source": "Hacker News"
+    },
+    {
+        "title": "Optimizing Models to Be Fast at Codegen",
+        "url": "https://www.morphllm.com/blog/codegen-inference-research",
+        "timestamp": "2026-06-22T17:52:15.997468",
+        "source": "Hacker News"
     }
 ]
