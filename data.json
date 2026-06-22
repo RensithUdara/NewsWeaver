@@ -343726,5 +343726,11 @@
         "url": "https://www.youtube.com/watch?v=2ECucq-mTGg",
         "timestamp": "2026-06-22T13:12:52.885716",
         "source": "Hacker News"
+    },
+    {
+        "title": "Benchmarking low latency, high concurrency analytics engines",
+        "url": "https://medium.com/@dans_floor/red-vs-blue-vs-yellow-benchmarking-low-latency-high-concurrency-analytics-engines-3fc748ae6967",
+        "timestamp": "2026-06-22T13:12:52.885743",
+        "source": "Hacker News"
     }
 ]
