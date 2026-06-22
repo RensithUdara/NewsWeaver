@@ -344356,5 +344356,11 @@
         "url": "https://scalingintelligence.stanford.edu/blogs/hipkernels/",
         "timestamp": "2026-06-22T20:33:37.238300",
         "source": "Hacker News"
+    },
+    {
+        "title": "FlashAttention-4: Algorithm and Kernel Pipelining Co-Design",
+        "url": "https://research.colfax-intl.com/flashattention-4-algorithm-and-kernel-pipelining-co-design-for-asymmetric-hardware-scaling/",
+        "timestamp": "2026-06-22T20:33:37.238332",
+        "source": "Hacker News"
     }
 ]
