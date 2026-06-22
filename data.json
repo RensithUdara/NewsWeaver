@@ -344872,5 +344872,11 @@
         "url": "https://www.contextmaestro.com/",
         "timestamp": "2026-06-22T23:48:06.941556",
         "source": "Hacker News"
+    },
+    {
+        "title": "Knowledge Catalog – universal context engine for agents",
+        "url": "https://github.com/GoogleCloudPlatform/knowledge-catalog",
+        "timestamp": "2026-06-22T23:48:06.941583",
+        "source": "Hacker News"
     }
 ]
