@@ -346300,5 +346300,11 @@
         "url": "https://spectrum.ieee.org/united-states-power-grid-capacity",
         "timestamp": "2026-06-23T17:06:20.466807",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scaling Rails for a Peak Load of 41M Requests/Hour",
+        "url": "https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails",
+        "timestamp": "2026-06-23T17:06:20.466834",
+        "source": "Hacker News"
     }
 ]
