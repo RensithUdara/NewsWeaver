@@ -346762,5 +346762,11 @@
         "url": "https://totally-safe-to.download/",
         "timestamp": "2026-06-23T21:07:09.494696",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mitigated API authentication bypass for python.org download metadata",
+        "url": "https://blog.python.org/2026/06/mitigated-api-bypass-for-download-metadata-python-dot-org/",
+        "timestamp": "2026-06-23T21:07:09.494728",
+        "source": "Hacker News"
     }
 ]
