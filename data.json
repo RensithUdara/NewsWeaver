@@ -345988,5 +345988,11 @@
         "url": "https://aproov.es",
         "timestamp": "2026-06-23T14:46:04.727440",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Control Android from CLI or MCP with fine-grained permissions",
+        "url": "https://github.com/khimaros/mimic",
+        "timestamp": "2026-06-23T14:46:04.727479",
+        "source": "Hacker News"
     }
 ]
