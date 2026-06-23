@@ -345622,5 +345622,11 @@
         "url": "https://ex-vi.sourceforge.net/",
         "timestamp": "2026-06-23T11:58:24.306737",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Reversal Curse: LLMs trained on \"A is B\" fail to learn \"B is A\"",
+        "url": "https://arxiv.org/abs/2309.12288",
+        "timestamp": "2026-06-23T11:58:24.306771",
+        "source": "Hacker News"
     }
 ]
