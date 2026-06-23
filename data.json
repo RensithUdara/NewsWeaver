@@ -345352,5 +345352,11 @@
         "url": "https://github.com/owu/wsl-dashboard",
         "timestamp": "2026-06-23T05:53:23.605441",
         "source": "Hacker News"
+    },
+    {
+        "title": "TIRx: An Open Compiler Stack for Evolving Frontier ML Kernels",
+        "url": "https://tvm.apache.org/2026/06/22/tirx",
+        "timestamp": "2026-06-23T05:53:23.605468",
+        "source": "Hacker News"
     }
 ]
