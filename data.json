@@ -346024,5 +346024,11 @@
         "url": "https://getwindowsill.app/blog/windowsill-ollama-private-ai-writing",
         "timestamp": "2026-06-23T14:46:04.727675",
         "source": "Hacker News"
+    },
+    {
+        "title": "Swarm – open-source control center for Claude Code / Gemini / Codex agents",
+        "url": "https://github.com/miopea/swarm",
+        "timestamp": "2026-06-23T14:46:04.727707",
+        "source": "Hacker News"
     }
 ]
