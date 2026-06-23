@@ -345382,5 +345382,11 @@
         "url": "https://plotnine.org/",
         "timestamp": "2026-06-23T08:57:48.725875",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
+        "url": "https://github.com/imtomt/ymawky/tree/linux",
+        "timestamp": "2026-06-23T08:57:48.726138",
+        "source": "Hacker News"
     }
 ]
