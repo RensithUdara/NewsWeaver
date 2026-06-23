@@ -345010,5 +345010,11 @@
         "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
         "timestamp": "2026-06-23T01:48:46.036669",
         "source": "Hacker News"
+    },
+    {
+        "title": "In Praise of Memcached",
+        "url": "https://jchri.st/blog/in-praise-of-memcached/",
+        "timestamp": "2026-06-23T01:48:46.036689",
+        "source": "Hacker News"
     }
 ]
