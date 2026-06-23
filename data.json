@@ -347164,5 +347164,11 @@
         "url": "https://www.wiz.io/vulnerability-database/cve/cve-2026-5503",
         "timestamp": "2026-06-23T23:33:55.963754",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lifting E-Graphs: A Function Isn't a Constant",
+        "url": "https://arxiv.org/abs/2606.22734",
+        "timestamp": "2026-06-23T23:33:55.963781",
+        "source": "Hacker News"
     }
 ]
