@@ -345214,5 +345214,11 @@
         "url": "https://github.com/ue-patcher/code_stitcher/releases",
         "timestamp": "2026-06-23T05:53:23.604767",
         "source": "Hacker News"
+    },
+    {
+        "title": "C++ Lifetime-End Pointer-Zap and OOTA Progress",
+        "url": "https://people.kernel.org/paulmck/c-pointer-zap-and-oota-progress",
+        "timestamp": "2026-06-23T05:53:23.604794",
+        "source": "Hacker News"
     }
 ]
