@@ -345004,5 +345004,11 @@
         "url": "https://github.com/home-assistant/operating-system/releases/tag/18.0",
         "timestamp": "2026-06-23T01:48:46.036649",
         "source": "Hacker News"
+    },
+    {
+        "title": "AWS introduces Lambda MicroVMs: isolated sandboxes with full lifecycle control",
+        "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+        "timestamp": "2026-06-23T01:48:46.036669",
+        "source": "Hacker News"
     }
 ]
