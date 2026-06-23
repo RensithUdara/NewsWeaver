@@ -346432,5 +346432,11 @@
         "url": "https://modal.com/blog/introducing-auto-endpoints",
         "timestamp": "2026-06-23T19:15:42.108565",
         "source": "Hacker News"
+    },
+    {
+        "title": "TeXlyre: A local-first LaTeX and Typst web editor",
+        "url": "https://github.com/texlyre/texlyre",
+        "timestamp": "2026-06-23T19:15:42.436375",
+        "source": "Hacker News"
     }
 ]
