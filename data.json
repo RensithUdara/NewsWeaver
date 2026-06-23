@@ -344980,5 +344980,11 @@
         "url": "https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4",
         "timestamp": "2026-06-23T01:48:46.036561",
         "source": "Hacker News"
+    },
+    {
+        "title": "Full typing for Nix based on TypeScript",
+        "url": "https://github.com/ryanrasti/typenix",
+        "timestamp": "2026-06-23T01:48:46.036582",
+        "source": "Hacker News"
     }
 ]
