@@ -346846,5 +346846,11 @@
         "url": "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html",
         "timestamp": "2026-06-23T22:20:40.739960",
         "source": "Hacker News"
+    },
+    {
+        "title": "ATProto Permissioned Data Proposal Draft",
+        "url": "https://github.com/bluesky-social/proposals/pull/94",
+        "timestamp": "2026-06-23T22:20:40.740117",
+        "source": "Hacker News"
     }
 ]
