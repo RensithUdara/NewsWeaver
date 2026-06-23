@@ -347212,5 +347212,11 @@
         "url": "https://build-a-cult.com",
         "timestamp": "2026-06-23T23:33:55.963976",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLM-CTF benchmark – 2,639 real data points from NeurIPS and original runs",
+        "url": "https://www.kaggle.com/datasets/manitejamaram/can-ai-hack-llm-ctf-benchmark",
+        "timestamp": "2026-06-23T23:33:55.964005",
+        "source": "Hacker News"
     }
 ]
