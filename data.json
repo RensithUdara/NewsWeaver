@@ -345496,5 +345496,11 @@
         "url": "https://www.ft.com/content/c2175609-d106-4a9c-b6a3-56aac71c569a",
         "timestamp": "2026-06-23T08:57:49.039129",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ralph Harness, a tiny guarded loop for coding agents",
+        "url": "https://github.com/rxdt/py_ralph_frame",
+        "timestamp": "2026-06-23T08:57:49.039155",
+        "source": "Hacker News"
     }
 ]
