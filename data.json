@@ -345688,5 +345688,11 @@
         "url": "https://github.com/endlessite/tubo",
         "timestamp": "2026-06-23T11:58:24.406071",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linter for Open Knowledge Format (OKF) – Google's Take on Karpathy's LLM Wiki",
+        "url": "https://github.com/thisismydesign/okf-lint",
+        "timestamp": "2026-06-23T11:58:24.406105",
+        "source": "Hacker News"
     }
 ]
