@@ -349048,5 +349048,11 @@
         "url": "https://twitter.com/vijaytarian/status/2069438063345115187",
         "timestamp": "2026-06-24T19:18:56.461454",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zero-Downtime Deployments with Docker Compose – No Kubernetes Required",
+        "url": "https://statusdude.com/blog/zero-downtime-docker-compose",
+        "timestamp": "2026-06-24T20:59:38.165119",
+        "source": "Hacker News"
     }
 ]
