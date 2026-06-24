@@ -349342,5 +349342,11 @@
         "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
         "timestamp": "2026-06-24T22:19:22.296034",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Built a Zero-Trust Resume Pipeline to Stop AI from Hallucinating",
+        "url": "https://github.com/Gotili/EigenCV",
+        "timestamp": "2026-06-24T22:19:22.296060",
+        "source": "Hacker News"
     }
 ]
