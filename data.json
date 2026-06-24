@@ -348022,5 +348022,11 @@
         "url": "https://hiring.cafe/",
         "timestamp": "2026-06-24T11:26:56.276353",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Resume Claude Code from a handoff file auto-save, snapshots, PR sharing",
+        "url": "https://github.com/sofumel/claude-handoff-revive",
+        "timestamp": "2026-06-24T11:26:56.276388",
+        "source": "Hacker News"
     }
 ]
