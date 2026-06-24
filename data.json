@@ -348418,5 +348418,11 @@
         "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
         "timestamp": "2026-06-24T15:55:30.571689",
         "source": "Hacker News"
+    },
+    {
+        "title": "Optimizing a CUDA FSST decompression kernel",
+        "url": "https://www.polarsignals.com/blog/posts/2026/06/24/optimizing-fsst-cuda",
+        "timestamp": "2026-06-24T15:55:30.887254",
+        "source": "Hacker News"
     }
 ]
