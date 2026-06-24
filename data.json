@@ -348820,5 +348820,11 @@
         "url": "https://www.youtube.com/playlist?list=PL_R5A0lGi1ABJTIK5_5MkvHDb12mUmpSz",
         "timestamp": "2026-06-24T17:47:13.551485",
         "source": "Hacker News"
+    },
+    {
+        "title": "A way to detect AWS/Terraform drift",
+        "url": "https://infraviewer.site",
+        "timestamp": "2026-06-24T17:47:13.551514",
+        "source": "Hacker News"
     }
 ]
