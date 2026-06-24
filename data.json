@@ -349102,5 +349102,11 @@
         "url": "https://antennapod.org/de/blog/2026/06/weblate",
         "timestamp": "2026-06-24T20:59:38.477020",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a fleet-scale inference control plane using Crossplane",
+        "url": "https://blog.crossplane.io/building-modelplane/",
+        "timestamp": "2026-06-24T20:59:38.477058",
+        "source": "Hacker News"
     }
 ]
