@@ -349072,5 +349072,11 @@
         "url": "https://posthog.com/blog/sql-parser",
         "timestamp": "2026-06-24T20:59:38.165588",
         "source": "Hacker News"
+    },
+    {
+        "title": "GitHub shouldn't be a dependency for publishing Rust on crates.io",
+        "url": "https://infosec.exchange/@mttaggart/116806641273303255",
+        "timestamp": "2026-06-24T20:59:38.165746",
+        "source": "Hacker News"
     }
 ]
