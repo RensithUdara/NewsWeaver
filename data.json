@@ -347476,5 +347476,11 @@
         "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
         "timestamp": "2026-06-24T05:34:00.138876",
         "source": "Hacker News"
+    },
+    {
+        "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+        "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+        "timestamp": "2026-06-24T05:34:00.138963",
+        "source": "Hacker News"
     }
 ]
