@@ -348874,5 +348874,11 @@
         "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
         "timestamp": "2026-06-24T19:18:56.157223",
         "source": "Hacker News"
+    },
+    {
+        "title": "How a Microsecond-Level Low-Latency Engine Works",
+        "url": "https://medium.com/@DolphinDB_Inc/c-speed-without-c-pain-inside-a-microsecond-level-low-latency-engine-a634f260a4ee",
+        "timestamp": "2026-06-24T19:18:56.157346",
+        "source": "Hacker News"
     }
 ]
