@@ -348754,5 +348754,11 @@
         "url": "https://paxdynamics.com/blog/build-right",
         "timestamp": "2026-06-24T17:47:13.551147",
         "source": "Hacker News"
+    },
+    {
+        "title": "Codfish/semantic-release-action GitHub Action has been compromised",
+        "url": "https://www.stepsecurity.io/blog/supply-chain-compromise-codfish-semantic-release-action",
+        "timestamp": "2026-06-24T17:47:13.551178",
+        "source": "Hacker News"
     }
 ]
