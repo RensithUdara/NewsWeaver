@@ -349066,5 +349066,11 @@
         "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
         "timestamp": "2026-06-24T20:59:38.165267",
         "source": "Hacker News"
+    },
+    {
+        "title": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
+        "url": "https://posthog.com/blog/sql-parser",
+        "timestamp": "2026-06-24T20:59:38.165588",
+        "source": "Hacker News"
     }
 ]
