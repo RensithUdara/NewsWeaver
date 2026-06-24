@@ -348808,5 +348808,11 @@
         "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
         "timestamp": "2026-06-24T17:47:13.551397",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
+        "url": "https://github.com/dbos-inc/dbosify-py",
+        "timestamp": "2026-06-24T17:47:13.551456",
+        "source": "Hacker News"
     }
 ]
