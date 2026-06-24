@@ -349318,5 +349318,11 @@
         "url": "https://github.com/OmniNodeCo/OmniIDE/releases/tag/v1.0.4",
         "timestamp": "2026-06-24T22:19:22.295923",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLMs use \"safety\" specific neuron layers to identify vulnerabilities in code",
+        "url": "https://arxiv.org/abs/2605.29901",
+        "timestamp": "2026-06-24T22:19:22.295950",
+        "source": "Hacker News"
     }
 ]
