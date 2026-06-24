@@ -349354,5 +349354,11 @@
         "url": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
         "timestamp": "2026-06-24T22:19:22.296100",
         "source": "Hacker News"
+    },
+    {
+        "title": "How We Securely Serve a Large Agent Fleet on a Small Infra Footprint",
+        "url": "https://gluondb.com/blog/how-we-securely-serve-a-large-agent-fleet",
+        "timestamp": "2026-06-24T22:19:22.296126",
+        "source": "Hacker News"
     }
 ]
