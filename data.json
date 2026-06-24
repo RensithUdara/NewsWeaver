@@ -347806,5 +347806,11 @@
         "url": "https://news.ycombinator.com/item?id=48656660",
         "timestamp": "2026-06-24T08:39:44.912485",
         "source": "Hacker News"
+    },
+    {
+        "title": "We found a bug in the hyper HTTP library",
+        "url": "https://blog.cloudflare.com/hyper-bug/",
+        "timestamp": "2026-06-24T08:39:44.912516",
+        "source": "Hacker News"
     }
 ]
