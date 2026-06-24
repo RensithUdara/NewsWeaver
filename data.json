@@ -349168,5 +349168,11 @@
         "url": "https://arxiv.org/abs/2606.20047",
         "timestamp": "2026-06-24T20:59:38.477410",
         "source": "Hacker News"
+    },
+    {
+        "title": "A knowledge graph blog that turns an Obsidian vault of Markdown notes",
+        "url": "https://github.com/halit/hblog-ng",
+        "timestamp": "2026-06-24T20:59:38.477444",
+        "source": "Hacker News"
     }
 ]
