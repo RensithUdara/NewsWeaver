@@ -347656,5 +347656,11 @@
         "url": "https://news.ycombinator.com/item?id=48655248",
         "timestamp": "2026-06-24T05:34:00.443100",
         "source": "Hacker News"
+    },
+    {
+        "title": "Qwen-AgentWorld: Language World Models for General Agents",
+        "url": "https://github.com/QwenLM/Qwen-AgentWorld",
+        "timestamp": "2026-06-24T05:34:00.443128",
+        "source": "Hacker News"
     }
 ]
