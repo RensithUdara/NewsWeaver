@@ -350434,5 +350434,11 @@
         "url": "https://news.ycombinator.com/item?id=48671708",
         "timestamp": "2026-06-25T11:20:00.840285",
         "source": "Hacker News"
+    },
+    {
+        "title": "Adding BASIC09 front end tool to LLVM",
+        "url": "https://discourse.llvm.org/t/rfc-adding-basic09-frontend-tool-to-llvm/91141",
+        "timestamp": "2026-06-25T11:20:00.840316",
+        "source": "Hacker News"
     }
 ]
