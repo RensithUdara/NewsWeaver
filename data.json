@@ -350872,5 +350872,11 @@
         "url": "https://pete.design/tw-fade",
         "timestamp": "2026-06-25T16:01:08.971782",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Secs-man, a secrets manager you can (not) rely on",
+        "url": "https://github.com/Fran314/secrets-manager-rs",
+        "timestamp": "2026-06-25T16:01:08.971936",
+        "source": "Hacker News"
     }
 ]
