@@ -350890,5 +350890,11 @@
         "url": "https://tabularis.dev/",
         "timestamp": "2026-06-25T16:01:09.228133",
         "source": "Hacker News"
+    },
+    {
+        "title": "Code review is dead. Long live code review",
+        "url": "https://blog.codacy.com/code-review-is-dead-why-ai-generated-code-needs-verification-not-human-approval",
+        "timestamp": "2026-06-25T16:01:09.228169",
+        "source": "Hacker News"
     }
 ]
