@@ -350074,5 +350074,11 @@
         "url": "https://www.politico.eu/article/this-is-what-happens-when-bitcoin-miners-take-over-your-town/",
         "timestamp": "2026-06-25T05:47:49.190623",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scrap – one static binary that's a download manager and web crawler and filters",
+        "url": "https://github.com/nicfio/Scraper",
+        "timestamp": "2026-06-25T05:47:49.190677",
+        "source": "Hacker News"
     }
 ]
