@@ -350710,5 +350710,11 @@
         "url": "https://petapixel.com/2026/06/24/models-claim-fashion-brand-used-ai-to-create-their-doppelgangers/",
         "timestamp": "2026-06-25T13:29:00.406624",
         "source": "Hacker News"
+    },
+    {
+        "title": "Transfer events can lie, storage cannot: catching malicious token transfers",
+        "url": "https://www.functori.com/blog/blog-apollo-malicious-transfer-detection.html",
+        "timestamp": "2026-06-25T13:29:00.406653",
+        "source": "Hacker News"
     }
 ]
