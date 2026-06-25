@@ -350464,5 +350464,11 @@
         "url": "https://github.com/parsehawk/parsehawk",
         "timestamp": "2026-06-25T11:20:00.840422",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to build and serve MCP servers without effort",
+        "url": "https://flama.dev/blog/building_an_mcp_server_with_flama/",
+        "timestamp": "2026-06-25T11:20:00.840448",
+        "source": "Hacker News"
     }
 ]
