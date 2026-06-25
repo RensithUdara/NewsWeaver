@@ -351514,5 +351514,11 @@
         "url": "https://pitara.ai/login?next=%252F",
         "timestamp": "2026-06-25T20:27:41.579895",
         "source": "Hacker News"
+    },
+    {
+        "title": "Snyk Finds Prompt Injection in 36% of Payloads in a ToxicSkills Study",
+        "url": "https://snyk.io/blog/toxicskills-malicious-ai-agent-skills-clawhub/",
+        "timestamp": "2026-06-25T20:27:41.579916",
+        "source": "Hacker News"
     }
 ]
