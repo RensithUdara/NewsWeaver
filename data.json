@@ -351214,5 +351214,11 @@
         "url": "https://www.roserug.co/products/glasshouse",
         "timestamp": "2026-06-25T18:21:59.064492",
         "source": "Hacker News"
+    },
+    {
+        "title": "ParallelKernelBench: Can LLMs write fast multi-GPU kernels?",
+        "url": "https://github.com/togethercomputer/ParallelKernelBench",
+        "timestamp": "2026-06-25T18:21:59.064546",
+        "source": "Hacker News"
     }
 ]
