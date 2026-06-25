@@ -351244,5 +351244,11 @@
         "url": "https://mattnite.net/blog/em-dash-counter/",
         "timestamp": "2026-06-25T18:21:59.064656",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linear elastic caching reduced Spanner's memory use by 15.5%",
+        "url": "https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/",
+        "timestamp": "2026-06-25T18:21:59.064683",
+        "source": "Hacker News"
     }
 ]
