@@ -351532,5 +351532,11 @@
         "url": "https://yle.fi/a/74-20233070",
         "timestamp": "2026-06-25T20:27:41.579959",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tracing a silent-corruption bug in differentially private LoRA fine-tuning",
+        "url": "https://imranahamed.substack.com/p/the-dp-lora-silent-corruption-how",
+        "timestamp": "2026-06-25T20:27:41.579980",
+        "source": "Hacker News"
     }
 ]
