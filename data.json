@@ -351922,5 +351922,11 @@
         "url": "https://news.ycombinator.com/item?id=48680354",
         "timestamp": "2026-06-25T23:39:11.325897",
         "source": "Hacker News"
+    },
+    {
+        "title": "Elasto Mania Ported to WebAssembly",
+        "url": "https://joshumax.github.io/elma-web/",
+        "timestamp": "2026-06-25T23:39:11.325930",
+        "source": "Hacker News"
     }
 ]
