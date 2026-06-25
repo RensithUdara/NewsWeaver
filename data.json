@@ -349930,5 +349930,11 @@
         "url": "https://humanrights.ca/exhibition/palestine-uprooted-nakba-past-and-present",
         "timestamp": "2026-06-25T05:47:49.189933",
         "source": "Hacker News"
+    },
+    {
+        "title": "Treat the Context Window as a Data Assembly Problem",
+        "url": "https://klr-pattern.github.io/pydantic-resolve/blog_context_assembly_for_llm/",
+        "timestamp": "2026-06-25T05:47:49.189961",
+        "source": "Hacker News"
     }
 ]
