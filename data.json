@@ -350542,5 +350542,11 @@
         "url": "https://www.bbc.com/news/articles/c9d2xl3555xo",
         "timestamp": "2026-06-25T11:20:00.840779",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ways Devs Are Plugging LLMs Into Anomaly Detection",
+        "url": "https://dev.to/lovestaco/ways-devs-are-plugging-llms-into-anomaly-detection-1b3o",
+        "timestamp": "2026-06-25T11:20:01.241009",
+        "source": "Dev.to"
     }
 ]
