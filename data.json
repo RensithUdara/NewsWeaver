@@ -349762,5 +349762,11 @@
         "url": "https://www.commandlinefu.com/commands/browse",
         "timestamp": "2026-06-25T01:34:35.571898",
         "source": "Hacker News"
+    },
+    {
+        "title": "Parsing JSON at compile time with C++26 static reflection",
+        "url": "https://lemire.me/blog/2026/06/14/parsing-json-at-compile-time-with-c26-static-reflection/",
+        "timestamp": "2026-06-25T01:34:35.571928",
+        "source": "Hacker News"
     }
 ]
