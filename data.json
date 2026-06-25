@@ -350140,5 +350140,11 @@
         "url": "https://golb.fun/",
         "timestamp": "2026-06-25T08:39:54.562679",
         "source": "Hacker News"
+    },
+    {
+        "title": "OXWM – A dynamic window manager written in Zig",
+        "url": "https://github.com/tonybanters/oxwm",
+        "timestamp": "2026-06-25T08:39:54.562711",
+        "source": "Hacker News"
     }
 ]
