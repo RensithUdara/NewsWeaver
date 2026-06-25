@@ -350410,5 +350410,11 @@
         "url": "https://www.theguardian.com/technology/2026/jun/24/elon-musk-trillionaire-spacex",
         "timestamp": "2026-06-25T11:20:00.840178",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLM APIs with built-in chatbot in 1 line of code",
+        "url": "https://flama.dev/blog/serving_llms_with_flama_cli/",
+        "timestamp": "2026-06-25T11:20:00.840204",
+        "source": "Hacker News"
     }
 ]
