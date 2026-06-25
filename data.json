@@ -351808,5 +351808,11 @@
         "url": "https://www.infoq.com/presentations/rust-polyglot-sdk/",
         "timestamp": "2026-06-25T22:00:44.451397",
         "source": "Hacker News"
+    },
+    {
+        "title": "Migrating from Proxmox to NixOS and Incus",
+        "url": "https://www.nijho.lt/post/proxmox-to-nixos/",
+        "timestamp": "2026-06-25T22:00:44.451433",
+        "source": "Hacker News"
     }
 ]
