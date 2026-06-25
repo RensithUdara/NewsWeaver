@@ -351814,5 +351814,11 @@
         "url": "https://www.nijho.lt/post/proxmox-to-nixos/",
         "timestamp": "2026-06-25T22:00:44.451433",
         "source": "Hacker News"
+    },
+    {
+        "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+        "url": "https://github.com/plbrault/youre-the-os",
+        "timestamp": "2026-06-25T23:39:11.020476",
+        "source": "Hacker News"
     }
 ]
