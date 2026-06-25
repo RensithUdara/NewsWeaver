@@ -349900,5 +349900,11 @@
         "url": "https://brainfrog.lol",
         "timestamp": "2026-06-25T05:47:49.087729",
         "source": "Hacker News"
+    },
+    {
+        "title": "Optimizing [sqlx:test] rebuild time",
+        "url": "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html",
+        "timestamp": "2026-06-25T05:47:49.087812",
+        "source": "Hacker News"
     }
 ]
