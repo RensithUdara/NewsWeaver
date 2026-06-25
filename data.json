@@ -350524,5 +350524,11 @@
         "url": "https://www.theregister.com/offbeat/2023/03/29/scientists-speak-out-please-dont-call-us-boffins/1188823",
         "timestamp": "2026-06-25T11:20:00.840692",
         "source": "Hacker News"
+    },
+    {
+        "title": "One Line x86 Change to GCC Nets +12% Benchmark Win for Modern CPUs",
+        "url": "https://www.phoronix.com/news/GCC-x86-Generic-Mispredict",
+        "timestamp": "2026-06-25T11:20:00.840719",
+        "source": "Hacker News"
     }
 ]
