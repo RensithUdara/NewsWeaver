@@ -352870,5 +352870,11 @@
         "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
         "timestamp": "2026-06-26T14:41:57.985171",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
+        "url": "https://github.com/DDecoene/WebBaseIII",
+        "timestamp": "2026-06-26T14:41:57.985422",
+        "source": "Hacker News"
     }
 ]
