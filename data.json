@@ -353092,5 +353092,11 @@
         "url": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/",
         "timestamp": "2026-06-26T16:50:31.461162",
         "source": "Hacker News"
+    },
+    {
+        "title": "Combining LLMs Rarely Beats the Best Single Model, I tested 67 frontier models",
+        "url": "https://arxiv.org/abs/2606.27288",
+        "timestamp": "2026-06-26T16:50:31.461202",
+        "source": "Hacker News"
     }
 ]
