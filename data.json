@@ -352798,5 +352798,11 @@
         "url": "https://www.noctua.at/en/expertise/tech/fan-speed-offset-explained",
         "timestamp": "2026-06-26T12:02:42.103122",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Git-lazy-mount mount a repo without cloning it. Works with ordinary Git",
+        "url": "https://github.com/mohsen1/git-lazy-mount",
+        "timestamp": "2026-06-26T12:02:42.103148",
+        "source": "Hacker News"
     }
 ]
