@@ -354154,5 +354154,11 @@
         "url": "https://cat.strayforge.com/posts/investment-reflection/",
         "timestamp": "2026-06-26T23:54:30.607543",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why It's So Hard to Add a Column in the Middle of a PostgreSQL Table",
+        "url": "https://www.bytebase.com/blog/why-its-hard-to-add-a-column-in-the-middle-of-postgres-table/",
+        "timestamp": "2026-06-26T23:54:30.607581",
+        "source": "Hacker News"
     }
 ]
