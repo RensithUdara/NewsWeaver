@@ -353614,5 +353614,11 @@
         "url": "https://www.youtube.com/watch?v=RcjbMCRErz4",
         "timestamp": "2026-06-26T20:15:14.884564",
         "source": "Hacker News"
+    },
+    {
+        "title": "Amazon Q flaw let booby-trapped Git repos execute code, swipe cloud creds",
+        "url": "https://www.theregister.com/cyber-crime/2026/06/26/amazon-q-flaw-let-booby-trapped-git-repos-execute-code-swipe-cloud-creds/5263202",
+        "timestamp": "2026-06-26T20:15:14.884598",
+        "source": "Hacker News"
     }
 ]
