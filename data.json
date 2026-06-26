@@ -354142,5 +354142,11 @@
         "url": "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/",
         "timestamp": "2026-06-26T23:54:30.607469",
         "source": "Hacker News"
+    },
+    {
+        "title": "ComAI – An open-source Linux assistant for troubleshooting with local LLMs",
+        "url": "https://github.com/hossbit/comai-linux-assistant",
+        "timestamp": "2026-06-26T23:54:30.607507",
+        "source": "Hacker News"
     }
 ]
