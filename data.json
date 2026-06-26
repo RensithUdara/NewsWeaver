@@ -352570,5 +352570,11 @@
         "url": "https://demiculus.com/midwit-cleanse/",
         "timestamp": "2026-06-26T09:47:20.821215",
         "source": "Hacker News"
+    },
+    {
+        "title": "Translating Pandas to Polars using LLMs",
+        "url": "https://pola.rs/posts/llm-polars-patterns/",
+        "timestamp": "2026-06-26T09:47:20.821249",
+        "source": "Hacker News"
     }
 ]
