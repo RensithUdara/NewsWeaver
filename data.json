@@ -352228,5 +352228,11 @@
         "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
         "timestamp": "2026-06-26T06:01:12.038554",
         "source": "Hacker News"
+    },
+    {
+        "title": "Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB",
+        "url": "https://news.ycombinator.com/item?id=48644463",
+        "timestamp": "2026-06-26T06:01:12.038666",
+        "source": "Hacker News"
     }
 ]
