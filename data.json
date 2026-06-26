@@ -352696,5 +352696,11 @@
         "url": "https://news.ycombinator.com/item?id=48685606",
         "timestamp": "2026-06-26T12:02:42.102749",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open-source machine identity security (IAM roles outnumber humans 82:1)",
+        "url": "https://github.com/josephtui767-cloud/MII",
+        "timestamp": "2026-06-26T12:02:42.102770",
+        "source": "Hacker News"
     }
 ]
