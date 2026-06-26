@@ -353128,5 +353128,11 @@
         "url": "https://www.ti.com/product/MSPM0C1104",
         "timestamp": "2026-06-26T16:50:31.461379",
         "source": "Hacker News"
+    },
+    {
+        "title": "An eBook dictionary generator for Dungeon Crawler Carl, or any other fandom",
+        "url": "https://github.com/jmcguire/dungeon-crawler-carl-dict",
+        "timestamp": "2026-06-26T16:50:31.461416",
+        "source": "Hacker News"
     }
 ]
