@@ -352954,5 +352954,11 @@
         "url": "https://nautil.us/perseverance-scratches-the-martian-surface-finds-organic-carbon-1282262",
         "timestamp": "2026-06-26T14:41:58.288956",
         "source": "Hacker News"
+    },
+    {
+        "title": "Airlock – crash isolation for Swift on macOS without fork()",
+        "url": "https://github.com/MaximKotliar/Airlock",
+        "timestamp": "2026-06-26T14:41:58.288990",
+        "source": "Hacker News"
     }
 ]
