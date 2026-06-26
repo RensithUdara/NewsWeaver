@@ -352876,5 +352876,11 @@
         "url": "https://github.com/DDecoene/WebBaseIII",
         "timestamp": "2026-06-26T14:41:57.985422",
         "source": "Hacker News"
+    },
+    {
+        "title": "FEXPRs vs. vtable: how LispE interpreter works",
+        "url": "https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable",
+        "timestamp": "2026-06-26T14:41:57.985524",
+        "source": "Hacker News"
     }
 ]
