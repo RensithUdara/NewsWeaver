@@ -354238,5 +354238,11 @@
         "url": "https://news.ycombinator.com/item?id=48693360",
         "timestamp": "2026-06-26T23:54:30.608061",
         "source": "Hacker News"
+    },
+    {
+        "title": "Steam Controller auto-charge with computer vision tracking",
+        "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+        "timestamp": "2026-06-26T23:54:30.608094",
+        "source": "Hacker News"
     }
 ]
