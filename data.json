@@ -352432,5 +352432,11 @@
         "url": "https://exa.ai/blog/announcing-series-c",
         "timestamp": "2026-06-26T09:47:20.820305",
         "source": "Hacker News"
+    },
+    {
+        "title": "MDLight: 14MB Markdown reader (Wails, Go and Svelte) – no vaults or plugins",
+        "url": "https://github.com/mdlight-dev/mdlight/",
+        "timestamp": "2026-06-26T09:47:20.820351",
+        "source": "Hacker News"
     }
 ]
