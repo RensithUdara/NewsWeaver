@@ -352474,5 +352474,11 @@
         "url": "https://www.convertblink.com/",
         "timestamp": "2026-06-26T09:47:20.820600",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built a small audit layer for LLM-as-judge decisions",
+        "url": "https://github.com/MatteoLeonesi/claim-memory-graph-sdk",
+        "timestamp": "2026-06-26T09:47:20.820635",
+        "source": "Hacker News"
     }
 ]
