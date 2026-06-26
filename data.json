@@ -353176,5 +353176,11 @@
         "url": "https://www.cnbc.com/video/2026/06/26/openai-set-to-limit-gpt-5-point-6-rollout-after-call-from-trump-administration.html",
         "timestamp": "2026-06-26T16:50:31.461647",
         "source": "Hacker News"
+    },
+    {
+        "title": "Silk is a stackful-fiber library, scheduler with a work-stealing loop, io_uring",
+        "url": "https://clickhouse.com/blog/silk",
+        "timestamp": "2026-06-26T16:50:31.461681",
+        "source": "Hacker News"
     }
 ]
