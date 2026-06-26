@@ -353002,5 +353002,11 @@
         "url": "https://www.youtube.com/watch?v=a0Ehoc65MF8",
         "timestamp": "2026-06-26T14:41:58.289243",
         "source": "Hacker News"
+    },
+    {
+        "title": "BrokenClaw Part 7: Opus-4.8 Edition – All Emails Lead to RCE",
+        "url": "https://veganmosfet.codeberg.page/posts/2026-06-04-openclaw_opus48/",
+        "timestamp": "2026-06-26T14:41:58.289276",
+        "source": "Hacker News"
     }
 ]
