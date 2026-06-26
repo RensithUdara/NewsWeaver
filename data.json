@@ -354070,5 +354070,11 @@
         "url": "https://news.ycombinator.com/item?id=48692646",
         "timestamp": "2026-06-26T22:51:11.400722",
         "source": "Hacker News"
+    },
+    {
+        "title": "Skill for generating cheatsheet PDF optimized for the reMarkable eink",
+        "url": "https://github.com/Deca/remarkable-cheatsheet",
+        "timestamp": "2026-06-26T22:51:11.400750",
+        "source": "Hacker News"
     }
 ]
