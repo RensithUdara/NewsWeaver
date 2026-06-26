@@ -352990,5 +352990,11 @@
         "url": "https://www.cnbc.com/cures/",
         "timestamp": "2026-06-26T14:41:58.289177",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ZeroGate – API gateway to scale cloud GPUs to zero when idle",
+        "url": "https://github.com/noah-garner/zerogate",
+        "timestamp": "2026-06-26T14:41:58.289211",
+        "source": "Hacker News"
     }
 ]
