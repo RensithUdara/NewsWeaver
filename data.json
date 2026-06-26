@@ -353404,5 +353404,11 @@
         "url": "https://www.youtube.com/watch?v=lHQ8c8i42VE",
         "timestamp": "2026-06-26T18:22:17.572987",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bigger context windows are the wrong abstraction for coding agents",
+        "url": "https://sigilix.ai/blog/bigger-context-windows-are-the-wrong-abstraction-for-coding-agents",
+        "timestamp": "2026-06-26T18:22:17.573020",
+        "source": "Hacker News"
     }
 ]
