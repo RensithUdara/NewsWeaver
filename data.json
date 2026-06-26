@@ -353524,5 +353524,11 @@
         "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
         "timestamp": "2026-06-26T20:15:14.788761",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
+        "url": "https://gossamer-lang.org/",
+        "timestamp": "2026-06-26T20:15:14.788888",
+        "source": "Hacker News"
     }
 ]
