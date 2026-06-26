@@ -353674,5 +353674,11 @@
         "url": "https://arxiv.org/abs/2606.24496",
         "timestamp": "2026-06-26T20:15:14.884957",
         "source": "Hacker News"
+    },
+    {
+        "title": "Apache Kafka's log compaction corrupts data",
+        "url": "https://www.redpanda.com/blog/kafka-log-compaction-bug-fix-streaming",
+        "timestamp": "2026-06-26T20:15:14.884992",
+        "source": "Hacker News"
     }
 ]
