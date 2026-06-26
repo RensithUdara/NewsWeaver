@@ -353548,5 +353548,11 @@
         "url": "https://epoch.ai/MirrorCode",
         "timestamp": "2026-06-26T20:15:14.884153",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reed-Solomon for OCR: error correction for messy printed codes",
+        "url": "https://github.com/chasangchual/reed-solomon-for-ocr",
+        "timestamp": "2026-06-26T20:15:14.884197",
+        "source": "Hacker News"
     }
 ]
