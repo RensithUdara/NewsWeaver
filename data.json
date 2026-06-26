@@ -353314,5 +353314,11 @@
         "url": "https://news.ycombinator.com/item?id=48687769",
         "timestamp": "2026-06-26T18:22:17.378206",
         "source": "Hacker News"
+    },
+    {
+        "title": "Murmur: Shared communication bus for your coding agents",
+        "url": "https://github.com/instavm/murmur",
+        "timestamp": "2026-06-26T18:22:17.572452",
+        "source": "Hacker News"
     }
 ]
