@@ -352318,5 +352318,11 @@
         "url": "https://censys.com/blog/following-a-usps-smishing-kit-through-censys-dns-data/",
         "timestamp": "2026-06-26T06:01:12.330542",
         "source": "Hacker News"
+    },
+    {
+        "title": "I feed my coding agent JSON instead of screenshots",
+        "url": "https://slimsnap.ai/blog/json-not-screenshots",
+        "timestamp": "2026-06-26T06:01:12.330570",
+        "source": "Hacker News"
     }
 ]
