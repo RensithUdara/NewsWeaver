@@ -354124,5 +354124,11 @@
         "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
         "timestamp": "2026-06-26T23:54:30.303981",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Tiny Compiler for Data-Parallel Kernels",
+        "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
+        "timestamp": "2026-06-26T23:54:30.304214",
+        "source": "Hacker News"
     }
 ]
