@@ -352324,5 +352324,11 @@
         "url": "https://slimsnap.ai/blog/json-not-screenshots",
         "timestamp": "2026-06-26T06:01:12.330570",
         "source": "Hacker News"
+    },
+    {
+        "title": "Turning brain prediction models into testable explanations",
+        "url": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+        "timestamp": "2026-06-26T06:01:12.330622",
+        "source": "Hacker News"
     }
 ]
