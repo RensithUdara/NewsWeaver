@@ -356236,5 +356236,11 @@
         "url": "https://unesdoc.unesco.org/ark:/48223/pf0000394849",
         "timestamp": "2026-06-27T18:52:23.362808",
         "source": "Hacker News"
+    },
+    {
+        "title": "How we made parallel pytest safe for multi-tenant agent swarms",
+        "url": "https://equatorops.com/resources/blog/parallel-pytest-agent-swarms",
+        "timestamp": "2026-06-27T18:52:23.362843",
+        "source": "Hacker News"
     }
 ]
