@@ -356308,5 +356308,11 @@
         "url": "https://fred.stlouisfed.org/graph/?m=1wm8j",
         "timestamp": "2026-06-27T20:02:28.052795",
         "source": "Hacker News"
+    },
+    {
+        "title": "FieldStation42: Broadcast and Cable TV Simulator",
+        "url": "https://github.com/shane-mason/FieldStation42",
+        "timestamp": "2026-06-27T20:02:28.052828",
+        "source": "Hacker News"
     }
 ]
