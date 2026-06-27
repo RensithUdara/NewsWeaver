@@ -355402,5 +355402,11 @@
         "url": "https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html",
         "timestamp": "2026-06-27T14:02:23.600225",
         "source": "Hacker News"
+    },
+    {
+        "title": "Slowjson – attack on HTTP servers accepting JSON with chunked transfer encoding",
+        "url": "https://github.com/cr0hn/slowjson",
+        "timestamp": "2026-06-27T14:02:23.600259",
+        "source": "Hacker News"
     }
 ]
