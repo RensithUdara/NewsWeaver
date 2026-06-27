@@ -355570,5 +355570,11 @@
         "url": "https://ai-creed.dev/projects/ai-whisper/",
         "timestamp": "2026-06-27T15:22:34.585346",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Apex-1-flash, 4B LLM finetuned on RTX 5070",
+        "url": "https://huggingface.co/OrbitAIEU/Apex-1-flash",
+        "timestamp": "2026-06-27T15:22:34.585380",
+        "source": "Hacker News"
     }
 ]
