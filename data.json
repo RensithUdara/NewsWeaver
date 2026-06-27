@@ -355288,5 +355288,11 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/18410202/",
         "timestamp": "2026-06-27T12:02:10.061466",
         "source": "Hacker News"
+    },
+    {
+        "title": "Understanding the Linux Kernel: The Scheduler",
+        "url": "https://internals-for-interns.com/posts/linux-kernel-scheduler/",
+        "timestamp": "2026-06-27T12:02:10.061500",
+        "source": "Hacker News"
     }
 ]
