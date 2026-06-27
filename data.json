@@ -354610,5 +354610,11 @@
         "url": "https://huggingface.co/spaces/LiquidAI/LFM2-VL-WebGPU",
         "timestamp": "2026-06-27T06:02:01.982505",
         "source": "Hacker News"
+    },
+    {
+        "title": "Qwen3.5 WebGPU",
+        "url": "https://huggingface.co/spaces/webml-community/Qwen3.5-WebGPU",
+        "timestamp": "2026-06-27T06:02:01.982519",
+        "source": "Hacker News"
     }
 ]
