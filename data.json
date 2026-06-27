@@ -354928,5 +354928,11 @@
         "url": "https://www.producthunt.com/products/supra-player",
         "timestamp": "2026-06-27T08:47:42.094426",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+        "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+        "timestamp": "2026-06-27T10:47:51.307182",
+        "source": "Hacker News"
     }
 ]
