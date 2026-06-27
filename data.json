@@ -356890,5 +356890,11 @@
         "url": "https://www.phoronix.com/news/Reserved-THP-Linux",
         "timestamp": "2026-06-27T23:17:46.516975",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to Audit a Legacy Codebase in the First Week",
+        "url": "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/",
+        "timestamp": "2026-06-27T23:17:46.517009",
+        "source": "Hacker News"
     }
 ]
