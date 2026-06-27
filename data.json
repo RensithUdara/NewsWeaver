@@ -354754,5 +354754,11 @@
         "url": "http://www-graphics.stanford.edu/~tolis/toli/other/eyes.html",
         "timestamp": "2026-06-27T08:47:41.746008",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fine-tuned a model on Advaita Vedanta text",
+        "url": "https://huggingface.co/aaravshirpurkar/turiya-model",
+        "timestamp": "2026-06-27T08:47:41.746036",
+        "source": "Hacker News"
     }
 ]
