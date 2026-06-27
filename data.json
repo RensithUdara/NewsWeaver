@@ -354946,5 +354946,11 @@
         "url": "https://www.beercss.com",
         "timestamp": "2026-06-27T10:47:51.307463",
         "source": "Hacker News"
+    },
+    {
+        "title": "Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",
+        "url": "https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab",
+        "timestamp": "2026-06-27T10:47:51.307497",
+        "source": "Hacker News"
     }
 ]
