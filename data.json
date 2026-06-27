@@ -356050,5 +356050,11 @@
         "url": "https://hackerhouses.org",
         "timestamp": "2026-06-27T17:41:14.496838",
         "source": "Hacker News"
+    },
+    {
+        "title": "Next.js 16 Server Actions Security: The Auth Check Most Developers Miss",
+        "url": "https://dev.to/shubhradev/nextjs-16-server-actions-security-the-auth-check-most-developers-miss-1ei1",
+        "timestamp": "2026-06-27T17:41:14.695881",
+        "source": "Dev.to"
     }
 ]
