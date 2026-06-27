@@ -355774,5 +355774,11 @@
         "url": "https://www.lambdadays.org/lambdadays2025/dave-kimber",
         "timestamp": "2026-06-27T16:35:44.102056",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Hardwood 1.0: A Fast, Lightweight Apache Parquet Reader for the JVM",
+        "url": "https://hardwood.dev/1.0.0.Final/",
+        "timestamp": "2026-06-27T16:35:44.102082",
+        "source": "Hacker News"
     }
 ]
