@@ -354970,5 +354970,11 @@
         "url": "https://www.zeit.de/digital/2026-06/openai-gpt-5-6-ki-modell-sol-usa",
         "timestamp": "2026-06-27T10:47:51.402254",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: PreFlight – A local AST background daemon to catch AI code drift",
+        "url": "https://preflight-vibe.vercel.app/",
+        "timestamp": "2026-06-27T10:47:51.402295",
+        "source": "Hacker News"
     }
 ]
