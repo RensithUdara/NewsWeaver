@@ -355228,5 +355228,11 @@
         "url": "https://phys.org/news/2026-06-germany-hottest-temperature-413c-weather.html",
         "timestamp": "2026-06-27T12:02:10.061119",
         "source": "Hacker News"
+    },
+    {
+        "title": "Jeeves: A minimal systemd TUI written in Go for lightweight hardware",
+        "url": "https://github.com/aymanhs/jeeves",
+        "timestamp": "2026-06-27T12:02:10.061152",
+        "source": "Hacker News"
     }
 ]
