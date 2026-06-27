@@ -354628,5 +354628,11 @@
         "url": "https://www.datacentermap.com/",
         "timestamp": "2026-06-27T06:02:01.982547",
         "source": "Hacker News"
+    },
+    {
+        "title": "AirPlay for Google (Android) TV Chromecast",
+        "url": "https://github.com/lekandigital/android-tv-airplay-receiver",
+        "timestamp": "2026-06-27T06:02:01.982561",
+        "source": "Hacker News"
     }
 ]
