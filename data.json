@@ -356872,5 +356872,11 @@
         "url": "https://github.com/puffinsoft/peek-cli",
         "timestamp": "2026-06-27T23:17:46.516872",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Sasso – pure-Rust SCSS compiler, byte-exact to current dart-sass",
+        "url": "https://github.com/momiji-rs/sasso",
+        "timestamp": "2026-06-27T23:17:46.516908",
+        "source": "Hacker News"
     }
 ]
