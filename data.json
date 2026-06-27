@@ -354676,5 +354676,11 @@
         "url": "https://www.ioccc.org/2025/uellenberg/index.html",
         "timestamp": "2026-06-27T06:02:01.982665",
         "source": "Hacker News"
+    },
+    {
+        "title": "Testing 67 Models: Combining LLMs Rarely Beats the Best Single Model",
+        "url": "https://huggingface.co/spaces/josefchen/orchestration-is-allocation",
+        "timestamp": "2026-06-27T06:02:01.982699",
+        "source": "Hacker News"
     }
 ]
