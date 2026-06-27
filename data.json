@@ -354790,5 +354790,11 @@
         "url": "https://compute.neophotonics.ca/",
         "timestamp": "2026-06-27T08:47:41.746217",
         "source": "Hacker News"
+    },
+    {
+        "title": "Higher rate limits on the Claude API",
+        "url": "https://platform.claude.com/docs/en/api/rate-limits",
+        "timestamp": "2026-06-27T08:47:41.746247",
+        "source": "Hacker News"
     }
 ]
