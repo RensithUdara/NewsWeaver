@@ -355090,5 +355090,11 @@
         "url": "https://theconversation.com/how-padel-disrupted-the-genteel-world-of-lawn-tennis-285867",
         "timestamp": "2026-06-27T10:47:51.403125",
         "source": "Hacker News"
+    },
+    {
+        "title": "NVMe-CLI v3.0B.1 ships per-cycle sanitize verification",
+        "url": "https://github.com/linux-nvme/nvme-cli/releases/tag/v3.0-b.1",
+        "timestamp": "2026-06-27T10:47:51.403166",
+        "source": "Hacker News"
     }
 ]
