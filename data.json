@@ -356794,5 +356794,11 @@
         "url": "https://magic.wizards.com/en/news/feature/remembering-the-life-and-artwork-of-ron-spears",
         "timestamp": "2026-06-27T23:17:46.334476",
         "source": "Hacker News"
+    },
+    {
+        "title": "Logigate: Session gating and ephemeral isolation framework",
+        "url": "https://crates.io/crates/logigate",
+        "timestamp": "2026-06-27T23:17:46.516419",
+        "source": "Hacker News"
     }
 ]
