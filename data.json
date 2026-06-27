@@ -355834,5 +355834,11 @@
         "url": "https://github.com/lsb11/shopify-capi-validator",
         "timestamp": "2026-06-27T16:35:44.102331",
         "source": "Hacker News"
+    },
+    {
+        "title": "Native Hacker News TUI client with AI comments summary written in Golang",
+        "url": "https://code.intellios.ai/cwnews/",
+        "timestamp": "2026-06-27T16:35:44.102361",
+        "source": "Hacker News"
     }
 ]
