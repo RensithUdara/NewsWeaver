@@ -358798,5 +358798,11 @@
         "url": "https://www.bgr.com/2186797/nvidia-home-mini-ai-data-center-span/",
         "timestamp": "2026-06-28T17:35:42.830586",
         "source": "Hacker News"
+    },
+    {
+        "title": "Magit - a complete text-based user interface to Git",
+        "url": "https://github.com/magit/magit",
+        "timestamp": "2026-06-28T17:35:42.830612",
+        "source": "Hacker News"
     }
 ]
