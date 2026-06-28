@@ -359536,5 +359536,11 @@
         "url": "https://www.theatlantic.com/ideas/2026/06/higher-education-universities-public-trust/687714/",
         "timestamp": "2026-06-28T21:12:14.639567",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Drift, write LLM agents in English and transpile to async Python",
+        "url": "https://github.com/rileyq7/drift",
+        "timestamp": "2026-06-28T21:12:14.639599",
+        "source": "Hacker News"
     }
 ]
