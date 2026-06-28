@@ -358870,5 +358870,11 @@
         "url": "https://www.puzzmo.com/today",
         "timestamp": "2026-06-28T18:01:05.899352",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fontdue: The fastest font renderer in the world, written in pure rust",
+        "url": "https://github.com/mooman219/fontdue",
+        "timestamp": "2026-06-28T18:01:05.899367",
+        "source": "Hacker News"
     }
 ]
