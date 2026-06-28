@@ -358360,5 +358360,11 @@
         "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
         "timestamp": "2026-06-28T16:05:08.915736",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Tsar-MCP – How to Create an MCPServer Aspect in C/C++",
+        "url": "https://ibm.github.io/tsar-mcp/mcp/doc/MCPServer_AspectGuide.html",
+        "timestamp": "2026-06-28T16:05:08.915772",
+        "source": "Hacker News"
     }
 ]
