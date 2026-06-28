@@ -357754,5 +357754,11 @@
         "url": "https://news.ycombinator.com/item?id=48706578",
         "timestamp": "2026-06-28T12:06:06.302376",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tldr.fail – buggy servers break PQ KEX compatibility in TLS",
+        "url": "https://tldr.fail/",
+        "timestamp": "2026-06-28T12:06:06.302420",
+        "source": "Hacker News"
     }
 ]
