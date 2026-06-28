@@ -358714,5 +358714,11 @@
         "url": "https://www.youtube.com/watch?v=K3Hvy4CKVpg",
         "timestamp": "2026-06-28T17:35:42.830204",
         "source": "Hacker News"
+    },
+    {
+        "title": "Security Baked into the JVM: Why Fork Apache River and OpenJDK?",
+        "url": "https://blog.frankel.ch/security-baked-into-jvm/1/",
+        "timestamp": "2026-06-28T17:35:42.830231",
+        "source": "Hacker News"
     }
 ]
