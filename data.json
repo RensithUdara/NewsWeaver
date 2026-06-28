@@ -357664,5 +357664,11 @@
         "url": "https://www.auditablelicense.org/",
         "timestamp": "2026-06-28T10:35:19.478162",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kubernetes CPU requests and limits, explained through cgroups",
+        "url": "https://roszigit.com/en/blog/kubernetes-cpu-request-limit/",
+        "timestamp": "2026-06-28T10:35:19.478197",
+        "source": "Hacker News"
     }
 ]
