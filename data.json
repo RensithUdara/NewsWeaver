@@ -359962,5 +359962,11 @@
         "url": "https://news.ycombinator.com/item?id=48712376",
         "timestamp": "2026-06-28T23:12:46.163045",
         "source": "Hacker News"
+    },
+    {
+        "title": "50K-token context reloads, replaced by a 2K local memory engine",
+        "url": "https://github.com/CodeAbra/iai-personal-memory-engine",
+        "timestamp": "2026-06-28T23:41:13.651318",
+        "source": "Hacker News"
     }
 ]
