@@ -359818,5 +359818,11 @@
         "url": "https://www.tauday.com/state-of-the-tau-current",
         "timestamp": "2026-06-28T22:40:22.829932",
         "source": "Hacker News"
+    },
+    {
+        "title": "Khaos C2: Building a Custom Command and Control from Scratch",
+        "url": "https://medium.com/@28zaaky/khaos-c2-building-a-fully-custom-command-and-control-from-scratch-95c638a15f88",
+        "timestamp": "2026-06-28T22:40:22.829968",
+        "source": "Hacker News"
     }
 ]
