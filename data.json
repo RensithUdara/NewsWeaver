@@ -359188,5 +359188,11 @@
         "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
         "timestamp": "2026-06-28T19:41:44.317969",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ante: A New Way to Blend Borrow Checking and Reference Counting",
+        "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
+        "timestamp": "2026-06-28T19:41:44.318004",
+        "source": "Hacker News"
     }
 ]
