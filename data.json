@@ -359380,5 +359380,11 @@
         "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
         "timestamp": "2026-06-28T20:14:14.160924",
         "source": "Hacker News"
+    },
+    {
+        "title": "MovementHound: Windows lateral movement enumeration with minimal‑rights focus",
+        "url": "https://github.com/pol4ir/MovementHound",
+        "timestamp": "2026-06-28T20:14:14.160962",
+        "source": "Hacker News"
     }
 ]
