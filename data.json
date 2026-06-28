@@ -359116,5 +359116,11 @@
         "url": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
         "timestamp": "2026-06-28T19:02:42.882984",
         "source": "Hacker News"
+    },
+    {
+        "title": "PostgreSQL and ClickHouse as the Open Source unified data stack",
+        "url": "https://clickhouse.com/blog/postgres-clickhouse-oss",
+        "timestamp": "2026-06-28T19:02:42.883025",
+        "source": "Hacker News"
     }
 ]
