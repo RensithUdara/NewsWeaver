@@ -357046,5 +357046,11 @@
         "url": "https://blog.weineng.me/posts/slowest_add",
         "timestamp": "2026-06-28T00:16:20.322576",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kops: Extending the eBPF JIT with native ops you don't have to trust",
+        "url": "https://arxiv.org/abs/2606.24213",
+        "timestamp": "2026-06-28T00:16:20.322609",
+        "source": "Hacker News"
     }
 ]
