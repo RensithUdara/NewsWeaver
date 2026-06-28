@@ -357556,5 +357556,11 @@
         "url": "https://typographica.org/on-typography/jim-parkinson-1941-2025/",
         "timestamp": "2026-06-28T10:35:19.166365",
         "source": "Hacker News"
+    },
+    {
+        "title": "Armadillo – A DNS Server in Gleam for Homelab Use",
+        "url": "https://github.com/vshakitskiy/armadillo",
+        "timestamp": "2026-06-28T10:35:19.166697",
+        "source": "Hacker News"
     }
 ]
