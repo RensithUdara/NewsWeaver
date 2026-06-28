@@ -358858,5 +358858,11 @@
         "url": "https://borkd.dev/",
         "timestamp": "2026-06-28T18:01:05.899321",
         "source": "Hacker News"
+    },
+    {
+        "title": "Node.js io_uring over napi-rs, more then 2x performance",
+        "url": "https://github.com/avifenesh/ferrings",
+        "timestamp": "2026-06-28T18:01:05.899336",
+        "source": "Hacker News"
     }
 ]
