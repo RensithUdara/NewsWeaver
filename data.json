@@ -357670,5 +357670,11 @@
         "url": "https://roszigit.com/en/blog/kubernetes-cpu-request-limit/",
         "timestamp": "2026-06-28T10:35:19.478197",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cancellation of Windows Runtime activities is asynchronous",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465",
+        "timestamp": "2026-06-28T10:35:19.478230",
+        "source": "Hacker News"
     }
 ]
