@@ -359104,5 +359104,11 @@
         "url": "https://smist08.wordpress.com/2026/06/25/linux-kills-strncpy/",
         "timestamp": "2026-06-28T19:02:42.575883",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLDB MCP",
+        "url": "https://lldb.llvm.org/use/mcp.html",
+        "timestamp": "2026-06-28T19:02:42.882926",
+        "source": "Hacker News"
     }
 ]
