@@ -357628,5 +357628,11 @@
         "url": "https://github.com/Th0rgal/open_oura",
         "timestamp": "2026-06-28T10:35:19.477952",
         "source": "Hacker News"
+    },
+    {
+        "title": "DLL that was not present in memory despite not being formally unloaded",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+        "timestamp": "2026-06-28T10:35:19.477987",
+        "source": "Hacker News"
     }
 ]
