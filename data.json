@@ -359278,5 +359278,11 @@
         "url": "https://github.com/diegoparrilla/midi-maze-js",
         "timestamp": "2026-06-28T19:41:44.318404",
         "source": "Hacker News"
+    },
+    {
+        "title": "WinPE as a stateless harness for Windows driver testing and fuzzing",
+        "url": "https://bednars.me/blog/winpe-harness",
+        "timestamp": "2026-06-28T19:41:44.318432",
+        "source": "Hacker News"
     }
 ]
