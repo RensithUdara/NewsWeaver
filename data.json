@@ -359476,5 +359476,11 @@
         "url": "https://claude.com/docs/connectors/google/gmail",
         "timestamp": "2026-06-28T20:42:37.912661",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Last Museum: a search site for museum art",
+        "url": "https://lastmuseum.com/",
+        "timestamp": "2026-06-28T20:42:37.912702",
+        "source": "Hacker News"
     }
 ]
