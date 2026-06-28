@@ -359272,5 +359272,11 @@
         "url": "https://epub.mirror.forum",
         "timestamp": "2026-06-28T19:41:44.318376",
         "source": "Hacker News"
+    },
+    {
+        "title": "A wire-faithful, browser-based re-creation of the Atari ST game MIDI Maze",
+        "url": "https://github.com/diegoparrilla/midi-maze-js",
+        "timestamp": "2026-06-28T19:41:44.318404",
+        "source": "Hacker News"
     }
 ]
