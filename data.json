@@ -357478,5 +357478,11 @@
         "url": "https://news.ycombinator.com/item?id=48705194",
         "timestamp": "2026-06-28T08:15:26.223959",
         "source": "Hacker News"
+    },
+    {
+        "title": "A new metadata engine for high performance Object Storage (not LSM, not B+ tree)",
+        "url": "https://fractalbits.com/blog/metadata-engine-for-our-object-storage-from-lsm-tree-to-fractal-art/",
+        "timestamp": "2026-06-28T08:15:26.223993",
+        "source": "Hacker News"
     }
 ]
