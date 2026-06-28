@@ -357100,5 +357100,11 @@
         "url": "https://decomp-academy.dev",
         "timestamp": "2026-06-28T04:53:07.465757",
         "source": "Hacker News"
+    },
+    {
+        "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+        "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+        "timestamp": "2026-06-28T04:53:07.465804",
+        "source": "Hacker News"
     }
 ]
