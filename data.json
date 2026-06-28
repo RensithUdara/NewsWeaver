@@ -359704,5 +359704,11 @@
         "url": "https://news.ycombinator.com/item?id=48712130",
         "timestamp": "2026-06-28T22:11:10.810656",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making POSIX filesystems replicated and highly available",
+        "url": "https://www.zerofs.net/blog/highly-available-posix-on-s3",
+        "timestamp": "2026-06-28T22:11:10.810690",
+        "source": "Hacker News"
     }
 ]
