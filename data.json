@@ -359686,5 +359686,11 @@
         "url": "https://precon.substack.com/p/fixed-rate-mortgages-are-rent-control",
         "timestamp": "2026-06-28T22:11:10.810549",
         "source": "Hacker News"
+    },
+    {
+        "title": "Content-defined chunking in Go: 3.7 GB/s and a third less memory",
+        "url": "https://www.plakar.io/posts/2026-06-14/go-cdc-chunkers-v1.1.0-faster-leaner-and-provably-correct/",
+        "timestamp": "2026-06-28T22:11:10.810582",
+        "source": "Hacker News"
     }
 ]
