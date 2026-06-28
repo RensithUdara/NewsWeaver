@@ -357040,5 +357040,11 @@
         "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
         "timestamp": "2026-06-28T00:16:20.322541",
         "source": "Hacker News"
+    },
+    {
+        "title": "Data Access Patterns That Makes Your CPU Angry",
+        "url": "https://blog.weineng.me/posts/slowest_add",
+        "timestamp": "2026-06-28T00:16:20.322576",
+        "source": "Hacker News"
     }
 ]
