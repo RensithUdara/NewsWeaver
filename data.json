@@ -359752,5 +359752,11 @@
         "url": "https://rlmlocal.com",
         "timestamp": "2026-06-28T22:11:10.810961",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Added TurboQuant to Pgvector",
+        "url": "https://github.com/pgvector/pgvector/pull/989",
+        "timestamp": "2026-06-28T22:11:10.810995",
+        "source": "Hacker News"
     }
 ]
