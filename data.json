@@ -358036,5 +358036,11 @@
         "url": "https://forkingmad.blog/tech-morality-is-hard/",
         "timestamp": "2026-06-28T14:09:53.357333",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hestia – a local-first Home Assistant that trusts timers over the LLM",
+        "url": "https://github.com/thefullnacho/hestia",
+        "timestamp": "2026-06-28T14:09:53.357366",
+        "source": "Hacker News"
     }
 ]
