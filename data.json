@@ -358552,5 +358552,11 @@
         "url": "https://github.com/yusukeshib/looop",
         "timestamp": "2026-06-28T16:36:26.712935",
         "source": "Hacker News"
+    },
+    {
+        "title": "We tracked 1M LLM API calls – 62% were using the wrong model",
+        "url": "https://tokonomics.ca/blog/we-tracked-1m-llm-api-calls-most-were-wasting-money",
+        "timestamp": "2026-06-28T16:36:26.712976",
+        "source": "Hacker News"
     }
 ]
