@@ -359452,5 +359452,11 @@
         "url": "https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html",
         "timestamp": "2026-06-28T20:42:37.912553",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I reverse-engineered the RLF log format used by REMUS underwater drones",
+        "url": "https://github.com/isaacgerg/remus-rlf-reader",
+        "timestamp": "2026-06-28T20:42:37.912578",
+        "source": "Hacker News"
     }
 ]
