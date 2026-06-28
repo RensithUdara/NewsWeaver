@@ -358690,5 +358690,11 @@
         "url": "https://verigate.cloud",
         "timestamp": "2026-06-28T17:35:42.830078",
         "source": "Hacker News"
+    },
+    {
+        "title": "AgentCrawl, a small self-hosted crawler for AI agents",
+        "url": "https://github.com/JorG18/agentcrawl",
+        "timestamp": "2026-06-28T17:35:42.830118",
+        "source": "Hacker News"
     }
 ]
