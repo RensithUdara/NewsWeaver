@@ -357058,5 +357058,11 @@
         "url": "https://news.ycombinator.com/item?id=48702829",
         "timestamp": "2026-06-28T00:16:20.322643",
         "source": "Hacker News"
+    },
+    {
+        "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+        "url": "https://arxiv.org/abs/2606.22283",
+        "timestamp": "2026-06-28T00:16:20.322676",
+        "source": "Hacker News"
     }
 ]
