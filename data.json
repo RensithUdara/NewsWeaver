@@ -357706,5 +357706,11 @@
         "url": "https://age-of-product.com/ai-delegation-audit/",
         "timestamp": "2026-06-28T10:35:19.478398",
         "source": "Hacker News"
+    },
+    {
+        "title": "A guide on how to run Nemotron 3 Super 120B Thinking on 2 Nvidia DGX Spark",
+        "url": "https://corti.com/serving-nemotron-super-120b-with-a-1m-token-context-on-a-2-node-dgx-spark-cluster/",
+        "timestamp": "2026-06-28T10:35:19.478432",
+        "source": "Hacker News"
     }
 ]
