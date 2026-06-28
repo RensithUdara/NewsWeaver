@@ -357646,5 +357646,11 @@
         "url": "https://letterphile.com",
         "timestamp": "2026-06-28T10:35:19.478055",
         "source": "Hacker News"
+    },
+    {
+        "title": "Local semantic search engine in Rust, no external DB",
+        "url": "https://github.com/Gabriele06-local/LocalMind",
+        "timestamp": "2026-06-28T10:35:19.478090",
+        "source": "Hacker News"
     }
 ]
