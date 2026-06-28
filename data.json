@@ -357844,5 +357844,11 @@
         "url": "https://www.swissinfo.ch/eng/climate-adaptation/why-artificial-rain-is-not-a-solution-to-drought/91653947",
         "timestamp": "2026-06-28T12:06:06.302998",
         "source": "Hacker News"
+    },
+    {
+        "title": "Perceus: Garbage free reference counting with reuse",
+        "url": "https://dl.acm.org/doi/10.1145/3453483.3454032",
+        "timestamp": "2026-06-28T12:06:06.303035",
+        "source": "Hacker News"
     }
 ]
