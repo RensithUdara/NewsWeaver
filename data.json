@@ -357916,5 +357916,11 @@
         "url": "https://book.jank-lang.org/index.html",
         "timestamp": "2026-06-28T12:06:06.303458",
         "source": "Hacker News"
+    },
+    {
+        "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+        "url": "https://github.com/openai/codex/issues/2847",
+        "timestamp": "2026-06-28T14:09:53.052835",
+        "source": "Hacker News"
     }
 ]
