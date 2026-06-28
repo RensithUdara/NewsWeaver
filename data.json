@@ -359950,5 +359950,11 @@
         "url": "https://www.reddit.com/r/AskReddit/s/Sf9sqnAqRr",
         "timestamp": "2026-06-28T23:12:46.162769",
         "source": "Hacker News"
+    },
+    {
+        "title": "QUIC, HTTP/3 and WebTransport Vulnerabilities and How PQCrypta Mitigates Them",
+        "url": "https://pqcrypta.com/quic-hardening/",
+        "timestamp": "2026-06-28T23:12:46.162803",
+        "source": "Hacker News"
     }
 ]
