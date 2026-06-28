@@ -357850,5 +357850,11 @@
         "url": "https://dl.acm.org/doi/10.1145/3453483.3454032",
         "timestamp": "2026-06-28T12:06:06.303035",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A faithful MUMPS 76 anniversary implementation – the original NoSQL DB",
+        "url": "https://github.com/rochus-keller/mumps/",
+        "timestamp": "2026-06-28T12:06:06.303071",
+        "source": "Hacker News"
     }
 ]
