@@ -357400,5 +357400,11 @@
         "url": "https://www.ft.com/content/b1445598-e5e3-4530-9e82-e0155c44106b",
         "timestamp": "2026-06-28T08:15:26.223419",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Transformer Becomes an LLM",
+        "url": "https://bharad.dev/blog/from-transformer-to-llm",
+        "timestamp": "2026-06-28T08:15:26.223454",
+        "source": "Hacker News"
     }
 ]
