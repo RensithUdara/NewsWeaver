@@ -357874,5 +357874,11 @@
         "url": "https://colossus.com/article/flounder-mode/",
         "timestamp": "2026-06-28T12:06:06.303185",
         "source": "Hacker News"
+    },
+    {
+        "title": "SHOW HN: Experimental GCC/GAS inline assembly bridge for Python",
+        "url": "https://pypi.org/project/sfpy-asm/0.1.1/",
+        "timestamp": "2026-06-28T12:06:06.303219",
+        "source": "Hacker News"
     }
 ]
