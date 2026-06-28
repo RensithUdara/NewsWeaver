@@ -357808,5 +357808,11 @@
         "url": "https://blog.disclose.io/policy-pulse-issue-21-week-of-june-27-2026/",
         "timestamp": "2026-06-28T12:06:06.302745",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Warren – run isolated instances of any CLI tool (no containers,no root)",
+        "url": "https://github.com/swadhinbiswas/warren",
+        "timestamp": "2026-06-28T12:06:06.302780",
+        "source": "Hacker News"
     }
 ]
