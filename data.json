@@ -357112,5 +357112,11 @@
         "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
         "timestamp": "2026-06-28T04:53:07.465997",
         "source": "Hacker News"
+    },
+    {
+        "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+        "url": "https://github.com/itsthelore/wayfinder-router",
+        "timestamp": "2026-06-28T04:53:07.466061",
+        "source": "Hacker News"
     }
 ]
