@@ -361924,5 +361924,11 @@
         "url": "https://korben.info/en/mullvad-cofounder-funding-far-right.html",
         "timestamp": "2026-06-29T16:22:00.915758",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: Why don't we just JIT to WASM/ASM? Why are compilers like GCC SO slow?",
+        "url": "https://news.ycombinator.com/item?id=48720992",
+        "timestamp": "2026-06-29T16:22:00.915780",
+        "source": "Hacker News"
     }
 ]
