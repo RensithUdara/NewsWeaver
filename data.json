@@ -363412,5 +363412,11 @@
         "url": "https://kuma.compeel.com/",
         "timestamp": "2026-06-29T22:39:21.297268",
         "source": "Hacker News"
+    },
+    {
+        "title": "Basha256.sh – Pure Bash 3.2 implementation of sha256",
+        "url": "https://gist.github.com/ozkatz/dc7606ea68138b75999cbb1b271072a6",
+        "timestamp": "2026-06-29T22:39:21.297311",
+        "source": "Hacker News"
     }
 ]
