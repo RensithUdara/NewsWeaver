@@ -363568,5 +363568,11 @@
         "url": "https://en.wikipedia.org/wiki/Gino_Bartali",
         "timestamp": "2026-06-29T23:04:25.118052",
         "source": "Hacker News"
+    },
+    {
+        "title": "Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker",
+        "url": "https://fpanalysistools.org/ISC26/",
+        "timestamp": "2026-06-29T23:04:25.118078",
+        "source": "Hacker News"
     }
 ]
