@@ -363448,5 +363448,11 @@
         "url": "https://news.ycombinator.com/item?id=48726190",
         "timestamp": "2026-06-29T22:39:21.297526",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open-source AI agent workflow for auditing Solidity smart contracts",
+        "url": "https://github.com/chain-shield/ai-agent-audit",
+        "timestamp": "2026-06-29T22:39:21.297561",
+        "source": "Hacker News"
     }
 ]
