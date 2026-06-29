@@ -362290,5 +362290,11 @@
         "url": "https://gwern.net/tool-ai",
         "timestamp": "2026-06-29T18:13:25.321240",
         "source": "Hacker News"
+    },
+    {
+        "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+        "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+        "timestamp": "2026-06-29T18:13:25.321274",
+        "source": "Hacker News"
     }
 ]
