@@ -360010,5 +360010,11 @@
         "url": "https://amimillionaire.com/",
         "timestamp": "2026-06-29T00:13:13.344619",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Calybris Core, a deterministic audit engine for decisions in Rust",
+        "url": "https://github.com/emirhuseynrmx/calybris-core",
+        "timestamp": "2026-06-29T00:13:13.344649",
+        "source": "Hacker News"
     }
 ]
