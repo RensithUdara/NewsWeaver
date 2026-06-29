@@ -361258,5 +361258,11 @@
         "url": "https://yusufaytas.com/series/engineering-friction",
         "timestamp": "2026-06-29T12:01:03.163730",
         "source": "Hacker News"
+    },
+    {
+        "title": "Wine-NX – Experimental Wine Runtime for Nintendo Switch",
+        "url": "https://github.com/dantiicu/wine-nx",
+        "timestamp": "2026-06-29T12:01:03.163756",
+        "source": "Hacker News"
     }
 ]
