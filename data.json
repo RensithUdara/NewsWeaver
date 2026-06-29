@@ -360730,5 +360730,11 @@
         "url": "https://chappie.a10z.co",
         "timestamp": "2026-06-29T06:57:59.177839",
         "source": "Hacker News"
+    },
+    {
+        "title": "I rebuilt Siri AI from scratch and open sourced it",
+        "url": "https://github.com/wassgha/opendex",
+        "timestamp": "2026-06-29T06:57:59.177867",
+        "source": "Hacker News"
     }
 ]
