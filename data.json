@@ -360802,5 +360802,11 @@
         "url": "https://news.ycombinator.com/item?id=48716410",
         "timestamp": "2026-06-29T08:43:16.957033",
         "source": "Hacker News"
+    },
+    {
+        "title": "SimpleX: A messaging platform with no user identifiers",
+        "url": "https://github.com/simplex-chat/simplex-chat",
+        "timestamp": "2026-06-29T08:43:16.957057",
+        "source": "Hacker News"
     }
 ]
