@@ -361732,5 +361732,11 @@
         "url": "https://www.artifactsmmo.com/",
         "timestamp": "2026-06-29T14:59:24.164080",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A fast hex dumper, written in Rust",
+        "url": "https://github.com/CallMeAlphabet/fasthex",
+        "timestamp": "2026-06-29T14:59:24.164107",
+        "source": "Hacker News"
     }
 ]
