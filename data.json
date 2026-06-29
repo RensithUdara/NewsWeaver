@@ -362554,5 +362554,11 @@
         "url": "https://rnotte.art/we-dont-need-facebook/",
         "timestamp": "2026-06-29T19:00:24.824812",
         "source": "Hacker News"
+    },
+    {
+        "title": "Migrating from TrueNAS to NixOS without losing data after the rug pull",
+        "url": "https://www.nijho.lt/post/truenas-to-nixos/",
+        "timestamp": "2026-06-29T19:00:24.824840",
+        "source": "Hacker News"
     }
 ]
