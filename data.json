@@ -360742,5 +360742,11 @@
         "url": "https://www.coderabbit.ai/blog/loop-engineering",
         "timestamp": "2026-06-29T06:57:59.177895",
         "source": "Hacker News"
+    },
+    {
+        "title": "Exploring BPF LSM support on aarch64 with ftrace",
+        "url": "https://www.exein.io/blog/exploring-bpf-lsm-support-on-aarch64-with-ftrace",
+        "timestamp": "2026-06-29T06:57:59.177923",
+        "source": "Hacker News"
     }
 ]
