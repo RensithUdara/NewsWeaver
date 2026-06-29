@@ -363604,5 +363604,11 @@
         "url": "https://www.nytimes.com/2026/06/26/business/korea-chip-high-school.html",
         "timestamp": "2026-06-29T23:31:11.900327",
         "source": "Hacker News"
+    },
+    {
+        "title": "Writing an Immutable WASM VM",
+        "url": "https://astledsa.substack.com/p/writing-an-immutable-wasm-vm",
+        "timestamp": "2026-06-29T23:31:11.900372",
+        "source": "Hacker News"
     }
 ]
