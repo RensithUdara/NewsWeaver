@@ -362074,5 +362074,11 @@
         "url": "https://unstract.com/blog/multi-agent-pdf-table-extraction/",
         "timestamp": "2026-06-29T17:20:54.946262",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+        "url": "https://github.com/deepreinforce-ai/Ornith-1",
+        "timestamp": "2026-06-29T17:20:54.946322",
+        "source": "Hacker News"
     }
 ]
