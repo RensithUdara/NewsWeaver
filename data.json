@@ -361576,5 +361576,11 @@
         "url": "https://www.playstation.com/en-gb/legal/psvideocontent/",
         "timestamp": "2026-06-29T14:59:23.761459",
         "source": "Hacker News"
+    },
+    {
+        "title": "How we made WINDOW JOIN parallel and vectorized",
+        "url": "https://questdb.com/blog/window-join-parallel-vectorized/",
+        "timestamp": "2026-06-29T14:59:23.761540",
+        "source": "Hacker News"
     }
 ]
