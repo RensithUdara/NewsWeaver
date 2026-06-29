@@ -360640,5 +360640,11 @@
         "url": "https://github.com/PerhapxinLab/dotdotduck",
         "timestamp": "2026-06-29T06:57:59.177436",
         "source": "Hacker News"
+    },
+    {
+        "title": "Replacing Systemd with OpenRC in Debian",
+        "url": "https://danielcordova.me/blog/debian-openrc/",
+        "timestamp": "2026-06-29T06:57:59.177462",
+        "source": "Hacker News"
     }
 ]
