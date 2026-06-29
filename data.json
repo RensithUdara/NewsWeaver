@@ -360514,5 +360514,11 @@
         "url": "https://www.reuters.com/world/asia-pacific/thai-family-mourns-teen-girl-found-dead-suitcase-australian-arrested-2026-06-28/",
         "timestamp": "2026-06-29T05:13:21.253583",
         "source": "Hacker News"
+    },
+    {
+        "title": "Optimizing LLVM's Bump Allocator",
+        "url": "https://maskray.me/blog/2026-06-28-optimizing-llvm-bump-allocator",
+        "timestamp": "2026-06-29T05:13:21.253608",
+        "source": "Hacker News"
     }
 ]
