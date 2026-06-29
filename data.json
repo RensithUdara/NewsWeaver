@@ -363130,5 +363130,11 @@
         "url": "https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/",
         "timestamp": "2026-06-29T21:41:15.118141",
         "source": "Hacker News"
+    },
+    {
+        "title": "A user-space firewall that gates an AI agent's actions",
+        "url": "https://github.com/Vadale/project-guardian",
+        "timestamp": "2026-06-29T21:41:15.373614",
+        "source": "Hacker News"
     }
 ]
