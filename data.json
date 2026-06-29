@@ -362584,5 +362584,11 @@
         "url": "https://www.cnet.com/tech/mobile/apple-iphone-20th-anniversary-edition-rumors-2027/",
         "timestamp": "2026-06-29T19:00:24.825006",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rekor – immutable tamper resistant metadata ledger",
+        "url": "https://github.com/sigstore/rekor",
+        "timestamp": "2026-06-29T19:00:24.825035",
+        "source": "Hacker News"
     }
 ]
