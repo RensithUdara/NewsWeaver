@@ -361822,5 +361822,11 @@
         "url": "https://www.nuget.org/packages/Toolnexus/",
         "timestamp": "2026-06-29T16:22:00.915317",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: PDFx – a 2D canvas for multiple PDFs, stored inside a single PDF",
+        "url": "https://github.com/alexandrosgounis/pdfx/",
+        "timestamp": "2026-06-29T16:22:00.915339",
+        "source": "Hacker News"
     }
 ]
