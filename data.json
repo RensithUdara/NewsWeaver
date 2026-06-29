@@ -361504,5 +361504,11 @@
         "url": "https://digg.com/tech/p61o19yh",
         "timestamp": "2026-06-29T13:45:51.647635",
         "source": "Hacker News"
+    },
+    {
+        "title": "We deleted every secret from our GitHub Actions workflows",
+        "url": "https://riptides.io/blog/your-github-actions-job-deserves-a-real-identity/",
+        "timestamp": "2026-06-29T13:45:51.647661",
+        "source": "Hacker News"
     }
 ]
