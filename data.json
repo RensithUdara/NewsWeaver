@@ -360772,5 +360772,11 @@
         "url": "https://blog.getcassis.com/context-engineering-for-analytics-agents/",
         "timestamp": "2026-06-29T08:43:16.956925",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kog Laneformer 2B: The Latency-First Model Behind Kog Inference Engine",
+        "url": "https://blog.kog.ai/kog-laneformer-2b-the-latency-first-model-behind-kog-inference-engine/",
+        "timestamp": "2026-06-29T08:43:16.956947",
+        "source": "Hacker News"
     }
 ]
