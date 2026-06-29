@@ -360838,5 +360838,11 @@
         "url": "https://blog.alexewerlof.com/p/linkedout",
         "timestamp": "2026-06-29T08:43:16.957161",
         "source": "Hacker News"
+    },
+    {
+        "title": "Metamorphic testing with Lean4-verified mutations finds compiler miscompilations",
+        "url": "https://nowarp.io/blog/compiler-testing-part-2/",
+        "timestamp": "2026-06-29T08:43:16.957184",
+        "source": "Hacker News"
     }
 ]
