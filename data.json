@@ -363196,5 +363196,11 @@
         "url": "https://www.reuters.com/world/asia-pacific/msci-keeps-south-korea-emerging-market-status-cites-fx-accessibility-2026-06-23/",
         "timestamp": "2026-06-29T21:41:15.373991",
         "source": "Hacker News"
+    },
+    {
+        "title": "VictoriaLogs Stores Your Logs in a Columnar Layout",
+        "url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/index.html",
+        "timestamp": "2026-06-29T21:41:15.374025",
+        "source": "Hacker News"
     }
 ]
