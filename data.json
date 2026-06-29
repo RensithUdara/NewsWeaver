@@ -362086,5 +362086,11 @@
         "url": "https://github.com/Vanilagy/turbores",
         "timestamp": "2026-06-29T17:20:54.946348",
         "source": "Hacker News"
+    },
+    {
+        "title": "Client-Side Load Balancing at a Million Requests per Second",
+        "url": "https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html",
+        "timestamp": "2026-06-29T17:20:54.946377",
+        "source": "Hacker News"
     }
 ]
