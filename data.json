@@ -361768,5 +361768,11 @@
         "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
         "timestamp": "2026-06-29T14:59:24.449336",
         "source": "TechCrunch"
+    },
+    {
+        "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+        "url": "https://humphri.es/blog/WATaBoy/",
+        "timestamp": "2026-06-29T16:22:00.533944",
+        "source": "Hacker News"
     }
 ]
