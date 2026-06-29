@@ -362608,5 +362608,11 @@
         "url": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
         "timestamp": "2026-06-29T19:00:25.235437",
         "source": "TechCrunch"
+    },
+    {
+        "title": "JumpServer: Open-Source Privileged Access Management",
+        "url": "https://github.com/jumpserver/jumpserver",
+        "timestamp": "2026-06-29T19:45:45.126442",
+        "source": "Hacker News"
     }
 ]
