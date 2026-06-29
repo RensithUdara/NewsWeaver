@@ -361234,5 +361234,11 @@
         "url": "https://aicompiler.dev",
         "timestamp": "2026-06-29T12:01:03.163591",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Encode arbitrary data into a WOFF2 color font, decode via canvas",
+        "url": "https://github.com/EtherDream/brpack",
+        "timestamp": "2026-06-29T12:01:03.163649",
+        "source": "Hacker News"
     }
 ]
