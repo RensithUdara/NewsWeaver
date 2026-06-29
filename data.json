@@ -361042,5 +361042,11 @@
         "url": "https://sigma-star.at/blog/2026/06/integrity-on-embedded-linux-devices-under-the-cyber-resilience-act/",
         "timestamp": "2026-06-29T10:16:53.210610",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Bare-metal RTOS(TamgaOs) for Cortex-M4, written in C and ARM assembly",
+        "url": "https://github.com/hrasityilmaz/TamgaOs",
+        "timestamp": "2026-06-29T10:16:53.210637",
+        "source": "Hacker News"
     }
 ]
