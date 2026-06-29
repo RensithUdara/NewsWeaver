@@ -360820,5 +360820,11 @@
         "url": "https://artificialanalysis.ai/models/gpt-5-5-instant-06-26",
         "timestamp": "2026-06-29T08:43:16.957099",
         "source": "Hacker News"
+    },
+    {
+        "title": "Towards Automating Scientific Review with Google's Paper Assistant Tool",
+        "url": "https://arxiv.org/abs/2606.28277",
+        "timestamp": "2026-06-29T08:43:16.957120",
+        "source": "Hacker News"
     }
 ]
