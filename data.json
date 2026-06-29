@@ -363424,5 +363424,11 @@
         "url": "https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-photos-exposed-tata-data-leak-2026-06-29/",
         "timestamp": "2026-06-29T22:39:21.297350",
         "source": "Hacker News"
+    },
+    {
+        "title": "Next Bcachefs Release Aims to Include Rust Code in the Kernel Module",
+        "url": "https://www.phoronix.com/news/Bcachefs-1.38.7-Rust-Kernel",
+        "timestamp": "2026-06-29T22:39:21.297387",
+        "source": "Hacker News"
     }
 ]
