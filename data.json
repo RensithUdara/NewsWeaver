@@ -360988,5 +360988,11 @@
         "url": "https://www.producthunt.com/products/pmb-local-first-memory-for-ai",
         "timestamp": "2026-06-29T08:43:17.620031",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "NUMA: Cores, memory, and the distance between them",
+        "url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
+        "timestamp": "2026-06-29T10:16:53.064650",
+        "source": "Hacker News"
     }
 ]
