@@ -360202,5 +360202,11 @@
         "url": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
         "timestamp": "2026-06-29T02:17:37.875769",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI-assisted binary patching to fix an abandoned router's DHCP bug",
+        "url": "https://gurulabs.com/blogs/edgeos-dhcrelay-binary-patch/",
+        "timestamp": "2026-06-29T02:17:37.875805",
+        "source": "Hacker News"
     }
 ]
