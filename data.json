@@ -360778,5 +360778,11 @@
         "url": "https://blog.kog.ai/kog-laneformer-2b-the-latency-first-model-behind-kog-inference-engine/",
         "timestamp": "2026-06-29T08:43:16.956947",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Claude Code plugin to draw feedback and send it back into the session",
+        "url": "https://github.com/tomreinert/claude-annotate",
+        "timestamp": "2026-06-29T08:43:16.956971",
+        "source": "Hacker News"
     }
 ]
