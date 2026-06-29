@@ -362098,5 +362098,11 @@
         "url": "https://electrek.co/2026/06/28/zero-emission-truck-deployments-surged-up-37-in-2025-as-momentum-builds/",
         "timestamp": "2026-06-29T17:20:54.946405",
         "source": "Hacker News"
+    },
+    {
+        "title": "Storage: How to deduplicate at intra and inter-files level",
+        "url": "https://old.reddit.com/r/dataengineering/comments/1uiybbn/save_storage_by_deduplicating_parquet_data_at/",
+        "timestamp": "2026-06-29T17:20:54.946458",
+        "source": "Hacker News"
     }
 ]
