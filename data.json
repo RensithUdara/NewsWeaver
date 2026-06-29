@@ -362116,5 +362116,11 @@
         "url": "https://mushegyan.space/",
         "timestamp": "2026-06-29T17:20:54.946513",
         "source": "Hacker News"
+    },
+    {
+        "title": "Does DSPy prompt optimization weaken adversarial robustness?",
+        "url": "https://github.com/immu4989/dspy-security-bench",
+        "timestamp": "2026-06-29T17:20:54.946540",
+        "source": "Hacker News"
     }
 ]
