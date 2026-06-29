@@ -361558,5 +361558,11 @@
         "url": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
         "timestamp": "2026-06-29T14:59:23.761052",
         "source": "Hacker News"
+    },
+    {
+        "title": "What happens when you run a CUDA kernel?",
+        "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+        "timestamp": "2026-06-29T14:59:23.761138",
+        "source": "Hacker News"
     }
 ]
