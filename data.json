@@ -360244,5 +360244,11 @@
         "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/26/openai-limits-its-latest-chatgpt-product-to-trump-approved-customers-during-cybersecurity-review/",
         "timestamp": "2026-06-29T03:33:36.547090",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Self hosting a modern LLM stack",
+        "url": "https://github.com/raiyanyahya/llmaker",
+        "timestamp": "2026-06-29T03:33:36.547125",
+        "source": "Hacker News"
     }
 ]
