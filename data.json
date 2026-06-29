@@ -363286,5 +363286,11 @@
         "url": "https://news.ycombinator.com/item?id=48725972",
         "timestamp": "2026-06-29T22:13:12.014925",
         "source": "Hacker News"
+    },
+    {
+        "title": "Eevdf Scheduler in the Linux Kernel",
+        "url": "https://docs.kernel.org/scheduler/sched-eevdf.html",
+        "timestamp": "2026-06-29T22:13:12.014961",
+        "source": "Hacker News"
     }
 ]
