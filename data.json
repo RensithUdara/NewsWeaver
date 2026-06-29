@@ -362812,5 +362812,11 @@
         "url": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
         "timestamp": "2026-06-29T20:27:47.647943",
         "source": "Hacker News"
+    },
+    {
+        "title": "Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021)",
+        "url": "https://www.bkurtz.io/posts/macvdmtool/",
+        "timestamp": "2026-06-29T20:27:47.647969",
+        "source": "Hacker News"
     }
 ]
