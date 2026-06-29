@@ -361900,5 +361900,11 @@
         "url": "https://www.dailymail.com/news/article-15937687/Russians-fight-fuel-gas-stations-Putin-forced-admit-country-faces-shortages-wake-Ukrainian-attacks.html",
         "timestamp": "2026-06-29T16:22:00.915647",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: DriftGuard – response drift detection for LangGraph agents",
+        "url": "https://github.com/vinerya/driftGuard",
+        "timestamp": "2026-06-29T16:22:00.915668",
+        "source": "Hacker News"
     }
 ]
