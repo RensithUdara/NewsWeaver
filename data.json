@@ -362626,5 +362626,11 @@
         "url": "https://www.nypl.org/events/exhibitions/galleries/literature-and-film/item/17519",
         "timestamp": "2026-06-29T19:45:45.224055",
         "source": "Hacker News"
+    },
+    {
+        "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
+        "url": "https://www.mixedbread.com/blog/asymmetric-quant",
+        "timestamp": "2026-06-29T19:45:45.224102",
+        "source": "Hacker News"
     }
 ]
