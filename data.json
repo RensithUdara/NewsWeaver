@@ -362938,5 +362938,11 @@
         "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
         "timestamp": "2026-06-29T20:27:48.021253",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Show HN: Khazad – Transparent Semantic Cache for LLM Calls on Redis Vector Sets",
+        "url": "https://github.com/GuglielmoCerri/khazad",
+        "timestamp": "2026-06-29T21:04:56.100945",
+        "source": "Hacker News"
     }
 ]
