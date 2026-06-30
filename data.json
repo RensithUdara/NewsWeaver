@@ -364942,5 +364942,11 @@
         "url": "https://en.wikipedia.org/wiki/Appropriate_technology",
         "timestamp": "2026-06-30T08:48:12.656420",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Rust trading bot for Polymarket, 800µs decision loop",
+        "url": "https://github.com/casatrick/polymarket-arbitrage-bot",
+        "timestamp": "2026-06-30T08:48:12.656467",
+        "source": "Hacker News"
     }
 ]
