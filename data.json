@@ -366118,5 +366118,11 @@
         "url": "https://fortune.com/2026/06/29/data-centers-climate-risk-heat-summer-stress-test/",
         "timestamp": "2026-06-30T15:29:20.068460",
         "source": "Hacker News"
+    },
+    {
+        "title": "Popping Root on Unifi OS: Unauthenticated RCE Chain Detection and Analysis",
+        "url": "https://bishopfox.com/blog/popping-root-on-unifi-os-server-unauthenticated-rce-chain-detection-analysis",
+        "timestamp": "2026-06-30T15:29:20.068476",
+        "source": "Hacker News"
     }
 ]
