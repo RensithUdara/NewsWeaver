@@ -366712,5 +366712,11 @@
         "url": "https://code.backwater.systems/blog/#2026-06-29T23:40:00.000Z",
         "timestamp": "2026-06-30T17:58:37.310660",
         "source": "Hacker News"
+    },
+    {
+        "title": "The DLL that was not present in memory despite not being formally unloaded 2",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260626-00/?p=112472",
+        "timestamp": "2026-06-30T17:58:37.310703",
+        "source": "Hacker News"
     }
 ]
