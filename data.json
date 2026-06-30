@@ -365626,5 +365626,11 @@
         "url": "https://stevemasonexperience.info/",
         "timestamp": "2026-06-30T12:56:18.362318",
         "source": "Hacker News"
+    },
+    {
+        "title": "Benchmark agent configs with a simple CLI tool",
+        "url": "https://github.com/emiliolugo/clawmark",
+        "timestamp": "2026-06-30T12:56:18.362351",
+        "source": "Hacker News"
     }
 ]
