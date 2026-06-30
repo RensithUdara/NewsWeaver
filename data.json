@@ -367666,5 +367666,11 @@
         "url": "https://medicalxpress.com/news/2026-06-daily-remote-workers-stress.html",
         "timestamp": "2026-06-30T21:38:15.092522",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Mimir – local-first encrypted memory for AI agents (single Rust binary)",
+        "url": "https://github.com/Perseus-Computing-LLC/mimir",
+        "timestamp": "2026-06-30T21:38:15.092550",
+        "source": "Hacker News"
     }
 ]
