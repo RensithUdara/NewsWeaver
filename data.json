@@ -367000,5 +367000,11 @@
         "url": "https://en.wikipedia.org/wiki/Night_Witches",
         "timestamp": "2026-06-30T18:48:07.404957",
         "source": "Hacker News"
+    },
+    {
+        "title": "GameBoy Emulator in WASM",
+        "url": "https://github.com/victorgomes/gb",
+        "timestamp": "2026-06-30T18:48:07.404992",
+        "source": "Hacker News"
     }
 ]
