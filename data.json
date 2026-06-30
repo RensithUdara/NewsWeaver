@@ -367768,5 +367768,11 @@
         "url": "https://oeis.org/",
         "timestamp": "2026-06-30T21:38:15.092983",
         "source": "Hacker News"
+    },
+    {
+        "title": "Automate public TLS certificate issuance with ACME support in AWS ACM",
+        "url": "https://aws.amazon.com/blogs/aws/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/",
+        "timestamp": "2026-06-30T21:38:15.093009",
+        "source": "Hacker News"
     }
 ]
