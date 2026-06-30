@@ -367972,5 +367972,11 @@
         "url": "https://www.youtube.com/watch?v=RKqof77pKBc",
         "timestamp": "2026-06-30T22:38:49.565866",
         "source": "Hacker News"
+    },
+    {
+        "title": "22x memory amp DoS in Anthropic's buffa protobuf decoder (CVE-2026-55407)",
+        "url": "https://www.endorlabs.com/learn/endor-labs-ai-sast-finds-zero-day-cve-2026-55407-buffa",
+        "timestamp": "2026-06-30T22:38:49.565901",
+        "source": "Hacker News"
     }
 ]
