@@ -365026,5 +365026,11 @@
         "url": "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/",
         "timestamp": "2026-06-30T10:05:11.409687",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fail Fast, Run Faster: Shape Safe Deep Learning in Rust on Apple Silicon [pdf]",
+        "url": "https://cs231n.stanford.edu/2025/papers/text_file_840593634-egpaper_cvpr17_final%202.pdf",
+        "timestamp": "2026-06-30T10:05:11.409720",
+        "source": "Hacker News"
     }
 ]
