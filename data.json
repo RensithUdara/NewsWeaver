@@ -368170,5 +368170,11 @@
         "url": "https://x.com/kyaagents",
         "timestamp": "2026-06-30T23:05:30.262691",
         "source": "Hacker News"
+    },
+    {
+        "title": "Commonplace: Self-hosted, privacy-tiered memory for your AI agents",
+        "url": "https://github.com/itsmeduncan/commonplace",
+        "timestamp": "2026-06-30T23:05:30.262718",
+        "source": "Hacker News"
     }
 ]
