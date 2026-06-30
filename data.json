@@ -365176,5 +365176,11 @@
         "url": "https://jivx.com/microseasons",
         "timestamp": "2026-06-30T11:13:30.904068",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
+        "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
+        "timestamp": "2026-06-30T11:13:30.904119",
+        "source": "Hacker News"
     }
 ]
