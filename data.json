@@ -365842,5 +365842,11 @@
         "url": "https://quest.mojolang.org/",
         "timestamp": "2026-06-30T13:36:31.568393",
         "source": "Hacker News"
+    },
+    {
+        "title": "Too many tables are bad for you",
+        "url": "https://www.cybertec-postgresql.com/en/too-many-tables-are-bad/",
+        "timestamp": "2026-06-30T13:36:31.568427",
+        "source": "Hacker News"
     }
 ]
