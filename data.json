@@ -366538,5 +366538,11 @@
         "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
         "timestamp": "2026-06-30T17:10:38.775242",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Shot-scraper video tool for recording YAML-defined webapp feature demos",
+        "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/",
+        "timestamp": "2026-06-30T17:10:38.775281",
+        "source": "Hacker News"
     }
 ]
