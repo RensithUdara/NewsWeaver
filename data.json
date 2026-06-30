@@ -367330,5 +367330,11 @@
         "url": "https://www.youtube.com/watch?v=ypO0q_8zhWw",
         "timestamp": "2026-06-30T20:11:29.098368",
         "source": "Hacker News"
+    },
+    {
+        "title": "SlateDB: An Object-Native LSM for Online Systems",
+        "url": "https://slatedb.io/blog/introducing-slatedb/",
+        "timestamp": "2026-06-30T20:11:29.098401",
+        "source": "Hacker News"
     }
 ]
