@@ -367138,5 +367138,11 @@
         "url": "https://lzon.ca/posts/other/youtube-algorithm/",
         "timestamp": "2026-06-30T19:25:02.937805",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Trains – leaderless total-order broadcast in Rust, formally verified",
+        "url": "https://github.com/yeychenne/trains-rust",
+        "timestamp": "2026-06-30T19:25:02.937839",
+        "source": "Hacker News"
     }
 ]
