@@ -364660,5 +364660,11 @@
         "url": "https://old.reddit.com/r/help/comments/1ufgtew/weekly_recap_june_25_2026/",
         "timestamp": "2026-06-30T07:45:38.949460",
         "source": "Hacker News"
+    },
+    {
+        "title": "A GitHub-compatible Git service built for AI agents",
+        "url": "https://github.com/ngaut/agent-git-service",
+        "timestamp": "2026-06-30T07:45:38.949494",
+        "source": "Hacker News"
     }
 ]
