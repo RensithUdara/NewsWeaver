@@ -368254,5 +368254,11 @@
         "url": "https://www.bbc.com/news/newsbeat-50221046",
         "timestamp": "2026-06-30T23:37:35.060646",
         "source": "Hacker News"
+    },
+    {
+        "title": "On the Efficacy of PyTorch for High-Performance Computing",
+        "url": "https://dl.acm.org/doi/10.1145/3801487.3801838",
+        "timestamp": "2026-06-30T23:37:35.060680",
+        "source": "Hacker News"
     }
 ]
