@@ -367060,5 +367060,11 @@
         "url": "https://www.w3.org/DesignIssues/MatrixURIs.html",
         "timestamp": "2026-06-30T19:25:02.699309",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Distributed LLM tracing and GH PR/issue linking [Apache 2.0]",
+        "url": "https://github.com/superlinked/synty",
+        "timestamp": "2026-06-30T19:25:02.937362",
+        "source": "Hacker News"
     }
 ]
