@@ -363802,5 +363802,11 @@
         "url": "https://twotimespi.dev",
         "timestamp": "2026-06-30T01:13:03.399009",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Embeddable Cumulative Crates Download History",
+        "url": "https://cratesdownloadhistory.undivisible.dev/",
+        "timestamp": "2026-06-30T01:13:03.399041",
+        "source": "Hacker News"
     }
 ]
