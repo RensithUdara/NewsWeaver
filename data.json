@@ -367858,5 +367858,11 @@
         "url": "https://federalnewsnetwork.com/intelligence-community/2026/06/ratcliffe-details-fundamental-reshaping-of-cia-tech-efforts/",
         "timestamp": "2026-06-30T22:06:08.484038",
         "source": "Hacker News"
+    },
+    {
+        "title": "SQLite Trace: extracting SQLite queries made by any arbitrary binary",
+        "url": "https://github.com/Query-Doctor/sqlite-trace",
+        "timestamp": "2026-06-30T22:06:08.484065",
+        "source": "Hacker News"
     }
 ]
