@@ -365494,5 +365494,11 @@
         "url": "https://news.ycombinator.com/item?id=48731129",
         "timestamp": "2026-06-30T12:02:09.149202",
         "source": "Hacker News"
+    },
+    {
+        "title": "A single MR with 52k commits had stalled GitLab CI",
+        "url": "https://gitlab.com/gitlab-com/gl-infra/production/-/work_items/22412",
+        "timestamp": "2026-06-30T12:02:09.149236",
+        "source": "Hacker News"
     }
 ]
