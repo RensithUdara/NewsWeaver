@@ -367744,5 +367744,11 @@
         "url": "https://www.medrxiv.org/content/10.64898/2026.06.08.26355206v1",
         "timestamp": "2026-06-30T21:38:15.092878",
         "source": "Hacker News"
+    },
+    {
+        "title": "SilentJSON – A zero-allocation JSON parser for Go (3.4 GB/s)",
+        "url": "https://github.com/GenshIv/silentjson",
+        "timestamp": "2026-06-30T21:38:15.092905",
+        "source": "Hacker News"
     }
 ]
