@@ -363784,5 +363784,11 @@
         "url": "https://org-notes-mac.netlify.app",
         "timestamp": "2026-06-30T01:13:03.398842",
         "source": "Hacker News"
+    },
+    {
+        "title": "The OWASP Agentic Security Initiative Top: A Practical Developer Guide",
+        "url": "https://agentsafelabs.com/blog/the-owasp-agentic-security-initiative-top-10-a-practical-developer-guide-for-langchain-and-crewai/",
+        "timestamp": "2026-06-30T01:13:03.398877",
+        "source": "Hacker News"
     }
 ]
