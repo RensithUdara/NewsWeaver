@@ -365092,5 +365092,11 @@
         "url": "https://agentsxbackend.substack.com/p/the-three-idempotencies-of-an-agent",
         "timestamp": "2026-06-30T10:05:11.410132",
         "source": "Hacker News"
+    },
+    {
+        "title": "\"flows\": a custom Markdown runtime for visualizing long-running agent loops",
+        "url": "https://github.com/samleeney/flows",
+        "timestamp": "2026-06-30T10:05:11.410165",
+        "source": "Hacker News"
     }
 ]
