@@ -363724,5 +363724,11 @@
         "url": "https://mysysinfo.com",
         "timestamp": "2026-06-30T01:13:03.150041",
         "source": "Hacker News"
+    },
+    {
+        "title": "Netflix Simplified Batch Compute with Kueue",
+        "url": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c",
+        "timestamp": "2026-06-30T01:13:03.150175",
+        "source": "Hacker News"
     }
 ]
