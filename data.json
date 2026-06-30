@@ -366202,5 +366202,11 @@
         "url": "https://www.livescience.com/archaeology/human-evolution/a-weird-result-from-an-already-weird-hominin-archaeologists-discover-all-homo-naledi-skeletons-found-in-south-african-cave-are-female",
         "timestamp": "2026-06-30T15:29:20.068668",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Bulwark – a kernel read gate so coding agents can't read .env or .ssh",
+        "url": "https://github.com/obstalabs/bulwark",
+        "timestamp": "2026-06-30T15:29:20.068684",
+        "source": "Hacker News"
     }
 ]
