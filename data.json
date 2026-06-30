@@ -365530,5 +365530,11 @@
         "url": "https://github.com/henryrobbins/open-atp",
         "timestamp": "2026-06-30T12:56:18.361726",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pong game recompiles its own source code every frame",
+        "url": "https://www.tomshardware.com/tech-industry/pong-game-that-recompiles-itself-every-frame-wins-the-ioccc29-obfuscated-c-contest",
+        "timestamp": "2026-06-30T12:56:18.361764",
+        "source": "Hacker News"
     }
 ]
