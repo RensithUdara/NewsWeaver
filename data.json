@@ -364300,5 +364300,11 @@
         "url": "https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html",
         "timestamp": "2026-06-30T04:51:03.274449",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fastllm: A LLM inference library that runs DeepSeek-V4 with 10GB VRAM",
+        "url": "https://github.com/ztxz16/fastllm",
+        "timestamp": "2026-06-30T04:51:03.274483",
+        "source": "Hacker News"
     }
 ]
