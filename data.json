@@ -365422,5 +365422,11 @@
         "url": "https://huggingface.co/datasets/bshada/open-schematics",
         "timestamp": "2026-06-30T12:02:09.148748",
         "source": "Hacker News"
+    },
+    {
+        "title": "How Time Series Databases Work–and Where They Don't",
+        "url": "https://www.honeycomb.io/blog/time-series-database",
+        "timestamp": "2026-06-30T12:02:09.148787",
+        "source": "Hacker News"
     }
 ]
