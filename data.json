@@ -365314,5 +365314,11 @@
         "url": "https://tldraw.dev/blog/erasing",
         "timestamp": "2026-06-30T11:13:30.905057",
         "source": "Hacker News"
+    },
+    {
+        "title": "I spent 6 days building my VDOM library as I hated how React handles memo",
+        "url": "https://vflash.github.io/Tyaff/",
+        "timestamp": "2026-06-30T11:13:30.905126",
+        "source": "Hacker News"
     }
 ]
