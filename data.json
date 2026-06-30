@@ -367144,5 +367144,11 @@
         "url": "https://github.com/yeychenne/trains-rust",
         "timestamp": "2026-06-30T19:25:02.937839",
         "source": "Hacker News"
+    },
+    {
+        "title": "Accelerating LLM Inference on AMD GPUs with Low-Latency GEMMs",
+        "url": "https://rocm.blogs.amd.com/software-tools-optimization/accelerating-llm-inference-on-amd-gpus-with-low-latency-gemms/README.html",
+        "timestamp": "2026-06-30T19:25:02.937872",
+        "source": "Hacker News"
     }
 ]
