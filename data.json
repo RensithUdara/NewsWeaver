@@ -367192,5 +367192,11 @@
         "url": "https://www.polygon.com/ram-manufacturers-sued-supply-price-fixing/",
         "timestamp": "2026-06-30T19:25:02.938144",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hermetic build environments contain supply chain worms",
+        "url": "https://flox.dev/blog/mitigating-shai-hulud-attacks-with-hermetic-builds/",
+        "timestamp": "2026-06-30T19:25:02.938179",
+        "source": "Hacker News"
     }
 ]
