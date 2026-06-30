@@ -365344,5 +365344,11 @@
         "url": "https://news.ycombinator.com/item?id=48731428",
         "timestamp": "2026-06-30T12:02:09.148267",
         "source": "Hacker News"
+    },
+    {
+        "title": "Finding the cause of minor contagious metadata corruption in exiv2",
+        "url": "https://me.micahrl.com/blog/minor-contagious-corruption-exiv2/",
+        "timestamp": "2026-06-30T12:02:09.148312",
+        "source": "Hacker News"
     }
 ]
