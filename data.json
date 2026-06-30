@@ -364630,5 +364630,11 @@
         "url": "https://www.werotracker.eu/",
         "timestamp": "2026-06-30T07:45:38.949279",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Cloud Inefficiency Audit – a local CLI to audit your Hetzner bill",
+        "url": "https://github.com/gelkao/cloud-inefficiency-audit",
+        "timestamp": "2026-06-30T07:45:38.949314",
+        "source": "Hacker News"
     }
 ]
