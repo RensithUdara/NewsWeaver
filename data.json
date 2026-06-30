@@ -365464,5 +365464,11 @@
         "url": "https://alecmuffett.com/article/161713",
         "timestamp": "2026-06-30T12:02:09.149027",
         "source": "Hacker News"
+    },
+    {
+        "title": "Honeycomb: Migrating to Time Series Metrics",
+        "url": "https://docs.honeycomb.io/troubleshoot/product-lifecycle/recommended-migrations/migrate-to-time-series-metrics-faq",
+        "timestamp": "2026-06-30T12:02:09.149062",
+        "source": "Hacker News"
     }
 ]
