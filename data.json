@@ -364420,5 +364420,11 @@
         "url": "https://www.cerebras.ai/blog/gemma-4-on-cerebras-the-fastest-inference-is-now-multimodal",
         "timestamp": "2026-06-30T06:24:33.735906",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built 25 executable skills for my AI agent � all open source",
+        "url": "https://github.com/ChrisLamDev/hermes-core-skills",
+        "timestamp": "2026-06-30T06:24:33.735935",
+        "source": "Hacker News"
     }
 ]
