@@ -366772,5 +366772,11 @@
         "url": "https://gist.github.com/smellslikeml/36bf4939d76f0f84d113e2ddde5e6d3c",
         "timestamp": "2026-06-30T17:58:37.311031",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Deconstructing Anthropic's Coding Agent Control Model",
+        "url": "https://www.highflame.com/blog/how-anthropic-contains-its-own-coding-agents-and-get-that-coverage-across-your-fleet/",
+        "timestamp": "2026-06-30T17:58:37.311065",
+        "source": "Hacker News"
     }
 ]
