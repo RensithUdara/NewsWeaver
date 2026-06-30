@@ -366730,5 +366730,11 @@
         "url": "https://news.ycombinator.com/item?id=48736520",
         "timestamp": "2026-06-30T17:58:37.310782",
         "source": "Hacker News"
+    },
+    {
+        "title": "AgentWire: Orchestrating many Claude Code sessions via tmux and voice-control",
+        "url": "https://github.com/dotdevdotdev/agentwire-dev",
+        "timestamp": "2026-06-30T17:58:37.310818",
+        "source": "Hacker News"
     }
 ]
