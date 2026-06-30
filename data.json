@@ -367732,5 +367732,11 @@
         "url": "https://aws.amazon.com/amazon-linux-2/faqs/",
         "timestamp": "2026-06-30T21:38:15.092825",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ray Tracer in SQL",
+        "url": "https://github.com/ClickHouse/RayTracer",
+        "timestamp": "2026-06-30T21:38:15.092852",
+        "source": "Hacker News"
     }
 ]
