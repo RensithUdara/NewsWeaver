@@ -367900,5 +367900,11 @@
         "url": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
         "timestamp": "2026-06-30T22:06:08.484287",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bringing Claude Code into Neovim",
+        "url": "https://inacioklassmann.com/posts/claude-chat-nvim/",
+        "timestamp": "2026-06-30T22:06:08.484315",
+        "source": "Hacker News"
     }
 ]
