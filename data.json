@@ -366442,5 +366442,11 @@
         "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
         "timestamp": "2026-06-30T16:21:02.926678",
         "source": "Hacker News"
+    },
+    {
+        "title": "Improving Transparency and Assurance in the Web PKI",
+        "url": "https://blog.mozilla.org/security/2026/06/29/improving-transparency-and-assurance-in-the-web-pki-mozilla-root-store-policy-v3-1/",
+        "timestamp": "2026-06-30T16:21:02.926713",
+        "source": "Hacker News"
     }
 ]
