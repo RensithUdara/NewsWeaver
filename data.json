@@ -367702,5 +367702,11 @@
         "url": "https://www.empirical.health/blog/wearable-foundation-models/",
         "timestamp": "2026-06-30T21:38:15.092688",
         "source": "Hacker News"
+    },
+    {
+        "title": "May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more",
+        "url": "https://servo.org/blog/2026/06/30/may-in-servo/",
+        "timestamp": "2026-06-30T21:38:15.092714",
+        "source": "Hacker News"
     }
 ]
