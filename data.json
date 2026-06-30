@@ -364390,5 +364390,11 @@
         "url": "https://fsfe.org/news/2026/news-20260629-01.en.html",
         "timestamp": "2026-06-30T06:24:33.735832",
         "source": "Hacker News"
+    },
+    {
+        "title": "QDBP: Explicit depth markers as an alternative to indentation and parentheses",
+        "url": "https://github.com/tearflake/qdbp",
+        "timestamp": "2026-06-30T06:24:33.735849",
+        "source": "Hacker News"
     }
 ]
