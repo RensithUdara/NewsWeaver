@@ -366742,5 +366742,11 @@
         "url": "https://en.wikipedia.org/wiki/Johnson_thermoelectric_energy_converter",
         "timestamp": "2026-06-30T17:58:37.310854",
         "source": "Hacker News"
+    },
+    {
+        "title": "Prompt Injection Is Not a Chatbot Problem: How the Attack Surface Changes",
+        "url": "https://agentsafelabs.com/blog/prompt-injection-is-not-a-chatbot-problem-how-the-attack-surface-changes-when-your-llm-has-tools/",
+        "timestamp": "2026-06-30T17:58:37.310893",
+        "source": "Hacker News"
     }
 ]
