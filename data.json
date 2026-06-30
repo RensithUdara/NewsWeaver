@@ -363712,5 +363712,11 @@
         "url": "https://autobops-dashboard.azurewebsites.net/",
         "timestamp": "2026-06-29T23:59:55.423810",
         "source": "Hacker News"
+    },
+    {
+        "title": "Exploring PDP-1 Lisp (1960)",
+        "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+        "timestamp": "2026-06-30T01:13:03.149730",
+        "source": "Hacker News"
     }
 ]
