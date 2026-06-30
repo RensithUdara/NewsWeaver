@@ -366070,5 +366070,11 @@
         "url": "https://www.youtube.com/watch?v=S67z2aekBrI",
         "timestamp": "2026-06-30T15:29:20.068331",
         "source": "Hacker News"
+    },
+    {
+        "title": "DonnyClaude – deterministic verification gates for Claude Code agents",
+        "url": "https://github.com/d0nmega/donnyclaude",
+        "timestamp": "2026-06-30T15:29:20.068348",
+        "source": "Hacker News"
     }
 ]
