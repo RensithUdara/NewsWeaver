@@ -366748,5 +366748,11 @@
         "url": "https://agentsafelabs.com/blog/prompt-injection-is-not-a-chatbot-problem-how-the-attack-surface-changes-when-your-llm-has-tools/",
         "timestamp": "2026-06-30T17:58:37.310893",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust Service Isn't Leaking – It Could Be the Allocator",
+        "url": "https://pranitha.dev/posts/rust-and-memory-allocators/",
+        "timestamp": "2026-06-30T17:58:37.310927",
+        "source": "Hacker News"
     }
 ]
