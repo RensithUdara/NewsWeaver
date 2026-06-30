@@ -365824,5 +365824,11 @@
         "url": "https://www.cbsnews.com/news/labor-share-income-lowest-since-world-war-ii/",
         "timestamp": "2026-06-30T13:36:31.568288",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reasoning About Async Rust with State Machines",
+        "url": "https://aibodh.com/posts/async-rust-chapter-2-what-async-fn-compiles-into/",
+        "timestamp": "2026-06-30T13:36:31.568321",
+        "source": "Hacker News"
     }
 ]
