@@ -366898,5 +366898,11 @@
         "url": "https://unstory.eu/zye/",
         "timestamp": "2026-06-30T18:48:07.404244",
         "source": "Hacker News"
+    },
+    {
+        "title": "Don't use localhost:3000, use your own custom domain",
+        "url": "https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains",
+        "timestamp": "2026-06-30T18:48:07.404359",
+        "source": "Hacker News"
     }
 ]
