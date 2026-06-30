@@ -365506,5 +365506,11 @@
         "url": "https://status.gitlab.com/",
         "timestamp": "2026-06-30T12:02:09.149272",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+        "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+        "timestamp": "2026-06-30T12:56:18.049739",
+        "source": "Hacker News"
     }
 ]
