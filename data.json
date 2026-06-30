@@ -366094,5 +366094,11 @@
         "url": "https://github.com/busabase/busabase",
         "timestamp": "2026-06-30T15:29:20.068393",
         "source": "Hacker News"
+    },
+    {
+        "title": "Translatable – ORM-agnostic internationalization for Python using JSON columns",
+        "url": "https://github.com/onlykh/translatable",
+        "timestamp": "2026-06-30T15:29:20.068408",
+        "source": "Hacker News"
     }
 ]
