@@ -364894,5 +364894,11 @@
         "url": "https://www.gtransfer.app",
         "timestamp": "2026-06-30T08:48:12.656187",
         "source": "Hacker News"
+    },
+    {
+        "title": "Good article about local LLM on MacBook Air",
+        "url": "https://www.xda-developers.com/ollama-new-mlx-engine-local-llm-mac-twice-fast/",
+        "timestamp": "2026-06-30T08:48:12.656252",
+        "source": "Hacker News"
     }
 ]
