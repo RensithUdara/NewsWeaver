@@ -365524,5 +365524,11 @@
         "url": "https://www.knopper.net/knoppix/index-en.html",
         "timestamp": "2026-06-30T12:56:18.361683",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: OpenATP: A platform for automated theorem proving in Lean",
+        "url": "https://github.com/henryrobbins/open-atp",
+        "timestamp": "2026-06-30T12:56:18.361726",
+        "source": "Hacker News"
     }
 ]
