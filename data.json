@@ -365716,5 +365716,11 @@
         "url": "https://www.feistyduck.com/newsletter/issue_138_the_threat_of_residential_proxies",
         "timestamp": "2026-06-30T13:36:31.567415",
         "source": "Hacker News"
+    },
+    {
+        "title": "Api.weather.gov's robots.txt disallows all bots",
+        "url": "https://api.weather.gov/robots.txt",
+        "timestamp": "2026-06-30T13:36:31.567496",
+        "source": "Hacker News"
     }
 ]
