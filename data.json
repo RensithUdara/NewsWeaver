@@ -365080,5 +365080,11 @@
         "url": "https://news.ycombinator.com/item?id=48730357",
         "timestamp": "2026-06-30T10:05:11.410032",
         "source": "Hacker News"
+    },
+    {
+        "title": "Slint and the Node.js Event Loop",
+        "url": "https://slint.dev/blog/slint-and-the-nodejs-event-loop",
+        "timestamp": "2026-06-30T10:05:11.410066",
+        "source": "Hacker News"
     }
 ]
