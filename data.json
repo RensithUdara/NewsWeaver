@@ -365236,5 +365236,11 @@
         "url": "https://www.theregister.com/software/2026/06/30/microsoft-builds-a-bouncer-to-keep-bots-out-of-teams-meetings/5264199",
         "timestamp": "2026-06-30T11:13:30.904521",
         "source": "Hacker News"
+    },
+    {
+        "title": "The .join() that should be a bug",
+        "url": "https://kronotop.com/blog/the-join-that-should-be-a-bug/",
+        "timestamp": "2026-06-30T11:13:30.904588",
+        "source": "Hacker News"
     }
 ]
