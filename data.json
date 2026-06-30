@@ -366160,5 +366160,11 @@
         "url": "https://github.com/John-Codes/LLM-Tools",
         "timestamp": "2026-06-30T15:29:20.068564",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rewriting 3 files to switch 1M LoC from Java threads to Kotlin coroutines",
+        "url": "https://medium.com/proandroiddev/switching-a-million-lines-of-code-from-java-threads-to-kotlin-coroutines-by-rewriting-three-files-6ba428bf8566",
+        "timestamp": "2026-06-30T15:29:20.068580",
+        "source": "Hacker News"
     }
 ]
