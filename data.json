@@ -366148,5 +366148,11 @@
         "url": "https://www.reuters.com/world/china/chinas-meituan-says-new-ai-model-trained-domestic-chips-2026-06-30/",
         "timestamp": "2026-06-30T15:29:20.068535",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Plain-language E2E tests for desktop UIs that don't have a DOM",
+        "url": "https://github.com/patrickiel/pantomime",
+        "timestamp": "2026-06-30T15:29:20.068549",
+        "source": "Hacker News"
     }
 ]
