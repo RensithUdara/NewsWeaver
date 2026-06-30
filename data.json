@@ -364324,5 +364324,11 @@
         "url": "https://getoperators.ai/manifesto",
         "timestamp": "2026-06-30T04:51:03.274620",
         "source": "Hacker News"
+    },
+    {
+        "title": "\"It's Hard to Eval\" Is a Product Smell",
+        "url": "https://hamel.dev/blog/posts/eval-smell/",
+        "timestamp": "2026-06-30T04:51:03.274689",
+        "source": "Hacker News"
     }
 ]
