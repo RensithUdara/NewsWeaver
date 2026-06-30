@@ -365500,5 +365500,11 @@
         "url": "https://gitlab.com/gitlab-com/gl-infra/production/-/work_items/22412",
         "timestamp": "2026-06-30T12:02:09.149236",
         "source": "Hacker News"
+    },
+    {
+        "title": "GitLab CI Is Down",
+        "url": "https://status.gitlab.com/",
+        "timestamp": "2026-06-30T12:02:09.149272",
+        "source": "Hacker News"
     }
 ]
