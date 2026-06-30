@@ -366166,5 +366166,11 @@
         "url": "https://medium.com/proandroiddev/switching-a-million-lines-of-code-from-java-threads-to-kotlin-coroutines-by-rewriting-three-files-6ba428bf8566",
         "timestamp": "2026-06-30T15:29:20.068580",
         "source": "Hacker News"
+    },
+    {
+        "title": "An AI trading desk built as a team of sub-agents (Claude Code and Robinhood MCP)",
+        "url": "https://github.com/LoganYangBo/rh-trading-agent",
+        "timestamp": "2026-06-30T15:29:20.068595",
+        "source": "Hacker News"
     }
 ]
