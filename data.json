@@ -368494,5 +368494,11 @@
         "url": "https://www.chaingenius.ai",
         "timestamp": "2026-07-01T01:20:21.436564",
         "source": "Hacker News"
+    },
+    {
+        "title": "Faster Gemma 4 on MLX with multi-token prediction",
+        "url": "https://ollama.com/blog/faster-gemma-4-mlx-mtp",
+        "timestamp": "2026-07-01T01:20:21.436595",
+        "source": "Hacker News"
     }
 ]
