@@ -369040,5 +369040,11 @@
         "url": "https://www.sciencedaily.com/releases/2026/06/260622091512.htm",
         "timestamp": "2026-07-01T05:09:26.903126",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tracing Codex's 640TB-a-year SQLite writes",
+        "url": "https://querydoctor.com/blog/tracing-codexs-640tb-year-sqlite-writes",
+        "timestamp": "2026-07-01T05:09:26.903160",
+        "source": "Hacker News"
     }
 ]
