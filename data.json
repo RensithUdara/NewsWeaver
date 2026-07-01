@@ -369304,5 +369304,11 @@
         "url": "https://news.ycombinator.com/item?id=48743618",
         "timestamp": "2026-07-01T08:14:18.542187",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ChDB-WASM – ClickHouse running in the browser via WebAssembly",
+        "url": "https://wasm.chdb.io/",
+        "timestamp": "2026-07-01T08:14:18.542291",
+        "source": "Hacker News"
     }
 ]
