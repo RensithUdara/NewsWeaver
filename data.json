@@ -368542,5 +368542,11 @@
         "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
         "timestamp": "2026-07-01T02:17:26.123289",
         "source": "Hacker News"
+    },
+    {
+        "title": "From Julia to Rust: a differentiable tensor stack for scientific computing",
+        "url": "https://tensor4all.org/blog/introducing-tenferro-rs/",
+        "timestamp": "2026-07-01T02:17:26.123849",
+        "source": "Hacker News"
     }
 ]
