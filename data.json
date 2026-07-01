@@ -371278,5 +371278,11 @@
         "url": "https://manualmeida.dev/articles/gin-simple-over-easy/",
         "timestamp": "2026-07-01T18:09:26.936996",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers",
+        "url": "https://github.com/pglayers/pglayers",
+        "timestamp": "2026-07-01T18:09:26.937143",
+        "source": "Hacker News"
     }
 ]
