@@ -371560,5 +371560,11 @@
         "url": "https://readpondercom.substack.com/p/i-read-80-articles-in-june-these",
         "timestamp": "2026-07-01T18:52:49.120873",
         "source": "Hacker News"
+    },
+    {
+        "title": "Amalia – an open-source language model targeting European Portuguese",
+        "url": "https://huggingface.co/amalia-llm",
+        "timestamp": "2026-07-01T18:52:49.120905",
+        "source": "Hacker News"
     }
 ]
