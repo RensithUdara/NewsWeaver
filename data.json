@@ -369598,5 +369598,11 @@
         "url": "https://blog.codacy.com/we-scanned-34266-repos.-1-in-4-orgs-showed-gaps-in-ai-agent-config-files",
         "timestamp": "2026-07-01T09:31:02.458142",
         "source": "Hacker News"
+    },
+    {
+        "title": "Turning Supacode into a Full, Agent First IDE",
+        "url": "https://corti.com/turning-supacode-into-a-full-ide-flexible-panes-for-agents-editor-file-management-and-git-all-using-vim-keybindings/",
+        "timestamp": "2026-07-01T09:31:02.458156",
+        "source": "Hacker News"
     }
 ]
