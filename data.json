@@ -371908,5 +371908,11 @@
         "url": "https://en.wikipedia.org/wiki/Black_soup",
         "timestamp": "2026-07-01T20:18:12.473075",
         "source": "Hacker News"
+    },
+    {
+        "title": "Backstage access: an unauthenticated SQL injection in Front Gate Tickets",
+        "url": "https://ian.sh/frontgate",
+        "timestamp": "2026-07-01T20:18:12.473101",
+        "source": "Hacker News"
     }
 ]
