@@ -368380,5 +368380,11 @@
         "url": "https://www.youtube.com/shorts/ylfVSMsTUqY",
         "timestamp": "2026-07-01T01:20:21.435970",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Coding agent that compiles intent into deterministic DAG before running",
+        "url": "https://github.com/arman-jalili/rigorix-oss",
+        "timestamp": "2026-07-01T01:20:21.436020",
+        "source": "Hacker News"
     }
 ]
