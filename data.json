@@ -372058,5 +372058,11 @@
         "url": "https://github.com/langchain-ai/openwiki",
         "timestamp": "2026-07-01T20:55:02.379954",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: CLI that helps AI agents avoid vulnerable dependencies",
+        "url": "https://github.com/clidey/deptrust",
+        "timestamp": "2026-07-01T20:55:02.379981",
+        "source": "Hacker News"
     }
 ]
