@@ -370090,5 +370090,11 @@
         "url": "https://www.producthunt.com/products/humalike-2",
         "timestamp": "2026-07-01T11:52:40.980986",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "A deep dive into SmallVector:push_back",
+        "url": "https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back",
+        "timestamp": "2026-07-01T12:53:07.130948",
+        "source": "Hacker News"
     }
 ]
