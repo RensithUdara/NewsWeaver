@@ -371710,5 +371710,11 @@
         "url": "https://blog.absurdpirate.com/youtube-is-actual-garbage/",
         "timestamp": "2026-07-01T19:31:40.789217",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps",
+        "url": "https://github.com/Division-36/Z-Jail/",
+        "timestamp": "2026-07-01T19:31:40.789250",
+        "source": "Hacker News"
     }
 ]
