@@ -368416,5 +368416,11 @@
         "url": "https://adamtornhill.substack.com/p/an-opinionated-and-mainly-correct",
         "timestamp": "2026-07-01T01:20:21.436162",
         "source": "Hacker News"
+    },
+    {
+        "title": "Serving Local AI on My Jetson Through Durable Streams",
+        "url": "https://s2.dev/blog/local-ai",
+        "timestamp": "2026-07-01T01:20:21.436189",
+        "source": "Hacker News"
     }
 ]
