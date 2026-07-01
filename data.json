@@ -372838,5 +372838,11 @@
         "url": "https://blog.modelcontextprotocol.io/posts/sdk-betas-2026-07-28/",
         "timestamp": "2026-07-01T23:40:44.026843",
         "source": "Hacker News"
+    },
+    {
+        "title": "WyrmRSS: A modern RSS reader and aggregator",
+        "url": "https://github.com/kryoseu/WyrmRSS",
+        "timestamp": "2026-07-01T23:40:44.026871",
+        "source": "Hacker News"
     }
 ]
