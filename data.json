@@ -372484,5 +372484,11 @@
         "url": "https://www.phoronix.com/news/Glibc-System-Tunables",
         "timestamp": "2026-07-01T22:07:12.764000",
         "source": "Hacker News"
+    },
+    {
+        "title": "wgpu v30 has been Released!",
+        "url": "https://github.com/gfx-rs/wgpu/releases/tag/v30.0.0",
+        "timestamp": "2026-07-01T22:07:12.764026",
+        "source": "Hacker News"
     }
 ]
