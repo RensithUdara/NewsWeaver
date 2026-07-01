@@ -371386,5 +371386,11 @@
         "url": "https://xcancel.com/AnthropicAI/status/2072163884430229756",
         "timestamp": "2026-07-01T18:09:27.030880",
         "source": "Hacker News"
+    },
+    {
+        "title": "Chasing the OPNsense RCE: The Story Behind My First CVEs",
+        "url": "https://hackerask.com/posts/opnsense/",
+        "timestamp": "2026-07-01T18:09:27.030916",
+        "source": "Hacker News"
     }
 ]
