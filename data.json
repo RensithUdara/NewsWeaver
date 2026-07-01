@@ -371536,5 +371536,11 @@
         "url": "https://arxiv.org/abs/2606.24692",
         "timestamp": "2026-07-01T18:52:49.120741",
         "source": "Hacker News"
+    },
+    {
+        "title": "GPUBreach: Privilege Escalation Attacks on GPUs Using Rowhammer",
+        "url": "https://arxiv.org/abs/2605.03812",
+        "timestamp": "2026-07-01T18:52:49.120776",
+        "source": "Hacker News"
     }
 ]
