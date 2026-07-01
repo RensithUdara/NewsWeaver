@@ -368632,5 +368632,11 @@
         "url": "https://www.notebookcheck.net/Smartphone-made-in-Germany-Punkt-MC03-with-AphyOS-is-now-available.1331791.0.html",
         "timestamp": "2026-07-01T02:17:29.752213",
         "source": "Hacker News"
+    },
+    {
+        "title": "From monolith to Lakebase to LTAP: rethinking the database from storage up",
+        "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+        "timestamp": "2026-07-01T02:17:29.752246",
+        "source": "Hacker News"
     }
 ]
