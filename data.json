@@ -372532,5 +372532,11 @@
         "url": "https://www.youtube.com/watch?v=lk3jCuITwcE",
         "timestamp": "2026-07-01T22:39:38.331228",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: GONK – Lightweight Edge-Native API Gateway in Go",
+        "url": "https://github.com/JustVugg/gonk",
+        "timestamp": "2026-07-01T22:39:38.331257",
+        "source": "Hacker News"
     }
 ]
