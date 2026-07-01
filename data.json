@@ -371116,5 +371116,11 @@
         "url": "https://martinfowler.com/articles/201701-event-driven.html",
         "timestamp": "2026-07-01T17:24:05.492586",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I Made TS Compiler Graph MCP: 10x Fewer Tokens in Claude Code and Codex",
+        "url": "https://github.com/samchon/ttsc/tree/master/packages/graph",
+        "timestamp": "2026-07-01T17:24:05.492627",
+        "source": "Hacker News"
     }
 ]
