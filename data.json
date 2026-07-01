@@ -371530,5 +371530,11 @@
         "url": "https://beepcasts.com/",
         "timestamp": "2026-07-01T18:52:49.120709",
         "source": "Hacker News"
+    },
+    {
+        "title": "PowerFuzz: Power-Based Black-Box Firmware Fuzzing",
+        "url": "https://arxiv.org/abs/2606.24692",
+        "timestamp": "2026-07-01T18:52:49.120741",
+        "source": "Hacker News"
     }
 ]
