@@ -372478,5 +372478,11 @@
         "url": "https://github.com/JacobBrooke1/moxie",
         "timestamp": "2026-07-01T22:07:12.763974",
         "source": "Hacker News"
+    },
+    {
+        "title": "Glibc Introduces /etc/tunables.conf For System-Wide Tunables",
+        "url": "https://www.phoronix.com/news/Glibc-System-Tunables",
+        "timestamp": "2026-07-01T22:07:12.764000",
+        "source": "Hacker News"
     }
 ]
