@@ -371998,5 +371998,11 @@
         "url": "https://platform.claude.com/docs/en/about-claude/models/introducing-claude-fable-5-and-claude-mythos-5",
         "timestamp": "2026-07-01T20:18:12.473506",
         "source": "Hacker News"
+    },
+    {
+        "title": "JEP 539: Strict Field Initialization in the JVM moved to preview",
+        "url": "https://openjdk.org/jeps/539",
+        "timestamp": "2026-07-01T20:18:12.473561",
+        "source": "Hacker News"
     }
 ]
