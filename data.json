@@ -370756,5 +370756,11 @@
         "url": "https://torrentfreak.com/kim-dotcom-loses-court-of-appeal-bid-to-block-extradition-to-the-u-s/",
         "timestamp": "2026-07-01T15:44:00.072256",
         "source": "Hacker News"
+    },
+    {
+        "title": "Optimization tales with CockroachDB: the slow logout",
+        "url": "https://gaultier.github.io/blog/optimization-tales-cockroachdb-part2-slow-logout.html",
+        "timestamp": "2026-07-01T15:44:00.072295",
+        "source": "Hacker News"
     }
 ]
