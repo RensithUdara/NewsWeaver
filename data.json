@@ -369970,5 +369970,11 @@
         "url": "https://streanga.com/blog/on-generative-ai-and-software-engineering/",
         "timestamp": "2026-07-01T11:52:40.435594",
         "source": "Hacker News"
+    },
+    {
+        "title": "In-Process Consistent Hash Load Balancing at a Million Requests per Second",
+        "url": "https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html?v=2](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html",
+        "timestamp": "2026-07-01T11:52:40.435631",
+        "source": "Hacker News"
     }
 ]
