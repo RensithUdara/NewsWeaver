@@ -368680,5 +368680,11 @@
         "url": "https://www.seti.org/career-center/",
         "timestamp": "2026-07-01T02:17:29.752484",
         "source": "Hacker News"
+    },
+    {
+        "title": "All Package Management Functionality Moved from Compiler to Build System",
+        "url": "https://ziglang.org/devlog/2026/",
+        "timestamp": "2026-07-01T02:17:29.752518",
+        "source": "Hacker News"
     }
 ]
