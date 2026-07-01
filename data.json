@@ -368926,5 +368926,11 @@
         "url": "https://rootly.com/blog/we-pay-engineers-to-cut-our-infra-bill",
         "timestamp": "2026-07-01T05:09:26.902371",
         "source": "Hacker News"
+    },
+    {
+        "title": "RFC 9980 Post-Quantum Cryptography in OpenPGP",
+        "url": "https://www.rfc-editor.org/info/rfc9980/",
+        "timestamp": "2026-07-01T05:09:26.902410",
+        "source": "Hacker News"
     }
 ]
