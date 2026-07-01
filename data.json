@@ -372298,5 +372298,11 @@
         "url": "https://davidmanheim.substack.com/p/context-on-context",
         "timestamp": "2026-07-01T21:30:14.245107",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Intellisense style autocompletions inside of Bash",
+        "url": "https://github.com/HalFrgrd/flyline",
+        "timestamp": "2026-07-01T21:30:14.245140",
+        "source": "Hacker News"
     }
 ]
