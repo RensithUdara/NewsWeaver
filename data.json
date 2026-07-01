@@ -372268,5 +372268,11 @@
         "url": "https://dl.acm.org/doi/10.1145/3708533",
         "timestamp": "2026-07-01T21:30:14.244930",
         "source": "Hacker News"
+    },
+    {
+        "title": "VeriCache: Turning Lossy KV Cache into Lossless LLM Inference",
+        "url": "https://arxiv.org/abs/2605.17613",
+        "timestamp": "2026-07-01T21:30:14.244966",
+        "source": "Hacker News"
     }
 ]
