@@ -369166,5 +369166,11 @@
         "url": "https://www.sltrib.com/news/2026/06/25/kevin-oleary-retracts-chinese/",
         "timestamp": "2026-07-01T06:43:45.199975",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code uses prompt caching",
+        "url": "https://code.claude.com/docs/en/prompt-caching",
+        "timestamp": "2026-07-01T06:43:45.200011",
+        "source": "Hacker News"
     }
 ]
