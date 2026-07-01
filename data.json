@@ -372040,5 +372040,11 @@
         "url": "https://github.com/asp67/llm-colosseum/tree/main",
         "timestamp": "2026-07-01T20:55:02.379850",
         "source": "Hacker News"
+    },
+    {
+        "title": "An AI agent that applies to jobs for me (Playwright and LLM form filling)",
+        "url": "https://github.com/torontodeveloper/job-application-agent",
+        "timestamp": "2026-07-01T20:55:02.379895",
+        "source": "Hacker News"
     }
 ]
