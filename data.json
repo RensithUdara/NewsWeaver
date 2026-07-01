@@ -371746,5 +371746,11 @@
         "url": "https://vrong.me/blog/what-is-pinning-in-rust/",
         "timestamp": "2026-07-01T19:31:40.789448",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Set Theoretic Approach to Detecting Logic Bugs in DBMS InnerJoin Optimizations",
+        "url": "https://arxiv.org/abs/2606.23294",
+        "timestamp": "2026-07-01T19:31:40.789486",
+        "source": "Hacker News"
     }
 ]
