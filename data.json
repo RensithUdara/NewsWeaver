@@ -371146,5 +371146,11 @@
         "url": "https://slug-kebabs.dev/blog/what-are-you/",
         "timestamp": "2026-07-01T17:24:05.492775",
         "source": "Hacker News"
+    },
+    {
+        "title": "Salt v1.0.0 – a systems language with Z3 theorem proving in the compiler",
+        "url": "https://salt-lang.dev",
+        "timestamp": "2026-07-01T17:24:05.492808",
+        "source": "Hacker News"
     }
 ]
