@@ -370966,5 +370966,11 @@
         "url": "https://www.youtube.com/watch?v=nPL3W_oHSrE",
         "timestamp": "2026-07-01T16:38:23.777585",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built a way for coding agents to use secrets with O seeing them",
+        "url": "https://github.com/pdumicz/secret-shuttle",
+        "timestamp": "2026-07-01T16:38:23.777612",
+        "source": "Hacker News"
     }
 ]
