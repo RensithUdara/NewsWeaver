@@ -370834,5 +370834,11 @@
         "url": "https://www.places.is/",
         "timestamp": "2026-07-01T15:44:00.072767",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reduce GVisor Cold Starts with GPU Snapshotting",
+        "url": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
+        "timestamp": "2026-07-01T16:38:23.578242",
+        "source": "Hacker News"
     }
 ]
