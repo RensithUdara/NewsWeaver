@@ -372430,5 +372430,11 @@
         "url": "https://en.wikipedia.org/wiki/Token_economy",
         "timestamp": "2026-07-01T22:07:12.763668",
         "source": "Hacker News"
+    },
+    {
+        "title": "I got tired of slow DB inserts, so I wrote a zero-syscall IPC in Go (18M TPS)",
+        "url": "https://github.com/GenshIv/hft-ipc",
+        "timestamp": "2026-07-01T22:07:12.763696",
+        "source": "Hacker News"
     }
 ]
