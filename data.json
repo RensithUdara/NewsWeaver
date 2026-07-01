@@ -371362,5 +371362,11 @@
         "url": "https://layerxsecurity.com/blog/bioshocking-ai-gaming-the-ai-browser-and-escaping-its-guardrails/",
         "timestamp": "2026-07-01T18:09:27.030739",
         "source": "Hacker News"
+    },
+    {
+        "title": "Exploiting Root Execution in Claude Cowork's Sandbox",
+        "url": "https://www.armadin.com/blog-posts/exploiting-root-execution-in-claude-coworks-sandbox",
+        "timestamp": "2026-07-01T18:09:27.030775",
+        "source": "Hacker News"
     }
 ]
