@@ -368560,5 +368560,11 @@
         "url": "https://twitter.com/amazedsaint/status/2072139903651963062",
         "timestamp": "2026-07-01T02:17:29.751744",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fixing a kubelet Memory Leak in Kubernetes 1.36",
+        "url": "https://heyoncall.com/blog/fixing-kubernetes-kubelet-memory-leak",
+        "timestamp": "2026-07-01T02:17:29.751795",
+        "source": "Hacker News"
     }
 ]
