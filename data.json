@@ -371698,5 +371698,11 @@
         "url": "https://news.ycombinator.com/item?id=48751900",
         "timestamp": "2026-07-01T19:31:40.789081",
         "source": "Hacker News"
+    },
+    {
+        "title": "Designing GPU-Accelerated Query Engines with NVIDIA GQE",
+        "url": "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe/",
+        "timestamp": "2026-07-01T19:31:40.789149",
+        "source": "Hacker News"
     }
 ]
