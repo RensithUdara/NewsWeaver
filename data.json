@@ -371740,5 +371740,11 @@
         "url": "https://literaryreview.co.uk/out-of-the-armchair",
         "timestamp": "2026-07-01T19:31:40.789414",
         "source": "Hacker News"
+    },
+    {
+        "title": "What is `std:pin:Pin` in Rust?",
+        "url": "https://vrong.me/blog/what-is-pinning-in-rust/",
+        "timestamp": "2026-07-01T19:31:40.789448",
+        "source": "Hacker News"
     }
 ]
