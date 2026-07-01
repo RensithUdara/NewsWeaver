@@ -370240,5 +370240,11 @@
         "url": "https://news.ycombinator.com/item?id=48745664",
         "timestamp": "2026-07-01T12:53:07.357050",
         "source": "Hacker News"
+    },
+    {
+        "title": "BaseRT, A fast inference runtime for local AI on Apple Silicon",
+        "url": "https://www.basecompute.co/getbasert",
+        "timestamp": "2026-07-01T12:53:07.357078",
+        "source": "Hacker News"
     }
 ]
