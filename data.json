@@ -372034,5 +372034,11 @@
         "url": "https://www.duration.ai/blog/generating-images-with-a-2025-android",
         "timestamp": "2026-07-01T20:55:02.188894",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLM Colosseum – A zero-dependency browser RTS to test LLM tool calling",
+        "url": "https://github.com/asp67/llm-colosseum/tree/main",
+        "timestamp": "2026-07-01T20:55:02.379850",
+        "source": "Hacker News"
     }
 ]
