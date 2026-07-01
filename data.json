@@ -370306,5 +370306,11 @@
         "url": "https://qz.com/meta-cloud-business-ai-computing-power-070126",
         "timestamp": "2026-07-01T13:45:44.993329",
         "source": "Hacker News"
+    },
+    {
+        "title": "Signal: A draft UX framework for LLM-based systems",
+        "url": "https://github.com/hi-mundo/SIGNAL",
+        "timestamp": "2026-07-01T13:45:44.993365",
+        "source": "Hacker News"
     }
 ]
