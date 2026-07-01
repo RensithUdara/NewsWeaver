@@ -370732,5 +370732,11 @@
         "url": "https://news.mit.edu/2026/scientists-find-ozone-depletion-began-decades-before-ozone-hole-discovery-0629",
         "timestamp": "2026-07-01T15:44:00.072094",
         "source": "Hacker News"
+    },
+    {
+        "title": "What's holding up the rollout of persistent domain validation for ACME?",
+        "url": "https://www.turbolightsolutions.com/posts/dns-persist-01-rollout-blocked-by-security-issue/",
+        "timestamp": "2026-07-01T15:44:00.072128",
+        "source": "Hacker News"
     }
 ]
