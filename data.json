@@ -371122,5 +371122,11 @@
         "url": "https://github.com/samchon/ttsc/tree/master/packages/graph",
         "timestamp": "2026-07-01T17:24:05.492627",
         "source": "Hacker News"
+    },
+    {
+        "title": "FFmpeg's native AAC encoder has just been rewritten, and beats fdk_aac",
+        "url": "https://xcancel.com/FFmpeg/status/2072320220509741087",
+        "timestamp": "2026-07-01T17:24:05.492666",
+        "source": "Hacker News"
     }
 ]
