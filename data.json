@@ -374236,5 +374236,11 @@
         "url": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
         "timestamp": "2026-07-02T15:25:54.242929",
         "source": "Articles on Smashing Magazine — For Web Designers And Developers"
+    },
+    {
+        "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+        "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+        "timestamp": "2026-07-02T17:08:30.932850",
+        "source": "Hacker News"
     }
 ]
