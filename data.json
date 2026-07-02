@@ -373312,5 +373312,11 @@
         "url": "https://news.ycombinator.com/item?id=48756467",
         "timestamp": "2026-07-02T05:10:04.295616",
         "source": "Hacker News"
+    },
+    {
+        "title": "Understanding Why Language Models Hallucinate: Testing Reasoning Against Priors",
+        "url": "https://neohughus.github.io/Understanding_Why_Language_Models_Hallucinate/",
+        "timestamp": "2026-07-02T05:10:04.295690",
+        "source": "Hacker News"
     }
 ]
