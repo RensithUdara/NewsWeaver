@@ -373900,5 +373900,11 @@
         "url": "https://moai.studio/blog/posts/economy-is-k-shaped.html",
         "timestamp": "2026-07-02T13:03:10.632807",
         "source": "Hacker News"
+    },
+    {
+        "title": "Closed class hierarchies in .NET 11",
+        "url": "https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/",
+        "timestamp": "2026-07-02T13:03:10.632841",
+        "source": "Hacker News"
     }
 ]
