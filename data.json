@@ -374494,5 +374494,11 @@
         "url": "https://www.walterpmoore.com/projects",
         "timestamp": "2026-07-02T18:45:10.020349",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude's AskUserQuestion: \"No response after 60s – continued without an answer\"",
+        "url": "https://github.com/anthropics/claude-code/issues/73125",
+        "timestamp": "2026-07-02T18:45:10.020388",
+        "source": "Hacker News"
     }
 ]
