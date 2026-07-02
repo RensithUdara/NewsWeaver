@@ -374698,5 +374698,11 @@
         "url": "https://napkinbook.com/boards",
         "timestamp": "2026-07-02T20:08:14.912898",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
+        "url": "http://www.lmdb.tech/doc/",
+        "timestamp": "2026-07-02T20:08:14.912935",
+        "source": "Hacker News"
     }
 ]
