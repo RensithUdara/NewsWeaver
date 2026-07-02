@@ -373636,5 +373636,11 @@
         "url": "https://remedysec.com/blog/posts/md5-avalanche-effect/",
         "timestamp": "2026-07-02T11:03:59.238841",
         "source": "Hacker News"
+    },
+    {
+        "title": "Authenticating MCPs: three ways we do it",
+        "url": "https://matthew-johnston.com/authenticating-mcps/",
+        "timestamp": "2026-07-02T11:03:59.238877",
+        "source": "Hacker News"
     }
 ]
