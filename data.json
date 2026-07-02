@@ -374482,5 +374482,11 @@
         "url": "https://leanpub.com/eu-ai-act",
         "timestamp": "2026-07-02T18:45:10.020275",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postgres transactions are a distributed systems superpower",
+        "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+        "timestamp": "2026-07-02T18:45:10.020312",
+        "source": "Hacker News"
     }
 ]
