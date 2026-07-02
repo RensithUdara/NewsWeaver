@@ -373978,5 +373978,11 @@
         "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
         "timestamp": "2026-07-02T15:25:52.804449",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ZeroFS – A log-structured filesystem for S3",
+        "url": "https://www.zerofs.net/",
+        "timestamp": "2026-07-02T15:25:52.804604",
+        "source": "Hacker News"
     }
 ]
