@@ -375154,5 +375154,11 @@
         "url": "https://news.ycombinator.com/item?id=48768111",
         "timestamp": "2026-07-02T22:33:32.175597",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fedora 45 Considering x86_64 Shadow Stack Usage by Default",
+        "url": "https://www.phoronix.com/news/Fedora-45-Consider-Shadow-Stack",
+        "timestamp": "2026-07-02T22:33:32.175635",
+        "source": "Hacker News"
     }
 ]
