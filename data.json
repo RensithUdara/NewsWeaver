@@ -373990,5 +373990,11 @@
         "url": "https://mathstodon.xyz/@mjd/115096720350507897",
         "timestamp": "2026-07-02T15:25:52.804686",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
+        "url": "https://github.com/rafal-qa/slopo",
+        "timestamp": "2026-07-02T15:25:52.804741",
+        "source": "Hacker News"
     }
 ]
