@@ -375214,5 +375214,11 @@
         "url": "https://variety.com/2026/music/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/",
         "timestamp": "2026-07-02T22:33:32.175995",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Fin – a TUI Jellyfin client powered by mpv with Chromecast support",
+        "url": "https://github.com/tsirysndr/fin",
+        "timestamp": "2026-07-02T22:33:32.176030",
+        "source": "Hacker News"
     }
 ]
