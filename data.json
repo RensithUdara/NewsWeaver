@@ -374656,5 +374656,11 @@
         "url": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
         "timestamp": "2026-07-02T18:45:10.663108",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Vulkan is now available on NetBSD",
+        "url": "https://github.com/segaboy/vulkan-netbsd",
+        "timestamp": "2026-07-02T20:08:14.672533",
+        "source": "Hacker News"
     }
 ]
