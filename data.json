@@ -374944,5 +374944,11 @@
         "url": "https://hogwarts-production.up.railway.app/",
         "timestamp": "2026-07-02T21:21:07.766333",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running a Virtual Machine on a Cloud Box That Can't Run Virtual Machines",
+        "url": "https://www.frankchiarulli.com/blog/nix-pvm/",
+        "timestamp": "2026-07-02T21:21:07.766366",
+        "source": "Hacker News"
     }
 ]
