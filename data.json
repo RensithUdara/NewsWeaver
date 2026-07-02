@@ -374038,5 +374038,11 @@
         "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
         "timestamp": "2026-07-02T15:25:53.016426",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cloudflare Workers Build Delays",
+        "url": "https://www.cloudflarestatus.com/incidents/2z7ff0166l22",
+        "timestamp": "2026-07-02T15:25:53.016455",
+        "source": "Hacker News"
     }
 ]
