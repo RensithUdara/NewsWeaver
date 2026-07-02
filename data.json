@@ -373060,5 +373060,11 @@
         "url": "https://vektorgeist.com/market",
         "timestamp": "2026-07-02T01:19:13.593535",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A local AI-powered Bloomberg terminal for German meme stocks",
+        "url": "https://github.com/bsommerfeld/wsbg-terminal",
+        "timestamp": "2026-07-02T01:19:13.593562",
+        "source": "Hacker News"
     }
 ]
