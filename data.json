@@ -373180,5 +373180,11 @@
         "url": "https://science.nasa.gov/mission/hubble/multimedia/what-did-hubble-see-on-your-birthday/",
         "timestamp": "2026-07-02T05:10:04.294692",
         "source": "Hacker News"
+    },
+    {
+        "title": "Shader Benchmark for LLMs",
+        "url": "https://nbardy.github.io/shader_benchmark/",
+        "timestamp": "2026-07-02T05:10:04.294741",
+        "source": "Hacker News"
     }
 ]
