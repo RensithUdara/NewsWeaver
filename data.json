@@ -373786,5 +373786,11 @@
         "url": "https://news.ycombinator.com/item?id=48760048",
         "timestamp": "2026-07-02T13:03:10.382636",
         "source": "Hacker News"
+    },
+    {
+        "title": "Using Aspect-Oriented Programming to Record DRL Agents' Data",
+        "url": "https://blog.ptidej.net/using-aspect-oriented-programming-to-record-drl-agents-data/",
+        "timestamp": "2026-07-02T13:03:10.382703",
+        "source": "Hacker News"
     }
 ]
