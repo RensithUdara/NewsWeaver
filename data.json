@@ -373300,5 +373300,11 @@
         "url": "https://x402stats.io",
         "timestamp": "2026-07-02T05:10:04.295544",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zig - All Package Management Functionality Moved from Compiler to Build System",
+        "url": "https://ziglang.org/devlog/2026/?2026-06-30#2026-06-30",
+        "timestamp": "2026-07-02T05:10:04.295581",
+        "source": "Hacker News"
     }
 ]
