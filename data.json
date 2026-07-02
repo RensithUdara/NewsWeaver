@@ -373162,5 +373162,11 @@
         "url": "https://gwern.net/blog/2024/outsourcing",
         "timestamp": "2026-07-02T01:19:13.594150",
         "source": "Hacker News"
+    },
+    {
+        "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+        "url": "https://senior-swe-bench.snorkel.ai/",
+        "timestamp": "2026-07-02T05:10:03.990219",
+        "source": "Hacker News"
     }
 ]
