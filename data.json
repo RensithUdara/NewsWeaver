@@ -374080,5 +374080,11 @@
         "url": "https://www.aa.com.tr/en/economy/google-loses-eu-court-fight-over-47b-android-antitrust-fine/3984015",
         "timestamp": "2026-07-02T15:25:53.016616",
         "source": "Hacker News"
+    },
+    {
+        "title": "I made a macOS desktop app to manage Nix-Darwin and Home Manager",
+        "url": "https://github.com/darkmatter/nixmac",
+        "timestamp": "2026-07-02T15:25:53.016642",
+        "source": "Hacker News"
     }
 ]
