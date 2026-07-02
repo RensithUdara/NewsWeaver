@@ -375088,5 +375088,11 @@
         "url": "https://news.ycombinator.com/item?id=48768220",
         "timestamp": "2026-07-02T22:33:32.175149",
         "source": "Hacker News"
+    },
+    {
+        "title": "Consult-LLM – A second opinion from another model right in your existing agent",
+        "url": "https://github.com/raine/consult-llm",
+        "timestamp": "2026-07-02T22:33:32.175198",
+        "source": "Hacker News"
     }
 ]
