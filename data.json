@@ -374584,5 +374584,11 @@
         "url": "https://news.ycombinator.com/item?id=48765447",
         "timestamp": "2026-07-02T18:45:10.020948",
         "source": "Hacker News"
+    },
+    {
+        "title": "Interpretable Coreference Resolution Evaluation Using Explicit Semantics",
+        "url": "https://aclanthology.org/2026.acl-long.2126/",
+        "timestamp": "2026-07-02T18:45:10.021050",
+        "source": "Hacker News"
     }
 ]
