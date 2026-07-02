@@ -374464,5 +374464,11 @@
         "url": "https://moeonmargin.substack.com/p/the-us-government-is-now-a-shareholder",
         "timestamp": "2026-07-02T18:45:09.873156",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building Incremental Data Pipelines for Out-of-Order Scientific Data",
+        "url": "https://bisarray.com/articles/disarrayed-file-ingestion",
+        "timestamp": "2026-07-02T18:45:10.020183",
+        "source": "Hacker News"
     }
 ]
