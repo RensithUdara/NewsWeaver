@@ -375262,5 +375262,11 @@
         "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
         "timestamp": "2026-07-02T22:33:32.463982",
         "source": "TechCrunch"
+    },
+    {
+        "title": "crustc: entirety of `rustc`, translated to C",
+        "url": "https://github.com/FractalFir/crustc",
+        "timestamp": "2026-07-02T23:41:35.879628",
+        "source": "Hacker News"
     }
 ]
