@@ -376348,5 +376348,11 @@
         "url": "https://listen.sonoday.com",
         "timestamp": "2026-07-03T12:51:20.385262",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cloudflare Wrangler CLI auth profiles support",
+        "url": "https://developers.cloudflare.com/changelog/post/2026-07-02-wrangler-auth-profiles/",
+        "timestamp": "2026-07-03T12:51:20.385283",
+        "source": "Hacker News"
     }
 ]
