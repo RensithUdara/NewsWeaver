@@ -377566,5 +377566,11 @@
         "url": "https://harm-youtube.streamlit.app",
         "timestamp": "2026-07-03T23:43:36.867975",
         "source": "Hacker News"
+    },
+    {
+        "title": "How Amazon SQS fair queues work",
+        "url": "https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-fair-queues-detailed.html",
+        "timestamp": "2026-07-03T23:43:36.868008",
+        "source": "Hacker News"
     }
 ]
