@@ -375706,5 +375706,11 @@
         "url": "https://www.rte.ie/news/2026/0702/1581517-finance-chatbots/",
         "timestamp": "2026-07-03T05:00:00.015217",
         "source": "Hacker News"
+    },
+    {
+        "title": "Deepagents",
+        "url": "https://github.com/langchain-ai/deepagents",
+        "timestamp": "2026-07-03T05:00:00.015251",
+        "source": "Hacker News"
     }
 ]
