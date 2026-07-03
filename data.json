@@ -377146,5 +377146,11 @@
         "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
         "timestamp": "2026-07-03T19:42:58.557435",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Make your terminal pulse orange when Claude Code needs input",
+        "url": "https://github.com/rickardstureborg/claude-needs-input",
+        "timestamp": "2026-07-03T19:42:58.557470",
+        "source": "Hacker News"
     }
 ]
