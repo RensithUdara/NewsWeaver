@@ -377428,5 +377428,11 @@
         "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
         "timestamp": "2026-07-03T23:43:36.627055",
         "source": "Hacker News"
+    },
+    {
+        "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+        "url": "https://www.wafer.ai/blog/glm52-amd",
+        "timestamp": "2026-07-03T23:43:36.627214",
+        "source": "Hacker News"
     }
 ]
