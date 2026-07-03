@@ -376582,5 +376582,11 @@
         "url": "https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive",
         "timestamp": "2026-07-03T16:42:33.732622",
         "source": "Hacker News"
+    },
+    {
+        "title": "Jamesob's guide to running SOTA LLMs locally",
+        "url": "https://github.com/jamesob/local-llm",
+        "timestamp": "2026-07-03T16:42:33.732654",
+        "source": "Hacker News"
     }
 ]
