@@ -375694,5 +375694,11 @@
         "url": "https://jsdev.space/claude-code-settings-software-architect/",
         "timestamp": "2026-07-03T05:00:00.015111",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Deterministic Replacement for LLM-as-Judge in Stateful Agent Evaluation",
+        "url": "https://arxiv.org/abs/2606.22737",
+        "timestamp": "2026-07-03T05:00:00.015148",
+        "source": "Hacker News"
     }
 ]
