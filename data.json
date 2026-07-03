@@ -376750,5 +376750,11 @@
         "url": "https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections",
         "timestamp": "2026-07-03T16:42:33.925500",
         "source": "Hacker News"
+    },
+    {
+        "title": "The pandemic of incomplete OpenSSL error handling",
+        "url": "https://blog.jak-linux.org/2026/07/03/openssl-pandemic/",
+        "timestamp": "2026-07-03T16:42:33.925528",
+        "source": "Hacker News"
     }
 ]
