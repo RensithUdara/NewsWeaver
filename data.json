@@ -376114,5 +376114,11 @@
         "url": "https://geekyants.com/blog/beyond-ai-prototyping-sso-audit-logs-rbac",
         "timestamp": "2026-07-03T10:50:19.843720",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bazel Is Not for You",
+        "url": "https://bytebard.software/articles/04-you-dont-need-bazel/",
+        "timestamp": "2026-07-03T10:50:19.843755",
+        "source": "Hacker News"
     }
 ]
