@@ -377416,5 +377416,11 @@
         "url": "https://mistral.ai/news/leanstral-1-5/",
         "timestamp": "2026-07-03T23:43:36.626875",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dispersion loss counteracts embedding condensation in small language models",
+        "url": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
+        "timestamp": "2026-07-03T23:43:36.626912",
+        "source": "Hacker News"
     }
 ]
