@@ -375658,5 +375658,11 @@
         "url": "https://www.nber.org/system/files/working_papers/w35310/w35310.pdf",
         "timestamp": "2026-07-03T04:59:59.929540",
         "source": "Hacker News"
+    },
+    {
+        "title": "Wasmer: Fast, secure, lightweight containers based on WebAssembly",
+        "url": "https://wasmer.io/",
+        "timestamp": "2026-07-03T04:59:59.929683",
+        "source": "Hacker News"
     }
 ]
