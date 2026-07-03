@@ -375454,5 +375454,11 @@
         "url": "https://kendal.codeberg.page/inkwell/",
         "timestamp": "2026-07-03T01:18:01.053122",
         "source": "Hacker News"
+    },
+    {
+        "title": "FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11",
+        "url": "https://apple.github.io/foundationdb/flow.html",
+        "timestamp": "2026-07-03T01:18:01.053144",
+        "source": "Hacker News"
     }
 ]
