@@ -375712,5 +375712,11 @@
         "url": "https://github.com/langchain-ai/deepagents",
         "timestamp": "2026-07-03T05:00:00.015251",
         "source": "Hacker News"
+    },
+    {
+        "title": "AskHN: Using 'claude -p' for running Mr.Jassy - AWS butler agent",
+        "url": "https://news.ycombinator.com/item?id=48770691",
+        "timestamp": "2026-07-03T05:00:00.015330",
+        "source": "Hacker News"
     }
 ]
