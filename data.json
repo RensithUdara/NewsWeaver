@@ -377230,5 +377230,11 @@
         "url": "https://news.ycombinator.com/item?id=48779624",
         "timestamp": "2026-07-03T20:43:55.840612",
         "source": "Hacker News"
+    },
+    {
+        "title": "Deterministic Guardrails Against AI Code Duplication",
+        "url": "https://www.technology.org/2026/07/03/dupehound-deterministic-guardrails-against-ai-code-duplication/",
+        "timestamp": "2026-07-03T20:43:55.840647",
+        "source": "Hacker News"
     }
 ]
