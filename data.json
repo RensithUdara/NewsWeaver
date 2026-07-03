@@ -377302,5 +377302,11 @@
         "url": "https://nostalgicpod.com/en/",
         "timestamp": "2026-07-03T20:43:55.841075",
         "source": "Hacker News"
+    },
+    {
+        "title": "SearXNG: A free internet metasearch engine",
+        "url": "https://github.com/searxng/searxng",
+        "timestamp": "2026-07-03T20:43:55.841113",
+        "source": "Hacker News"
     }
 ]
