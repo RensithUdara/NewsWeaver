@@ -375928,5 +375928,11 @@
         "url": "https://thoughtbot.com/blog/your-vibe-coded-website-is-going-to-get-you-fined",
         "timestamp": "2026-07-03T08:11:36.706801",
         "source": "Hacker News"
+    },
+    {
+        "title": "IsChinaByEmoji – A way for browser to detect if a user is from China",
+        "url": "https://github.com/yArna/isChinaUser/blob/main/src/isChinaByEmoji.ts",
+        "timestamp": "2026-07-03T08:11:36.706836",
+        "source": "Hacker News"
     }
 ]
