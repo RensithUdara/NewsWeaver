@@ -376846,5 +376846,11 @@
         "url": "https://play.google.com/store/apps/details?id=com.solace.bot&hl=en_US",
         "timestamp": "2026-07-03T18:02:14.087101",
         "source": "Hacker News"
+    },
+    {
+        "title": "PamStealer: Rust-based macOS infostealer that validates credentials through PAM",
+        "url": "https://www.jamf.com/blog/pamstealer-macos-infostealer-applescript-rust/",
+        "timestamp": "2026-07-03T18:02:14.087136",
+        "source": "Hacker News"
     }
 ]
