@@ -376162,5 +376162,11 @@
         "url": "https://sheets.works/data-viz/strangers-draw-maps",
         "timestamp": "2026-07-03T10:50:19.844099",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pandoc Lua Filters",
+        "url": "https://pandoc.org/lua-filters.html",
+        "timestamp": "2026-07-03T10:50:19.844134",
+        "source": "Hacker News"
     }
 ]
