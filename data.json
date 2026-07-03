@@ -375772,5 +375772,11 @@
         "url": "https://www.nature.com/articles/s41586-026-10181-8",
         "timestamp": "2026-07-03T05:00:00.015781",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built a declarative layout engine for SVG, Canvas, WebGL",
+        "url": "https://github.com/carnworkstudios/boxwood",
+        "timestamp": "2026-07-03T05:00:00.015814",
+        "source": "Hacker News"
     }
 ]
