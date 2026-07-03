@@ -377326,5 +377326,11 @@
         "url": "https://news.ycombinator.com/item?id=48779423",
         "timestamp": "2026-07-03T20:43:55.841258",
         "source": "Hacker News"
+    },
+    {
+        "title": "A minimal browser agent built on the accessibility tree",
+        "url": "https://github.com/josharsh/pixelpi",
+        "timestamp": "2026-07-03T20:43:55.841293",
+        "source": "Hacker News"
     }
 ]
