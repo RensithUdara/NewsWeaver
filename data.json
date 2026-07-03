@@ -376486,5 +376486,11 @@
         "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4634208/trump-portfolio-tracker-account-suspended/",
         "timestamp": "2026-07-03T15:01:21.762366",
         "source": "Hacker News"
+    },
+    {
+        "title": "Using OpenTofu's Exclude Flag to Isolate Performance Bottlenecks",
+        "url": "https://masterpoint.io/blog/using-opentofu-exclude-flag-isolate-performance-bottlenecks/",
+        "timestamp": "2026-07-03T15:01:21.762387",
+        "source": "Hacker News"
     }
 ]
