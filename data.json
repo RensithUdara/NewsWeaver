@@ -376690,5 +376690,11 @@
         "url": "https://www.nature.com/articles/s43856-026-01691-7",
         "timestamp": "2026-07-03T16:42:33.925199",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust Coreutils cp Ended Up Breaking Ubuntu Image Builds with Incompatibility",
+        "url": "https://www.phoronix.com/news/Rust-Coreutils-cp-Ubuntu-Images",
+        "timestamp": "2026-07-03T16:42:33.925226",
+        "source": "Hacker News"
     }
 ]
