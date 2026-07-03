@@ -375664,5 +375664,11 @@
         "url": "https://wasmer.io/",
         "timestamp": "2026-07-03T04:59:59.929683",
         "source": "Hacker News"
+    },
+    {
+        "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
+        "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+        "timestamp": "2026-07-03T04:59:59.929856",
+        "source": "Hacker News"
     }
 ]
