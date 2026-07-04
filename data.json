@@ -378946,5 +378946,11 @@
         "url": "https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with",
         "timestamp": "2026-07-04T15:16:39.046293",
         "source": "Hacker News"
+    },
+    {
+        "title": "I found a malware hiding in my TailwindCSS config file",
+        "url": "https://infosecwriteups.com/i-found-north-korean-dprk-malware-hiding-in-my-tailwind-config-js-45af2283742c",
+        "timestamp": "2026-07-04T15:16:39.046327",
+        "source": "Hacker News"
     }
 ]
