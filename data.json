@@ -379750,5 +379750,11 @@
         "url": "https://www.youtube.com/watch?v=cfaZZPjA3g0",
         "timestamp": "2026-07-04T21:33:45.963436",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linux DRM Scheduler Patches Yield Improvement for Job Submission Latency",
+        "url": "https://www.phoronix.com/news/DRM-Scheduler-Lower-Job-Submit",
+        "timestamp": "2026-07-04T21:33:45.963470",
+        "source": "Hacker News"
     }
 ]
