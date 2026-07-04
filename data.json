@@ -380092,5 +380092,11 @@
         "url": "https://tungsten-lang.org/",
         "timestamp": "2026-07-04T23:37:29.855530",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+        "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+        "timestamp": "2026-07-04T23:37:29.855566",
+        "source": "Hacker News"
     }
 ]
