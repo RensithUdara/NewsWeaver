@@ -378466,5 +378466,11 @@
         "url": "https://www.lockinmcp.com",
         "timestamp": "2026-07-04T11:11:43.657105",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ASMLings – Rustlings-style exercises for Intel 8086 assembly",
+        "url": "https://github.com/giacomo-folli/asmlings",
+        "timestamp": "2026-07-04T11:11:43.657133",
+        "source": "Hacker News"
     }
 ]
