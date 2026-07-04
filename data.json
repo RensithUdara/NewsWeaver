@@ -379834,5 +379834,11 @@
         "url": "https://physicsworld.com/a/the-unique-universe/",
         "timestamp": "2026-07-04T21:33:45.964010",
         "source": "Hacker News"
+    },
+    {
+        "title": "GTA 2 ported to JavaScript, with WebRTC P2P multiplayer",
+        "url": "https://gta2js.vercel.app/",
+        "timestamp": "2026-07-04T21:33:45.964044",
+        "source": "Hacker News"
     }
 ]
