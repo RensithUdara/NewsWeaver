@@ -379870,5 +379870,11 @@
         "url": "https://throndar.ai/cbom",
         "timestamp": "2026-07-04T21:33:45.964254",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bitpoint: Turn a directory of Python files into HTTP endpoints",
+        "url": "https://github.com/tanrax/bitpoint",
+        "timestamp": "2026-07-04T21:33:45.964296",
+        "source": "Hacker News"
     }
 ]
