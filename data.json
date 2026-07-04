@@ -380038,5 +380038,11 @@
         "url": "https://github.com/leonardosalasd/doc-engine-cli",
         "timestamp": "2026-07-04T22:33:14.791762",
         "source": "Hacker News"
+    },
+    {
+        "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+        "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
+        "timestamp": "2026-07-04T22:33:14.791798",
+        "source": "Hacker News"
     }
 ]
