@@ -379156,5 +379156,11 @@
         "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
         "timestamp": "2026-07-04T17:28:08.243074",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenScience: Workbench for scientific research using custom LLMs",
+        "url": "https://github.com/synthetic-sciences/openscience",
+        "timestamp": "2026-07-04T17:28:08.243111",
+        "source": "Hacker News"
     }
 ]
