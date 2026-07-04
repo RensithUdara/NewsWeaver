@@ -378706,5 +378706,11 @@
         "url": "https://github.com/ovidiuiliescu/simpleagentchat",
         "timestamp": "2026-07-04T14:02:20.531319",
         "source": "Hacker News"
+    },
+    {
+        "title": "'clustered index penalty' on all non-clustered indexes",
+        "url": "https://use-the-index-luke.com/blog/2014-01/unreasonable-defaults-primary-key-clustering-key",
+        "timestamp": "2026-07-04T14:02:20.531353",
+        "source": "Hacker News"
     }
 ]
