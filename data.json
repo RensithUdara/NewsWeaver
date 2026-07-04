@@ -378814,5 +378814,11 @@
         "url": "https://github.com/thansz137/asiyah-protocol/blob/main/essays/dark_forest_of_minds.md",
         "timestamp": "2026-07-04T14:02:20.532073",
         "source": "Hacker News"
+    },
+    {
+        "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+        "url": "https://github.com/anthropics/claude-code/issues/74066",
+        "timestamp": "2026-07-04T15:16:38.805536",
+        "source": "Hacker News"
     }
 ]
