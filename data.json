@@ -378790,5 +378790,11 @@
         "url": "https://lwn.net/Articles/1079001/",
         "timestamp": "2026-07-04T14:02:20.531934",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI code reviewer with senior-level judgment and strict rubric",
+        "url": "https://github.com/aisona-lab/lazycoder",
+        "timestamp": "2026-07-04T14:02:20.531970",
+        "source": "Hacker News"
     }
 ]
