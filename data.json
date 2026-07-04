@@ -378004,5 +378004,11 @@
         "url": "https://digitalcourage.social/@echo_pbreyer/116860372306942641",
         "timestamp": "2026-07-04T07:36:34.369393",
         "source": "Hacker News"
+    },
+    {
+        "title": "Don't Train the Model, Evolve the Harness",
+        "url": "https://huggingface.co/spaces/joelniklaus/harness-optimization",
+        "timestamp": "2026-07-04T07:36:34.369434",
+        "source": "Hacker News"
     }
 ]
