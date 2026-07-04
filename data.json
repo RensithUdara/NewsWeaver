@@ -379606,5 +379606,11 @@
         "url": "https://www.bbc.com/news/articles/cgrkd41n2v9o",
         "timestamp": "2026-07-04T20:36:50.591147",
         "source": "Hacker News"
+    },
+    {
+        "title": "Testing Bitbake on Yocto 6.0.1 (Wrynose) LTS",
+        "url": "https://inavoyage.blogspot.com/2026/07/testing-bitbake-on-yocto-601-wrynose-lts.html",
+        "timestamp": "2026-07-04T20:36:50.591174",
+        "source": "Hacker News"
     }
 ]
