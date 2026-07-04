@@ -379360,5 +379360,11 @@
         "url": "https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/",
         "timestamp": "2026-07-04T19:48:03.503210",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
+        "url": "https://ziglang.org/devlog/2026/#2026-06-30",
+        "timestamp": "2026-07-04T19:48:03.503883",
+        "source": "Hacker News"
     }
 ]
