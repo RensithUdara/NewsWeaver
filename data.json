@@ -377830,5 +377830,11 @@
         "url": "https://pangolinmatrix.com",
         "timestamp": "2026-07-04T04:54:10.162840",
         "source": "Hacker News"
+    },
+    {
+        "title": "Google reCAPTCHA Reverse Engineered",
+        "url": "https://github.com/elyelysiox/recaptcha",
+        "timestamp": "2026-07-04T04:54:10.162861",
+        "source": "Hacker News"
     }
 ]
