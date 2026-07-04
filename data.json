@@ -379252,5 +379252,11 @@
         "url": "https://www.xda-developers.com/i-replaced-my-100-year-rss-reader-with-a-free-github-pages-aggregator/",
         "timestamp": "2026-07-04T18:30:42.228909",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tests Are SQL Files Too",
+        "url": "https://npgsqlrest.github.io/blog/npgsqlrest-3.19-sql-test-runner-watch-mode.html",
+        "timestamp": "2026-07-04T18:30:42.228942",
+        "source": "Hacker News"
     }
 ]
