@@ -378796,5 +378796,11 @@
         "url": "https://github.com/aisona-lab/lazycoder",
         "timestamp": "2026-07-04T14:02:20.531970",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to Read Postgres Explain: A Guide to Scan Types",
+        "url": "https://www.crunchydata.com/blog/postgres-scan-types-in-explain-plans",
+        "timestamp": "2026-07-04T14:02:20.532005",
+        "source": "Hacker News"
     }
 ]
