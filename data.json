@@ -380176,5 +380176,11 @@
         "url": "https://news.ycombinator.com/item?id=48789801",
         "timestamp": "2026-07-04T23:37:29.856077",
         "source": "Hacker News"
+    },
+    {
+        "title": "Out-of-core LLM inference engine written from scratch in Rust",
+        "url": "https://github.com/Vage91/Kortex",
+        "timestamp": "2026-07-04T23:37:29.856112",
+        "source": "Hacker News"
     }
 ]
