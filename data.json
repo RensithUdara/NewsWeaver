@@ -377962,5 +377962,11 @@
         "url": "https://news.ku.edu/news/article/study-reveals-what-people-really-see-when-they-read-lips",
         "timestamp": "2026-07-04T07:36:34.284259",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reverse-engineering Codemasters' BIGF archive format in Ruby",
+        "url": "https://davidslv.uk/2026/06/30/reading-binary-in-ruby.html",
+        "timestamp": "2026-07-04T07:36:34.284426",
+        "source": "Hacker News"
     }
 ]
