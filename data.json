@@ -378160,5 +378160,11 @@
         "url": "https://www.producthunt.com/products/checklistfox",
         "timestamp": "2026-07-04T07:36:34.613757",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "JavaScript still can't ship a full-stack module",
+        "url": "https://wasp.sh/blog/2026/06/22/javascript-still-cant-ship-a-full-stack-module",
+        "timestamp": "2026-07-04T09:47:31.831890",
+        "source": "Hacker News"
     }
 ]
