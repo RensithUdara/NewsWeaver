@@ -380188,5 +380188,11 @@
         "url": "https://www.nature.com/immersive/d41586-026-01978-8/index.html",
         "timestamp": "2026-07-04T23:37:29.856148",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tool that stops iCloud from eating your Mac's SSD",
+        "url": "https://github.com/rexbrahh/icloud-guard/tree/main",
+        "timestamp": "2026-07-04T23:37:29.856183",
+        "source": "Hacker News"
     }
 ]
