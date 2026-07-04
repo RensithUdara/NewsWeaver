@@ -378964,5 +378964,11 @@
         "url": "https://traceinstitute.org/",
         "timestamp": "2026-07-04T15:16:39.046453",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open source HW equivalence checking tool at both RTL and gate level",
+        "url": "https://github.com/keplertech/kepler-formal",
+        "timestamp": "2026-07-04T15:16:39.046492",
+        "source": "Hacker News"
     }
 ]
