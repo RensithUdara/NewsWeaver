@@ -377698,5 +377698,11 @@
         "url": "https://arxiv.org/abs/2606.30549",
         "timestamp": "2026-07-04T01:17:49.498662",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bitcask - A Log-Structured Hash Table for Fast Key/Value Data (2010) [pdf]",
+        "url": "https://riak.com/assets/bitcask-intro.pdf",
+        "timestamp": "2026-07-04T01:17:49.498695",
+        "source": "Hacker News"
     }
 ]
