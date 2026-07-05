@@ -381574,5 +381574,11 @@
         "url": "https://www.specky.space/specbench/play",
         "timestamp": "2026-07-05T14:50:54.383470",
         "source": "Hacker News"
+    },
+    {
+        "title": "Deterministic Simulation Testing in Go with Synctest",
+        "url": "https://guidobattiston.com/posts/dst-go/",
+        "timestamp": "2026-07-05T14:50:54.383497",
+        "source": "Hacker News"
     }
 ]
