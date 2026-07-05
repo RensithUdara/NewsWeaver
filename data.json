@@ -382600,5 +382600,11 @@
         "url": "https://dhilst.github.io/algae/game/index.html",
         "timestamp": "2026-07-05T21:41:56.088965",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dependencies should be fetched directly from VCS",
+        "url": "https://www.arp242.net/deps-vcs.html",
+        "timestamp": "2026-07-05T21:41:56.089071",
+        "source": "Hacker News"
     }
 ]
