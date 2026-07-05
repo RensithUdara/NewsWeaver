@@ -381646,5 +381646,11 @@
         "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
         "timestamp": "2026-07-05T16:00:09.082008",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rayfish, Peer-to-peer mesh VPN with no server to trust",
+        "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
+        "timestamp": "2026-07-05T16:00:09.082214",
+        "source": "Hacker News"
     }
 ]
