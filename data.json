@@ -381946,5 +381946,11 @@
         "url": "https://news.ycombinator.com/item?id=48795642",
         "timestamp": "2026-07-05T17:15:45.054883",
         "source": "Hacker News"
+    },
+    {
+        "title": "Every JavaScript bundler handles inline script tags wrong",
+        "url": "https://carter.sande.duodecima.technology/inline-script-pitfalls/",
+        "timestamp": "2026-07-05T17:15:45.054916",
+        "source": "Hacker News"
     }
 ]
