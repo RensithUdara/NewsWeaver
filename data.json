@@ -382858,5 +382858,11 @@
         "url": "https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/",
         "timestamp": "2026-07-05T22:40:41.580969",
         "source": "Hacker News"
+    },
+    {
+        "title": "AKM-CLR – pre-inference governance for vLLM-style LLM serving",
+        "url": "https://github.com/irenee28/akm-clr-governance-layer",
+        "timestamp": "2026-07-05T22:40:41.581003",
+        "source": "Hacker News"
     }
 ]
