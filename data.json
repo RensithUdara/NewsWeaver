@@ -382618,5 +382618,11 @@
         "url": "https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube",
         "timestamp": "2026-07-05T21:41:56.281948",
         "source": "Hacker News"
+    },
+    {
+        "title": "Had an idea for a Rust editor with simple Vim mode for learning",
+        "url": "https://github.com/electronicsleep/rust-vim",
+        "timestamp": "2026-07-05T21:41:56.282000",
+        "source": "Hacker News"
     }
 ]
