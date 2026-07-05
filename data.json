@@ -380266,5 +380266,11 @@
         "url": "https://app.cloudslinker.com/login",
         "timestamp": "2026-07-05T01:20:04.825498",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ubuntu 24.04 on Intel Mac",
+        "url": "https://github.com/mozekin/apple-bce-drv/blob/aur/INSTALL-UBUNTU.md",
+        "timestamp": "2026-07-05T01:20:05.064468",
+        "source": "Hacker News"
     }
 ]
