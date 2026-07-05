@@ -380650,5 +380650,11 @@
         "url": "https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13",
         "timestamp": "2026-07-05T08:18:30.871995",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bad Epoll (CVE-2026-46242)",
+        "url": "https://github.com/J-jaeyoung/bad-epoll",
+        "timestamp": "2026-07-05T08:18:31.064180",
+        "source": "Hacker News"
     }
 ]
