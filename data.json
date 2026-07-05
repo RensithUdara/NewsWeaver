@@ -381730,5 +381730,11 @@
         "url": "https://spark.iop.org/stories-physics",
         "timestamp": "2026-07-05T16:00:09.313270",
         "source": "Hacker News"
+    },
+    {
+        "title": "Harbor: An MCP gateway that connects AI clients to back end APIs via tools",
+        "url": "https://github.com/vijaydeepsinha/harbor",
+        "timestamp": "2026-07-05T16:00:09.313300",
+        "source": "Hacker News"
     }
 ]
