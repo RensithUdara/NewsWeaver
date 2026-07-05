@@ -381370,5 +381370,11 @@
         "url": "https://astryx.atmeta.com/",
         "timestamp": "2026-07-05T13:07:32.924996",
         "source": "Hacker News"
+    },
+    {
+        "title": "QEMU-portable bundled QEMU for Node.js, no install required",
+        "url": "https://github.com/Giulio2002/qemu-portable-ts",
+        "timestamp": "2026-07-05T13:07:32.925029",
+        "source": "Hacker News"
     }
 ]
