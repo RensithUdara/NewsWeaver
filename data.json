@@ -380470,5 +380470,11 @@
         "url": "https://hic-ai.com",
         "timestamp": "2026-07-05T05:11:33.400535",
         "source": "Hacker News"
+    },
+    {
+        "title": "Meituan Trained a 1.6T-Parameter AI Model Without Nvidia GPUs",
+        "url": "https://xyzlabs.substack.com/p/meituan-trained-a-16t-parameter-ai",
+        "timestamp": "2026-07-05T05:11:33.400572",
+        "source": "Hacker News"
     }
 ]
