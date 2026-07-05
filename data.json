@@ -380530,5 +380530,11 @@
         "url": "https://github.com/hackerbara/harnessmonkey",
         "timestamp": "2026-07-05T05:11:33.400897",
         "source": "Hacker News"
+    },
+    {
+        "title": "RTS a TypeScript-to-Native Compiler/Runtime in Rust (Cranelift JIT and AOT)",
+        "url": "https://github.com/UrubuCode/rts",
+        "timestamp": "2026-07-05T05:11:33.400931",
+        "source": "Hacker News"
     }
 ]
