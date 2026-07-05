@@ -381736,5 +381736,11 @@
         "url": "https://github.com/vijaydeepsinha/harbor",
         "timestamp": "2026-07-05T16:00:09.313300",
         "source": "Hacker News"
+    },
+    {
+        "title": "Grade any site's HTTP signing-key directory",
+        "url": "https://sitedex.dev/tools/keycheck?site=chatgpt.com",
+        "timestamp": "2026-07-05T16:00:09.313327",
+        "source": "Hacker News"
     }
 ]
