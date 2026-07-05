@@ -382462,5 +382462,11 @@
         "url": "https://search.cerast-intelligence.com/",
         "timestamp": "2026-07-05T20:41:01.474121",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zero-copy in Go: sendfile, splice, and the cost of io.Copy",
+        "url": "https://segflow.github.io/post/zero-copy-sendfile-splice/",
+        "timestamp": "2026-07-05T20:41:01.474166",
+        "source": "Hacker News"
     }
 ]
