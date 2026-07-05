@@ -382150,5 +382150,11 @@
         "url": "https://insideclimatenews.org/news/30062026/hazardous-chemical-accidents-rise-as-safety-rules-weaken/",
         "timestamp": "2026-07-05T18:16:55.516017",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: rockbox-dsp – A reusable Rust DSP library extracted from Rockbox",
+        "url": "https://crates.io/crates/rockbox-dsp",
+        "timestamp": "2026-07-05T18:16:55.516052",
+        "source": "Hacker News"
     }
 ]
