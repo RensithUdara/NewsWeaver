@@ -380392,5 +380392,11 @@
         "url": "https://startupfortune.com/nvidia-has-quietly-become-the-bank-behind-the-ai-boom/",
         "timestamp": "2026-07-05T01:20:05.065383",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tier-aware data federation between Postgres and Apache Iceberg",
+        "url": "https://github.com/Modak-Labs/modak",
+        "timestamp": "2026-07-05T01:20:05.065419",
+        "source": "Hacker News"
     }
 ]
