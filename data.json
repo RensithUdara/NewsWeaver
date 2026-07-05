@@ -381604,5 +381604,11 @@
         "url": "https://www.lightningjar.com/blog/ast-as-html",
         "timestamp": "2026-07-05T14:50:54.383693",
         "source": "Hacker News"
+    },
+    {
+        "title": "Avoiding SQLite Database Locks in Production",
+        "url": "https://www.bendangelo.me/2026/07/04/avoiding-sqlite-database-locks-in-production/",
+        "timestamp": "2026-07-05T14:50:54.383720",
+        "source": "Hacker News"
     }
 ]
