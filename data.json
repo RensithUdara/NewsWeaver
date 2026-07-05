@@ -380494,5 +380494,11 @@
         "url": "https://redvice.org/2026/coverage-the-wrong-way/",
         "timestamp": "2026-07-05T05:11:33.400679",
         "source": "Hacker News"
+    },
+    {
+        "title": "Oxc (popular front-end tooling) forked my parser but removed my copyright notice",
+        "url": "https://github.com/oxc-project/oxc-css-parser/issues/92",
+        "timestamp": "2026-07-05T05:11:33.400713",
+        "source": "Hacker News"
     }
 ]
