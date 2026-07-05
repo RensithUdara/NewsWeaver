@@ -381994,5 +381994,11 @@
         "url": "https://systemd-by-example.com/",
         "timestamp": "2026-07-05T17:15:45.055149",
         "source": "Hacker News"
+    },
+    {
+        "title": "Understanding Postgres 19 Property Graphs",
+        "url": "https://neovintage.org/posts/postgres-property-graphs/",
+        "timestamp": "2026-07-05T17:15:45.055184",
+        "source": "Hacker News"
     }
 ]
