@@ -382162,5 +382162,11 @@
         "url": "https://www.wsj.com/business/the-founder-who-got-fired-for-ignoring-his-own-return-to-office-rules-6b194dd7",
         "timestamp": "2026-07-05T18:16:55.516086",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Meon – declarative flat-parsing engine (SoA, no AST)",
+        "url": "https://github.com/vgnapuga/meon",
+        "timestamp": "2026-07-05T18:16:55.516121",
+        "source": "Hacker News"
     }
 ]
