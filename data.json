@@ -381838,5 +381838,11 @@
         "url": "https://popcar.bearblog.dev/its-about-ownership/",
         "timestamp": "2026-07-05T17:15:44.969871",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
+        "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
+        "timestamp": "2026-07-05T17:15:44.969940",
+        "source": "Hacker News"
     }
 ]
