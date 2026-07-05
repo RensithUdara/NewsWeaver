@@ -381214,5 +381214,11 @@
         "url": "https://www.theregister.com/security/2026/07/04/confidential-computings-core-trust-mechanism-is-broken-the-fix-may-not-exist/5266056",
         "timestamp": "2026-07-05T11:55:02.314943",
         "source": "Hacker News"
+    },
+    {
+        "title": "Codex ticket: first-class Jujutsu support",
+        "url": "https://github.com/openai/codex/issues/31167",
+        "timestamp": "2026-07-05T11:55:02.314970",
+        "source": "Hacker News"
     }
 ]
