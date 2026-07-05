@@ -381622,5 +381622,11 @@
         "url": "https://mnapedia.com/",
         "timestamp": "2026-07-05T14:50:54.383803",
         "source": "Hacker News"
+    },
+    {
+        "title": "HNP-Sum: Hidden Number Problem with Small Unknown Multipliers in Python",
+        "url": "https://leetarxiv.substack.com/p/hnp-sum",
+        "timestamp": "2026-07-05T14:50:54.383830",
+        "source": "Hacker News"
     }
 ]
