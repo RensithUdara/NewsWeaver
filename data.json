@@ -381808,5 +381808,11 @@
         "url": "https://warwick.ac.uk/news/pressreleases/whats-so-funny/",
         "timestamp": "2026-07-05T16:00:09.313659",
         "source": "Hacker News"
+    },
+    {
+        "title": "OK-DMD – Koopman Dynamic Mode Decomposition for KV-Cache Eviction",
+        "url": "https://github.com/unkcenter/ok-dmd",
+        "timestamp": "2026-07-05T16:00:09.313686",
+        "source": "Hacker News"
     }
 ]
