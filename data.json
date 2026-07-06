@@ -384448,5 +384448,11 @@
         "url": "https://github.com/SpeedcubeDE/speedcube.de-forum-archive",
         "timestamp": "2026-07-06T18:28:28.990052",
         "source": "Hacker News"
+    },
+    {
+        "title": "S3 is a better abstraction than NFS / networked block storage",
+        "url": "https://kerkour.com/s3-vs-nfs",
+        "timestamp": "2026-07-06T18:28:28.990074",
+        "source": "Hacker News"
     }
 ]
