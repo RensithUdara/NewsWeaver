@@ -384412,5 +384412,11 @@
         "url": "https://www.upday.com/uk/germany-suspends-cispa-cybersecurity-director-over-china-technology-transfer-concerns/gy6rhm0",
         "timestamp": "2026-07-06T18:28:28.989915",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Skeights – Serialize sklearn models to safetensors and JSON, no pickle",
+        "url": "https://github.com/carbon-re/skeights",
+        "timestamp": "2026-07-06T18:28:28.989937",
+        "source": "Hacker News"
     }
 ]
