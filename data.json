@@ -384664,5 +384664,11 @@
         "url": "https://wiki.xxiivv.com/site/m_pc.html",
         "timestamp": "2026-07-06T20:23:06.565041",
         "source": "Hacker News"
+    },
+    {
+        "title": "Poison, redzones and shadows: inside KASAN",
+        "url": "https://bootlin.com/blog/poison-redzones-and-shadows-inside-kasan/",
+        "timestamp": "2026-07-06T20:23:06.565069",
+        "source": "Hacker News"
     }
 ]
