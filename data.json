@@ -383944,5 +383944,11 @@
         "url": "https://twitter.com/bryan_johnson/status/2072069730517860385",
         "timestamp": "2026-07-06T13:30:02.450998",
         "source": "Hacker News"
+    },
+    {
+        "title": "Playwright-style automation for Windows desktop apps",
+        "url": "https://github.com/mihailDamchevski/win-auto",
+        "timestamp": "2026-07-06T13:30:02.451031",
+        "source": "Hacker News"
     }
 ]
