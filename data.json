@@ -383722,5 +383722,11 @@
         "url": "https://blog.cloudflare.com/workers-cache/",
         "timestamp": "2026-07-06T13:30:02.192841",
         "source": "Hacker News"
+    },
+    {
+        "title": "Road to Elm 1.0",
+        "url": "https://elm-lang.org/news/faster-builds",
+        "timestamp": "2026-07-06T13:30:02.192901",
+        "source": "Hacker News"
     }
 ]
