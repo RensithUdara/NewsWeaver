@@ -384346,5 +384346,11 @@
         "url": "https://peteryoung.me/the-terrorists-guide-to-retiring-young/",
         "timestamp": "2026-07-06T18:28:28.763783",
         "source": "Hacker News"
+    },
+    {
+        "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+        "url": "https://github.com/V4bel/Januscape",
+        "timestamp": "2026-07-06T18:28:28.763849",
+        "source": "Hacker News"
     }
 ]
