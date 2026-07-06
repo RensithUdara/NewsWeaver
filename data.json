@@ -383824,5 +383824,11 @@
         "url": "https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/",
         "timestamp": "2026-07-06T13:30:02.450283",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Belgie – Run TypeScript from Python in an Embedded Deno Sandbox",
+        "url": "https://github.com/mplemay/belgie",
+        "timestamp": "2026-07-06T13:30:02.450320",
+        "source": "Hacker News"
     }
 ]
