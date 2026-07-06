@@ -383488,5 +383488,11 @@
         "url": "https://www.map.signalbox.io",
         "timestamp": "2026-07-06T09:44:54.908034",
         "source": "Hacker News"
+    },
+    {
+        "title": "SW Agent – an outbound-only connector for browser-based PostgreSQL IDEs",
+        "url": "https://news.ycombinator.com/item?id=48802523",
+        "timestamp": "2026-07-06T09:44:54.908069",
+        "source": "Hacker News"
     }
 ]
