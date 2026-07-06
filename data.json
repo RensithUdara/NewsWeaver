@@ -385030,5 +385030,11 @@
         "url": "https://vinayakkulkarni.dev/articles/dynamic-og-images-on-cloudflare-workers/",
         "timestamp": "2026-07-06T22:57:47.152135",
         "source": "Hacker News"
+    },
+    {
+        "title": "Not everything should cost a token: the case for deterministic AI",
+        "url": "https://www.vybe.build/blog/learn-what-not-to-tokenize",
+        "timestamp": "2026-07-06T22:57:47.152157",
+        "source": "Hacker News"
     }
 ]
