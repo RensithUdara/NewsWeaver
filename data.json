@@ -384466,5 +384466,11 @@
         "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
         "timestamp": "2026-07-06T18:28:28.990117",
         "source": "Hacker News"
+    },
+    {
+        "title": "Graph-guard, a knowledge graph behind RAG for multi-hop retrieval",
+        "url": "https://github.com/Jott2121/graph-guard",
+        "timestamp": "2026-07-06T18:28:28.990138",
+        "source": "Hacker News"
     }
 ]
