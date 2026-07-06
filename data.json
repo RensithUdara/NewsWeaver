@@ -385036,5 +385036,11 @@
         "url": "https://www.vybe.build/blog/learn-what-not-to-tokenize",
         "timestamp": "2026-07-06T22:57:47.152157",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: L9gpu – GPU telemetry that ties each GPU to the K8s pod or Slurm job",
+        "url": "https://github.com/last9/gpu-telemetry",
+        "timestamp": "2026-07-06T22:57:47.152179",
+        "source": "Hacker News"
     }
 ]
