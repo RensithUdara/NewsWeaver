@@ -383200,5 +383200,11 @@
         "url": "https://www.clusy.io",
         "timestamp": "2026-07-06T01:24:40.948988",
         "source": "Hacker News"
+    },
+    {
+        "title": "Inflect – Correctly generate plurals, ordinals; convert numbers to words",
+        "url": "https://github.com/jaraco/inflect",
+        "timestamp": "2026-07-06T01:24:40.949024",
+        "source": "Hacker News"
     }
 ]
