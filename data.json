@@ -384460,5 +384460,11 @@
         "url": "https://github.com/OmarH-creator/ShareClean",
         "timestamp": "2026-07-06T18:28:28.990096",
         "source": "Hacker News"
+    },
+    {
+        "title": "ThinkingCap-Qwen3.6-27B: Qwen3.6 capabilities with 50% fewer thinking tokens",
+        "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+        "timestamp": "2026-07-06T18:28:28.990117",
+        "source": "Hacker News"
     }
 ]
