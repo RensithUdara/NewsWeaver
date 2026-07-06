@@ -383908,5 +383908,11 @@
         "url": "https://zenodo.org/records/21207967",
         "timestamp": "2026-07-06T13:30:02.450794",
         "source": "Hacker News"
+    },
+    {
+        "title": "I packed 16 GB of GGUF quants into 1.8 GB, losslessly",
+        "url": "https://github.com/theadamdanielsson/ggufpacker",
+        "timestamp": "2026-07-06T13:30:02.450828",
+        "source": "Hacker News"
     }
 ]
