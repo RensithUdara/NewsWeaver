@@ -383332,5 +383332,11 @@
         "url": "https://www.youtube.com/watch?v=vhYS1diXZMM",
         "timestamp": "2026-07-06T05:46:20.526924",
         "source": "Hacker News"
+    },
+    {
+        "title": "Self Hosted LLM Gateway and Feature Rich Chat UI with RBAC",
+        "url": "https://github.com/croit/llm-gateway",
+        "timestamp": "2026-07-06T05:46:20.526958",
+        "source": "Hacker News"
     }
 ]
