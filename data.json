@@ -384964,5 +384964,11 @@
         "url": "https://worldfall.ink/margin/",
         "timestamp": "2026-07-06T21:52:07.493564",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pruning RAG context down to what the answer actually needs",
+        "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+        "timestamp": "2026-07-06T22:57:47.017356",
+        "source": "Hacker News"
     }
 ]
