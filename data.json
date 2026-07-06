@@ -383524,5 +383524,11 @@
         "url": "https://intheweights.com",
         "timestamp": "2026-07-06T09:44:54.908279",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bounding the Blast Radius: A Survey of Prompt-Injection Defenses for LLM Agents",
+        "url": "https://fabraix.com/blog/nobody-has-solved-prompt-injection",
+        "timestamp": "2026-07-06T09:44:54.908310",
+        "source": "Hacker News"
     }
 ]
