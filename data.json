@@ -384886,5 +384886,11 @@
         "url": "https://www.theregister.com/ai-and-ml/2026/07/06/even-banks-and-hyperscalers-are-now-sounding-the-alarm-about-the-ai-bubble/5266123",
         "timestamp": "2026-07-06T21:52:07.493173",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Branchless-nccl-router ver.JAX (GPUs cannot rest)",
+        "url": "https://github.com/PJHkorea/branchless-nccl-router",
+        "timestamp": "2026-07-06T21:52:07.493211",
+        "source": "Hacker News"
     }
 ]
