@@ -385258,5 +385258,11 @@
         "url": "https://www.esri.com/en-us/software-engineering/blog/articles/ai-orchestration-in-the-browser",
         "timestamp": "2026-07-07T00:04:52.943600",
         "source": "Hacker News"
+    },
+    {
+        "title": "Caught a .git/Config Crawler",
+        "url": "https://bruceediger.com/posts/git-config-spider/",
+        "timestamp": "2026-07-07T00:04:52.943635",
+        "source": "Hacker News"
     }
 ]
