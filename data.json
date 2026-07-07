@@ -386344,5 +386344,11 @@
         "url": "https://www.youtube.com/watch?v=1-5wkzdP1Jc",
         "timestamp": "2026-07-07T15:48:23.351128",
         "source": "Hacker News"
+    },
+    {
+        "title": "Make invalid states unrepresentable (for your agents)",
+        "url": "https://debugti.me/posts/agents-and-invalid-states/",
+        "timestamp": "2026-07-07T15:48:23.351156",
+        "source": "Hacker News"
     }
 ]
