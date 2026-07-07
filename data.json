@@ -386638,5 +386638,11 @@
         "url": "https://www.dailymail.com/news/article-15959605/midtown-manhattan-building-collapse-evacuation.html",
         "timestamp": "2026-07-07T17:45:45.774164",
         "source": "Hacker News"
+    },
+    {
+        "title": "Markdown Now Has a UTI in Apple's Version 27 OSes",
+        "url": "https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown",
+        "timestamp": "2026-07-07T17:45:45.774197",
+        "source": "Hacker News"
     }
 ]
