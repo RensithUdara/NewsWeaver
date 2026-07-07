@@ -385156,5 +385156,11 @@
         "url": "https://github.com/MaximeRivest/Riddle",
         "timestamp": "2026-07-07T00:04:52.731585",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+        "url": "https://ternlight-demo.vercel.app/",
+        "timestamp": "2026-07-07T00:04:52.731715",
+        "source": "Hacker News"
     }
 ]
