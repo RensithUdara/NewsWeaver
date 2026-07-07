@@ -386878,5 +386878,11 @@
         "url": "https://blog.meteor.com/meteor-3-5-is-out-426cbe4877ea",
         "timestamp": "2026-07-07T19:25:13.738215",
         "source": "Hacker News"
+    },
+    {
+        "title": "Compiling a Go program into a native binary for Nintendo Switch (2022)",
+        "url": "https://ebitengine.org/en/blog/native_compiling_for_nintendo_switch.html",
+        "timestamp": "2026-07-07T19:25:13.738248",
+        "source": "Hacker News"
     }
 ]
