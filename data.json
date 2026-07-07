@@ -386458,5 +386458,11 @@
         "url": "https://www.liquid.ai/blog/antidoom",
         "timestamp": "2026-07-07T17:45:45.688697",
         "source": "Hacker News"
+    },
+    {
+        "title": "Jim's TrueType QR Code Font",
+        "url": "https://github.com/jimparis/qr-font",
+        "timestamp": "2026-07-07T17:45:45.688762",
+        "source": "Hacker News"
     }
 ]
