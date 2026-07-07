@@ -385900,5 +385900,11 @@
         "url": "https://news.ycombinator.com/item?id=48815735",
         "timestamp": "2026-07-07T10:45:04.063454",
         "source": "Hacker News"
+    },
+    {
+        "title": "Never ask a model to do something a deterministic system can do reliably",
+        "url": "https://cacm.acm.org/blogcacm/what-platform-security-taught-me-about-trusting-llm-agents/",
+        "timestamp": "2026-07-07T10:45:04.063483",
+        "source": "Hacker News"
     }
 ]
