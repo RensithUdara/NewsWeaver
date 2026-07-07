@@ -385330,5 +385330,11 @@
         "url": "https://www.newyorker.com/magazine/2026/07/06/are-humanoid-robots-ready-to-be-deployed",
         "timestamp": "2026-07-07T04:12:09.767254",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Disclosure Lookup – a Caido plugin that finds where to report a vuln",
+        "url": "https://github.com/disclose/caido-lookup",
+        "timestamp": "2026-07-07T04:12:09.767301",
+        "source": "Hacker News"
     }
 ]
