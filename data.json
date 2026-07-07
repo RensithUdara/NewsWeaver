@@ -386452,5 +386452,11 @@
         "url": "https://github.com/mplsllc/macsurf/releases/tag/v1.86",
         "timestamp": "2026-07-07T17:45:45.688639",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reducing Doom Loops with Final Token Preference Optimization",
+        "url": "https://www.liquid.ai/blog/antidoom",
+        "timestamp": "2026-07-07T17:45:45.688697",
+        "source": "Hacker News"
     }
 ]
