@@ -386698,5 +386698,11 @@
         "url": "https://lv1.sh/",
         "timestamp": "2026-07-07T19:25:13.499176",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+        "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+        "timestamp": "2026-07-07T19:25:13.499249",
+        "source": "Hacker News"
     }
 ]
