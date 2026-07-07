@@ -386722,5 +386722,11 @@
         "url": "https://www.bbc.com/news/articles/c33y0n1v1xjo",
         "timestamp": "2026-07-07T19:25:13.499648",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+        "url": "https://github.com/kklimuk/docx-cli",
+        "timestamp": "2026-07-07T19:25:13.499721",
+        "source": "Hacker News"
     }
 ]
