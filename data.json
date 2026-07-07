@@ -386350,5 +386350,11 @@
         "url": "https://debugti.me/posts/agents-and-invalid-states/",
         "timestamp": "2026-07-07T15:48:23.351156",
         "source": "Hacker News"
+    },
+    {
+        "title": "EdgeSpeech: Local voice processing for React Native",
+        "url": "https://github.com/switchboard-sdk/EdgeSpeech",
+        "timestamp": "2026-07-07T15:48:23.351196",
+        "source": "Hacker News"
     }
 ]
