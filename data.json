@@ -386650,5 +386650,11 @@
         "url": "https://www.theregister.com/on-prem/2026/07/07/uk-guts-planning-red-tape-so-datacenters-can-bypass-the-neighbors-faster/5266865",
         "timestamp": "2026-07-07T17:45:45.774234",
         "source": "Hacker News"
+    },
+    {
+        "title": "Off By: Exploiting a Use-After-Free in the Linux Kernel",
+        "url": "https://blog.exodusintel.com/2026/06/08/off-by-exploiting-a-use-after-free-in-the-linux-kernel/",
+        "timestamp": "2026-07-07T17:45:45.774268",
+        "source": "Hacker News"
     }
 ]
