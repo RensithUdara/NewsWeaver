@@ -386572,5 +386572,11 @@
         "url": "https://twitter.com/GoogleAIStudio/status/2074533418004591077",
         "timestamp": "2026-07-07T17:45:45.773731",
         "source": "Hacker News"
+    },
+    {
+        "title": "A dummy/debug app that runs a web server and prints environment variables",
+        "url": "https://github.com/whalesalad/docker-debug",
+        "timestamp": "2026-07-07T17:45:45.773765",
+        "source": "Hacker News"
     }
 ]
