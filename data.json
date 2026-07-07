@@ -387322,5 +387322,11 @@
         "url": "https://tolmo.com/blog/when-the-model-writes-the-kernel/",
         "timestamp": "2026-07-07T22:19:04.868000",
         "source": "Hacker News"
+    },
+    {
+        "title": "An agent in 100 lines of Lisp",
+        "url": "https://thebeach.dev/posts/lisp-agent/",
+        "timestamp": "2026-07-07T22:19:04.868033",
+        "source": "Hacker News"
     }
 ]
