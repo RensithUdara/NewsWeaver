@@ -386902,5 +386902,11 @@
         "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-blasts-bosses-using-070000315.html",
         "timestamp": "2026-07-07T19:25:13.738355",
         "source": "Hacker News"
+    },
+    {
+        "title": "MMAP vs. pread in a real Go storage engine",
+        "url": "https://internals-for-interns.com/posts/mmap-vs-pread-go-storage-engine/",
+        "timestamp": "2026-07-07T19:25:13.738389",
+        "source": "Hacker News"
     }
 ]
