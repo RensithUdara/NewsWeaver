@@ -387400,5 +387400,11 @@
         "url": "https://mil.now/",
         "timestamp": "2026-07-07T23:16:12.665195",
         "source": "Hacker News"
+    },
+    {
+        "title": "Composing TLA+ Specifications with State Machines",
+        "url": "https://www.hillelwayne.com/post/composing-tla/",
+        "timestamp": "2026-07-07T23:16:12.665240",
+        "source": "Hacker News"
     }
 ]
