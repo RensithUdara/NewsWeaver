@@ -387064,5 +387064,11 @@
         "url": "https://github.com/raine/workmux",
         "timestamp": "2026-07-07T21:01:07.753431",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why TypeScript 7.0 Was Rewritten in Go",
+        "url": "https://spf13.com/p/go-the-agentic-language/",
+        "timestamp": "2026-07-07T21:01:07.753466",
+        "source": "Hacker News"
     }
 ]
