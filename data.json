@@ -386584,5 +386584,11 @@
         "url": "https://complyledge.com",
         "timestamp": "2026-07-07T17:45:45.773799",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why we're moving Wire off Cloudflare Durable Objects",
+        "url": "https://usewire.io/why-wire/architecture-benchmark/",
+        "timestamp": "2026-07-07T17:45:45.773832",
+        "source": "Hacker News"
     }
 ]
