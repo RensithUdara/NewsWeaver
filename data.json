@@ -385582,5 +385582,11 @@
         "url": "https://replicated.live/blog/js",
         "timestamp": "2026-07-07T07:52:55.244640",
         "source": "Hacker News"
+    },
+    {
+        "title": "New Mass GitHub dorking tool",
+        "url": "https://pypi.org/project/ghscan/",
+        "timestamp": "2026-07-07T07:52:55.244661",
+        "source": "Hacker News"
     }
 ]
