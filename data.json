@@ -386278,5 +386278,11 @@
         "url": "https://blog.rust-lang.org/inside-rust/2026/07/06/unite-for-clippy/",
         "timestamp": "2026-07-07T15:48:23.350716",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rootless Docker and Its Hidden Security Trade-Offs",
+        "url": "https://www.kenmuse.com/blog/rootless-docker-and-its-hidden-security-trade-offs/",
+        "timestamp": "2026-07-07T15:48:23.350745",
+        "source": "Hacker News"
     }
 ]
