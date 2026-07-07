@@ -386002,5 +386002,11 @@
         "url": "https://www.joa-ebert.com/posts/2026-07-07-phobos-lang/",
         "timestamp": "2026-07-07T13:06:24.975830",
         "source": "Hacker News"
+    },
+    {
+        "title": "Eliminating Go bound checks with unsafe",
+        "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
+        "timestamp": "2026-07-07T13:06:24.975867",
+        "source": "Hacker News"
     }
 ]
