@@ -386470,5 +386470,11 @@
         "url": "https://better-auth.com/blog/better-auth-joins-vercel",
         "timestamp": "2026-07-07T17:45:45.688882",
         "source": "Hacker News"
+    },
+    {
+        "title": "GitHub Freno: cooperative, highly available throttler service",
+        "url": "https://github.com/github/freno",
+        "timestamp": "2026-07-07T17:45:45.689060",
+        "source": "Hacker News"
     }
 ]
