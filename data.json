@@ -386104,5 +386104,11 @@
         "url": "https://www.nbcnews.com/world/europe/france-far-right-marine-le-pen-presidential-election-macron-rcna353271",
         "timestamp": "2026-07-07T13:06:24.976137",
         "source": "Hacker News"
+    },
+    {
+        "title": "A design system for Rust/egui where token violations fail the build",
+        "url": "https://ouroboros-ui.typezerolabs.com",
+        "timestamp": "2026-07-07T13:06:24.976151",
+        "source": "Hacker News"
     }
 ]
