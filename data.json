@@ -387304,5 +387304,11 @@
         "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-7326-the-end-of",
         "timestamp": "2026-07-07T22:19:04.867896",
         "source": "Hacker News"
+    },
+    {
+        "title": "Omnibaas, a provider-agnostic Infrastructure-as-Code compiler for BaaS services",
+        "url": "https://github.com/davidecampora/Omnibaas",
+        "timestamp": "2026-07-07T22:19:04.867933",
+        "source": "Hacker News"
     }
 ]
