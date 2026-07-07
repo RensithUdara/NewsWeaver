@@ -386260,5 +386260,11 @@
         "url": "https://nextpath.substack.com/p/stop-talking-about-the-cap-theorem",
         "timestamp": "2026-07-07T15:48:23.350607",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why we built yet another Postgres connection pooler",
+        "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+        "timestamp": "2026-07-07T15:48:23.350664",
+        "source": "Hacker News"
     }
 ]
