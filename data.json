@@ -389800,5 +389800,11 @@
         "url": "https://www.cnbc.com/2025/07/16/trump-jr-grabagun-stock-gun-merger.html",
         "timestamp": "2026-07-08T21:44:58.244467",
         "source": "Hacker News"
+    },
+    {
+        "title": "Benchmarking Coding Agents on Databricks' Multi-Million Line Codebase",
+        "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+        "timestamp": "2026-07-08T21:44:58.244597",
+        "source": "Hacker News"
     }
 ]
