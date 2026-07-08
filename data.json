@@ -388540,5 +388540,11 @@
         "url": "https://pathmap.org/",
         "timestamp": "2026-07-08T12:08:11.176109",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mechanized type inference for record concatenation as in Nix",
+        "url": "https://haskellforall.com/2026/07/mechanized-type-inference-for-record-concatenation",
+        "timestamp": "2026-07-08T12:08:11.176139",
+        "source": "Hacker News"
     }
 ]
