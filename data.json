@@ -388624,5 +388624,11 @@
         "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
         "timestamp": "2026-07-08T14:36:13.590489",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Follow London Trains in 3D",
+        "url": "https://ride.nexttrain.london/",
+        "timestamp": "2026-07-08T14:36:13.590698",
+        "source": "Hacker News"
     }
 ]
