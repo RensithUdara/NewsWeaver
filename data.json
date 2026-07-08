@@ -387994,5 +387994,11 @@
         "url": "https://files-sdk.dev",
         "timestamp": "2026-07-08T08:44:39.729745",
         "source": "Hacker News"
+    },
+    {
+        "title": "Windows Privilege Abuse",
+        "url": "https://www.semperis.com/blog/windows-privilege-abuse-can-lead-to-active-directory-compromise/",
+        "timestamp": "2026-07-08T08:44:39.729779",
+        "source": "Hacker News"
     }
 ]
