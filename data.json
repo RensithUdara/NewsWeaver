@@ -389026,5 +389026,11 @@
         "url": "https://skillburst.ai/blog/why-i-built-skillburst/",
         "timestamp": "2026-07-08T16:15:47.513552",
         "source": "Hacker News"
+    },
+    {
+        "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
+        "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b",
+        "timestamp": "2026-07-08T16:15:47.982228",
+        "source": "Dev.to"
     }
 ]
