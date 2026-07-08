@@ -389494,5 +389494,11 @@
         "url": "https://www.cloudflare.com/drop/",
         "timestamp": "2026-07-08T20:35:14.739399",
         "source": "Hacker News"
+    },
+    {
+        "title": "A bug which affected only left handed users",
+        "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
+        "timestamp": "2026-07-08T20:35:14.739469",
+        "source": "Hacker News"
     }
 ]
