@@ -387958,5 +387958,11 @@
         "url": "https://www.ft.com/content/f4ac5c92-03be-4499-b16a-017a7e9ee228",
         "timestamp": "2026-07-08T08:44:39.729514",
         "source": "Hacker News"
+    },
+    {
+        "title": "Geosql: A Claude/Codex skill for geospatial data",
+        "url": "https://github.com/dekart-xyz/geosql",
+        "timestamp": "2026-07-08T08:44:39.729550",
+        "source": "Hacker News"
     }
 ]
