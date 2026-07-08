@@ -389980,5 +389980,11 @@
         "url": "https://yawflight.com/",
         "timestamp": "2026-07-08T22:44:12.310522",
         "source": "Hacker News"
+    },
+    {
+        "title": "Native-speed vLLM transformers modeling back end",
+        "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+        "timestamp": "2026-07-08T22:44:12.310555",
+        "source": "Hacker News"
     }
 ]
