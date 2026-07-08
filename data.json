@@ -389428,5 +389428,11 @@
         "url": "https://aspect.build/blog/selective-testing-with-cache-diff",
         "timestamp": "2026-07-08T19:06:27.748248",
         "source": "Hacker News"
+    },
+    {
+        "title": "LiberSystem – A capability-based microkernel OS written in Rust",
+        "url": "https://libersystem.com/",
+        "timestamp": "2026-07-08T19:06:27.748283",
+        "source": "Hacker News"
     }
 ]
