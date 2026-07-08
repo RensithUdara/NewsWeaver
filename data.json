@@ -388078,5 +388078,11 @@
         "url": "http://blog.vanillajava.blog/2026/06/testing-java-memory-management-with.html",
         "timestamp": "2026-07-08T08:44:39.730220",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tune Code Before Your Garbage Collector",
+        "url": "http://blog.vanillajava.blog/2026/06/why-you-should-tun-code-before-your.html",
+        "timestamp": "2026-07-08T08:44:39.730253",
+        "source": "Hacker News"
     }
 ]
