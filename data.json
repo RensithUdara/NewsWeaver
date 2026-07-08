@@ -389104,5 +389104,11 @@
         "url": "https://news.ycombinator.com/item?id=48834961",
         "timestamp": "2026-07-08T17:52:23.606633",
         "source": "Hacker News"
+    },
+    {
+        "title": "KubeSwift, Kubernetes-Native VM Orchestration on Cloud Hypervisor",
+        "url": "https://github.com/kubeswift-io/kubeswift",
+        "timestamp": "2026-07-08T17:52:23.606669",
+        "source": "Hacker News"
     }
 ]
