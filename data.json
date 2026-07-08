@@ -387550,5 +387550,11 @@
         "url": "https://schwarzarno.itch.io/descent",
         "timestamp": "2026-07-08T00:13:06.409385",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+        "url": "https://kb.cert.org/vuls/id/213560",
+        "timestamp": "2026-07-08T00:13:06.409422",
+        "source": "Hacker News"
     }
 ]
