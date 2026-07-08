@@ -388648,5 +388648,11 @@
         "url": "https://www.phoronix.com/review/razer-blade-18-linux",
         "timestamp": "2026-07-08T14:36:13.744721",
         "source": "Hacker News"
+    },
+    {
+        "title": "I RE'd (and reimplemented) the ICSee camera app. The security is atrocious",
+        "url": "https://github.com/voidnullvalue/Icsee-android",
+        "timestamp": "2026-07-08T14:36:13.744764",
+        "source": "Hacker News"
     }
 ]
