@@ -390028,5 +390028,11 @@
         "url": "https://www.ft.com/content/200a6c44-9b66-4af3-82eb-98acb53898e4",
         "timestamp": "2026-07-08T22:44:12.310857",
         "source": "Hacker News"
+    },
+    {
+        "title": "Remote sync, MCP, and an API for your Obsidian vault",
+        "url": "https://github.com/8thpark/geode",
+        "timestamp": "2026-07-08T22:44:12.310928",
+        "source": "Hacker News"
     }
 ]
