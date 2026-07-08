@@ -390058,5 +390058,11 @@
         "url": "https://opensourcemalware.com/blog/polinrider-jumps-the-fence",
         "timestamp": "2026-07-08T22:44:12.311062",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rewriting Bun in Rust",
+        "url": "https://bun.com/blog/bun-in-rust",
+        "timestamp": "2026-07-08T22:44:12.311094",
+        "source": "Hacker News"
     }
 ]
