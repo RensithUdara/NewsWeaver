@@ -389230,5 +389230,11 @@
         "url": "https://github.com/netbirdio/netbird/tree/main/agent-network",
         "timestamp": "2026-07-08T17:52:23.607421",
         "source": "Hacker News"
+    },
+    {
+        "title": "OffHeap – An off-heap L1 cache engine for Node.js written in Rust",
+        "url": "https://off-heap.vercel.app/",
+        "timestamp": "2026-07-08T17:52:23.607455",
+        "source": "Hacker News"
     }
 ]
