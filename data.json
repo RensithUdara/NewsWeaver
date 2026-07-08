@@ -389422,5 +389422,11 @@
         "url": "https://leafwright.co",
         "timestamp": "2026-07-08T19:06:27.748211",
         "source": "Hacker News"
+    },
+    {
+        "title": "Which Bazel tests are affected? Ask the remote cache, run nothing",
+        "url": "https://aspect.build/blog/selective-testing-with-cache-diff",
+        "timestamp": "2026-07-08T19:06:27.748248",
+        "source": "Hacker News"
     }
 ]
