@@ -387934,5 +387934,11 @@
         "url": "https://neiltheseal.app/",
         "timestamp": "2026-07-08T06:16:06.102973",
         "source": "Hacker News"
+    },
+    {
+        "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+        "timestamp": "2026-07-08T08:44:39.642991",
+        "source": "Hacker News"
     }
 ]
