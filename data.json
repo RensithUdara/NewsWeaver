@@ -388546,5 +388546,11 @@
         "url": "https://haskellforall.com/2026/07/mechanized-type-inference-for-record-concatenation",
         "timestamp": "2026-07-08T12:08:11.176139",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ICMP P2P Using ICMP Destination Unreachable for Nat Traversal",
+        "url": "https://github.com/hajoon22/icmp-p2p",
+        "timestamp": "2026-07-08T12:08:11.176166",
+        "source": "Hacker News"
     }
 ]
