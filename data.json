@@ -388000,5 +388000,11 @@
         "url": "https://www.semperis.com/blog/windows-privilege-abuse-can-lead-to-active-directory-compromise/",
         "timestamp": "2026-07-08T08:44:39.729779",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Orchestrator – a single-binary workflow orchestration tool",
+        "url": "https://github.com/webstonehq/orchestrator",
+        "timestamp": "2026-07-08T08:44:39.729811",
+        "source": "Hacker News"
     }
 ]
