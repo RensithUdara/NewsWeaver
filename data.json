@@ -388618,5 +388618,11 @@
         "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260705_01/",
         "timestamp": "2026-07-08T14:36:13.590236",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+        "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
+        "timestamp": "2026-07-08T14:36:13.590489",
+        "source": "Hacker News"
     }
 ]
