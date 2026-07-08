@@ -388552,5 +388552,11 @@
         "url": "https://github.com/hajoon22/icmp-p2p",
         "timestamp": "2026-07-08T12:08:11.176166",
         "source": "Hacker News"
+    },
+    {
+        "title": "Parsing command-line options with Rust – it's all Libc",
+        "url": "https://lemmy.ml/post/49745317",
+        "timestamp": "2026-07-08T12:08:11.176196",
+        "source": "Hacker News"
     }
 ]
