@@ -388420,5 +388420,11 @@
         "url": "https://coderadius.ai",
         "timestamp": "2026-07-08T12:08:11.175532",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Control YOLO Training and Datasets from Claude/Cursor via MCP",
+        "url": "https://github.com/amanharshx/ultralytics-mcp",
+        "timestamp": "2026-07-08T12:08:11.175564",
+        "source": "Hacker News"
     }
 ]
