@@ -388402,5 +388402,11 @@
         "url": "https://community.hubspot.com/t/we-got-this-wrong-and-we-are-fixing-it/152063",
         "timestamp": "2026-07-08T12:08:11.016460",
         "source": "Hacker News"
+    },
+    {
+        "title": "An ad-hoc replacement for multitail made with tmux and grcat",
+        "url": "https://github.com/themadsens/tmtail/tree/main",
+        "timestamp": "2026-07-08T12:08:11.175435",
+        "source": "Hacker News"
     }
 ]
