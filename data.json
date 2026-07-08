@@ -388684,5 +388684,11 @@
         "url": "https://e360.yale.edu/digest/amoc-collapse-10-percent",
         "timestamp": "2026-07-08T14:36:13.744998",
         "source": "Hacker News"
+    },
+    {
+        "title": "High-cardinality metrics at scale: why the standard playbook is wrong",
+        "url": "https://www.netdata.cloud/blog/high-cardinality-metrics-observability-scale/",
+        "timestamp": "2026-07-08T14:36:13.745057",
+        "source": "Hacker News"
     }
 ]
