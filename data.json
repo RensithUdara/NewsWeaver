@@ -389602,5 +389602,11 @@
         "url": "https://www.usatoday.com",
         "timestamp": "2026-07-08T20:35:14.936517",
         "source": "Hacker News"
+    },
+    {
+        "title": "Multigres Supports Listen/Notify Across Pooled Connections",
+        "url": "https://multigres.com/blog/listen-notify",
+        "timestamp": "2026-07-08T20:35:14.936550",
+        "source": "Hacker News"
     }
 ]
