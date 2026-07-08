@@ -389170,5 +389170,11 @@
         "url": "https://e360.yale.edu/features/cassandra-rauert-interview",
         "timestamp": "2026-07-08T17:52:23.607021",
         "source": "Hacker News"
+    },
+    {
+        "title": "Chaos Agent",
+        "url": "https://github.com/jasnonaz/chaos-agent",
+        "timestamp": "2026-07-08T17:52:23.607054",
+        "source": "Hacker News"
     }
 ]
