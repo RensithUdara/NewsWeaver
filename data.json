@@ -390196,5 +390196,11 @@
         "url": "https://alisav.substack.com/p/ghislaine-maxwells-father-sold-bugged",
         "timestamp": "2026-07-08T23:46:00.637367",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Schema_ferry – Continuous schema migration from MySQL to PostgreSQL",
+        "url": "https://github.com/kyuuri1791/schema_ferry",
+        "timestamp": "2026-07-08T23:46:00.637438",
+        "source": "Hacker News"
     }
 ]
