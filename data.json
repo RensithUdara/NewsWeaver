@@ -390826,5 +390826,11 @@
         "url": "https://news.ycombinator.com/item?id=48842416",
         "timestamp": "2026-07-09T08:39:57.170485",
         "source": "Hacker News"
+    },
+    {
+        "title": "Etcd v3.7.0",
+        "url": "https://etcd.io/blog/2026/announcing-etcd-3.7/",
+        "timestamp": "2026-07-09T08:39:57.170521",
+        "source": "Hacker News"
     }
 ]
