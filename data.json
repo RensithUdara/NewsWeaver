@@ -391390,5 +391390,11 @@
         "url": "https://hy.tencent.com/research/hy3",
         "timestamp": "2026-07-09T16:37:25.049036",
         "source": "Hacker News"
+    },
+    {
+        "title": "TLS certificates for internal services done right",
+        "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
+        "timestamp": "2026-07-09T16:37:25.049058",
+        "source": "Hacker News"
     }
 ]
