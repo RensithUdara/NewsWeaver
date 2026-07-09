@@ -390466,5 +390466,11 @@
         "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h",
         "timestamp": "2026-07-09T01:17:55.438657",
         "source": "Dev.to"
+    },
+    {
+        "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+        "url": "https://nexte.st/",
+        "timestamp": "2026-07-09T05:09:07.702394",
+        "source": "Hacker News"
     }
 ]
