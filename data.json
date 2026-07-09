@@ -390442,5 +390442,11 @@
         "url": "https://abcdinamo.com/news/the-return-of-gravity",
         "timestamp": "2026-07-09T01:17:55.203688",
         "source": "Hacker News"
+    },
+    {
+        "title": "Occupancy Math on the AMD MI355X GPU (CDNA4): A From-First-Principles Guide",
+        "url": "https://rocm.blogs.amd.com/software-tools-optimization/occupancy-math-mi355x/README.html",
+        "timestamp": "2026-07-09T01:17:55.203717",
+        "source": "Hacker News"
     }
 ]
