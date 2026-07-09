@@ -392062,5 +392062,11 @@
         "url": "https://hub.docker.com/r/kirill89/reviewcerberus",
         "timestamp": "2026-07-09T20:14:10.780350",
         "source": "Hacker News"
+    },
+    {
+        "title": "Breaking Database Lock-In: Agentic Regeneration of Storage Readers for Databases",
+        "url": "https://arxiv.org/abs/2607.07696",
+        "timestamp": "2026-07-09T20:14:10.780378",
+        "source": "Hacker News"
     }
 ]
