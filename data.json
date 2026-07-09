@@ -391234,5 +391234,11 @@
         "url": "https://fideby.com/",
         "timestamp": "2026-07-09T14:09:34.587591",
         "source": "Hacker News"
+    },
+    {
+        "title": "Investigating why your crypto code is slow: Deep dive into SIMD programming",
+        "url": "https://kerkour.com/rustcrypto-slow-simd-rust",
+        "timestamp": "2026-07-09T14:09:34.587627",
+        "source": "Hacker News"
     }
 ]
