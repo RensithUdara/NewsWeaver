@@ -390676,5 +390676,11 @@
         "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
         "timestamp": "2026-07-09T08:39:57.075651",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+        "url": "https://github.com/malisper/pgrust",
+        "timestamp": "2026-07-09T08:39:57.075695",
+        "source": "Hacker News"
     }
 ]
