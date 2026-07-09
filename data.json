@@ -392494,5 +392494,11 @@
         "url": "https://developer.chrome.com/blog/chrome-two-week-release",
         "timestamp": "2026-07-09T22:56:58.473826",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: BastionRoute – A zero trust network access with zero inbound ports",
+        "url": "https://github.com/klauscam/BastionRoute",
+        "timestamp": "2026-07-09T22:56:58.473857",
+        "source": "Hacker News"
     }
 ]
