@@ -391720,5 +391720,11 @@
         "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
         "timestamp": "2026-07-09T18:22:17.297553",
         "source": "Hacker News"
+    },
+    {
+        "title": "Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting",
+        "url": "https://nahla.dev/blog/waitfree_queue/",
+        "timestamp": "2026-07-09T18:22:17.297784",
+        "source": "Hacker News"
     }
 ]
