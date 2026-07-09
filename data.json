@@ -392584,5 +392584,11 @@
         "url": "https://github.com/backnotprop/orchestrator",
         "timestamp": "2026-07-09T22:56:58.474330",
         "source": "Hacker News"
+    },
+    {
+        "title": "Seekable OCI: Lazy-Loading Container Images via Range-Request Indexing",
+        "url": "https://arxiv.org/abs/2607.06868",
+        "timestamp": "2026-07-09T22:56:58.474357",
+        "source": "Hacker News"
     }
 ]
