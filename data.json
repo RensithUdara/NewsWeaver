@@ -391246,5 +391246,11 @@
         "url": "https://rubberduck.greg.technology/",
         "timestamp": "2026-07-09T14:09:34.587685",
         "source": "Hacker News"
+    },
+    {
+        "title": "NASA SpaceWASM – A flight-compliant WebAssembly interpreter",
+        "url": "https://github.com/nasa/spacewasm",
+        "timestamp": "2026-07-09T14:09:34.587761",
+        "source": "Hacker News"
     }
 ]
