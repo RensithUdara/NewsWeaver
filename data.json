@@ -390766,5 +390766,11 @@
         "url": "https://simplex.chat/why/",
         "timestamp": "2026-07-09T08:39:57.170059",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cpp2Rust: Automatic Translation of C++ to Safe Rust [pdf]",
+        "url": "https://web.ist.utl.pt/nuno.lopes/pubs/cpp2rust-pldi26.pdf",
+        "timestamp": "2026-07-09T08:39:57.170094",
+        "source": "Hacker News"
     }
 ]
