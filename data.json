@@ -391258,5 +391258,11 @@
         "url": "https://news.ycombinator.com/item?id=48845963",
         "timestamp": "2026-07-09T14:09:34.587795",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Web Components, `literal`, 0% vDOM, custom < void/> tags in production",
+        "url": "https://github.com/crisdosaygo/good.html",
+        "timestamp": "2026-07-09T14:09:34.587829",
+        "source": "Hacker News"
     }
 ]
