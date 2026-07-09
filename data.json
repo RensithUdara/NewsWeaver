@@ -390622,5 +390622,11 @@
         "url": "https://omegas.dev",
         "timestamp": "2026-07-09T05:09:07.792600",
         "source": "Hacker News"
+    },
+    {
+        "title": "NPM 12 makes install scripts, Git, and remote-url dependencies opt-in by default",
+        "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation/",
+        "timestamp": "2026-07-09T05:09:07.792637",
+        "source": "Hacker News"
     }
 ]
