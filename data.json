@@ -392680,5 +392680,11 @@
         "url": "https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/",
         "timestamp": "2026-07-09T23:59:54.591186",
         "source": "Hacker News"
+    },
+    {
+        "title": "Total Construction Spending: Manufacturing in the United States",
+        "url": "https://fred.stlouisfed.org/series/TLMFGCONS",
+        "timestamp": "2026-07-09T23:59:54.830317",
+        "source": "Hacker News"
     }
 ]
