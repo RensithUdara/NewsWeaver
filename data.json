@@ -390856,5 +390856,11 @@
         "url": "https://www.syncpen.io/blog/your-ai-doesn-t-get-better-your-workspace-does",
         "timestamp": "2026-07-09T08:39:57.170690",
         "source": "Hacker News"
+    },
+    {
+        "title": "LingBot-World 2.0: Interactive world generation from image, text, and actions",
+        "url": "https://github.com/Robbyant/lingbot-world-v2",
+        "timestamp": "2026-07-09T08:39:57.170724",
+        "source": "Hacker News"
     }
 ]
