@@ -391840,5 +391840,11 @@
         "url": "https://www.ventoy.net/en/index.html",
         "timestamp": "2026-07-09T18:22:17.393672",
         "source": "Hacker News"
+    },
+    {
+        "title": "EnclaveX: End-to-End Confidential AI with CPU/GPU Tees",
+        "url": "https://arxiv.org/abs/2606.31408",
+        "timestamp": "2026-07-09T18:22:17.393708",
+        "source": "Hacker News"
     }
 ]
