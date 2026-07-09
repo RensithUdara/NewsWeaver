@@ -392278,5 +392278,11 @@
         "url": "https://lucid.earthpilot.ai",
         "timestamp": "2026-07-09T21:46:14.335179",
         "source": "Hacker News"
+    },
+    {
+        "title": "Meta reuses old RAM in new servers with custom bridge chip",
+        "url": "https://www.theregister.com/systems/2026/06/29/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/5263483",
+        "timestamp": "2026-07-09T21:46:14.335214",
+        "source": "Hacker News"
     }
 ]
