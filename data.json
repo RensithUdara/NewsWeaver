@@ -391906,5 +391906,11 @@
         "url": "https://streamtest.app",
         "timestamp": "2026-07-09T18:22:17.394095",
         "source": "Hacker News"
+    },
+    {
+        "title": "AMD Linux Graphics Driver Working to Clear Out All of Its BUG()s",
+        "url": "https://www.phoronix.com/news/AMDGPU-Clearing-Out-BUGs",
+        "timestamp": "2026-07-09T18:22:17.394128",
+        "source": "Hacker News"
     }
 ]
