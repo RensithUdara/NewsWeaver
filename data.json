@@ -390490,5 +390490,11 @@
         "url": "https://ergo.org/",
         "timestamp": "2026-07-09T05:09:07.702822",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reload Rust code without app restarts. For faster feedback cycles",
+        "url": "https://github.com/rksm/hot-lib-reloader-rs",
+        "timestamp": "2026-07-09T05:09:07.791705",
+        "source": "Hacker News"
     }
 ]
