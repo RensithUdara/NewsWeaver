@@ -390598,5 +390598,11 @@
         "url": "https://colossus.com/article/invisible-companies/",
         "timestamp": "2026-07-09T05:09:07.792442",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reproducing an Indirect Prompt Injection Against a RAG Pipeline",
+        "url": "https://koreshield.ai/blog/reproducing-indirect-prompt-injection-rag",
+        "timestamp": "2026-07-09T05:09:07.792476",
+        "source": "Hacker News"
     }
 ]
