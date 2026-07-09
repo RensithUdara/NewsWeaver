@@ -391222,5 +391222,11 @@
         "url": "https://ollama.com/blog/all-aboard-open-models",
         "timestamp": "2026-07-09T14:09:34.587525",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why AI Agents need a runtime, not just a framework",
+        "url": "https://phrony.com/blog/why-production-agents-need-a-runtime",
+        "timestamp": "2026-07-09T14:09:34.587558",
+        "source": "Hacker News"
     }
 ]
