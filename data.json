@@ -391186,5 +391186,11 @@
         "url": "https://arcaide.foo",
         "timestamp": "2026-07-09T14:09:34.346195",
         "source": "Hacker News"
+    },
+    {
+        "title": "Vacuum at the Page Level",
+        "url": "https://boringsql.com/posts/vacuum-at-the-page-level/",
+        "timestamp": "2026-07-09T14:09:34.346402",
+        "source": "Hacker News"
     }
 ]
