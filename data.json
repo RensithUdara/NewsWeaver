@@ -391810,5 +391810,11 @@
         "url": "https://learnchess.ai/",
         "timestamp": "2026-07-09T18:22:17.393498",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Refactored a 10-Year-Old C# Codebase in 3 Days (Without Breaking Prod)",
+        "url": "https://medium.com/devs-community/how-i-refactored-a-10-year-old-c-codebase-in-3-days-without-breaking-prod-04702219f2a5",
+        "timestamp": "2026-07-09T18:22:17.393532",
+        "source": "Hacker News"
     }
 ]
