@@ -391384,5 +391384,11 @@
         "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
         "timestamp": "2026-07-09T16:37:25.049013",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hy3",
+        "url": "https://hy.tencent.com/research/hy3",
+        "timestamp": "2026-07-09T16:37:25.049036",
+        "source": "Hacker News"
     }
 ]
