@@ -393622,5 +393622,11 @@
         "url": "https://mojavepaint.app/",
         "timestamp": "2026-07-10T12:40:02.203443",
         "source": "Hacker News"
+    },
+    {
+        "title": "GitSwitch – Manage multiple GitHub accounts without SSH config headaches",
+        "url": "https://www.npmjs.com/package/@yinklylab.dev/gitswitch",
+        "timestamp": "2026-07-10T12:40:02.203527",
+        "source": "Hacker News"
     }
 ]
