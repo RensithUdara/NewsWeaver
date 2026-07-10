@@ -393556,5 +393556,11 @@
         "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
         "timestamp": "2026-07-10T12:40:01.959094",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ditching Vagrant: VMs with KVM and Virsh on Debian",
+        "url": "https://benjamintoll.com/2026/06/29/on-ditching-vagrant/",
+        "timestamp": "2026-07-10T12:40:01.959336",
+        "source": "Hacker News"
     }
 ]
