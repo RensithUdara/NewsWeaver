@@ -394180,5 +394180,11 @@
         "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
         "timestamp": "2026-07-10T17:11:21.674227",
         "source": "Hacker News"
+    },
+    {
+        "title": "An unusual way for your DHCP server to run out of dynamic IPs",
+        "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
+        "timestamp": "2026-07-10T17:11:21.674264",
+        "source": "Hacker News"
     }
 ]
