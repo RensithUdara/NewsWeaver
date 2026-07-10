@@ -392878,5 +392878,11 @@
         "url": "https://www.anthropic.com/news/ben-bernanke",
         "timestamp": "2026-07-10T03:36:24.260149",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",
+        "url": "https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/",
+        "timestamp": "2026-07-10T03:36:24.260248",
+        "source": "Hacker News"
     }
 ]
