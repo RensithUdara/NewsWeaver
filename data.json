@@ -394870,5 +394870,11 @@
         "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
         "timestamp": "2026-07-10T22:17:29.913740",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postgres locks do not scale",
+        "url": "https://www.recall.ai/blog/postgres-locks-do-not-scale",
+        "timestamp": "2026-07-10T22:17:29.913846",
+        "source": "Hacker News"
     }
 ]
