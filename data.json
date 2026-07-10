@@ -394864,5 +394864,11 @@
         "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
         "timestamp": "2026-07-10T22:17:29.913570",
         "source": "Hacker News"
+    },
+    {
+        "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
+        "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+        "timestamp": "2026-07-10T22:17:29.913740",
+        "source": "Hacker News"
     }
 ]
