@@ -393238,5 +393238,11 @@
         "url": "https://www.theatlantic.com/technology/2026/06/world-cup-tourists-america/687572/",
         "timestamp": "2026-07-10T07:02:29.789146",
         "source": "Hacker News"
+    },
+    {
+        "title": "Promising inference software, written in Zig",
+        "url": "https://zml.ai/posts/llmd/",
+        "timestamp": "2026-07-10T07:02:29.789180",
+        "source": "Hacker News"
     }
 ]
