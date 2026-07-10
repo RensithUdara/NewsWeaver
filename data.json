@@ -393076,5 +393076,11 @@
         "url": "http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html",
         "timestamp": "2026-07-10T07:02:29.472712",
         "source": "Hacker News"
+    },
+    {
+        "title": "Preempt_none Is Dead; Your Postgres Probably Doesn't Care",
+        "url": "https://thebuild.com/blog/preempt_none-is-dead-your-postgres-probably-doesnt-care/",
+        "timestamp": "2026-07-10T07:02:29.473013",
+        "source": "Hacker News"
     }
 ]
