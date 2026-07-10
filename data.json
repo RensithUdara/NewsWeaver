@@ -393718,5 +393718,11 @@
         "url": "https://revman.substack.com/p/easyjet-is-essential-british-travel",
         "timestamp": "2026-07-10T12:40:02.204072",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pgrust – Postgres, Rewritten in Rust",
+        "url": "https://pgrust.com/",
+        "timestamp": "2026-07-10T12:40:02.204105",
+        "source": "Hacker News"
     }
 ]
