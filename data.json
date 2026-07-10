@@ -394708,5 +394708,11 @@
         "url": "https://www.gkogan.co/big-cloud/",
         "timestamp": "2026-07-10T21:16:06.571905",
         "source": "Hacker News"
+    },
+    {
+        "title": "AVTensor: A High-Performance Rust Media Decoder for Training Pipelines",
+        "url": "https://runwayml.com/news/avtensor-a-high-performance-rust-media-decoder-for-training-pipelines",
+        "timestamp": "2026-07-10T21:16:06.571934",
+        "source": "Hacker News"
     }
 ]
