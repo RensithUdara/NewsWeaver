@@ -394486,5 +394486,11 @@
         "url": "https://news.ycombinator.com/item?id=48807108",
         "timestamp": "2026-07-10T20:06:33.369437",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine",
+        "url": "https://github.com/dicroce/wyrm_math",
+        "timestamp": "2026-07-10T20:06:33.369577",
+        "source": "Hacker News"
     }
 ]
