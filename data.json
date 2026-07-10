@@ -393376,5 +393376,11 @@
         "url": "https://ai-on-the-internet.github.io/",
         "timestamp": "2026-07-10T10:27:57.654920",
         "source": "Hacker News"
+    },
+    {
+        "title": "A go library for interacting with translate.kagi.com",
+        "url": "https://github.com/xnacly/go-kagi-translate",
+        "timestamp": "2026-07-10T10:27:57.654998",
+        "source": "Hacker News"
     }
 ]
