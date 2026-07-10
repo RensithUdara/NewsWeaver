@@ -394420,5 +394420,11 @@
         "url": "https://dl.acm.org/doi/epdf/10.1145/36177.36194",
         "timestamp": "2026-07-10T18:45:38.067020",
         "source": "Hacker News"
+    },
+    {
+        "title": "A batch job, in The Elm Architecture",
+        "url": "https://cekrem.github.io/posts/elm-run-batch-job/",
+        "timestamp": "2026-07-10T18:45:38.067055",
+        "source": "Hacker News"
     }
 ]
