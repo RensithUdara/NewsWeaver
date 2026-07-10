@@ -393130,5 +393130,11 @@
         "url": "https://twitter.com/finkd/status/2075218444056707458",
         "timestamp": "2026-07-10T07:02:29.788466",
         "source": "Hacker News"
+    },
+    {
+        "title": "From ETL, ELT, EtLT to agent-driven data engineering with Apache SeaTunnel",
+        "url": "https://seatunnel.apache.org/blog/from-etl-elt-etlt-to-agent/",
+        "timestamp": "2026-07-10T07:02:29.788501",
+        "source": "Hacker News"
     }
 ]
