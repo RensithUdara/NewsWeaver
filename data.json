@@ -393358,5 +393358,11 @@
         "url": "https://znah.net/tiny_explorer/",
         "timestamp": "2026-07-10T10:27:57.507682",
         "source": "Hacker News"
+    },
+    {
+        "title": "Speech to Markdown with Local Models",
+        "url": "https://github.com/xajik/voice-to-md",
+        "timestamp": "2026-07-10T10:27:57.654830",
+        "source": "Hacker News"
     }
 ]
