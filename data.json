@@ -394222,5 +394222,11 @@
         "url": "https://www.lttlabs.com/articles/2026/07/10/llm-quantization-part-2-youre-gonna-need-a-bigger-vram",
         "timestamp": "2026-07-10T17:11:21.674492",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building Kafka-Less Data Integration Pipelines with Debezium",
+        "url": "https://debezium.io/blog/2026/07/06/kafka-less-migration/",
+        "timestamp": "2026-07-10T17:11:21.674565",
+        "source": "Hacker News"
     }
 ]
