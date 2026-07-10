@@ -394828,5 +394828,11 @@
         "url": "https://usefathom.com/blog/two-database-migrations-and-a-divorce",
         "timestamp": "2026-07-10T21:16:06.572534",
         "source": "Hacker News"
+    },
+    {
+        "title": "Migrating a production AI agent to GPT 5.6",
+        "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+        "timestamp": "2026-07-10T21:16:06.572561",
+        "source": "Hacker News"
     }
 ]
