@@ -394750,5 +394750,11 @@
         "url": "https://twitter.com/mattshumer_/status/2075657271401390161",
         "timestamp": "2026-07-10T21:16:06.572096",
         "source": "Hacker News"
+    },
+    {
+        "title": "Find Unused Dependencies in Pyproject.toml",
+        "url": "https://github.com/lukehsiao/pyproject-udeps",
+        "timestamp": "2026-07-10T21:16:06.572154",
+        "source": "Hacker News"
     }
 ]
