@@ -393670,5 +393670,11 @@
         "url": "https://3hcloud.com/blog/openclaw-vs-kiloclaw-vs-hermes-agent",
         "timestamp": "2026-07-10T12:40:02.203801",
         "source": "Hacker News"
+    },
+    {
+        "title": "Xring: Crashing XQUIC with spec-compliant QPACK instructions",
+        "url": "https://foxio.io/blog/xring-crashing-xquic-with-spec-compliant-qpack-instructions",
+        "timestamp": "2026-07-10T12:40:02.203834",
+        "source": "Hacker News"
     }
 ]
