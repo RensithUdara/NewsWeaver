@@ -395128,5 +395128,11 @@
         "url": "https://electrek.co/2026/07/10/musk-tells-tesla-staff-switch-grok/",
         "timestamp": "2026-07-10T23:14:53.104079",
         "source": "Hacker News"
+    },
+    {
+        "title": "I run my agency's 10 AI agents from launchd, no n8n, 0 dependencies",
+        "url": "https://github.com/Botfather90/digiton-agent-fleet",
+        "timestamp": "2026-07-10T23:14:53.104114",
+        "source": "Hacker News"
     }
 ]
