@@ -395002,5 +395002,11 @@
         "url": "https://a.sekor.eu.org/cdc.html",
         "timestamp": "2026-07-10T22:17:30.118628",
         "source": "Hacker News"
+    },
+    {
+        "title": "Go-Flavored Concurrency in C",
+        "url": "https://antonz.org/concurrency-in-c/",
+        "timestamp": "2026-07-10T22:17:30.118663",
+        "source": "Hacker News"
     }
 ]
