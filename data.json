@@ -394810,5 +394810,11 @@
         "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
         "timestamp": "2026-07-10T21:16:06.572441",
         "source": "Hacker News"
+    },
+    {
+        "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
+        "url": "https://nebusec.ai/research/ionstack-part-2/",
+        "timestamp": "2026-07-10T21:16:06.572468",
+        "source": "Hacker News"
     }
 ]
