@@ -394216,5 +394216,11 @@
         "url": "https://twitter.com/fidjissimo/status/2075353170927304861",
         "timestamp": "2026-07-10T17:11:21.674453",
         "source": "Hacker News"
+    },
+    {
+        "title": "Memory is needed for more than just weights",
+        "url": "https://www.lttlabs.com/articles/2026/07/10/llm-quantization-part-2-youre-gonna-need-a-bigger-vram",
+        "timestamp": "2026-07-10T17:11:21.674492",
+        "source": "Hacker News"
     }
 ]
