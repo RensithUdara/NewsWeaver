@@ -393466,5 +393466,11 @@
         "url": "https://surveys.jetbrains.com/s3/hn-state-of-php-2026",
         "timestamp": "2026-07-10T10:27:57.655498",
         "source": "Hacker News"
+    },
+    {
+        "title": "Exploiting Sparsity for Long Context Inference: Million Token on Commodity GPUs",
+        "url": "https://arxiv.org/abs/2502.06766",
+        "timestamp": "2026-07-10T10:27:57.655535",
+        "source": "Hacker News"
     }
 ]
