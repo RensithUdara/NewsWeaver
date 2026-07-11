@@ -395614,5 +395614,11 @@
         "url": "https://www.economist.com/briefing/2026/07/09/how-dementia-is-being-defeated",
         "timestamp": "2026-07-11T05:59:25.196968",
         "source": "Hacker News"
+    },
+    {
+        "title": "Wlctl – a Rust TUI for Managing Wi-Fi/ETH/VPN Using NetworkManager",
+        "url": "https://github.com/aashish-thapa/wlctl",
+        "timestamp": "2026-07-11T05:59:25.196995",
+        "source": "Hacker News"
     }
 ]
