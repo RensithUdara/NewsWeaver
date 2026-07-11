@@ -396010,5 +396010,11 @@
         "url": "https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/",
         "timestamp": "2026-07-11T09:27:01.056205",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Open database of 2k IP camera specs (JSON/CSV, CC0)",
+        "url": "https://github.com/ch-bas/cctv-camera-database",
+        "timestamp": "2026-07-11T09:27:01.056258",
+        "source": "Hacker News"
     }
 ]
