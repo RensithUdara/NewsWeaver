@@ -396592,5 +396592,11 @@
         "url": "https://parlaiment.bearblog.dev/fdisk-and-the-importance-of-sleep/",
         "timestamp": "2026-07-11T14:05:17.923696",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes",
+        "url": "https://www.petekeen.net/homelab-resolved/",
+        "timestamp": "2026-07-11T14:05:17.923786",
+        "source": "Hacker News"
     }
 ]
