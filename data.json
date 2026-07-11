@@ -396154,5 +396154,11 @@
         "url": "https://github.com/rokrak1/agentkindergarten",
         "timestamp": "2026-07-11T10:40:04.791794",
         "source": "Hacker News"
+    },
+    {
+        "title": "Codex now encrypts messages passed to subagents",
+        "url": "https://github.com/openai/codex/issues/28058",
+        "timestamp": "2026-07-11T10:40:04.791821",
+        "source": "Hacker News"
     }
 ]
