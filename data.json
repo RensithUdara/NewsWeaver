@@ -395428,5 +395428,11 @@
         "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
         "timestamp": "2026-07-11T03:38:01.116284",
         "source": "Hacker News"
+    },
+    {
+        "title": "Preemption is GC for memory reordering (2019)",
+        "url": "https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/",
+        "timestamp": "2026-07-11T03:38:01.116868",
+        "source": "Hacker News"
     }
 ]
