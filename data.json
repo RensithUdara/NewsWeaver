@@ -396658,5 +396658,11 @@
         "url": "https://www.cnbc.com/2026/07/10/iea-world-oil-demand-declines-iran-war.html",
         "timestamp": "2026-07-11T14:05:17.924160",
         "source": "Hacker News"
+    },
+    {
+        "title": "Introduction to Reinforcement Learning and Its Role in LLMs",
+        "url": "https://huggingface.co/learn/llm-course/en/chapter12/2",
+        "timestamp": "2026-07-11T14:05:17.924193",
+        "source": "Hacker News"
     }
 ]
