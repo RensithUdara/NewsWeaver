@@ -396556,5 +396556,11 @@
         "url": "https://news.ycombinator.com/item?id=48872175",
         "timestamp": "2026-07-11T14:05:17.923397",
         "source": "Hacker News"
+    },
+    {
+        "title": "Can we reconstruct a tokenizer using only two oracles from the chat API?",
+        "url": "https://old.reddit.com/r/LocalLLaMA/comments/1utc5b9/can_we_reconstruct_a_closedsource_llm_tokenizer/",
+        "timestamp": "2026-07-11T14:05:17.923441",
+        "source": "Hacker News"
     }
 ]
