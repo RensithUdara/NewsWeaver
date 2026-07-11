@@ -396898,5 +396898,11 @@
         "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
         "timestamp": "2026-07-11T15:08:05.628692",
         "source": "TechCrunch"
+    },
+    {
+        "title": "We scaled PgBouncer to 4x throughput",
+        "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+        "timestamp": "2026-07-11T16:06:26.974597",
+        "source": "Hacker News"
     }
 ]
