@@ -397696,5 +397696,11 @@
         "url": "https://www.nytimes.com/2026/07/09/style/too-many-books-new-york-city-apartment-scholar-landlord.html",
         "timestamp": "2026-07-11T20:11:58.330099",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a free tool to evaluate AI agent outputs (human labels and LLM judges)",
+        "url": "https://github.com/AntoineF23/verdict",
+        "timestamp": "2026-07-11T20:11:58.330151",
+        "source": "Hacker News"
     }
 ]
