@@ -395632,5 +395632,11 @@
         "url": "http://www.thatmarcusfamily.org/philosophy/Course_Websites/Math_S08/Readings/tymoczko.pdf",
         "timestamp": "2026-07-11T05:59:25.197049",
         "source": "Hacker News"
+    },
+    {
+        "title": "What's the best way to do authentication in modern applications",
+        "url": "https://neciudan.dev/most-secure-way-to-store-auth-token",
+        "timestamp": "2026-07-11T07:58:13.137174",
+        "source": "Hacker News"
     }
 ]
