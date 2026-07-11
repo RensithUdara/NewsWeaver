@@ -395650,5 +395650,11 @@
         "url": "https://github.com/mcpcustoms/mcp-customs",
         "timestamp": "2026-07-11T07:58:13.377888",
         "source": "Hacker News"
+    },
+    {
+        "title": "High-performance Go to TypeScript transpiler",
+        "url": "https://github.com/s4wave/goscript",
+        "timestamp": "2026-07-11T07:58:13.377936",
+        "source": "Hacker News"
     }
 ]
