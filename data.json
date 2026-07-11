@@ -396850,5 +396850,11 @@
         "url": "https://en.wikipedia.org/wiki/Thomas_Midgley_Jr.",
         "timestamp": "2026-07-11T15:08:04.904948",
         "source": "Hacker News"
+    },
+    {
+        "title": "DoS Attack on Crates.io",
+        "url": "https://status.crates.io/incidents/h2fxgl2jtc5q",
+        "timestamp": "2026-07-11T15:08:04.904975",
+        "source": "Hacker News"
     }
 ]
