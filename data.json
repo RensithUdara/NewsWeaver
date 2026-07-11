@@ -398200,5 +398200,11 @@
         "url": "https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/",
         "timestamp": "2026-07-11T23:02:14.446349",
         "source": "Hacker News"
+    },
+    {
+        "title": "ContextOps, an ESLint-like static analyzer for LLM context",
+        "url": "https://github.com/Abhijeet777ui/contextops",
+        "timestamp": "2026-07-11T23:02:14.446384",
+        "source": "Hacker News"
     }
 ]
