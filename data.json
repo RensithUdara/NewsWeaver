@@ -397480,5 +397480,11 @@
         "url": "https://news.ycombinator.com/item?id=48874910",
         "timestamp": "2026-07-11T19:20:10.139489",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Catch your local LLM falling back to CPU",
+        "url": "https://github.com/logxio/picchio",
+        "timestamp": "2026-07-11T19:20:10.139514",
+        "source": "Hacker News"
     }
 ]
