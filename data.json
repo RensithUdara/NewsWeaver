@@ -397432,5 +397432,11 @@
         "url": "https://www.internationalcyberdigest.com/anthropic-tried-to-phantom-charge-16-6m/",
         "timestamp": "2026-07-11T18:03:59.305008",
         "source": "Hacker News"
+    },
+    {
+        "title": "Local Agent Toolkit – delegate small coding tasks to local Ollama models",
+        "url": "https://github.com/tomerzipori/local-agent-toolkit",
+        "timestamp": "2026-07-11T18:03:59.305043",
+        "source": "Hacker News"
     }
 ]
