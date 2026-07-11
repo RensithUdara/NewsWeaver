@@ -395806,5 +395806,11 @@
         "url": "https://news.ycombinator.com/item?id=48869320",
         "timestamp": "2026-07-11T07:58:13.378892",
         "source": "Hacker News"
+    },
+    {
+        "title": "MuseAir hash: new fastest high-quality portable hashing algorithm",
+        "url": "https://github.com/eternal-io/museair",
+        "timestamp": "2026-07-11T07:58:13.378928",
+        "source": "Hacker News"
     }
 ]
