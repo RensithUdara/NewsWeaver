@@ -397372,5 +397372,11 @@
         "url": "https://news.ycombinator.com/item?id=48873957",
         "timestamp": "2026-07-11T18:03:59.304546",
         "source": "Hacker News"
+    },
+    {
+        "title": "Prefer Strict Tables in SQLite",
+        "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+        "timestamp": "2026-07-11T18:03:59.304583",
+        "source": "Hacker News"
     }
 ]
