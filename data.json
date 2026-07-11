@@ -398056,5 +398056,11 @@
         "url": "https://brandur.org/postgres-atomicity",
         "timestamp": "2026-07-11T22:02:13.209145",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bootstrapping a Post-Quantum Shadow Ledger via Op_return [pdf]",
+        "url": "https://github.com/Blackcoin-Dev/Blackcoin/blob/main/doc/whitepaper-quantum-quasar.pdf",
+        "timestamp": "2026-07-11T22:02:13.209178",
+        "source": "Hacker News"
     }
 ]
