@@ -395620,5 +395620,11 @@
         "url": "https://github.com/aashish-thapa/wlctl",
         "timestamp": "2026-07-11T05:59:25.196995",
         "source": "Hacker News"
+    },
+    {
+        "title": "Noisia: Harmful Workload Generator for PostgreSQL",
+        "url": "https://github.com/lesovsky/noisia",
+        "timestamp": "2026-07-11T05:59:25.197022",
+        "source": "Hacker News"
     }
 ]
