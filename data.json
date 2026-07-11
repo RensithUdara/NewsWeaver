@@ -398146,5 +398146,11 @@
         "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
         "timestamp": "2026-07-11T23:02:14.240430",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mesh LLM: distributed AI computing on iroh",
+        "url": "https://www.iroh.computer/blog/mesh-llm",
+        "timestamp": "2026-07-11T23:02:14.240586",
+        "source": "Hacker News"
     }
 ]
