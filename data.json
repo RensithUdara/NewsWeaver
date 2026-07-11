@@ -396694,5 +396694,11 @@
         "url": "https://blog.nfsensei.org/the-packet-filter-reborn.html",
         "timestamp": "2026-07-11T14:05:17.924357",
         "source": "Hacker News"
+    },
+    {
+        "title": "CyberNom: Self-Hosted Threat Intel and SoC Monitoring Platform, Single Go Binary",
+        "url": "https://github.com/Hayder-Rzaigui/cybernom-community",
+        "timestamp": "2026-07-11T14:05:17.924390",
+        "source": "Hacker News"
     }
 ]
