@@ -396688,5 +396688,11 @@
         "url": "https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/",
         "timestamp": "2026-07-11T14:05:17.924324",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reimplementing pf as an eBPF/XDP dataplane on Linux",
+        "url": "https://blog.nfsensei.org/the-packet-filter-reborn.html",
+        "timestamp": "2026-07-11T14:05:17.924357",
+        "source": "Hacker News"
     }
 ]
