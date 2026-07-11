@@ -395536,5 +395536,11 @@
         "url": "https://valand.dev/blog/post/ai-limit-divide",
         "timestamp": "2026-07-11T05:59:25.196602",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nectar: A programming language that compiles to WebAssembly",
+        "url": "https://github.com/HibiscusConsulting/nectar-lang",
+        "timestamp": "2026-07-11T05:59:25.196632",
+        "source": "Hacker News"
     }
 ]
