@@ -396856,5 +396856,11 @@
         "url": "https://status.crates.io/incidents/h2fxgl2jtc5q",
         "timestamp": "2026-07-11T15:08:04.904975",
         "source": "Hacker News"
+    },
+    {
+        "title": "PR Reminder Bot – Node.js tool that Slack-nags you about stale PRs",
+        "url": "https://github.com/Enox77/pr-reminder-bot",
+        "timestamp": "2026-07-11T15:08:04.905002",
+        "source": "Hacker News"
     }
 ]
