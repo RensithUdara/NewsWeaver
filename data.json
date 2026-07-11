@@ -396268,5 +396268,11 @@
         "url": "https://nh3.dev/blog/05-bloat",
         "timestamp": "2026-07-11T11:34:26.541044",
         "source": "Hacker News"
+    },
+    {
+        "title": "Soofi: European sovereign LLM trained in 2 months",
+        "url": "https://huggingface.co/spaces/Soofi-Project/Pretraining-Tech-Report",
+        "timestamp": "2026-07-11T11:34:26.541078",
+        "source": "Hacker News"
     }
 ]
