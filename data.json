@@ -397120,5 +397120,11 @@
         "url": "https://www.powermag.com/valar-atomics-ward-250-becomes-second-reactor-to-go-critical-under-doe-pilot-program/",
         "timestamp": "2026-07-11T17:10:10.706499",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Darnlink – self-healing Markdown links that survive refactors (by UUID)",
+        "url": "https://github.com/txemi/darnlink",
+        "timestamp": "2026-07-11T17:10:10.706520",
+        "source": "Hacker News"
     }
 ]
