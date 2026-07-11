@@ -397906,5 +397906,11 @@
         "url": "https://news.ycombinator.com/item?id=48875680",
         "timestamp": "2026-07-11T21:07:44.047709",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built TradingSpy: local, privacy-first AI trading assistant(First Open Source)",
+        "url": "https://github.com/mrhustlex/TradingSpy-TradingAgentService",
+        "timestamp": "2026-07-11T21:07:44.047730",
+        "source": "Hacker News"
     }
 ]
