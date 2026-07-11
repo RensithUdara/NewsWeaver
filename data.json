@@ -398110,5 +398110,11 @@
         "url": "http://derac.org/gpt56charts/",
         "timestamp": "2026-07-11T22:02:13.209455",
         "source": "Hacker News"
+    },
+    {
+        "title": "Persistent memory for Claude Code that survives context compaction",
+        "url": "https://mentedb.com",
+        "timestamp": "2026-07-11T22:02:13.209488",
+        "source": "Hacker News"
     }
 ]
