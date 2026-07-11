@@ -398050,5 +398050,11 @@
         "url": "https://www.cleanplanet.co.jp/technology/",
         "timestamp": "2026-07-11T22:02:13.209112",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postgres Makes Transactions Atomic",
+        "url": "https://brandur.org/postgres-atomicity",
+        "timestamp": "2026-07-11T22:02:13.209145",
+        "source": "Hacker News"
     }
 ]
