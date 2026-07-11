@@ -396232,5 +396232,11 @@
         "url": "https://github.com/cyanyux/trident",
         "timestamp": "2026-07-11T11:34:26.540823",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Python SDK for signing digital content with revocable signatures",
+        "url": "https://github.com/lyfeninja/lyfeninja_blkseal_python_sdk",
+        "timestamp": "2026-07-11T11:34:26.540859",
+        "source": "Hacker News"
     }
 ]
