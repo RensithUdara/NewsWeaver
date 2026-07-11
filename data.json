@@ -396310,5 +396310,11 @@
         "url": "https://news.ycombinator.com/item?id=48870890",
         "timestamp": "2026-07-11T11:34:26.541353",
         "source": "Hacker News"
+    },
+    {
+        "title": "Octochains – a Python framework for parallel, isolated multi-agent reasoning",
+        "url": "https://github.com/ahmadvh/octochains",
+        "timestamp": "2026-07-11T11:34:26.541386",
+        "source": "Hacker News"
     }
 ]
