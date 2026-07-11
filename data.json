@@ -396100,5 +396100,11 @@
         "url": "https://github.com/the0cp/pico",
         "timestamp": "2026-07-11T10:40:04.791535",
         "source": "Hacker News"
+    },
+    {
+        "title": "How Container Networking Works: Building a Bridge Network from Scratch",
+        "url": "https://labs.iximiuz.com/tutorials/container-networking-from-scratch",
+        "timestamp": "2026-07-11T10:40:04.791561",
+        "source": "Hacker News"
     }
 ]
