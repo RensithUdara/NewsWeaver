@@ -396496,5 +396496,11 @@
         "url": "https://www.bbc.com/news/articles/crely7g8xepo",
         "timestamp": "2026-07-11T12:33:50.063154",
         "source": "Hacker News"
+    },
+    {
+        "title": "Element 26.07.3, a Matrix client, adds content scanning infrastructure",
+        "url": "https://github.com/element-hq/element-x-ios/releases/tag/release%2F26.07.3",
+        "timestamp": "2026-07-11T12:33:50.063188",
+        "source": "Hacker News"
     }
 ]
