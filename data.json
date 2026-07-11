@@ -395944,5 +395944,11 @@
         "url": "https://monitorspider.com",
         "timestamp": "2026-07-11T09:27:01.055792",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Web-Performer – Run HTTP/GraphQL Requests from YAML (TypeScript CLI)",
+        "url": "https://github.com/Techthos/web-performer",
+        "timestamp": "2026-07-11T09:27:01.055825",
+        "source": "Hacker News"
     }
 ]
