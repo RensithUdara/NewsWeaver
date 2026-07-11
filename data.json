@@ -398170,5 +398170,11 @@
         "url": "https://www.engineering.upenn.edu/stories/how-sea-stars-build-materials-that-can-see/",
         "timestamp": "2026-07-11T23:02:14.446056",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+        "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
+        "timestamp": "2026-07-11T23:02:14.446102",
+        "source": "Hacker News"
     }
 ]
