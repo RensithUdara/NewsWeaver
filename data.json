@@ -397516,5 +397516,11 @@
         "url": "https://ryan.thoryk.com/sgi/irix_versions.html",
         "timestamp": "2026-07-11T19:20:10.139626",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a production-quality regex library with agents",
+        "url": "https://eaftan.github.io/safere-intro/",
+        "timestamp": "2026-07-11T19:20:10.139647",
+        "source": "Hacker News"
     }
 ]
