@@ -397132,5 +397132,11 @@
         "url": "https://pastebin.com/cA10RH73",
         "timestamp": "2026-07-11T17:10:10.706546",
         "source": "Hacker News"
+    },
+    {
+        "title": "Odyssey: Scalable PostgreSQL Connection Pooler",
+        "url": "https://github.com/yandex/odyssey",
+        "timestamp": "2026-07-11T17:10:10.706586",
+        "source": "Hacker News"
     }
 ]
