@@ -397630,5 +397630,11 @@
         "url": "https://leafcomputing.net/",
         "timestamp": "2026-07-11T19:20:10.140090",
         "source": "Hacker News"
+    },
+    {
+        "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
+        "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
+        "timestamp": "2026-07-11T20:11:58.242161",
+        "source": "Hacker News"
     }
 ]
