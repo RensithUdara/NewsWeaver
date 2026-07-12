@@ -401344,5 +401344,11 @@
         "url": "https://vilkeliskis.com/b/2026/0711.html",
         "timestamp": "2026-07-12T23:09:40.636470",
         "source": "Hacker News"
+    },
+    {
+        "title": "Prescryb – an MCP server for CVE and config remediation",
+        "url": "https://github.com/konstruktoid/prescryb",
+        "timestamp": "2026-07-12T23:09:40.636506",
+        "source": "Hacker News"
     }
 ]
