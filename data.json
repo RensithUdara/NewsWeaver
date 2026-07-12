@@ -399886,5 +399886,11 @@
         "url": "https://github.com/schollz/croc/",
         "timestamp": "2026-07-12T15:49:51.810634",
         "source": "Hacker News"
+    },
+    {
+        "title": "Benchmarking Cloudflare Containers vs. AWS MicroVMs",
+        "url": "https://v2.alchemy.run/blog/2026-07-01-microvm-cold-starts/",
+        "timestamp": "2026-07-12T15:49:51.810671",
+        "source": "Hacker News"
     }
 ]
