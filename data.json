@@ -398488,5 +398488,11 @@
         "url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
         "timestamp": "2026-07-12T03:48:29.482697",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL",
+        "url": "https://hakibenita.com/postgresql-partition-pruning",
+        "timestamp": "2026-07-12T03:48:29.482765",
+        "source": "Hacker News"
     }
 ]
