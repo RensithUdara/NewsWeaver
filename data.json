@@ -399064,5 +399064,11 @@
         "url": "https://www.sunilshenoy.com/2026/07/12/i-dont-need-you-i.html",
         "timestamp": "2026-07-12T10:10:07.535012",
         "source": "Hacker News"
+    },
+    {
+        "title": "Yakr – a social-relay messaging protocol with Python and Rust implementations",
+        "url": "https://github.com/MY20-PHEV/yakr",
+        "timestamp": "2026-07-12T10:10:07.535036",
+        "source": "Hacker News"
     }
 ]
