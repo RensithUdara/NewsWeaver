@@ -398356,5 +398356,11 @@
         "url": "https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/",
         "timestamp": "2026-07-12T00:04:41.199815",
         "source": "Hacker News"
+    },
+    {
+        "title": "LM-Polygraph: Uncertainty Estimation for LLMs",
+        "url": "https://github.com/IINemo/lm-polygraph",
+        "timestamp": "2026-07-12T00:04:41.199836",
+        "source": "Hacker News"
     }
 ]
