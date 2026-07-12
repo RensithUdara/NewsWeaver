@@ -398698,5 +398698,11 @@
         "url": "https://www.sov.vc/blog/the-next-frontier-sovereignty",
         "timestamp": "2026-07-12T06:20:43.413589",
         "source": "Hacker News"
+    },
+    {
+        "title": "What Happens Inside DynamoDB When You Hit 3000 RCU on a Single Partition Key",
+        "url": "https://medium.com/@yalovoy/what-happens-inside-dynamodb-when-you-hit-3000-rcu-on-a-single-partition-key-the-adaptive-capacity-8bbd8b47b65e",
+        "timestamp": "2026-07-12T06:20:43.413615",
+        "source": "Hacker News"
     }
 ]
