@@ -398854,5 +398854,11 @@
         "url": "https://lewiscampbell.tech/blog/260712.html",
         "timestamp": "2026-07-12T08:35:52.638578",
         "source": "Hacker News"
+    },
+    {
+        "title": "xs: Concatenative array language inspired by kdb+/q in OCaml",
+        "url": "https://cryptm.org/xs/",
+        "timestamp": "2026-07-12T08:35:52.638605",
+        "source": "Hacker News"
     }
 ]
