@@ -400840,5 +400840,11 @@
         "url": "https://www.wericmartin.com/jinxo-wins-2026-spiel-des-jahres/",
         "timestamp": "2026-07-12T20:27:53.689016",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I created Redis alternative in Go that even runs natively on Windows",
+        "url": "https://github.com/Suleman-Elahi/frostdb",
+        "timestamp": "2026-07-12T20:27:53.689037",
+        "source": "Hacker News"
     }
 ]
