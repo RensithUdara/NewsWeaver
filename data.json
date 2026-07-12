@@ -399202,5 +399202,11 @@
         "url": "https://www.chrisfinke.com/x-for-y/",
         "timestamp": "2026-07-12T11:23:38.872201",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mnema: A local, encrypted memory layer for AI agents",
+        "url": "https://github.com/MerlijnW70/mnema",
+        "timestamp": "2026-07-12T11:23:38.872256",
+        "source": "Hacker News"
     }
 ]
