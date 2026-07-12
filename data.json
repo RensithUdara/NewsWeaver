@@ -400666,5 +400666,11 @@
         "url": "https://en.wikipedia.org/wiki/Diplomatic_bag",
         "timestamp": "2026-07-12T19:44:01.458280",
         "source": "Hacker News"
+    },
+    {
+        "title": "Towards Free Normalization: Fusing Normalization into GEMM and Attention Kernels",
+        "url": "https://pytorch.org/blog/towards-free-normalization-fusing-normalization-into-gemm-and-attention-kernels/",
+        "timestamp": "2026-07-12T19:44:01.458314",
+        "source": "Hacker News"
     }
 ]
