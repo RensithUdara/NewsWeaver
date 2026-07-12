@@ -399388,5 +399388,11 @@
         "url": "https://www.differentiated.io/blog/speculative-agents-need-a-commit-boundary",
         "timestamp": "2026-07-12T12:11:10.400447",
         "source": "Hacker News"
+    },
+    {
+        "title": "Unauthenticated RCE in Motorola's MR2600 Router",
+        "url": "https://mrbruh.com/motorola/",
+        "timestamp": "2026-07-12T12:11:10.400517",
+        "source": "Hacker News"
     }
 ]
