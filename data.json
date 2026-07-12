@@ -400468,5 +400468,11 @@
         "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
         "timestamp": "2026-07-12T18:32:35.173412",
         "source": "Hacker News"
+    },
+    {
+        "title": "Formally verified temporal collisions in Kafka, NATS, RabbitMQ, and Pulsar",
+        "url": "https://zenodo.org/records/21298530",
+        "timestamp": "2026-07-12T18:32:35.173449",
+        "source": "Hacker News"
     }
 ]
