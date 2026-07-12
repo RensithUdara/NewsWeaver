@@ -400954,5 +400954,11 @@
         "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
         "timestamp": "2026-07-12T21:22:07.286735",
         "source": "Hacker News"
+    },
+    {
+        "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
+        "url": "https://nanduruganesh.github.io/flash-msa/",
+        "timestamp": "2026-07-12T21:22:07.286770",
+        "source": "Hacker News"
     }
 ]
