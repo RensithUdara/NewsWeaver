@@ -398578,5 +398578,11 @@
         "url": "https://apps.apple.com/us/app/talkfitly/id6776912365",
         "timestamp": "2026-07-12T03:48:29.724794",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reducing HBM Bottlenecks in JAX-Based LLM Training with Host Offloading",
+        "url": "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/",
+        "timestamp": "2026-07-12T03:48:29.724828",
+        "source": "Hacker News"
     }
 ]
