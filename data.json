@@ -398764,5 +398764,11 @@
         "url": "https://news.ycombinator.com/item?id=48878448",
         "timestamp": "2026-07-12T06:20:43.413991",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: AsyncFutures – A Ruby gem for asynchronous/concurrent code execution",
+        "url": "https://rubygems.org/gems/async_futures/versions/0.1.2",
+        "timestamp": "2026-07-12T06:20:43.414018",
+        "source": "Hacker News"
     }
 ]
