@@ -401368,5 +401368,11 @@
         "url": "https://www.youtube.com/watch?v=sQGZXrzykpU",
         "timestamp": "2026-07-12T23:09:40.636683",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Cpulse – See why your Docker Compose stack is stuck",
+        "url": "https://github.com/hyturing/compose-pulse",
+        "timestamp": "2026-07-12T23:09:40.636785",
+        "source": "Hacker News"
     }
 ]
