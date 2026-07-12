@@ -398770,5 +398770,11 @@
         "url": "https://rubygems.org/gems/async_futures/versions/0.1.2",
         "timestamp": "2026-07-12T06:20:43.414018",
         "source": "Hacker News"
+    },
+    {
+        "title": "Proof of Concept for the recent Litematica path traversal bug which leads to RCE",
+        "url": "https://github.com/AliensToEarth/litematica-rce",
+        "timestamp": "2026-07-12T06:20:43.414045",
+        "source": "Hacker News"
     }
 ]
