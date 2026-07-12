@@ -398836,5 +398836,11 @@
         "url": "https://www.warp.dev/blog/we-are-now-factory-engineers-not-product-engineers",
         "timestamp": "2026-07-12T08:35:52.638485",
         "source": "Hacker News"
+    },
+    {
+        "title": "Finetuning a Reasoning LLM with Supervised or Reinforcement Learning?",
+        "url": "https://discuss.huggingface.co/t/finetuning-a-reasoning-llm-with-supervised-or-reinforcement-learning/176449",
+        "timestamp": "2026-07-12T08:35:52.638516",
+        "source": "Hacker News"
     }
 ]
