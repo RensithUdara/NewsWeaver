@@ -399322,5 +399322,11 @@
         "url": "https://www.nbcnews.com/politics/politics-news/sen-lindsey-graham-dies-71-brief-sudden-illness-rcna552722",
         "timestamp": "2026-07-12T11:23:38.872651",
         "source": "Hacker News"
+    },
+    {
+        "title": "An AI gateway that signs a receipt for every LLM response",
+        "url": "https://github.com/AxioRank/gateway/tree/main",
+        "timestamp": "2026-07-12T11:23:38.872673",
+        "source": "Hacker News"
     }
 ]
