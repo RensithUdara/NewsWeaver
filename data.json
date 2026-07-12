@@ -400222,5 +400222,11 @@
         "url": "https://arxiv.org/abs/2607.06377",
         "timestamp": "2026-07-12T17:39:13.927259",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
+        "url": "https://github.com/hasenj/go-shirei/",
+        "timestamp": "2026-07-12T17:39:13.927297",
+        "source": "Hacker News"
     }
 ]
