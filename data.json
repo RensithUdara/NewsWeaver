@@ -401332,5 +401332,11 @@
         "url": "https://www.sciencedaily.com/releases/2026/07/260711010120.htm",
         "timestamp": "2026-07-12T23:09:40.636375",
         "source": "Hacker News"
+    },
+    {
+        "title": "Grok 4.6 and GPT5.6 beat Anthropic for finding security vulnerabilities in PRs",
+        "url": "https://docs.damsecure.ai/blog/pr-review-security-benchmark/",
+        "timestamp": "2026-07-12T23:09:40.636433",
+        "source": "Hacker News"
     }
 ]
