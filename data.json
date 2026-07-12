@@ -400780,5 +400780,11 @@
         "url": "https://buildnectar.com",
         "timestamp": "2026-07-12T20:27:53.625435",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Lazysusan – run commands on your machines from anywhere with just curl",
+        "url": "https://github.com/belugashark/lazysusan",
+        "timestamp": "2026-07-12T20:27:53.688740",
+        "source": "Hacker News"
     }
 ]
