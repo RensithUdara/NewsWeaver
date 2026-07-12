@@ -401140,5 +401140,11 @@
         "url": "https://selfassay.com",
         "timestamp": "2026-07-12T22:11:24.081824",
         "source": "Hacker News"
+    },
+    {
+        "title": "I trained a 113M-parameter earthquake LLM from absolute scratch",
+        "url": "https://github.com/jiazhe868/nanogpt-seis",
+        "timestamp": "2026-07-12T22:11:24.081866",
+        "source": "Hacker News"
     }
 ]
