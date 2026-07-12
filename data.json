@@ -400432,5 +400432,11 @@
         "url": "https://infrequently.org/2026/07/abject-praise/",
         "timestamp": "2026-07-12T18:32:34.935036",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: FFI bindings for the Rockbox DSP, metadata, and playback engine",
+        "url": "https://github.com/tsirysndr/rockboxd/tree/master/bindings",
+        "timestamp": "2026-07-12T18:32:35.173212",
+        "source": "Hacker News"
     }
 ]
