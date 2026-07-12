@@ -399634,5 +399634,11 @@
         "url": "https://qsoe.net/hfi/",
         "timestamp": "2026-07-12T13:56:48.291548",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fixed3D, a fixed point conversion of Box3D (box2d.org)",
+        "url": "https://github.com/mas-bandwidth/fixed3d/blob/main/README.md",
+        "timestamp": "2026-07-12T13:56:48.291584",
+        "source": "Hacker News"
     }
 ]
