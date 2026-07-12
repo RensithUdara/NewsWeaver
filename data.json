@@ -400930,5 +400930,11 @@
         "url": "https://www.youtube.com/watch?v=BML1YHZpx2o",
         "timestamp": "2026-07-12T20:27:53.689357",
         "source": "Hacker News"
+    },
+    {
+        "title": "Defining new Jax types with hijax",
+        "url": "https://docs.jax.dev/en/latest/hijax_types.html",
+        "timestamp": "2026-07-12T20:27:53.689379",
+        "source": "Hacker News"
     }
 ]
