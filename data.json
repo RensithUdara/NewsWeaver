@@ -400366,5 +400366,11 @@
         "url": "https://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/",
         "timestamp": "2026-07-12T17:39:14.123124",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mitigating Factual Hallucination in LRMs via Mixed-Mode Advantage Regularization",
+        "url": "https://arxiv.org/abs/2607.05861",
+        "timestamp": "2026-07-12T17:39:14.123157",
+        "source": "Hacker News"
     }
 ]
