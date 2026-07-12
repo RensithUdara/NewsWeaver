@@ -399232,5 +399232,11 @@
         "url": "https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html",
         "timestamp": "2026-07-12T11:23:38.872339",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Python data-handling pattern (gDS) & framework for testing concurrent systems",
+        "url": "https://www.testingcomplexsystems.com",
+        "timestamp": "2026-07-12T11:23:38.872358",
+        "source": "Hacker News"
     }
 ]
