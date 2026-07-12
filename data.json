@@ -400438,5 +400438,11 @@
         "url": "https://github.com/tsirysndr/rockboxd/tree/master/bindings",
         "timestamp": "2026-07-12T18:32:35.173212",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+        "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+        "timestamp": "2026-07-12T18:32:35.173260",
+        "source": "Hacker News"
     }
 ]
