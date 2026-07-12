@@ -399844,5 +399844,11 @@
         "url": "https://cityladder.xyz/",
         "timestamp": "2026-07-12T14:50:25.689113",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Lunduke Computer Operating System",
+        "url": "https://github.com/BryanLunduke/LCOS",
+        "timestamp": "2026-07-12T14:50:25.689142",
+        "source": "Hacker News"
     }
 ]
