@@ -400354,5 +400354,11 @@
         "url": "https://github.com/SunnyLich/Wisp-AI-Assistant",
         "timestamp": "2026-07-12T17:39:14.123058",
         "source": "Hacker News"
+    },
+    {
+        "title": "Jonesforth – A sometimes minimal Forth compiler and tutorial (2007)",
+        "url": "https://github.com/nornagon/jonesforth/blob/master/jonesforth.S",
+        "timestamp": "2026-07-12T17:39:14.123091",
+        "source": "Hacker News"
     }
 ]
