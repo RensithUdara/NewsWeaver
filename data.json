@@ -399136,5 +399136,11 @@
         "url": "https://www.nature.com/articles/d41586-026-02167-3?linkId=62708614",
         "timestamp": "2026-07-12T10:10:07.535372",
         "source": "Hacker News"
+    },
+    {
+        "title": "A proper Docker image for WebCalendar: SQLite-backed and self-contained",
+        "url": "https://projects.rocks/blog/webcalendar-docker.html",
+        "timestamp": "2026-07-12T10:10:07.535395",
+        "source": "Hacker News"
     }
 ]
