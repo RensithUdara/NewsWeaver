@@ -400912,5 +400912,11 @@
         "url": "https://bart.degoe.de/narrating-your-blog-with-kokoro-a-local-opensource-model/",
         "timestamp": "2026-07-12T20:27:53.689293",
         "source": "Hacker News"
+    },
+    {
+        "title": "6× faster binary search: from compiled code to mechanical sympathy",
+        "url": "https://pythonspeed.com/articles/branchless-binary-search/",
+        "timestamp": "2026-07-12T20:27:53.689314",
+        "source": "Hacker News"
     }
 ]
