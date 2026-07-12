@@ -401104,5 +401104,11 @@
         "url": "https://www.youtube.com/watch?v=5y8w5uvWaIQ",
         "timestamp": "2026-07-12T21:22:07.374373",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why prompt injection works: a Transformer-level view",
+        "url": "https://medium.com/@kirill89/why-prompt-injection-works-a-transformer-level-view-d5e3cfa31525",
+        "timestamp": "2026-07-12T21:22:07.374409",
+        "source": "Hacker News"
     }
 ]
