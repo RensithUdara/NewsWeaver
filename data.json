@@ -401692,5 +401692,11 @@
         "url": "https://jackpeplinski.bearblog.dev/thoughts-on-ai/",
         "timestamp": "2026-07-13T03:52:29.958161",
         "source": "Hacker News"
+    },
+    {
+        "title": "CO2: Language backward compatible with C, with access to the Rust ecosystem",
+        "url": "https://github.com/hkalbasi/co2/tree/main",
+        "timestamp": "2026-07-13T03:52:29.958197",
+        "source": "Hacker News"
     }
 ]
