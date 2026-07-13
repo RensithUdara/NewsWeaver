@@ -402304,5 +402304,11 @@
         "url": "https://matt-schellhas.medium.com/hoarding-in-summer-fdaf9ec1834d",
         "timestamp": "2026-07-13T12:33:08.753072",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agentgateway adds token exchange, JWT-assertion, and Entra OBO",
+        "url": "https://agentgateway.dev/blog/2026-07-12-agentgateway-token-exchange-jwt-assertion-entra-obo/",
+        "timestamp": "2026-07-13T12:33:08.753104",
+        "source": "Hacker News"
     }
 ]
