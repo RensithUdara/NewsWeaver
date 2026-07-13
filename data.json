@@ -403204,5 +403204,11 @@
         "url": "https://www.politico.eu/article/vdl-announces-age-restrictions-for-social-media-and-other-platforms/",
         "timestamp": "2026-07-13T20:17:15.776308",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
+        "url": "https://github.com/Poseidon-fan/linux-0.11-rs",
+        "timestamp": "2026-07-13T20:17:15.776343",
+        "source": "Hacker News"
     }
 ]
