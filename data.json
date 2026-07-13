@@ -402568,5 +402568,11 @@
         "url": "https://github.com/mickael-kerjean/fdrive",
         "timestamp": "2026-07-13T15:30:14.392964",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a Clang Back End and Porting Doom to My Custom Bytecode VM",
+        "url": "https://pointersgonewild.com/2026-07-07-building-a-clang-backend-and-porting-doom-to-my-custom-bytecode-vm/",
+        "timestamp": "2026-07-13T15:30:14.393004",
+        "source": "Hacker News"
     }
 ]
