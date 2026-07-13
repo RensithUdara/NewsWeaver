@@ -402868,5 +402868,11 @@
         "url": "https://github.com/agx-computer/hypercube",
         "timestamp": "2026-07-13T17:32:43.432057",
         "source": "Hacker News"
+    },
+    {
+        "title": "Compaction can save 50% due to cache-read cost",
+        "url": "https://relace.ai/blog/compact",
+        "timestamp": "2026-07-13T17:32:43.432095",
+        "source": "Hacker News"
     }
 ]
