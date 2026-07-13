@@ -401524,5 +401524,11 @@
         "url": "https://watolls.danielsada.tech/",
         "timestamp": "2026-07-13T00:07:48.135566",
         "source": "Hacker News"
+    },
+    {
+        "title": "Micro-JavaScript: A pure Python JavaScript engine, inspired by MicroQuickJS",
+        "url": "https://github.com/simonw/micro-javascript",
+        "timestamp": "2026-07-13T00:07:48.135599",
+        "source": "Hacker News"
     }
 ]
