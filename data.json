@@ -402592,5 +402592,11 @@
         "url": "https://fredblog.stlouisfed.org/2026/07/real-gdp-growth-by-state-first-quarter-2026/",
         "timestamp": "2026-07-13T15:30:14.393108",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A DNA motif/feature scanner on a single Cloudflare Worker, in Rust",
+        "url": "https://github.com/dhruvkjain/argus-ligand",
+        "timestamp": "2026-07-13T15:30:14.393177",
+        "source": "Hacker News"
     }
 ]
