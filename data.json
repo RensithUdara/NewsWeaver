@@ -403396,5 +403396,11 @@
         "url": "https://news.ycombinator.com/item?id=48898906",
         "timestamp": "2026-07-13T21:13:57.103204",
         "source": "Hacker News"
+    },
+    {
+        "title": "Coluber: Language Written in Nim. Speaks Nim, C, Vlang, Python, and JavaScript",
+        "url": "https://codeberg.org/distantfar/coluber",
+        "timestamp": "2026-07-13T21:13:57.103245",
+        "source": "Hacker News"
     }
 ]
