@@ -402370,5 +402370,11 @@
         "url": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
         "timestamp": "2026-07-13T12:33:08.753400",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mutable reactivity in React is more performant",
+        "url": "https://www.npmjs.com/package/@pravosleva/reactive-engine",
+        "timestamp": "2026-07-13T12:33:08.753427",
+        "source": "Hacker News"
     }
 ]
