@@ -402898,5 +402898,11 @@
         "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
         "timestamp": "2026-07-13T17:32:43.624263",
         "source": "Dev.to"
+    },
+    {
+        "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
+        "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
+        "timestamp": "2026-07-13T17:32:43.624281",
+        "source": "Dev.to"
     }
 ]
