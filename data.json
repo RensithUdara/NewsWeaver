@@ -401908,5 +401908,11 @@
         "url": "https://github.com/makeev/alphai-tui",
         "timestamp": "2026-07-13T06:44:25.256013",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pg_re2: 9x faster regular expressions in Postgres",
+        "url": "https://github.com/clickhouse/pg_re2/",
+        "timestamp": "2026-07-13T06:44:25.256055",
+        "source": "Hacker News"
     }
 ]
