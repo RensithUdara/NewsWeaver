@@ -402130,5 +402130,11 @@
         "url": "https://www.youtube.com/watch?v=_uWnr42zGnE",
         "timestamp": "2026-07-13T09:59:55.341542",
         "source": "Hacker News"
+    },
+    {
+        "title": "ClipBridge – self-hosted clipboard sync for iPhone, Windows, and Mac",
+        "url": "https://github.com/andreasserfilippi/clipbridge",
+        "timestamp": "2026-07-13T09:59:55.341568",
+        "source": "Hacker News"
     }
 ]
