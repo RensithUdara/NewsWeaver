@@ -402814,5 +402814,11 @@
         "url": "https://github.com/michaelellis003/paperboy",
         "timestamp": "2026-07-13T17:32:43.431747",
         "source": "Hacker News"
+    },
+    {
+        "title": "Adding a second middleware broke our TypeScript types",
+        "url": "https://www.inngest.com/blog/adding-a-second-middleware-broke-our-typescript-types",
+        "timestamp": "2026-07-13T17:32:43.431780",
+        "source": "Hacker News"
     }
 ]
