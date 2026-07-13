@@ -402766,5 +402766,11 @@
         "url": "https://chaos.social/@marble/116720125530089009",
         "timestamp": "2026-07-13T17:32:43.431480",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Connect a voice agent to your phone as a Bluetooth headset with a ESP32",
+        "url": "https://github.com/michaellee8/esp32-bluetooth-voice-agent",
+        "timestamp": "2026-07-13T17:32:43.431514",
+        "source": "Hacker News"
     }
 ]
