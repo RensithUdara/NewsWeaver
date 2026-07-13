@@ -401584,5 +401584,11 @@
         "url": "https://elvern.xyz",
         "timestamp": "2026-07-13T03:52:29.957361",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sheaf brings Clojure's code-as-data to machine learning",
+        "url": "https://sheaf-lang.org/",
+        "timestamp": "2026-07-13T03:52:29.957423",
+        "source": "Hacker News"
     }
 ]
