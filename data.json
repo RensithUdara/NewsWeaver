@@ -402316,5 +402316,11 @@
         "url": "https://www.watermagazine.co.uk/2026/07/13/ai-boom-to-drive-e6-8-billion-in-water-spend-for-european-data-centres-by-2036/",
         "timestamp": "2026-07-13T12:33:08.753131",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Linux compatible kernel written in Zig that runs Linux binaries in the browser",
+        "url": "https://github.com/michaelkremenetsky/linuxemu",
+        "timestamp": "2026-07-13T12:33:08.753159",
+        "source": "Hacker News"
     }
 ]
