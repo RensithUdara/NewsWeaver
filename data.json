@@ -403606,5 +403606,11 @@
         "url": "https://primate.run/blog/primate-040",
         "timestamp": "2026-07-13T22:10:43.689849",
         "source": "Hacker News"
+    },
+    {
+        "title": "DOOMQL – what if SQLite were the game engine?",
+        "url": "https://github.com/petergpt/doomql",
+        "timestamp": "2026-07-13T22:10:43.689931",
+        "source": "Hacker News"
     }
 ]
