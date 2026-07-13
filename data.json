@@ -401764,5 +401764,11 @@
         "url": "https://github.com/schlae/BeavisUltrasound",
         "timestamp": "2026-07-13T06:44:25.170939",
         "source": "Hacker News"
+    },
+    {
+        "title": "Converting colors in JavaScript at 6B operations per second",
+        "url": "https://dkryaklin.com/blog/colordx-gpu",
+        "timestamp": "2026-07-13T06:44:25.171249",
+        "source": "Hacker News"
     }
 ]
