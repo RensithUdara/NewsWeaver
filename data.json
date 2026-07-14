@@ -405058,5 +405058,11 @@
         "url": "https://www.youtube.com/watch?v=XZyE1sSNw8E",
         "timestamp": "2026-07-14T11:06:57.228011",
         "source": "Hacker News"
+    },
+    {
+        "title": "AsyncAPI Supply Chain Compromise via GitHub Actions",
+        "url": "https://www.wiz.io/blog/m-red-team-asyncapi-supply-chain-compromise-via-github-actions",
+        "timestamp": "2026-07-14T11:06:57.228038",
+        "source": "Hacker News"
     }
 ]
