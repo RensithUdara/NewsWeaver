@@ -404338,5 +404338,11 @@
         "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
         "timestamp": "2026-07-14T03:27:39.651615",
         "source": "TechCrunch"
+    },
+    {
+        "title": "YouTrackDB is a general-use object-oriented graph database",
+        "url": "https://github.com/JetBrains/youtrackdb",
+        "timestamp": "2026-07-14T05:50:21.227943",
+        "source": "Hacker News"
     }
 ]
