@@ -404584,5 +404584,11 @@
         "url": "https://www.gamespot.com/articles/slay-the-spire-2-is-choosing-shit-art-over-generative-ai/",
         "timestamp": "2026-07-14T07:46:03.839024",
         "source": "Hacker News"
+    },
+    {
+        "title": "Autoresearch doubled GLM-5.2 throughput. Production traffic broke it",
+        "url": "https://fparisio.substack.com/p/an-ai-agent-cold-tuned-our-glm-52",
+        "timestamp": "2026-07-14T07:46:03.839052",
+        "source": "Hacker News"
     }
 ]
