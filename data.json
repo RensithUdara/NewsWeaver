@@ -406642,5 +406642,11 @@
         "url": "https://libraryofbabel.info",
         "timestamp": "2026-07-14T20:19:36.243453",
         "source": "Hacker News"
+    },
+    {
+        "title": "How I use HTMX with Go",
+        "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+        "timestamp": "2026-07-14T20:19:36.243486",
+        "source": "Hacker News"
     }
 ]
