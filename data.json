@@ -404476,5 +404476,11 @@
         "url": "https://news.ycombinator.com/item?id=48902426",
         "timestamp": "2026-07-14T05:50:21.475142",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rip-CLI: Commandline interface of rip",
+        "url": "https://github.com/Projekt-RIP/rip-cli",
+        "timestamp": "2026-07-14T05:50:21.475169",
+        "source": "Hacker News"
     }
 ]
