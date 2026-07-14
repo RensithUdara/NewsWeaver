@@ -404650,5 +404650,11 @@
         "url": "https://auto.economictimes.indiatimes.com/news/auto-technology/",
         "timestamp": "2026-07-14T07:46:03.839353",
         "source": "Hacker News"
+    },
+    {
+        "title": "Helicone allows users to write SQL directly to a shared ClickHouse",
+        "url": "https://www.justintorre.com/blogs/clickhouse-rls-query-parameters",
+        "timestamp": "2026-07-14T07:46:03.839381",
+        "source": "Hacker News"
     }
 ]
