@@ -405112,5 +405112,11 @@
         "url": "https://replicant.space/",
         "timestamp": "2026-07-14T11:06:57.228295",
         "source": "Hacker News"
+    },
+    {
+        "title": "Enhancing GNU-Pth for m:n threading using Claude and Codex",
+        "url": "https://medium.com/@dibyendumajumdar/adding-m-n-threading-to-gnu-pth-using-claude-and-codex-92d578a4aa01",
+        "timestamp": "2026-07-14T11:06:57.228322",
+        "source": "Hacker News"
     }
 ]
