@@ -403972,5 +403972,11 @@
         "url": "https://fixbugs.ai",
         "timestamp": "2026-07-14T00:07:54.610522",
         "source": "Hacker News"
+    },
+    {
+        "title": "Deceptive Grounding: Entity Attribution Failure in Clinical RAG",
+        "url": "https://arxiv.org/abs/2607.09349",
+        "timestamp": "2026-07-14T00:07:54.610553",
+        "source": "Hacker News"
     }
 ]
