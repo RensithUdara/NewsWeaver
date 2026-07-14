@@ -405556,5 +405556,11 @@
         "url": "https://en.wikipedia.org/wiki/Fractional_freezing",
         "timestamp": "2026-07-14T14:17:32.789489",
         "source": "Hacker News"
+    },
+    {
+        "title": "DSLs Enable Reliable Use of LLMs",
+        "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+        "timestamp": "2026-07-14T14:17:32.789525",
+        "source": "Hacker News"
     }
 ]
