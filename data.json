@@ -405316,5 +405316,11 @@
         "url": "https://www.dbpro.app/blog/sqlite-is-all-you-need",
         "timestamp": "2026-07-14T12:20:12.209866",
         "source": "Hacker News"
+    },
+    {
+        "title": "WorkerDeck – Run one isolated background process per user (Python, zero deps)",
+        "url": "https://github.com/gritfeld-design/workerdeck",
+        "timestamp": "2026-07-14T12:20:12.209901",
+        "source": "Hacker News"
     }
 ]
