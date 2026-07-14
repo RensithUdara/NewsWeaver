@@ -405898,5 +405898,11 @@
         "url": "https://agnost.ai",
         "timestamp": "2026-07-14T16:54:42.945549",
         "source": "Hacker News"
+    },
+    {
+        "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+        "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+        "timestamp": "2026-07-14T16:54:42.945641",
+        "source": "Hacker News"
     }
 ]
