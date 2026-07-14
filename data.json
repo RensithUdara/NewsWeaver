@@ -405088,5 +405088,11 @@
         "url": "https://www.elastic.co/search-labs/blog/vector-search-benchmark-elasticsearch-qdrant",
         "timestamp": "2026-07-14T11:06:57.228161",
         "source": "Hacker News"
+    },
+    {
+        "title": "Exch: Atomically exchanges paths between two files",
+        "url": "https://man7.org/linux/man-pages/man1/exch.1.html",
+        "timestamp": "2026-07-14T11:06:57.228188",
+        "source": "Hacker News"
     }
 ]
