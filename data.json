@@ -404812,5 +404812,11 @@
         "url": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time",
         "timestamp": "2026-07-14T09:29:20.977655",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I audited my own eight repos. Half of them lied in the README",
+        "url": "https://github.com/Wasserpuncher/readme-check",
+        "timestamp": "2026-07-14T09:29:20.977699",
+        "source": "Hacker News"
     }
 ]
