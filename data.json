@@ -406174,5 +406174,11 @@
         "url": "https://www.ft.com/content/fc0d48f4-a2ce-45b1-a0ad-83a0a8409f00",
         "timestamp": "2026-07-14T17:55:33.210146",
         "source": "Hacker News"
+    },
+    {
+        "title": "Firecracker disk snapshots in O(changed bytes), not O(disk size)",
+        "url": "https://www.tensorlake.ai/blog/firecracker-disk-snapshots-o-changed-bytes",
+        "timestamp": "2026-07-14T17:55:33.210175",
+        "source": "Hacker News"
     }
 ]
