@@ -405580,5 +405580,11 @@
         "url": "https://github.com/MerlijnW70/mission",
         "timestamp": "2026-07-14T14:17:32.789656",
         "source": "Hacker News"
+    },
+    {
+        "title": "Migrating a 12-year-old Jekyll blog to Astro without breaking a single URL",
+        "url": "https://jannikweyrich.com/blog/2026/07/14/this-blog-now-runs-on-astro-12-years-after-jekyll.html",
+        "timestamp": "2026-07-14T14:17:32.789689",
+        "source": "Hacker News"
     }
 ]
