@@ -406990,5 +406990,11 @@
         "url": "https://pupulcorp.com/revoke-demo",
         "timestamp": "2026-07-14T22:14:58.099063",
         "source": "Hacker News"
+    },
+    {
+        "title": "Wtdev – deterministic dev-server ports for parallel Git worktrees",
+        "url": "https://github.com/Dave-56/wtdev",
+        "timestamp": "2026-07-14T22:14:58.099096",
+        "source": "Hacker News"
     }
 ]
