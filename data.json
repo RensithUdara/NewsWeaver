@@ -404920,5 +404920,11 @@
         "url": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
         "timestamp": "2026-07-14T09:29:20.978219",
         "source": "Hacker News"
+    },
+    {
+        "title": "Test PostgreSQL migrations before COMMIT",
+        "url": "https://vvka-141.github.io/pgmi/articles/test-postgresql-migrations-before-commit/",
+        "timestamp": "2026-07-14T09:29:20.978246",
+        "source": "Hacker News"
     }
 ]
