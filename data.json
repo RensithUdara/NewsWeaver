@@ -404152,5 +404152,11 @@
         "url": "https://arxiv.org/abs/2607.07862",
         "timestamp": "2026-07-14T03:27:39.235088",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rendering Fonts Quickly on the GPU",
+        "url": "https://www.outercloud.dev/blogs/webgpu-font-rendering/",
+        "timestamp": "2026-07-14T03:27:39.235139",
+        "source": "Hacker News"
     }
 ]
