@@ -406912,5 +406912,11 @@
         "url": "https://www.theguardian.com/science/ng-interactive/2026/jul/14/human-hibernation-space-mars",
         "timestamp": "2026-07-14T22:14:58.098622",
         "source": "Hacker News"
+    },
+    {
+        "title": "Planning: A minimal Neovim planning calendar plugin",
+        "url": "https://github.com/duguyue100/planning.nvim",
+        "timestamp": "2026-07-14T22:14:58.098657",
+        "source": "Hacker News"
     }
 ]
