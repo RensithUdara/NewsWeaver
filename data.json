@@ -405718,5 +405718,11 @@
         "url": "https://examinerly.com/",
         "timestamp": "2026-07-14T15:49:02.511751",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why Huge Pages Matter for Postgres?",
+        "url": "https://clickhouse.com/blog/huge-pages-clickhouse-managed-postgres",
+        "timestamp": "2026-07-14T15:49:02.511784",
+        "source": "Hacker News"
     }
 ]
