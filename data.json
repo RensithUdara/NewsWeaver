@@ -404824,5 +404824,11 @@
         "url": "https://www.retireme.xyz/",
         "timestamp": "2026-07-14T09:29:20.977730",
         "source": "Hacker News"
+    },
+    {
+        "title": "Closing a three-year-old issue using Rust arenas",
+        "url": "https://giacomocavalieri.me/writing/gleam-rust-arenas",
+        "timestamp": "2026-07-14T09:29:20.977757",
+        "source": "Hacker News"
     }
 ]
