@@ -406726,5 +406726,11 @@
         "url": "https://dbmx.net/tkrzw/",
         "timestamp": "2026-07-14T21:17:36.581090",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rad: The relational database, redesigned. OLTP backed by durable object storage",
+        "url": "https://www.radengine.dev",
+        "timestamp": "2026-07-14T21:17:36.581127",
+        "source": "Hacker News"
     }
 ]
