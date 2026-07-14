@@ -405136,5 +405136,11 @@
         "url": "https://canonical.com/blog/open-source-security-research",
         "timestamp": "2026-07-14T11:06:57.228404",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why can't you commit a .env file?",
+        "url": "https://news.ycombinator.com/item?id=48904726",
+        "timestamp": "2026-07-14T11:06:57.228432",
+        "source": "Hacker News"
     }
 ]
