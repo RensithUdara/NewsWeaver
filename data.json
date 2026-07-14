@@ -404608,5 +404608,11 @@
         "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
         "timestamp": "2026-07-14T07:46:03.839162",
         "source": "Hacker News"
+    },
+    {
+        "title": "I auto-configure my reverse proxy and uptime monitoring using DNS-DS",
+        "url": "https://rogena.me/posts/2026-07-12-running-my-home-lab-using-dns-sd/",
+        "timestamp": "2026-07-14T07:46:03.839189",
+        "source": "Hacker News"
     }
 ]
