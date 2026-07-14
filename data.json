@@ -404182,5 +404182,11 @@
         "url": "https://cacm.acm.org/opinion/wither-acm-publish-and-perish/",
         "timestamp": "2026-07-14T03:27:39.235315",
         "source": "Hacker News"
+    },
+    {
+        "title": "A high-performance JavaScript/TypeScript compiler toolchain written in Zig",
+        "url": "https://yuku.fyi/",
+        "timestamp": "2026-07-14T03:27:39.235353",
+        "source": "Hacker News"
     }
 ]
