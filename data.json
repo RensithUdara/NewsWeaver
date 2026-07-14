@@ -405082,5 +405082,11 @@
         "url": "https://www.dgtlgrove.com/p/the-marketplace-of-ideals",
         "timestamp": "2026-07-14T11:06:57.228134",
         "source": "Hacker News"
+    },
+    {
+        "title": "The disk that never woke up: The Elasticsearch and Qdrant saga",
+        "url": "https://www.elastic.co/search-labs/blog/vector-search-benchmark-elasticsearch-qdrant",
+        "timestamp": "2026-07-14T11:06:57.228161",
+        "source": "Hacker News"
     }
 ]
