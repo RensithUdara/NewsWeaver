@@ -406570,5 +406570,11 @@
         "url": "https://onlymove.net/",
         "timestamp": "2026-07-14T20:19:36.243001",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pg_re2: Postgres extension for fast, RE2-powered regular expressions in Postgres",
+        "url": "https://clickhouse.com/blog/introducing-pg_re2-regex-in-postgres",
+        "timestamp": "2026-07-14T20:19:36.243033",
+        "source": "Hacker News"
     }
 ]
