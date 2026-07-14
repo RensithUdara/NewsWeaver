@@ -405502,5 +405502,11 @@
         "url": "https://europeanconservative.com/articles/news/youtube-blocks-chat-control-critical-video-in-the-eu/",
         "timestamp": "2026-07-14T14:17:32.789124",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLMs and Building Abstractions",
+        "url": "https://martinfowler.com/articles/convo-llm-abstractions.html",
+        "timestamp": "2026-07-14T14:17:32.789161",
+        "source": "Hacker News"
     }
 ]
