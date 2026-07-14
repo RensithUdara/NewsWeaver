@@ -406486,5 +406486,11 @@
         "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
         "timestamp": "2026-07-14T20:19:36.171805",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a High-Performance C++ Backtesting Framework",
+        "url": "https://dolphindb.com/blogs/46",
+        "timestamp": "2026-07-14T20:19:36.171974",
+        "source": "Hacker News"
     }
 ]
