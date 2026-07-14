@@ -406372,5 +406372,11 @@
         "url": "https://www.thoughtworks.com/insights/blog/generative-ai/cognitive-debt-real-organizational-risk",
         "timestamp": "2026-07-14T19:03:12.143620",
         "source": "Hacker News"
+    },
+    {
+        "title": "A compiler that solves Anthropic's VLIW optimization challenge",
+        "url": "https://github.com/fiigii/ai-comp",
+        "timestamp": "2026-07-14T19:03:12.143654",
+        "source": "Hacker News"
     }
 ]
