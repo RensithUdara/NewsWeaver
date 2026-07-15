@@ -408994,5 +408994,11 @@
         "url": "https://crates.io/crates/fli-tool",
         "timestamp": "2026-07-15T16:00:28.466231",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-59208: Cross-Issuer Account Takeover in n8n",
+        "url": "https://www.strix.ai/blog/n8n-cross-issuer-account-takeover",
+        "timestamp": "2026-07-15T16:00:28.466284",
+        "source": "Hacker News"
     }
 ]
