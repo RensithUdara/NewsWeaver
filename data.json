@@ -408352,5 +408352,11 @@
         "url": "https://news.ycombinator.com/item?id=48918863",
         "timestamp": "2026-07-15T11:12:53.732718",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: AI-CLI – tiny C terminal assistant powered by local LLM",
+        "url": "https://github.com/vkataev/ai-cli",
+        "timestamp": "2026-07-15T11:12:53.732757",
+        "source": "Hacker News"
     }
 ]
