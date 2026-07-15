@@ -410086,5 +410086,11 @@
         "url": "https://developer.puter.com/labs/firefox-wasm/",
         "timestamp": "2026-07-15T21:42:11.039696",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
+        "url": "https://github.com/projectargus-cc/libargus.cc",
+        "timestamp": "2026-07-15T21:42:11.039830",
+        "source": "Hacker News"
     }
 ]
