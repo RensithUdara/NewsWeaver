@@ -409252,5 +409252,11 @@
         "url": "https://pantograph.com/journal/pan-1",
         "timestamp": "2026-07-15T17:33:23.560182",
         "source": "Hacker News"
+    },
+    {
+        "title": "Unsolved Problems in MLOps",
+        "url": "https://spawn-queue.acm.org/doi/pdf/10.1145/3762989",
+        "timestamp": "2026-07-15T17:33:23.560317",
+        "source": "Hacker News"
     }
 ]
