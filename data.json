@@ -408868,5 +408868,11 @@
         "url": "https://answers.abstractbrain.com/global-gitignore-not-working-in-devcontainers",
         "timestamp": "2026-07-15T14:27:57.657391",
         "source": "Hacker News"
+    },
+    {
+        "title": "Where gVisor cold-boot time goes – and why a bigger instance won't fix it",
+        "url": "https://apoxy.dev/blog/gvisor-cold-start-where-the-time-goes",
+        "timestamp": "2026-07-15T14:27:57.657414",
+        "source": "Hacker News"
     }
 ]
