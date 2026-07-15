@@ -409000,5 +409000,11 @@
         "url": "https://www.strix.ai/blog/n8n-cross-issuer-account-takeover",
         "timestamp": "2026-07-15T16:00:28.466284",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Aict – Unix coreutils that output XML/JSON, built for AI agents",
+        "url": "https://github.com/synseqack/aict",
+        "timestamp": "2026-07-15T16:00:28.466505",
+        "source": "Hacker News"
     }
 ]
