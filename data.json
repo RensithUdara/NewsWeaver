@@ -408226,5 +408226,11 @@
         "url": "https://github.com/gabi-a/inline-comments",
         "timestamp": "2026-07-15T09:32:02.221240",
         "source": "Hacker News"
+    },
+    {
+        "title": "Good ol' SAST to keep your token usage from spiraling",
+        "url": "https://blog.codacy.com/deterministic-static-analysis-for-ai-coding-workflows-how-to-cut-token-cost-without-weakening-code-review",
+        "timestamp": "2026-07-15T09:32:02.221267",
+        "source": "Hacker News"
     }
 ]
