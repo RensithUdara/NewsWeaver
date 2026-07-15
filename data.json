@@ -408772,5 +408772,11 @@
         "url": "https://changelog.com/podcast/680",
         "timestamp": "2026-07-15T14:27:57.656970",
         "source": "Hacker News"
+    },
+    {
+        "title": "Writing Node.js Addons with .NET Native AOT",
+        "url": "https://devblogs.microsoft.com/dotnet/writing-nodejs-addons-with-dotnet-native-aot/",
+        "timestamp": "2026-07-15T14:27:57.657004",
+        "source": "Hacker News"
     }
 ]
