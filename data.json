@@ -409732,5 +409732,11 @@
         "url": "https://news.ycombinator.com/item?id=48926153",
         "timestamp": "2026-07-15T19:52:27.159565",
         "source": "Hacker News"
+    },
+    {
+        "title": "'Rust makes coding fun again': Why Linux is moving away from C",
+        "url": "https://www.zdnet.com/article/greg-kroah-hartman-linux-kernel-rust/",
+        "timestamp": "2026-07-15T19:52:27.159602",
+        "source": "Hacker News"
     }
 ]
