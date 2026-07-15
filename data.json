@@ -408862,5 +408862,11 @@
         "url": "https://www.raptitude.com/2026/07/failing-is-common-trying-is-rare/",
         "timestamp": "2026-07-15T14:27:57.657370",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ignoring OS files (like .DS_Store) in Git inside dev containers",
+        "url": "https://answers.abstractbrain.com/global-gitignore-not-working-in-devcontainers",
+        "timestamp": "2026-07-15T14:27:57.657391",
+        "source": "Hacker News"
     }
 ]
