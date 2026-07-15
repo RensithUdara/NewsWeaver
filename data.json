@@ -409216,5 +409216,11 @@
         "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
         "timestamp": "2026-07-15T17:33:23.559858",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open-source memory for coding agents, synced over SSH",
+        "url": "https://github.com/vshulcz/deja-vu/",
+        "timestamp": "2026-07-15T17:33:23.559883",
+        "source": "Hacker News"
     }
 ]
