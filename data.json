@@ -409528,5 +409528,11 @@
         "url": "https://twitter.com/KevRojo/status/2077452829128523951",
         "timestamp": "2026-07-15T18:41:14.489283",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Pgmig: Generate migrations between Postgres databases",
+        "url": "https://github.com/Apakottur/pgmig",
+        "timestamp": "2026-07-15T18:41:14.489305",
+        "source": "Hacker News"
     }
 ]
