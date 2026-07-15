@@ -409342,5 +409342,11 @@
         "url": "https://tante.cc/2026/07/15/useful-is-not-sufficient/",
         "timestamp": "2026-07-15T17:33:23.749990",
         "source": "Hacker News"
+    },
+    {
+        "title": "Optimizing a Ring Buffer for Throughput (2021)",
+        "url": "https://rigtorp.se/ringbuffer/",
+        "timestamp": "2026-07-15T17:33:23.750012",
+        "source": "Hacker News"
     }
 ]
