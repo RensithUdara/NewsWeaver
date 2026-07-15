@@ -408928,5 +408928,11 @@
         "url": "https://www.theregister.com/on-prem/2026/07/15/aws-sustainability-claims-dont-hold-water-lawsuit-alleges/5269723",
         "timestamp": "2026-07-15T14:27:57.657624",
         "source": "Hacker News"
+    },
+    {
+        "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
+        "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg",
+        "timestamp": "2026-07-15T14:27:58.156118",
+        "source": "Dev.to"
     }
 ]
