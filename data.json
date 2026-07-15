@@ -407554,5 +407554,11 @@
         "url": "https://starlink.com/specifications/10",
         "timestamp": "2026-07-15T03:25:29.148150",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Samosa Chat - Run Qwen3.6-35B-A3B Locally on a 16 GB Mac",
+        "url": "https://github.com/deepanwadhwa/samosa-chat",
+        "timestamp": "2026-07-15T03:25:29.148207",
+        "source": "Hacker News"
     }
 ]
