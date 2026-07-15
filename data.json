@@ -407350,5 +407350,11 @@
         "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
         "timestamp": "2026-07-15T00:06:04.493240",
         "source": "Hacker News"
+    },
+    {
+        "title": "NeuralPGN – local-first chess repertoire trainer with FSRS (Tauri)",
+        "url": "https://github.com/kfunezc204/neuralpgn",
+        "timestamp": "2026-07-15T00:06:04.493269",
+        "source": "Hacker News"
     }
 ]
