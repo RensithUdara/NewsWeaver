@@ -408430,5 +408430,11 @@
         "url": "https://news.ycombinator.com/item?id=48918690",
         "timestamp": "2026-07-15T11:12:53.733163",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making My Rust Program Space-Flight Ready",
+        "url": "https://w4g1.dev/blog/making-my-rust-program-space-flight-ready",
+        "timestamp": "2026-07-15T11:12:53.733198",
+        "source": "Hacker News"
     }
 ]
