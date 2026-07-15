@@ -407542,5 +407542,11 @@
         "url": "https://codeforthepeople.com/",
         "timestamp": "2026-07-15T03:25:29.148081",
         "source": "Hacker News"
+    },
+    {
+        "title": "The math behind PrismML's 27B-parameter model in 4GB of RAM",
+        "url": "https://thebluenarwhal.com/27-billion-parameters-on-an-iphone-why-on-device-ai-may-be-apples-next-big-advantage/",
+        "timestamp": "2026-07-15T03:25:29.148116",
+        "source": "Hacker News"
     }
 ]
