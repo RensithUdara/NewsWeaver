@@ -409330,5 +409330,11 @@
         "url": "https://microsoft.github.io/language-server-protocol/specifications/lsp/3.18/specification/",
         "timestamp": "2026-07-15T17:33:23.749946",
         "source": "Hacker News"
+    },
+    {
+        "title": "Capture Clauses as Effects (Rust)",
+        "url": "https://blog.yoshuawuyts.com/capture-clauses-as-effects/",
+        "timestamp": "2026-07-15T17:33:23.749968",
+        "source": "Hacker News"
     }
 ]
