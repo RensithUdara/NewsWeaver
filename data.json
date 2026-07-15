@@ -407824,5 +407824,11 @@
         "url": "https://lkml.org/lkml/2020/5/29/1038",
         "timestamp": "2026-07-15T07:32:51.219405",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: VulnCast – open-source e-paper dashboard for live CVE/exploit Intel",
+        "url": "https://github.com/vulnersCom/VulnCast",
+        "timestamp": "2026-07-15T07:32:51.219434",
+        "source": "Hacker News"
     }
 ]
