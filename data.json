@@ -409210,5 +409210,11 @@
         "url": "https://superarch.org/theanswerisc/primate-is-the-last-great-framework.html",
         "timestamp": "2026-07-15T17:33:23.559784",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+        "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+        "timestamp": "2026-07-15T17:33:23.559858",
+        "source": "Hacker News"
     }
 ]
