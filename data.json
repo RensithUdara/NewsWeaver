@@ -407632,5 +407632,11 @@
         "url": "https://news.ycombinator.com/item?id=48916631",
         "timestamp": "2026-07-15T05:44:31.018386",
         "source": "Hacker News"
+    },
+    {
+        "title": "CLI tool for reviewing Markdown files with inline comments",
+        "url": "https://github.com/Seiraiyu/md-review-plus",
+        "timestamp": "2026-07-15T05:44:31.018422",
+        "source": "Hacker News"
     }
 ]
