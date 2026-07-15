@@ -410548,5 +410548,11 @@
         "url": "https://news.ycombinator.com/item?id=48928394",
         "timestamp": "2026-07-15T23:41:38.859412",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A Monte Carlo model that called the World Cup finalists 2 weeks ago",
+        "url": "https://github.com/fabio-ricardo/worldcup-forecasting-model",
+        "timestamp": "2026-07-15T23:41:38.859432",
+        "source": "Hacker News"
     }
 ]
