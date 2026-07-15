@@ -410308,5 +410308,11 @@
         "url": "https://www.noahpinion.blog/p/why-i-didnt-sign-the-we-must-act",
         "timestamp": "2026-07-15T22:40:55.378244",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
+        "url": "https://github.com/1ay1/agentty",
+        "timestamp": "2026-07-15T22:40:55.378272",
+        "source": "Hacker News"
     }
 ]
