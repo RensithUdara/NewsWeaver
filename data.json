@@ -407902,5 +407902,11 @@
         "url": "https://www.emilyrcwilson.com/emilyrcwilson-scholia",
         "timestamp": "2026-07-15T07:32:51.219774",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: TUI wrapper for cargo-nextest, Clap-powered xtasks, and more",
+        "url": "https://github.com/romansky/nextdeck",
+        "timestamp": "2026-07-15T07:32:51.219801",
+        "source": "Hacker News"
     }
 ]
