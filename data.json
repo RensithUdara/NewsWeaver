@@ -408340,5 +408340,11 @@
         "url": "https://promptman.app/",
         "timestamp": "2026-07-15T11:12:53.732614",
         "source": "Hacker News"
+    },
+    {
+        "title": "FOSDEM 2026: Multi-relay msging & cryptographic identities w/ DeltaChat/Chatmail",
+        "url": "https://fosdem.org/2026/schedule/event/3F9VTU-deltachat-chatmail-relays-multi-transport/",
+        "timestamp": "2026-07-15T11:12:53.732683",
+        "source": "Hacker News"
     }
 ]
