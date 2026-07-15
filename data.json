@@ -407818,5 +407818,11 @@
         "url": "https://en.wikipedia.org/wiki/Magic_Cap",
         "timestamp": "2026-07-15T07:32:51.219374",
         "source": "Hacker News"
+    },
+    {
+        "title": "Clean Up Kernel (2020)",
+        "url": "https://lkml.org/lkml/2020/5/29/1038",
+        "timestamp": "2026-07-15T07:32:51.219405",
+        "source": "Hacker News"
     }
 ]
