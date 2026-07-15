@@ -407722,5 +407722,11 @@
         "url": "https://spends.indiadispatch.com/",
         "timestamp": "2026-07-15T05:44:31.018976",
         "source": "Hacker News"
+    },
+    {
+        "title": "A tiny 2504 byte Windows snipping tool written in 32-bit MASM assembly:D",
+        "url": "https://github.com/jk20342/TinySnip",
+        "timestamp": "2026-07-15T05:44:31.019036",
+        "source": "Hacker News"
     }
 ]
