@@ -410452,5 +410452,11 @@
         "url": "https://dev.to/brendon_oneill__/the-ai-jackpot-why-prompting-feels-like-gambling-1fj2",
         "timestamp": "2026-07-15T22:40:55.703771",
         "source": "Dev.to"
+    },
+    {
+        "title": "SQLite should have (Rust-style) editions",
+        "url": "https://mort.coffee/home/sqlite-editions/",
+        "timestamp": "2026-07-15T23:41:38.792177",
+        "source": "Hacker News"
     }
 ]
