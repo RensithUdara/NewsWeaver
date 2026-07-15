@@ -410398,5 +410398,11 @@
         "url": "https://www.wired.com/story/heres-the-truth-about-whether-metas-nametag-face-recognition-exists/",
         "timestamp": "2026-07-15T22:40:55.378706",
         "source": "Hacker News"
+    },
+    {
+        "title": "Locality-Aware Automatic Differentiation on the GPU for Mesh-Based Computations",
+        "url": "https://dl.acm.org/doi/10.1145/3811338",
+        "timestamp": "2026-07-15T22:40:55.378734",
+        "source": "Hacker News"
     }
 ]
