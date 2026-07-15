@@ -408778,5 +408778,11 @@
         "url": "https://devblogs.microsoft.com/dotnet/writing-nodejs-addons-with-dotnet-native-aot/",
         "timestamp": "2026-07-15T14:27:57.657004",
         "source": "Hacker News"
+    },
+    {
+        "title": "Traces vs. Spans in OpenTelemetry",
+        "url": "https://www.dash0.com/knowledge/traces-vs-spans",
+        "timestamp": "2026-07-15T14:27:57.657028",
+        "source": "Hacker News"
     }
 ]
