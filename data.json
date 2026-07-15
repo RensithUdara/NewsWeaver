@@ -409402,5 +409402,11 @@
         "url": "https://www.youtube.com/watch?v=TDH7yAWsyG0",
         "timestamp": "2026-07-15T17:33:23.750218",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: 3,225 trials of LLMs guessing author age – confident and wrong",
+        "url": "https://github.com/BraveAnn011/llm-author-misattribution",
+        "timestamp": "2026-07-15T17:33:23.750240",
+        "source": "Hacker News"
     }
 ]
