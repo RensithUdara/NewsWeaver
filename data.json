@@ -408988,5 +408988,11 @@
         "url": "https://labs.quansight.org/blog/python-abi-abi3t",
         "timestamp": "2026-07-15T16:00:28.466170",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: 18KB ls alternative in no_std rust and Libc",
+        "url": "https://crates.io/crates/fli-tool",
+        "timestamp": "2026-07-15T16:00:28.466231",
+        "source": "Hacker News"
     }
 ]
