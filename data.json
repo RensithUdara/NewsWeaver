@@ -410860,5 +410860,11 @@
         "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
         "timestamp": "2026-07-16T04:21:44.916932",
         "source": "Hacker News"
+    },
+    {
+        "title": "Accelerating Block Low-Rank Foundation Model Inference on MemoryConstrained GPUs",
+        "url": "https://dl.acm.org/doi/full/10.1145/3806645.3807580",
+        "timestamp": "2026-07-16T04:21:44.916994",
+        "source": "Hacker News"
     }
 ]
