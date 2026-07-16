@@ -411646,5 +411646,11 @@
         "url": "https://e360.yale.edu/digest/colobus-congoensis-discovery",
         "timestamp": "2026-07-16T10:59:35.008534",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: uplpgsql – PL/pgSQL compiled to native code",
+        "url": "https://github.com/nextgres/uplpgsql",
+        "timestamp": "2026-07-16T10:59:35.008568",
+        "source": "Hacker News"
     }
 ]
