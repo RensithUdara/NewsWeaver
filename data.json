@@ -410620,5 +410620,11 @@
         "url": "https://webkit.org/blog/7846/concurrent-javascript-it-can-work/",
         "timestamp": "2026-07-15T23:41:38.859853",
         "source": "Hacker News"
+    },
+    {
+        "title": "Job queues are deceptively tricky",
+        "url": "https://typesanitizer.com/blog/job-queues.html",
+        "timestamp": "2026-07-16T01:08:40.874704",
+        "source": "Hacker News"
     }
 ]
