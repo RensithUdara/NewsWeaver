@@ -410854,5 +410854,11 @@
         "url": "https://thegustafson.com/blog/my-throw-decides-my-aim",
         "timestamp": "2026-07-16T04:21:44.916885",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+        "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+        "timestamp": "2026-07-16T04:21:44.916932",
+        "source": "Hacker News"
     }
 ]
