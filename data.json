@@ -413698,5 +413698,11 @@
         "url": "https://arxiv.org/abs/2607.12395",
         "timestamp": "2026-07-16T23:30:40.045048",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
+        "url": "https://github.com/samyeyo/clx",
+        "timestamp": "2026-07-16T23:30:40.045187",
+        "source": "Hacker News"
     }
 ]
