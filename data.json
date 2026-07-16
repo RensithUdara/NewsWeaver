@@ -411268,5 +411268,11 @@
         "url": "https://seatunnel.apache.org/blog/modern-data-stack-to-agentic-data-stack/",
         "timestamp": "2026-07-16T08:58:53.027179",
         "source": "Hacker News"
+    },
+    {
+        "title": "We Rebuilt a Securities Firm's FICC Data Stack – Queries Got 10x Faster",
+        "url": "https://medium.com/@DolphinDB_Inc/we-rebuilt-a-securities-firms-ficc-data-stack-queries-got-10x-faster-04c40906edeb",
+        "timestamp": "2026-07-16T08:58:53.027199",
+        "source": "Hacker News"
     }
 ]
