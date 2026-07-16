@@ -412474,5 +412474,11 @@
         "url": "https://news.ycombinator.com/item?id=48936554",
         "timestamp": "2026-07-16T17:07:42.683243",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agent-talk: Enabling coding agents to work together",
+        "url": "https://github.com/xhluca/agent-talk",
+        "timestamp": "2026-07-16T17:07:42.683270",
+        "source": "Hacker News"
     }
 ]
