@@ -411226,5 +411226,11 @@
         "url": "https://www.youtube.com/watch?v=6zwuTqGweJE",
         "timestamp": "2026-07-16T06:39:10.272255",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dense Arena Interning: The Engine of Compiler Performance",
+        "url": "https://aikoschurmann.com/blog/string-interning-compilers",
+        "timestamp": "2026-07-16T08:58:52.840349",
+        "source": "Hacker News"
     }
 ]
