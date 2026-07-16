@@ -413602,5 +413602,11 @@
         "url": "https://www.nytimes.com/2026/07/09/us/ucla-library-theft-chinese-books-california.html",
         "timestamp": "2026-07-16T22:32:29.515897",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
+        "url": "https://github.com/cgrtml/reasongate",
+        "timestamp": "2026-07-16T22:32:29.515929",
+        "source": "Hacker News"
     }
 ]
