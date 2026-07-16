@@ -412462,5 +412462,11 @@
         "url": "https://github.com/patonw/leaves",
         "timestamp": "2026-07-16T17:07:42.683189",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building scalable AI agents with modular prompt transpilation",
+        "url": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
+        "timestamp": "2026-07-16T17:07:42.683216",
+        "source": "Hacker News"
     }
 ]
