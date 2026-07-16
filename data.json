@@ -411856,5 +411856,11 @@
         "url": "https://www.cisa.gov/news-events/news/lessons-cisas-cyber-incident",
         "timestamp": "2026-07-16T12:20:23.335607",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Rackp – a protocol for deriving fault when AI agents cause incidents",
+        "url": "https://github.com/rackp-io/rackp",
+        "timestamp": "2026-07-16T12:20:23.335677",
+        "source": "Hacker News"
     }
 ]
