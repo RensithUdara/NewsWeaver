@@ -412210,5 +412210,11 @@
         "url": "https://localghost.dev/blog/everything-i-googled-in-a-week-as-a-professional-software-engineer/",
         "timestamp": "2026-07-16T15:56:45.238752",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ubuntu Kernel Team Warns of Temporary AMD GPU Performance Regression Up to 42x",
+        "url": "https://www.phoronix.com/news/Ubuntu-7.0-AMDGPU-Regress",
+        "timestamp": "2026-07-16T15:56:45.238780",
+        "source": "Hacker News"
     }
 ]
