@@ -411286,5 +411286,11 @@
         "url": "https://klarasystems.com/articles/native-inotify-in-freebsd/",
         "timestamp": "2026-07-16T08:58:53.027238",
         "source": "Hacker News"
+    },
+    {
+        "title": "HuggingFace is down due to global AWS outage",
+        "url": "https://status.huggingface.co/",
+        "timestamp": "2026-07-16T08:58:53.027258",
+        "source": "Hacker News"
     }
 ]
