@@ -411334,5 +411334,11 @@
         "url": "https://take.survey.stackoverflow.co/jfe/form/SV_4GHunpL3IfJ3rRc",
         "timestamp": "2026-07-16T08:58:53.027390",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: UOLT – 34 coreutils rewritten in x86_64 assembly, no Libc, no heap",
+        "url": "https://github.com/thooams/uolt",
+        "timestamp": "2026-07-16T08:58:53.027409",
+        "source": "Hacker News"
     }
 ]
