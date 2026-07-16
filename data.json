@@ -413608,5 +413608,11 @@
         "url": "https://github.com/cgrtml/reasongate",
         "timestamp": "2026-07-16T22:32:29.515929",
         "source": "Hacker News"
+    },
+    {
+        "title": "Boron – fast and lightweight stackful coroutines",
+        "url": "https://codeberg.org/jjl/boron",
+        "timestamp": "2026-07-16T22:32:29.515961",
+        "source": "Hacker News"
     }
 ]
