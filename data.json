@@ -412288,5 +412288,11 @@
         "url": "https://crimede-coder.com/blogposts/2026/SecretHooks",
         "timestamp": "2026-07-16T15:56:45.239141",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Tmux tab markers for Claude Code, Grok, and pi sessions",
+        "url": "https://github.com/jhickner/tmux-agent-tabs",
+        "timestamp": "2026-07-16T15:56:45.239168",
+        "source": "Hacker News"
     }
 ]
