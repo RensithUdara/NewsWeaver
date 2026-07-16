@@ -413794,5 +413794,11 @@
         "url": "https://x.com/i/broadcasts/1MKgNNXAZdmxL",
         "timestamp": "2026-07-16T23:30:40.302248",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Ferritin, a new front end for Rust docs, built on rustdoc JSON",
+        "url": "https://ferritin.rs",
+        "timestamp": "2026-07-16T23:30:40.302284",
+        "source": "Hacker News"
     }
 ]
