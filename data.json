@@ -411148,5 +411148,11 @@
         "url": "https://www.youtube.com/watch?v=iUfP6amE7UA",
         "timestamp": "2026-07-16T06:39:10.271837",
         "source": "Hacker News"
+    },
+    {
+        "title": "Firefox-WASM: Firefox in WebAssembly",
+        "url": "https://github.com/HeyPuter/firefox-wasm",
+        "timestamp": "2026-07-16T06:39:10.271864",
+        "source": "Hacker News"
     }
 ]
