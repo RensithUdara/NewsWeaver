@@ -412072,5 +412072,11 @@
         "url": "https://github.com/mykolaharmash/notelet",
         "timestamp": "2026-07-16T14:30:06.178454",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Fly a nano-drone from your terminal (Rust TUI)",
+        "url": "https://github.com/yannick-cw/crazyflie-commander",
+        "timestamp": "2026-07-16T14:30:06.178489",
+        "source": "Hacker News"
     }
 ]
