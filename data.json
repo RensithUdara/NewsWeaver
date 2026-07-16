@@ -413008,5 +413008,11 @@
         "url": "https://xint.io/blog/xint-pulse-one-time-web-app-scans",
         "timestamp": "2026-07-16T19:34:54.625621",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Puffgres logically replicates Postgres entities in turbopuffer",
+        "url": "https://github.com/a24films/puffgres",
+        "timestamp": "2026-07-16T19:34:54.625654",
+        "source": "Hacker News"
     }
 ]
