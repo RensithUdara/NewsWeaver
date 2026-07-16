@@ -412780,5 +412780,11 @@
         "url": "https://www.wsj.com/tech/personal-tech/dash-cams-drivers-tiktok-3101b404",
         "timestamp": "2026-07-16T18:16:30.828171",
         "source": "Hacker News"
+    },
+    {
+        "title": "CLR: Checker of Lifetimes and other Refinement types for Zig",
+        "url": "https://github.com/ityonemo/clr/",
+        "timestamp": "2026-07-16T18:16:30.828198",
+        "source": "Hacker News"
     }
 ]
