@@ -411154,5 +411154,11 @@
         "url": "https://github.com/HeyPuter/firefox-wasm",
         "timestamp": "2026-07-16T06:39:10.271864",
         "source": "Hacker News"
+    },
+    {
+        "title": "Triton Plugin Extensions",
+        "url": "https://pytorch.org/blog/triton-plugin-extensions-enabling-tlx-and-custom-compiler-passes-out-of-the-box/",
+        "timestamp": "2026-07-16T06:39:10.271891",
+        "source": "Hacker News"
     }
 ]
