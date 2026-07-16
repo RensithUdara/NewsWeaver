@@ -413716,5 +413716,11 @@
         "url": "https://amrshawky.com/posts/rise-and-fall/",
         "timestamp": "2026-07-16T23:30:40.301792",
         "source": "Hacker News"
+    },
+    {
+        "title": "AegisDB – self-hosted memory for AI agents, in one C binary",
+        "url": "https://github.com/d4n-larsson/aegisdb",
+        "timestamp": "2026-07-16T23:30:40.301829",
+        "source": "Hacker News"
     }
 ]
