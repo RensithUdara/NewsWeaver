@@ -412450,5 +412450,11 @@
         "url": "https://betlang.dev/about/",
         "timestamp": "2026-07-16T17:07:42.683027",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+        "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+        "timestamp": "2026-07-16T17:07:42.683054",
+        "source": "Hacker News"
     }
 ]
