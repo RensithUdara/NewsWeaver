@@ -413746,5 +413746,11 @@
         "url": "https://www.arenaphysica.com/publications/smith-charts",
         "timestamp": "2026-07-16T23:30:40.301973",
         "source": "Hacker News"
+    },
+    {
+        "title": "SecretSpec 0.15: Provider Credentials, Azure Key Vault / Gopass, and PHP SDK",
+        "url": "https://secretspec.dev/blog/secretspec-0-15-provider-credentials-azure-key-vault-gopass-and-php-sdk/",
+        "timestamp": "2026-07-16T23:30:40.302007",
+        "source": "Hacker News"
     }
 ]
