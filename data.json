@@ -412150,5 +412150,11 @@
         "url": "https://www.kimi.com/en",
         "timestamp": "2026-07-16T15:56:45.044788",
         "source": "Hacker News"
+    },
+    {
+        "title": "How Our Rust-to-Zig Rewrite Is Going",
+        "url": "https://rtfeldman.com/rust-to-zig",
+        "timestamp": "2026-07-16T15:56:45.044899",
+        "source": "Hacker News"
     }
 ]
