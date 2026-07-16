@@ -412948,5 +412948,11 @@
         "url": "https://news.northwestern.edu/stories/2026/07/new-spinning-drone-hides-in-plain-sight",
         "timestamp": "2026-07-16T19:34:54.625232",
         "source": "Hacker News"
+    },
+    {
+        "title": "I let AI build a trading bot, then Reddit caught my overfitting mistake",
+        "url": "https://aiprojectlog.com/overfitting-backtest/",
+        "timestamp": "2026-07-16T19:34:54.625267",
+        "source": "Hacker News"
     }
 ]
