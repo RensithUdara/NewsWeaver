@@ -413518,5 +413518,11 @@
         "url": "https://libretto.sh/debug-agents",
         "timestamp": "2026-07-16T22:32:29.260047",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
+        "url": "https://hellorecon.com/blog/cve-2026-25089",
+        "timestamp": "2026-07-16T22:32:29.260144",
+        "source": "Hacker News"
     }
 ]
