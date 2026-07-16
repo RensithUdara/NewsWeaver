@@ -411352,5 +411352,11 @@
         "url": "http://fyne.io",
         "timestamp": "2026-07-16T08:58:53.027446",
         "source": "Hacker News"
+    },
+    {
+        "title": "Unpacking the AsyncAPI NPM supply chain compromise, import-time payload delivery",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/",
+        "timestamp": "2026-07-16T08:58:53.027465",
+        "source": "Hacker News"
     }
 ]
