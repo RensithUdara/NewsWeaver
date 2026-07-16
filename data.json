@@ -410686,5 +410686,11 @@
         "url": "https://neverhandedover.com",
         "timestamp": "2026-07-16T01:08:40.961656",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fusing a 27B ternary LLM's whole decode step into one CUDA kernel",
+        "url": "https://twitter.com/Akashi203/status/2077552491567157733",
+        "timestamp": "2026-07-16T01:08:40.961693",
+        "source": "Hacker News"
     }
 ]
