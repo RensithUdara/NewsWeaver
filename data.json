@@ -412906,5 +412906,11 @@
         "url": "https://schema-harness.github.io/",
         "timestamp": "2026-07-16T19:34:54.366480",
         "source": "Hacker News"
+    },
+    {
+        "title": "Optimizing Lua string literals to save 400 bytes",
+        "url": "https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/",
+        "timestamp": "2026-07-16T19:34:54.366617",
+        "source": "Hacker News"
     }
 ]
