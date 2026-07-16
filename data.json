@@ -413158,5 +413158,11 @@
         "url": "https://blog.staysaasy.com/p/what-id-tell-my-team-about-competition",
         "timestamp": "2026-07-16T20:29:46.061760",
         "source": "Hacker News"
+    },
+    {
+        "title": "The same LLM is 8x slower to first token depending on who serves it",
+        "url": "https://dynoyard.app/blog/same-llm-8x-slower-by-backend/",
+        "timestamp": "2026-07-16T20:29:46.061794",
+        "source": "Hacker News"
     }
 ]
