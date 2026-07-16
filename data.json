@@ -413104,5 +413104,11 @@
         "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
         "timestamp": "2026-07-16T19:34:54.956728",
         "source": "TechCrunch"
+    },
+    {
+        "title": "AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes",
+        "url": "https://nicholas-afk.github.io/AttoChess/",
+        "timestamp": "2026-07-16T20:29:45.976841",
+        "source": "Hacker News"
     }
 ]
