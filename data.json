@@ -412162,5 +412162,11 @@
         "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
         "timestamp": "2026-07-16T15:56:45.045050",
         "source": "Hacker News"
+    },
+    {
+        "title": "GC shape stenciling in Go generics",
+        "url": "https://rednafi.com/go/gc-shape-stenciling/",
+        "timestamp": "2026-07-16T15:56:45.045128",
+        "source": "Hacker News"
     }
 ]
