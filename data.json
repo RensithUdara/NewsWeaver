@@ -412426,5 +412426,11 @@
         "url": "https://www.mixfont.com/experiments/decoy-font",
         "timestamp": "2026-07-16T17:07:42.682771",
         "source": "Hacker News"
+    },
+    {
+        "title": "Detecting LLM-Generated Texts with \"Classical\" Machine Learning",
+        "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+        "timestamp": "2026-07-16T17:07:42.682802",
+        "source": "Hacker News"
     }
 ]
