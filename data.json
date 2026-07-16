@@ -411970,5 +411970,11 @@
         "url": "https://insertchaos.bearblog.dev/when-ai-has-fixed-all-the-bugs/",
         "timestamp": "2026-07-16T14:30:06.177797",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: An MCP server that frames screen recordings and shots in Apple bezels",
+        "url": "https://github.com/cwooddgr/bezelbub/tree/main/bezelbub-mcp",
+        "timestamp": "2026-07-16T14:30:06.177833",
+        "source": "Hacker News"
     }
 ]
