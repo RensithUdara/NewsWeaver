@@ -410782,5 +410782,11 @@
         "url": "https://www.vice.com/en/article/openai-is-now-everything-it-promised-not-to-be-corporate-closed-source-and-for-profit/",
         "timestamp": "2026-07-16T01:08:40.962358",
         "source": "Hacker News"
+    },
+    {
+        "title": "Test-time training 3D reconstruction",
+        "url": "https://github.com/Inception3D/TTT3R",
+        "timestamp": "2026-07-16T01:08:40.962394",
+        "source": "Hacker News"
     }
 ]
