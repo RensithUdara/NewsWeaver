@@ -413554,5 +413554,11 @@
         "url": "https://www.youtube.com/watch?v=2r31rEkUUaA",
         "timestamp": "2026-07-16T22:32:29.515537",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Mojibake – a low-level Unicode library written in C",
+        "url": "https://mojibake.zaerl.com/",
+        "timestamp": "2026-07-16T22:32:29.515586",
+        "source": "Hacker News"
     }
 ]
