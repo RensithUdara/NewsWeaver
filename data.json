@@ -412036,5 +412036,11 @@
         "url": "https://news.ycombinator.com/item?id=48934898",
         "timestamp": "2026-07-16T14:30:06.178248",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI reviewers shipped secret-exfil code because a ticket said \"pre-approved\"",
+        "url": "https://senthex.com/en/research/relay/",
+        "timestamp": "2026-07-16T14:30:06.178283",
+        "source": "Hacker News"
     }
 ]
