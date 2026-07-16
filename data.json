@@ -412048,5 +412048,11 @@
         "url": "https://cogna.co/blog/the-unreasonable-power-of-identifiers/",
         "timestamp": "2026-07-16T14:30:06.178316",
         "source": "Hacker News"
+    },
+    {
+        "title": "Self-testing AI harness finds its own bugs",
+        "url": "https://www.omnideck.dev/blog/self-testing-ai-browser-tools.html",
+        "timestamp": "2026-07-16T14:30:06.178350",
+        "source": "Hacker News"
     }
 ]
