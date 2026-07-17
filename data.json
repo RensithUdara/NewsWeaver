@@ -415396,5 +415396,11 @@
         "url": "https://www.opensauce.com/exhibits",
         "timestamp": "2026-07-17T14:19:56.056363",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Wolbarg – Local-first shared memory for AI agents using SQLite",
+        "url": "https://wolbarg.com/blog/why-sqlite-is-enough-for-local-ai-agent-memory",
+        "timestamp": "2026-07-17T14:19:56.056391",
+        "source": "Hacker News"
     }
 ]
