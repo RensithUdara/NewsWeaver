@@ -414544,5 +414544,11 @@
         "url": "https://huggingface.co/datasets/faitholopade/aiact-openrag",
         "timestamp": "2026-07-17T08:35:26.741139",
         "source": "Hacker News"
+    },
+    {
+        "title": "One link-click Google account takeover",
+        "url": "https://weirdmachine64.github.io/research/google-oauth-device-code-hijacking.html",
+        "timestamp": "2026-07-17T08:35:26.741173",
+        "source": "Hacker News"
     }
 ]
