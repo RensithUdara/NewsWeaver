@@ -416626,5 +416626,11 @@
         "url": "https://www.theportindex.online",
         "timestamp": "2026-07-17T21:41:18.356681",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Building a Rust-ish programming language with 100% coding agents: Wado",
+        "url": "https://wado-lang.org/playground/",
+        "timestamp": "2026-07-17T21:41:18.356708",
+        "source": "Hacker News"
     }
 ]
