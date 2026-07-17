@@ -416332,5 +416332,11 @@
         "url": "https://news.ycombinator.com/item?id=48951462",
         "timestamp": "2026-07-17T19:58:06.055949",
         "source": "Hacker News"
+    },
+    {
+        "title": "Perldelta – what is new for Perl v5.44.0",
+        "url": "https://metacpan.org/dist/perl/view/pod/perldelta.pod",
+        "timestamp": "2026-07-17T19:58:06.056019",
+        "source": "Hacker News"
     }
 ]
