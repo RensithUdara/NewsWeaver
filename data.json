@@ -416890,5 +416890,11 @@
         "url": "https://en.wikipedia.org/wiki/Necklace_(combinatorics)",
         "timestamp": "2026-07-17T22:32:56.176594",
         "source": "Hacker News"
+    },
+    {
+        "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+        "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+        "timestamp": "2026-07-17T22:32:56.176610",
+        "source": "Hacker News"
     }
 ]
