@@ -414484,5 +414484,11 @@
         "url": "https://waitbutwhy.com/2015/12/the-tail-end.html",
         "timestamp": "2026-07-17T08:35:26.740713",
         "source": "Hacker News"
+    },
+    {
+        "title": "We rebuilt our data warehouse on DuckDB over ClickHouse",
+        "url": "https://posthog.com/blog/why-we-rebuilt-our-data-warehouse",
+        "timestamp": "2026-07-17T08:35:26.740762",
+        "source": "Hacker News"
     }
 ]
