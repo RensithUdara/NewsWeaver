@@ -415408,5 +415408,11 @@
         "url": "https://twitter.com/GavinSBaker/status/2078110934740980193",
         "timestamp": "2026-07-17T14:19:56.056418",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cross Compiling Rust To openwrt `mipsel-unknown-Linux-musl` on Mac OS",
+        "url": "https://gabrielfalcao.github.io/blog/cross-compiling-rust-to-openwrt-mipsel-unknown-linux-musl-on-macos-sequoia-with-utm-virtual-machine/",
+        "timestamp": "2026-07-17T14:19:56.056446",
+        "source": "Hacker News"
     }
 ]
