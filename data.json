@@ -417052,5 +417052,11 @@
         "url": "https://docs.icme.io/documentation/our-products",
         "timestamp": "2026-07-17T23:29:21.166531",
         "source": "Hacker News"
+    },
+    {
+        "title": "Three Languages, Two FFIs, and One Rope: Building a Local-First IDE",
+        "url": "https://ropenotes.dev/blog/hardest-problems-building-rope-notes/",
+        "timestamp": "2026-07-17T23:29:21.166557",
+        "source": "Hacker News"
     }
 ]
