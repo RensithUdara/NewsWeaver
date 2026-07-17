@@ -415036,5 +415036,11 @@
         "url": "https://superglue.ai/mcp/sap/",
         "timestamp": "2026-07-17T11:47:55.446892",
         "source": "Hacker News"
+    },
+    {
+        "title": "Comptime Is Funtime: Per-Span State Without a Hash Map",
+        "url": "https://david-bach.com/pages/posts/2026-07-15-comptime-is-funtime/index.html",
+        "timestamp": "2026-07-17T11:47:55.446919",
+        "source": "Hacker News"
     }
 ]
