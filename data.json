@@ -416674,5 +416674,11 @@
         "url": "https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434",
         "timestamp": "2026-07-17T21:41:18.356984",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: LIA – a self-hosted multi-agent AI assistant (FastAPI and LangGraph)",
+        "url": "https://github.com/jgouviergmail/LIA-Assistant",
+        "timestamp": "2026-07-17T21:41:18.357011",
+        "source": "Hacker News"
     }
 ]
