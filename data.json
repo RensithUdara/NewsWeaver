@@ -416818,5 +416818,11 @@
         "url": "https://datacentremagazine.com/articles/hkt-launches-data-centre-ai-superhighway-in-hong-kong",
         "timestamp": "2026-07-17T22:32:56.176371",
         "source": "Hacker News"
+    },
+    {
+        "title": "A toy diffusion model for text gen using Karpathy's shakespear data",
+        "url": "https://blog.strayforge.com/posts/discrete-diffusion/",
+        "timestamp": "2026-07-17T22:32:56.176387",
+        "source": "Hacker News"
     }
 ]
