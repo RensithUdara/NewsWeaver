@@ -416476,5 +416476,11 @@
         "url": "https://tests.ws/",
         "timestamp": "2026-07-17T20:52:13.326247",
         "source": "Hacker News"
+    },
+    {
+        "title": "Aurora DSQL: Scalable, Multi-Region OLTP",
+        "url": "https://arxiv.org/abs/2607.13276",
+        "timestamp": "2026-07-17T20:52:13.326274",
+        "source": "Hacker News"
     }
 ]
