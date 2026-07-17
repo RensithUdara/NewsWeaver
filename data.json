@@ -414400,5 +414400,11 @@
         "url": "https://news.sky.com/story/taco-bell-lettuce-at-centre-of-growing-us-diarrhoea-outbreak-13564220",
         "timestamp": "2026-07-17T06:30:05.885793",
         "source": "Hacker News"
+    },
+    {
+        "title": "WSL2 monitor mode/packet injection using an AR9271 and custom kernel",
+        "url": "https://github.com/BicycleJunkie1971/wsl2-ar9271-monitor",
+        "timestamp": "2026-07-17T06:30:05.885862",
+        "source": "Hacker News"
     }
 ]
