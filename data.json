@@ -417034,5 +417034,11 @@
         "url": "https://kiro.dev/blog/one-year/",
         "timestamp": "2026-07-17T23:29:21.166421",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building Systems That Build Systems: Setting Up the SDLC in LangGraph",
+        "url": "https://mattmccormick.ca/building-systems-that-build-systems-setting-up-the-sdlc-in-langgraph/",
+        "timestamp": "2026-07-17T23:29:21.166476",
+        "source": "Hacker News"
     }
 ]
