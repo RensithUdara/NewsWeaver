@@ -413896,5 +413896,11 @@
         "url": "https://solod.dev",
         "timestamp": "2026-07-17T01:06:34.148574",
         "source": "Hacker News"
+    },
+    {
+        "title": "Count the Bytes, Not the FLOPs",
+        "url": "https://thepragmaticquant.com/why-we-stopped-materializing-arrays/",
+        "timestamp": "2026-07-17T01:06:34.148608",
+        "source": "Hacker News"
     }
 ]
