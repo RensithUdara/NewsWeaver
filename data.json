@@ -416740,5 +416740,11 @@
         "url": "https://www.reuters.com/business/environment/more-than-50-homes-destroyed-norway-fire-2026-07-17/",
         "timestamp": "2026-07-17T21:41:18.357375",
         "source": "Hacker News"
+    },
+    {
+        "title": "Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me",
+        "url": "https://dev.to/gde/five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me-2gf5",
+        "timestamp": "2026-07-17T21:41:18.419969",
+        "source": "Dev.to"
     }
 ]
