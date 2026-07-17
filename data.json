@@ -414748,5 +414748,11 @@
         "url": "https://self.cv/en/blog/why-we-built-self",
         "timestamp": "2026-07-17T10:22:16.367582",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI can now control Reaper DAW",
+        "url": "https://github.com/xDarkzx/Reaper-MCP/tree/main/reaper_mcp/tools",
+        "timestamp": "2026-07-17T10:22:16.367619",
+        "source": "Hacker News"
     }
 ]
