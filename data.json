@@ -416758,5 +416758,11 @@
         "url": "https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/",
         "timestamp": "2026-07-17T22:32:55.984029",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Tarit – a hypervisor which is 2x faster than firecracker",
+        "url": "https://github.com/instavm/tarit",
+        "timestamp": "2026-07-17T22:32:55.984194",
+        "source": "Hacker News"
     }
 ]
