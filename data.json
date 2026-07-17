@@ -415354,5 +415354,11 @@
         "url": "https://improvesomething.today/responses-to-problems/",
         "timestamp": "2026-07-17T14:19:56.056145",
         "source": "Hacker News"
+    },
+    {
+        "title": "Oxidizing OCaml with Modal Memory Management (2024)",
+        "url": "https://dl.acm.org/doi/10.1145/3674642",
+        "timestamp": "2026-07-17T14:19:56.056171",
+        "source": "Hacker News"
     }
 ]
