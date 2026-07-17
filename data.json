@@ -415690,5 +415690,11 @@
         "url": "https://www.zetter-zeroday.com/tracking-peter-stokes-and-the-com-allison-nixon-and-her-work-unmasking-cybercriminals/",
         "timestamp": "2026-07-17T16:49:59.858955",
         "source": "Hacker News"
+    },
+    {
+        "title": "A mere add_foreign_key can wipe out your whole Rails+SQLite production table",
+        "url": "https://kyrylo.org/software/2025/09/27/a-mere-add-foreign-key-can-wipe-out-your-whole-rails-sqlite-production-table.html",
+        "timestamp": "2026-07-17T16:49:59.859005",
+        "source": "Hacker News"
     }
 ]
