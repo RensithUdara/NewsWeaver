@@ -417040,5 +417040,11 @@
         "url": "https://mattmccormick.ca/building-systems-that-build-systems-setting-up-the-sdlc-in-langgraph/",
         "timestamp": "2026-07-17T23:29:21.166476",
         "source": "Hacker News"
+    },
+    {
+        "title": "Value Polymorphism in Rust",
+        "url": "https://remy.wang/blog/value-polymorphism.html",
+        "timestamp": "2026-07-17T23:29:21.166504",
+        "source": "Hacker News"
     }
 ]
