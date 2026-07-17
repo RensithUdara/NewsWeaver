@@ -415942,5 +415942,11 @@
         "url": "https://scanticket.io/en",
         "timestamp": "2026-07-17T17:50:52.514173",
         "source": "Hacker News"
+    },
+    {
+        "title": "7.3 earthquake off cost of Mexico, Quatamala",
+        "url": "https://earthquake.usgs.gov/earthquakes/map/?extent=9.37259,256.27823&extent=19.19648,277.09732&magnitude=all&showPopulationDensity=true&showUSFaults=true&baseLayer=satellite&list=false",
+        "timestamp": "2026-07-17T17:50:52.514201",
+        "source": "Hacker News"
     }
 ]
