@@ -415384,5 +415384,11 @@
         "url": "https://trackmymetro.com",
         "timestamp": "2026-07-17T14:19:56.056309",
         "source": "Hacker News"
+    },
+    {
+        "title": "Best EC2 Instance for PostgreSQL",
+        "url": "https://postgres.saneengineer.com/best-ec2-instance-for-postgresql",
+        "timestamp": "2026-07-17T14:19:56.056336",
+        "source": "Hacker News"
     }
 ]
