@@ -414292,5 +414292,11 @@
         "url": "https://oraziorillo.com/blog/what-loss-backward-actually-does/",
         "timestamp": "2026-07-17T06:30:05.737110",
         "source": "Hacker News"
+    },
+    {
+        "title": "MCP-windbg reaches 1.0.0 now with kernel debugging",
+        "url": "https://github.com/svnscha/mcp-windbg/releases/tag/v1.0.0",
+        "timestamp": "2026-07-17T06:30:05.885135",
+        "source": "Hacker News"
     }
 ]
