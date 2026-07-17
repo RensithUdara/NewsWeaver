@@ -414610,5 +414610,11 @@
         "url": "https://en.wikipedia.org/wiki/Pushinka",
         "timestamp": "2026-07-17T08:35:26.741520",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gist of Go: Concurrency",
+        "url": "https://antonz.org/go-concurrency/",
+        "timestamp": "2026-07-17T08:35:26.741554",
+        "source": "Hacker News"
     }
 ]
