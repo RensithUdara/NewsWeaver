@@ -415822,5 +415822,11 @@
         "url": "https://www.nytimes.com/2026/07/17/technology/roger-summit-dead.html",
         "timestamp": "2026-07-17T16:49:59.859994",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mal – Make a Lisp, implemented in 89 Languages",
+        "url": "https://github.com/kanaka/mal",
+        "timestamp": "2026-07-17T16:49:59.860035",
+        "source": "Hacker News"
     }
 ]
