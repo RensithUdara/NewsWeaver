@@ -414580,5 +414580,11 @@
         "url": "https://www.bbc.com/news/articles/c79gw4lj89eo",
         "timestamp": "2026-07-17T08:35:26.741347",
         "source": "Hacker News"
+    },
+    {
+        "title": "A visual data-app builder that generates SvelteKit source",
+        "url": "https://svgrid.com/studio",
+        "timestamp": "2026-07-17T08:35:26.741382",
+        "source": "Hacker News"
     }
 ]
