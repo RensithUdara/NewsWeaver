@@ -416842,5 +416842,11 @@
         "url": "https://airdows.com",
         "timestamp": "2026-07-17T22:32:56.176452",
         "source": "Hacker News"
+    },
+    {
+        "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+        "url": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+        "timestamp": "2026-07-17T22:32:56.176467",
+        "source": "Hacker News"
     }
 ]
