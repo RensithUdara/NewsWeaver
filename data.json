@@ -414538,5 +414538,11 @@
         "url": "https://www.space.com/astronomy/exoplanets/astronomers-discover-1st-atmosphere-around-a-rocky-earth-like-planet-in-the-habitable-zone",
         "timestamp": "2026-07-17T08:35:26.741105",
         "source": "Hacker News"
+    },
+    {
+        "title": "A structurally chunked, pre-embedded SQLite corpus of the EU AI Act",
+        "url": "https://huggingface.co/datasets/faitholopade/aiact-openrag",
+        "timestamp": "2026-07-17T08:35:26.741139",
+        "source": "Hacker News"
     }
 ]
