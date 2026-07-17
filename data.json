@@ -416440,5 +416440,11 @@
         "url": "https://news.ycombinator.com/item?id=48952084",
         "timestamp": "2026-07-17T20:52:13.326080",
         "source": "Hacker News"
+    },
+    {
+        "title": "Topcoat: The full full-stack framework for Rust",
+        "url": "https://github.com/tokio-rs/topcoat",
+        "timestamp": "2026-07-17T20:52:13.326108",
+        "source": "Hacker News"
     }
 ]
