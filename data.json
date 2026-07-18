@@ -418066,5 +418066,11 @@
         "url": "https://news.ycombinator.com/item?id=48956706",
         "timestamp": "2026-07-18T10:35:57.530860",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Forward-Only, Autograd-Free PINN with 0ns Zero-Copy Memory Interlock",
+        "url": "https://github.com/PJHkorea/Forward_Only_Autograd_Free_PINN",
+        "timestamp": "2026-07-18T10:35:57.530900",
+        "source": "Hacker News"
     }
 ]
