@@ -418216,5 +418216,11 @@
         "url": "https://www.csvtool.io",
         "timestamp": "2026-07-18T11:31:34.746515",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: BlazeRules – vectorized YAML rules for JSON, Kafka, and Arrow events",
+        "url": "https://news.ycombinator.com/item?id=48957011",
+        "timestamp": "2026-07-18T11:31:34.746549",
+        "source": "Hacker News"
     }
 ]
