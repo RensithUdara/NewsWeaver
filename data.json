@@ -419854,5 +419854,11 @@
         "url": "https://madflojo.substack.com/p/sometimes-the-most-resilient-thing",
         "timestamp": "2026-07-18T21:01:47.638548",
         "source": "Hacker News"
+    },
+    {
+        "title": "A new wavelet codec for thumbnails/preview (200B–36KB)",
+        "url": "https://github.com/lieff/miniwtpc",
+        "timestamp": "2026-07-18T21:01:47.638575",
+        "source": "Hacker News"
     }
 ]
