@@ -417760,5 +417760,11 @@
         "url": "https://www.youtube.com/watch?v=3NNbj1NoePI",
         "timestamp": "2026-07-18T07:26:45.230746",
         "source": "Hacker News"
+    },
+    {
+        "title": "AgentGrove – local workspace for AI coding agents in Git worktrees",
+        "url": "https://github.com/arnabk/agentgrove",
+        "timestamp": "2026-07-18T07:26:45.230780",
+        "source": "Hacker News"
     }
 ]
