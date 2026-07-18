@@ -417262,5 +417262,11 @@
         "url": "https://m17project.org/2026/06/16/linht-rev-b-status-what-works-what-broke-and-why-rev-c-is-next/",
         "timestamp": "2026-07-18T00:55:22.193030",
         "source": "Hacker News"
+    },
+    {
+        "title": "Clang: Hardware-Assisted AddressSanitizer Design Documentation",
+        "url": "https://clang.llvm.org/docs/HardwareAssistedAddressSanitizerDesign.html",
+        "timestamp": "2026-07-18T00:55:22.193087",
+        "source": "Hacker News"
     }
 ]
