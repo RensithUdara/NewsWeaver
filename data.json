@@ -418534,5 +418534,11 @@
         "url": "https://news.ycombinator.com/item?id=48958157",
         "timestamp": "2026-07-18T14:01:47.081374",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: iMessage is the best interface, so I built TypeScript SDK for it",
+        "url": "https://github.com/jmisilo/imessage-sdk",
+        "timestamp": "2026-07-18T14:01:47.081402",
+        "source": "Hacker News"
     }
 ]
