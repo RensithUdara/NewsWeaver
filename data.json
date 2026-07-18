@@ -419920,5 +419920,11 @@
         "url": "https://unsung.aresluna.org/the-swiss-cheese-model-pt-1/",
         "timestamp": "2026-07-18T21:59:48.819129",
         "source": "Hacker News"
+    },
+    {
+        "title": "UnifiedIR for Julia",
+        "url": "https://github.com/JuliaLang/julia/pull/62334",
+        "timestamp": "2026-07-18T21:59:48.819161",
+        "source": "Hacker News"
     }
 ]
