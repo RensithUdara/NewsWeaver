@@ -419704,5 +419704,11 @@
         "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
         "timestamp": "2026-07-18T20:08:05.457320",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Speech Recognition and TTS in less than 500kb",
+        "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+        "timestamp": "2026-07-18T21:01:47.414698",
+        "source": "Hacker News"
     }
 ]
