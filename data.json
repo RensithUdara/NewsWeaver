@@ -417730,5 +417730,11 @@
         "url": "https://sunnyamrat.com/posts/2026-07-17-ai-creativity/",
         "timestamp": "2026-07-18T07:26:45.230535",
         "source": "Hacker News"
+    },
+    {
+        "title": "Teamclaude rewrite in rust, run multiple Claude accounts in parllel",
+        "url": "https://github.com/dhkts1/teamclaude-rs",
+        "timestamp": "2026-07-18T07:26:45.230604",
+        "source": "Hacker News"
     }
 ]
