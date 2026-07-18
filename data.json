@@ -418318,5 +418318,11 @@
         "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-paxton-secures-150-million-settlement-against-23andme-over-data-breach-exposed",
         "timestamp": "2026-07-18T11:31:34.746854",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Htop for LLM Inference",
+        "url": "https://github.com/helasaoudi/llm-inspector",
+        "timestamp": "2026-07-18T11:31:34.746871",
+        "source": "Hacker News"
     }
 ]
