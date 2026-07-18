@@ -419482,5 +419482,11 @@
         "url": "https://www.theregister.com/os-platforms/2026/07/17/torvalds-challenged-the-haters-to-fork-linux-someone-said-hold-my-beer/5274275",
         "timestamp": "2026-07-18T19:18:17.977685",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Chrdmp – Decrypt Chrome profile data offline using the keyring secret",
+        "url": "https://github.com/asaix/chrdmp",
+        "timestamp": "2026-07-18T19:18:17.977705",
+        "source": "Hacker News"
     }
 ]
