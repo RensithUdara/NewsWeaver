@@ -417172,5 +417172,11 @@
         "url": "https://finance.biggo.com/news/438f299b-ca23-468d-b37d-0ffe09a4ca55",
         "timestamp": "2026-07-18T00:55:22.192577",
         "source": "Hacker News"
+    },
+    {
+        "title": "Native C# CEL Implementation",
+        "url": "https://www.nuget.org/packages/Celly",
+        "timestamp": "2026-07-18T00:55:22.192632",
+        "source": "Hacker News"
     }
 ]
