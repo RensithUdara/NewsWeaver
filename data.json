@@ -419674,5 +419674,11 @@
         "url": "https://www.padmi.ai/",
         "timestamp": "2026-07-18T20:08:04.843195",
         "source": "Hacker News"
+    },
+    {
+        "title": "/dev/tcp to do fast and light TCP health checks",
+        "url": "https://www.linuxjournal.com/content/more-using-bashs-built-devtcp-file-tcpip",
+        "timestamp": "2026-07-18T20:08:04.843212",
+        "source": "Hacker News"
     }
 ]
