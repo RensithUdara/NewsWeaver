@@ -417322,5 +417322,11 @@
         "url": "https://soranews24.com/2026/07/18/japan-now-has-human-refrigerators-aims-to-help-save-lives-in-summer/",
         "timestamp": "2026-07-18T03:48:35.194131",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Server Is a Sync Relay Now: Architecting Around Client-Owned State",
+        "url": "https://tiarebalbi.com/en/blog/local-first-server-sync-relay-architecture",
+        "timestamp": "2026-07-18T03:48:35.194169",
+        "source": "Hacker News"
     }
 ]
