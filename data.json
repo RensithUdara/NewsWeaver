@@ -417664,5 +417664,11 @@
         "url": "https://in-toto.io/",
         "timestamp": "2026-07-18T07:26:45.143430",
         "source": "Hacker News"
+    },
+    {
+        "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
+        "url": "https://github.com/tucan9389/nanochat-jax/discussions/1",
+        "timestamp": "2026-07-18T07:26:45.143499",
+        "source": "Hacker News"
     }
 ]
