@@ -419566,5 +419566,11 @@
         "url": "https://fhdforensics.com/camden-burials-identifications/",
         "timestamp": "2026-07-18T20:08:04.842701",
         "source": "Hacker News"
+    },
+    {
+        "title": "Wp2shell: Pre Authentication RCE in WordPress Core",
+        "url": "https://slcyber.io/research-center/wp2shell-pre-authentication-rce-in-wordpress-core/",
+        "timestamp": "2026-07-18T20:08:04.842726",
+        "source": "Hacker News"
     }
 ]
