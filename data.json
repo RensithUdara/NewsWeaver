@@ -417574,5 +417574,11 @@
         "url": "https://corecursive.com/remote-developer/",
         "timestamp": "2026-07-18T05:53:20.442568",
         "source": "Hacker News"
+    },
+    {
+        "title": "In-browser agent that bulk enriches any webpage",
+        "url": "https://www.rtrvr.ai/blog/agentic-dataset-enrichment-in-your-browser",
+        "timestamp": "2026-07-18T05:53:20.442594",
+        "source": "Hacker News"
     }
 ]
