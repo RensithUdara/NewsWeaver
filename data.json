@@ -418756,5 +418756,11 @@
         "url": "https://www.nationalgeographic.com/health/article/offal-organ-meat-nutrition-health",
         "timestamp": "2026-07-18T15:06:43.135703",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: TPU-accelerated quantum circuit simulation in Jax",
+        "url": "https://github.com/AshiteshSingh/Tpu-Accelerated-Quantum-JAX",
+        "timestamp": "2026-07-18T15:06:43.135738",
+        "source": "Hacker News"
     }
 ]
