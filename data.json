@@ -418732,5 +418732,11 @@
         "url": "https://blog.davep.org/2026/07/17/terminal-bean-soup.html",
         "timestamp": "2026-07-18T15:06:43.135554",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reasonably Isolated NixOS Desktop MicroVM Framework",
+        "url": "https://github.com/vicondoa/d2b",
+        "timestamp": "2026-07-18T15:06:43.135592",
+        "source": "Hacker News"
     }
 ]
