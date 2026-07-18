@@ -418438,5 +418438,11 @@
         "url": "https://groups.csail.mit.edu/mac/projects/amorphous/GrayScott/",
         "timestamp": "2026-07-18T12:31:49.237407",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zero-dependency streaming tar parser and writer for JavaScript",
+        "url": "https://ayuhito.com/projects/modern-tar/",
+        "timestamp": "2026-07-18T12:31:49.237449",
+        "source": "Hacker News"
     }
 ]
