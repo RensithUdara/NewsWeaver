@@ -419710,5 +419710,11 @@
         "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
         "timestamp": "2026-07-18T21:01:47.414698",
         "source": "Hacker News"
+    },
+    {
+        "title": "Libtsgo: TypeScript-Go embedded in C and C++",
+        "url": "https://github.com/greergan/libtsgo",
+        "timestamp": "2026-07-18T21:01:47.637731",
+        "source": "Hacker News"
     }
 ]
