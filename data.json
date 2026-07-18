@@ -419368,5 +419368,11 @@
         "url": "https://foodnevercome.com/",
         "timestamp": "2026-07-18T18:03:43.573950",
         "source": "Hacker News"
+    },
+    {
+        "title": "Stately Agent: Build agents as state machines",
+        "url": "https://github.com/statelyai/agent",
+        "timestamp": "2026-07-18T18:03:43.573973",
+        "source": "Hacker News"
     }
 ]
