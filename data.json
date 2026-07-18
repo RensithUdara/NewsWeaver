@@ -417274,5 +417274,11 @@
         "url": "https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc",
         "timestamp": "2026-07-18T00:55:22.279478",
         "source": "Dev.to"
+    },
+    {
+        "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+        "url": "https://moonstone.sh/",
+        "timestamp": "2026-07-18T03:48:35.107167",
+        "source": "Hacker News"
     }
 ]
