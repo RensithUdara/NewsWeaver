@@ -419236,5 +419236,11 @@
         "url": "https://news.ycombinator.com/item?id=48960455",
         "timestamp": "2026-07-18T18:03:43.573371",
         "source": "Hacker News"
+    },
+    {
+        "title": "PgGraph: Transform your Postgres data to graphs",
+        "url": "https://github.com/Evokoa/pgGraph",
+        "timestamp": "2026-07-18T18:03:43.573396",
+        "source": "Hacker News"
     }
 ]
