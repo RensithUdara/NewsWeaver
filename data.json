@@ -420034,5 +420034,11 @@
         "url": "https://uncovered.ink",
         "timestamp": "2026-07-18T22:52:31.732877",
         "source": "Hacker News"
+    },
+    {
+        "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
+        "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
+        "timestamp": "2026-07-18T22:52:31.733035",
+        "source": "Hacker News"
     }
 ]
