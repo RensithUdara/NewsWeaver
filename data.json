@@ -420178,5 +420178,11 @@
         "url": "https://mastodon.social/@chr1stian/116924759058231144",
         "timestamp": "2026-07-18T22:52:32.067300",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a lockfree(where applicable) fibers workstealing jobs system/scheduler",
+        "url": "https://github.com/jay403894-bit/JLib-Scheduler",
+        "timestamp": "2026-07-18T22:52:32.067352",
+        "source": "Hacker News"
     }
 ]
