@@ -420934,5 +420934,11 @@
         "url": "https://www.abc.net.au/news/2026-07-19/victoria-social-media-big-tech-laws/106932668",
         "timestamp": "2026-07-19T09:14:18.588671",
         "source": "Hacker News"
+    },
+    {
+        "title": "Anthropic runs large-scale code migrations with Claude Code",
+        "url": "https://claude.com/blog/ai-code-migration",
+        "timestamp": "2026-07-19T09:14:18.588704",
+        "source": "Hacker News"
     }
 ]
