@@ -421702,5 +421702,11 @@
         "url": "https://onlyonceshop.com/blog/the-braun-grid-system",
         "timestamp": "2026-07-19T17:16:33.753159",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nginx module that bans clients by their 404/403 error rate, in-worker",
+        "url": "https://www.getpagespeed.com/server-setup/nginx/nginx-abuse-guard-module",
+        "timestamp": "2026-07-19T17:16:33.753187",
+        "source": "Hacker News"
     }
 ]
