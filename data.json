@@ -420586,5 +420586,11 @@
         "url": "https://runtimewire.com/article/startup-spotlight-novo-space-builds-modular-computers-for-satellite-constellatio",
         "timestamp": "2026-07-19T04:36:24.691348",
         "source": "Hacker News"
+    },
+    {
+        "title": "Supabase just announced searchable encryption",
+        "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
+        "timestamp": "2026-07-19T07:09:42.339859",
+        "source": "Hacker News"
     }
 ]
