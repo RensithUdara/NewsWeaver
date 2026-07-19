@@ -421666,5 +421666,11 @@
         "url": "https://cagire.raphaelforment.fr",
         "timestamp": "2026-07-19T16:10:52.750037",
         "source": "Hacker News"
+    },
+    {
+        "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
+        "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
+        "timestamp": "2026-07-19T16:10:52.750207",
+        "source": "Hacker News"
     }
 ]
