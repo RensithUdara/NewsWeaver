@@ -422428,5 +422428,11 @@
         "url": "https://wallofoptimism.com",
         "timestamp": "2026-07-19T21:08:13.893664",
         "source": "Hacker News"
+    },
+    {
+        "title": "Can LLMs write Base64 as well as they read it?",
+        "url": "https://arvidsu.github.io/encode_bench/index.html",
+        "timestamp": "2026-07-19T21:08:13.893707",
+        "source": "Hacker News"
     }
 ]
