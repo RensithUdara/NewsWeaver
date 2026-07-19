@@ -420286,5 +420286,11 @@
         "url": "https://github.com/saurabhav88/EnviousWispr",
         "timestamp": "2026-07-19T01:10:30.560139",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built code-repair training data and shipped the eval so you can rerun it",
+        "url": "https://huggingface.co/datasets/TrueSET/verified-code-repair",
+        "timestamp": "2026-07-19T01:10:30.560167",
+        "source": "Hacker News"
     }
 ]
