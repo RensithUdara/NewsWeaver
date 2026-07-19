@@ -421078,5 +421078,11 @@
         "url": "https://claudete.co/ai-buddy",
         "timestamp": "2026-07-19T10:43:35.126414",
         "source": "Hacker News"
+    },
+    {
+        "title": "Web-ext 10.5 – A command line tool to help build, run, and test web extensions",
+        "url": "https://github.com/mozilla/web-ext/releases/tag/10.5.0",
+        "timestamp": "2026-07-19T10:43:35.126448",
+        "source": "Hacker News"
     }
 ]
