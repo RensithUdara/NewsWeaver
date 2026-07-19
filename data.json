@@ -420292,5 +420292,11 @@
         "url": "https://huggingface.co/datasets/TrueSET/verified-code-repair",
         "timestamp": "2026-07-19T01:10:30.560167",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Pope and the Antichrist by Peter Thiel",
+        "url": "https://firstthings.com/the-pope-and-the-antichrist/",
+        "timestamp": "2026-07-19T01:10:30.560195",
+        "source": "Hacker News"
     }
 ]
