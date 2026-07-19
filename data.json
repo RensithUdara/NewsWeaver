@@ -421564,5 +421564,11 @@
         "url": "https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding",
         "timestamp": "2026-07-19T15:10:18.766480",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why AI needs a data layer built on Postgres and ClickHouse",
+        "url": "https://clickhouse.com/blog/ai-best-of-breed-data-stack",
+        "timestamp": "2026-07-19T15:10:18.766507",
+        "source": "Hacker News"
     }
 ]
