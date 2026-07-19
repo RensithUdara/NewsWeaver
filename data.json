@@ -421378,5 +421378,11 @@
         "url": "https://github.com/wojtczyk/serverload2",
         "timestamp": "2026-07-19T12:37:05.577253",
         "source": "Hacker News"
+    },
+    {
+        "title": "MemoryPack: Zero encoding extreme performance binary serializer for C#",
+        "url": "https://github.com/Cysharp/MemoryPack",
+        "timestamp": "2026-07-19T12:37:05.577288",
+        "source": "Hacker News"
     }
 ]
