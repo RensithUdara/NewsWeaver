@@ -420592,5 +420592,11 @@
         "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
         "timestamp": "2026-07-19T07:09:42.339859",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
+        "url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
+        "timestamp": "2026-07-19T07:09:42.339904",
+        "source": "Hacker News"
     }
 ]
