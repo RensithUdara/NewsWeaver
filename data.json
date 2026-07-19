@@ -420310,5 +420310,11 @@
         "url": "https://quentinkaiser.be/security/2026/07/18/ia-assisted-vuln-research/",
         "timestamp": "2026-07-19T01:10:30.560247",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cmpunlocker – Unlock Full GA100 Compute and 64GB HBM2e on the Nvidia CMP 170HX",
+        "url": "https://github.com/amoghmunikote/cmpunlocker",
+        "timestamp": "2026-07-19T01:10:30.560273",
+        "source": "Hacker News"
     }
 ]
