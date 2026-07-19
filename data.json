@@ -421414,5 +421414,11 @@
         "url": "https://www.youtube.com/@xkcd_whatif",
         "timestamp": "2026-07-19T12:37:05.577462",
         "source": "Hacker News"
+    },
+    {
+        "title": "WIE – A Windows x86_64 Emulator for Apple Silicon in Rust Using Cranelift",
+        "url": "https://news.ycombinator.com/item?id=48967420",
+        "timestamp": "2026-07-19T12:37:05.577496",
+        "source": "Hacker News"
     }
 ]
