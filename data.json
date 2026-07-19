@@ -420322,5 +420322,11 @@
         "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
         "timestamp": "2026-07-19T01:10:30.560300",
         "source": "Hacker News"
+    },
+    {
+        "title": "One token is enough: fingerprinting LLMs from one token output distributions",
+        "url": "https://arxiv.org/abs/2607.10252",
+        "timestamp": "2026-07-19T01:10:30.560328",
+        "source": "Hacker News"
     }
 ]
