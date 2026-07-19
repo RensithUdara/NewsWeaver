@@ -422632,5 +422632,11 @@
         "url": "https://medium.com/@deshpandetanmay/a-27b-ai-model-ran-on-an-iphone-heres-what-survived-compression-05e1bce0b4a7",
         "timestamp": "2026-07-19T23:03:58.664663",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A self-hosted AI that turns Hacker News into a daily briefing",
+        "url": "https://github.com/RecNes/hn-ai-summarizer",
+        "timestamp": "2026-07-19T23:03:58.664699",
+        "source": "Hacker News"
     }
 ]
