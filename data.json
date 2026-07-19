@@ -422440,5 +422440,11 @@
         "url": "https://www.hmd.com/en_int/hmd-fusion",
         "timestamp": "2026-07-19T21:08:13.893743",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A schema you change by talking to it, without the model writing SQL",
+        "url": "https://github.com/leandrobon/mutable-crm",
+        "timestamp": "2026-07-19T21:08:13.893778",
+        "source": "Hacker News"
     }
 ]
