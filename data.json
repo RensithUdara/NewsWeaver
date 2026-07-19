@@ -422320,5 +422320,11 @@
         "url": "https://github.com/research-farm/substrate",
         "timestamp": "2026-07-19T20:13:42.476553",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kq – jq but 1.5x faster on paths, from a language with no GC/lifetimes",
+        "url": "https://github.com/kanso-lang/kq",
+        "timestamp": "2026-07-19T20:13:42.476590",
+        "source": "Hacker News"
     }
 ]
