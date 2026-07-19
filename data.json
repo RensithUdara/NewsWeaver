@@ -421342,5 +421342,11 @@
         "url": "https://www.techpowerup.com/350872/valve-reportedly-sells-12-15k-steam-machine-units-per-week",
         "timestamp": "2026-07-19T12:37:05.576958",
         "source": "Hacker News"
+    },
+    {
+        "title": "Substack Gateway – A REST and MCP Server for Substack",
+        "url": "https://github.com/jakub-k-slys/substack-gateway-oss",
+        "timestamp": "2026-07-19T12:37:05.577009",
+        "source": "Hacker News"
     }
 ]
