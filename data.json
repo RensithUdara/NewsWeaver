@@ -421162,5 +421162,11 @@
         "url": "https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code",
         "timestamp": "2026-07-19T10:43:35.127025",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code now uses the new (unreleased) version of Bun (in Rust)",
+        "url": "https://twitter.com/simonw/status/2078692298301587758",
+        "timestamp": "2026-07-19T10:43:35.127059",
+        "source": "Hacker News"
     }
 ]
