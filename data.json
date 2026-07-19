@@ -421318,5 +421318,11 @@
         "url": "https://news.ycombinator.com/item?id=48966793",
         "timestamp": "2026-07-19T11:42:31.421530",
         "source": "Hacker News"
+    },
+    {
+        "title": "Chromatone spectrogram written in Rust for the terminal",
+        "url": "https://github.com/lucky7xz/chromaTUI",
+        "timestamp": "2026-07-19T11:42:31.421567",
+        "source": "Hacker News"
     }
 ]
