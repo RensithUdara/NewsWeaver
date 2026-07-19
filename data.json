@@ -420610,5 +420610,11 @@
         "url": "https://airdows.com/",
         "timestamp": "2026-07-19T07:09:42.340227",
         "source": "Hacker News"
+    },
+    {
+        "title": "IceCream – Never use print() to debug again",
+        "url": "https://github.com/gruns/icecream",
+        "timestamp": "2026-07-19T07:09:42.340412",
+        "source": "Hacker News"
     }
 ]
