@@ -421732,5 +421732,11 @@
         "url": "https://pooriat.github.io/oterminus/",
         "timestamp": "2026-07-19T17:16:33.753298",
         "source": "Hacker News"
+    },
+    {
+        "title": "wp2shell: Pre-Auth RCE in WordPress Core",
+        "url": "https://own2pwn.fr/articles/appsec/wp2shell-wordpress-rce",
+        "timestamp": "2026-07-19T17:16:33.753328",
+        "source": "Hacker News"
     }
 ]
