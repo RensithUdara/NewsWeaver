@@ -420988,5 +420988,11 @@
         "url": "https://www.theatlantic.com/health/2026/07/birding-millennials-genz/687910/",
         "timestamp": "2026-07-19T09:14:18.589043",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code uses Bun written in Rust now",
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+        "timestamp": "2026-07-19T10:43:35.033722",
+        "source": "Hacker News"
     }
 ]
