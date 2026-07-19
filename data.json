@@ -420508,5 +420508,11 @@
         "url": "https://www.tobiasreithmeier.de/en/blog/tokensave-mcp-server-tutorial-review",
         "timestamp": "2026-07-19T04:36:24.690985",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Synapse – local codebase indexer and MCP server for Claude Code",
+        "url": "https://github.com/nrkoka786/synapse",
+        "timestamp": "2026-07-19T04:36:24.691008",
+        "source": "Hacker News"
     }
 ]
