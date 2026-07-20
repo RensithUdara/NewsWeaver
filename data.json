@@ -425266,5 +425266,11 @@
         "url": "https://www.youtube.com/watch?v=9nUmVktlwvA",
         "timestamp": "2026-07-20T23:12:25.030469",
         "source": "Hacker News"
+    },
+    {
+        "title": "Stop Blaming QA and Start Diagnosing the Hidden Inefficiencies",
+        "url": "https://dl.acm.org/doi/pdf/10.1145/3800646.3800650",
+        "timestamp": "2026-07-20T23:12:25.030502",
+        "source": "Hacker News"
     }
 ]
