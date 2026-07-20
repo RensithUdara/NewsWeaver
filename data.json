@@ -422752,5 +422752,11 @@
         "url": "https://openai.com/index/a-scorecard-for-the-ai-age/",
         "timestamp": "2026-07-20T00:05:44.884525",
         "source": "Hacker News"
+    },
+    {
+        "title": "RDMA in gVisor: A Deep Dive into GPU Networking",
+        "url": "https://atoniolo76.github.io/writing/post/rdma-in-gvisor",
+        "timestamp": "2026-07-20T00:05:44.884564",
+        "source": "Hacker News"
     }
 ]
