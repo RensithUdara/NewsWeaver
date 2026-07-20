@@ -423298,5 +423298,11 @@
         "url": "https://github.com/Rionlyu/spoold",
         "timestamp": "2026-07-20T09:45:22.817228",
         "source": "Hacker News"
+    },
+    {
+        "title": "How Stream Processing Works: From Stateless Functions to Stateful Windows",
+        "url": "https://medium.com/@DolphinDB_Inc/why-stream-processing-matters-and-how-dolphindb-does-it-b63c5dc078e0",
+        "timestamp": "2026-07-20T09:45:22.817252",
+        "source": "Hacker News"
     }
 ]
