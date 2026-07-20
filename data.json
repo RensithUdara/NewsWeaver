@@ -423292,5 +423292,11 @@
         "url": "https://karanbansal.in/blog/loop-engineering/",
         "timestamp": "2026-07-20T09:45:22.817193",
         "source": "Hacker News"
+    },
+    {
+        "title": "Spoold: Durable curl without a database or broker",
+        "url": "https://github.com/Rionlyu/spoold",
+        "timestamp": "2026-07-20T09:45:22.817228",
+        "source": "Hacker News"
     }
 ]
