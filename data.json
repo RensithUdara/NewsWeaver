@@ -424054,5 +424054,11 @@
         "url": "https://wheesper.com/",
         "timestamp": "2026-07-20T16:07:35.090373",
         "source": "Hacker News"
+    },
+    {
+        "title": "We rewrote our custom visualisation renderers from SVG to be in Canvas",
+        "url": "https://www.polarsignals.com/blog/posts/2026/07/14/new-and-faster-profiler",
+        "timestamp": "2026-07-20T16:07:35.090427",
+        "source": "Hacker News"
     }
 ]
