@@ -424726,5 +424726,11 @@
         "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
         "timestamp": "2026-07-20T19:56:55.854149",
         "source": "TechCrunch"
+    },
+    {
+        "title": "85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core",
+        "url": "https://github.com/houslast3/85.30-GFLOPS-Single-Core-FP32-Matrix-Multiplication-on-AMD-Zen-3",
+        "timestamp": "2026-07-20T21:05:52.742814",
+        "source": "Hacker News"
     }
 ]
