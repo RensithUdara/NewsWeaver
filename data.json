@@ -424072,5 +424072,11 @@
         "url": "https://llmspy.org",
         "timestamp": "2026-07-20T16:07:35.325029",
         "source": "Hacker News"
+    },
+    {
+        "title": "Multiprocessing Pool Best Practices in Python",
+        "url": "https://superfastpython.com/multiprocessing-pool-best-practices/",
+        "timestamp": "2026-07-20T16:07:35.325078",
+        "source": "Hacker News"
     }
 ]
