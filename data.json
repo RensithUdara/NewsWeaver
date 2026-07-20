@@ -423814,5 +423814,11 @@
         "url": "https://blog.sly.so/actually-i-prefer-myself.html",
         "timestamp": "2026-07-20T14:28:03.550055",
         "source": "Hacker News"
+    },
+    {
+        "title": "Venv-manager, a Python venv runtime for Humans and AI agents",
+        "url": "https://github.com/jacopobonomi/venv_manager",
+        "timestamp": "2026-07-20T14:28:03.550093",
+        "source": "Hacker News"
     }
 ]
