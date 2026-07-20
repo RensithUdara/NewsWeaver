@@ -424174,5 +424174,11 @@
         "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
         "timestamp": "2026-07-20T16:07:35.325552",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ziggity – A terminal UI for Git, written in Zig",
+        "url": "https://github.com/simoarpe/ziggity",
+        "timestamp": "2026-07-20T16:07:35.325579",
+        "source": "Hacker News"
     }
 ]
