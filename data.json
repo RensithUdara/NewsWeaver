@@ -423916,5 +423916,11 @@
         "url": "https://www.firefox.com/en-US/firefox/153.0beta/releasenotes/",
         "timestamp": "2026-07-20T14:28:03.550754",
         "source": "Hacker News"
+    },
+    {
+        "title": "Automating Safari Extension Publishing with GitHub Actions",
+        "url": "https://rxliuli.com/blog/automating-safari-extension-publishing-with-github-actions/",
+        "timestamp": "2026-07-20T14:28:03.550788",
+        "source": "Hacker News"
     }
 ]
