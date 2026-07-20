@@ -424366,5 +424366,11 @@
         "url": "https://dl.acm.org/doi/10.1145/3800646.3800650",
         "timestamp": "2026-07-20T18:14:28.357092",
         "source": "Hacker News"
+    },
+    {
+        "title": "OOB write in UDP MSG_SPLICE_PAGES fragment-boundary handling in Linux kernel",
+        "url": "https://seclists.org/oss-sec/2026/q3/174",
+        "timestamp": "2026-07-20T18:14:28.357121",
+        "source": "Hacker News"
     }
 ]
