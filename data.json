@@ -425098,5 +425098,11 @@
         "url": "https://www.reuters.com/world/us-judge-approves-anthropics-15-billion-settlement-copyright-lawsuit-2026-07-20/",
         "timestamp": "2026-07-20T22:09:12.322776",
         "source": "Hacker News"
+    },
+    {
+        "title": "Free LLM balancer combines multiple local inference machines with cloud fallback",
+        "url": "https://github.com/Gysho/LLMrPro",
+        "timestamp": "2026-07-20T22:09:12.322814",
+        "source": "Hacker News"
     }
 ]
