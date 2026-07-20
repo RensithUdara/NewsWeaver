@@ -423586,5 +423586,11 @@
         "url": "https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_07_01.html",
         "timestamp": "2026-07-20T12:03:49.485294",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why malloc always does more than I asked for?",
+        "url": "https://ssenthilnathan3.github.io/blog/malloc/",
+        "timestamp": "2026-07-20T12:03:49.485312",
+        "source": "Hacker News"
     }
 ]
