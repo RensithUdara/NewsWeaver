@@ -423424,5 +423424,11 @@
         "url": "https://news.ycombinator.com/item?id=48975981",
         "timestamp": "2026-07-20T09:45:22.817808",
         "source": "Hacker News"
+    },
+    {
+        "title": "VS Code Lets You Add Page Elements to Copilot, So I Built It for Any AI Agent",
+        "url": "https://medium.com/@marcbuilds/i-built-a-vs-code-extension-that-lets-you-click-a-web-page-element-and-paste-it-into-any-ai-chat-b60d2b424ff7",
+        "timestamp": "2026-07-20T09:45:22.817829",
+        "source": "Hacker News"
     }
 ]
