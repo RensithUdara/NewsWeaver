@@ -425044,5 +425044,11 @@
         "url": "https://news.ycombinator.com/item?id=48985198",
         "timestamp": "2026-07-20T22:09:12.322433",
         "source": "Hacker News"
+    },
+    {
+        "title": "Designing an Ethernet Switch ASIC",
+        "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
+        "timestamp": "2026-07-20T22:09:12.322468",
+        "source": "Hacker News"
     }
 ]
