@@ -422962,5 +422962,11 @@
         "url": "https://www.cs.tufts.edu/~nr/cs257/archive/cristina-cifuentes/DCC_decompilation_thesis.pdf",
         "timestamp": "2026-07-20T03:56:41.238571",
         "source": "Hacker News"
+    },
+    {
+        "title": "Neural Drive, a SuperTuxKart World Model that runs in the browser",
+        "url": "https://huggingface.co/codelion/neural-drive-model",
+        "timestamp": "2026-07-20T03:56:41.238598",
+        "source": "Hacker News"
     }
 ]
