@@ -424330,5 +424330,11 @@
         "url": "https://www.investors.archer.com/news/news-details/2026/Anduril-and-Archer-Unveil-Jointly-Developed-Autonomous-VTOL-Platform-For-Commercial-and-Defense-Applications/default.aspx",
         "timestamp": "2026-07-20T18:14:28.356888",
         "source": "Hacker News"
+    },
+    {
+        "title": "Minisqlite: A Reimplementation of SQLite in Rust",
+        "url": "https://github.com/cursor/minisqlite",
+        "timestamp": "2026-07-20T18:14:28.356938",
+        "source": "Hacker News"
     }
 ]
