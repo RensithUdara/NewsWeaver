@@ -424354,5 +424354,11 @@
         "url": "https://www.closingtags.com/blog/astronvim",
         "timestamp": "2026-07-20T18:14:28.357034",
         "source": "Hacker News"
+    },
+    {
+        "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
+        "url": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
+        "timestamp": "2026-07-20T18:14:28.357063",
+        "source": "Hacker News"
     }
 ]
