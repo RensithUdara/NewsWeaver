@@ -424678,5 +424678,11 @@
         "url": "https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/",
         "timestamp": "2026-07-20T19:56:55.530959",
         "source": "Hacker News"
+    },
+    {
+        "title": "Every Microsecond Matters:Achieving Near SpeedOfLight Latency in GPU Collectives",
+        "url": "https://arxiv.org/abs/2607.16100",
+        "timestamp": "2026-07-20T19:56:55.530986",
+        "source": "Hacker News"
     }
 ]
