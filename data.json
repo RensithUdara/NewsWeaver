@@ -423196,5 +423196,11 @@
         "url": "https://news.ycombinator.com/item?id=48974761",
         "timestamp": "2026-07-20T06:40:28.127884",
         "source": "Hacker News"
+    },
+    {
+        "title": "How Gnutella Scaled to Handle Query Traffic",
+        "url": "https://rickcarlino.com/notes/p2p/how-gnutella-scaled-to-handle-query-traffic.html",
+        "timestamp": "2026-07-20T06:40:28.127911",
+        "source": "Hacker News"
     }
 ]
