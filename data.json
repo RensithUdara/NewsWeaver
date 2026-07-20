@@ -424372,5 +424372,11 @@
         "url": "https://seclists.org/oss-sec/2026/q3/174",
         "timestamp": "2026-07-20T18:14:28.357121",
         "source": "Hacker News"
+    },
+    {
+        "title": "SPIR-V on ROCm: A Portable IR for AMD GPUs",
+        "url": "https://rocm.blogs.amd.com/software-tools-optimization/spir-v-rocm/README.html",
+        "timestamp": "2026-07-20T18:14:28.357154",
+        "source": "Hacker News"
     }
 ]
