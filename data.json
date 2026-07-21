@@ -428326,5 +428326,11 @@
         "url": "https://nezutero.dev/almost-went-back-one-month-on-nixos/",
         "timestamp": "2026-07-21T23:26:09.626921",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pocketpy: Portable Python 3.x interpreter written in C11",
+        "url": "https://github.com/pocketpy/pocketpy",
+        "timestamp": "2026-07-21T23:26:09.626948",
+        "source": "Hacker News"
     }
 ]
