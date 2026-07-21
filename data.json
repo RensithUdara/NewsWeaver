@@ -427348,5 +427348,11 @@
         "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
         "timestamp": "2026-07-21T18:46:47.307260",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
+        "url": "https://github.com/Kalcode/spaceprojectsim",
+        "timestamp": "2026-07-21T18:46:47.307294",
+        "source": "Hacker News"
     }
 ]
