@@ -428164,5 +428164,11 @@
         "url": "https://useapi.net/docs/articles/seedance-2-api-pricing",
         "timestamp": "2026-07-21T22:24:40.653854",
         "source": "Hacker News"
+    },
+    {
+        "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
+        "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e",
+        "timestamp": "2026-07-21T22:24:40.885044",
+        "source": "Dev.to"
     }
 ]
