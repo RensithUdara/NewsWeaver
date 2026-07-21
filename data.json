@@ -426238,5 +426238,11 @@
         "url": "https://github.com/Librefolio/LibreFolio",
         "timestamp": "2026-07-21T10:51:03.787074",
         "source": "Hacker News"
+    },
+    {
+        "title": "I moved Agentique's LLM layer to BAML",
+        "url": "https://agentique.ch/blog/why-i-moved-agentiques-llm-layer-to-baml/",
+        "timestamp": "2026-07-21T10:51:03.787110",
+        "source": "Hacker News"
     }
 ]
