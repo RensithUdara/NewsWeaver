@@ -427882,5 +427882,11 @@
         "url": "https://andreapivetta.com/posts/bring-your-own-harness.html",
         "timestamp": "2026-07-21T21:22:12.907012",
         "source": "Hacker News"
+    },
+    {
+        "title": "K0s – The Zero Friction Kubernetes",
+        "url": "https://github.com/k0sproject/k0s",
+        "timestamp": "2026-07-21T21:22:12.907035",
+        "source": "Hacker News"
     }
 ]
