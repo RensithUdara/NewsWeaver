@@ -425698,5 +425698,11 @@
         "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
         "timestamp": "2026-07-21T03:46:30.644006",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Incremental – A library for incremental computations",
+        "url": "https://github.com/janestreet/incremental",
+        "timestamp": "2026-07-21T06:16:42.157806",
+        "source": "Hacker News"
     }
 ]
