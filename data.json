@@ -426448,5 +426448,11 @@
         "url": "https://medium.com/@brothke/when-dr-comes-with-a-receipt-f98e74114313",
         "timestamp": "2026-07-21T12:18:54.592946",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postgres 19 Compression: from pglz to LZ4",
+        "url": "https://www.crunchydata.com/blog/postgres-19-compression-from-pglz-to-lz4",
+        "timestamp": "2026-07-21T12:18:54.593025",
+        "source": "Hacker News"
     }
 ]
