@@ -426550,5 +426550,11 @@
         "url": "https://pckt.blog/b/dev-stream/stacked-prs-explainer-2npkbg2",
         "timestamp": "2026-07-21T12:18:54.593642",
         "source": "Hacker News"
+    },
+    {
+        "title": "Minimal Git CI using hooks",
+        "url": "https://mccd.space/posts/26-06-29/simple-git-ci",
+        "timestamp": "2026-07-21T12:18:54.593676",
+        "source": "Hacker News"
     }
 ]
