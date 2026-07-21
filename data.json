@@ -425356,5 +425356,11 @@
         "url": "https://secretspec.dev/blog/secrets-dont-belong-in-config/",
         "timestamp": "2026-07-21T00:10:27.065071",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bdinfo-rs – Rust cross-platform Blu-ray analyzer (GUI and CLI and WASM)",
+        "url": "https://github.com/agentjp/bdinfo-rs",
+        "timestamp": "2026-07-21T00:10:27.065132",
+        "source": "Hacker News"
     }
 ]
