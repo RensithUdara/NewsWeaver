@@ -426628,5 +426628,11 @@
         "url": "https://cybernews.com/privacy/us-police-israeli-spy-vans-falconet-cognyte/",
         "timestamp": "2026-07-21T14:26:58.278031",
         "source": "Hacker News"
+    },
+    {
+        "title": "Over 400 Linux CVEs published in the last 24 hours alone",
+        "url": "https://lore.kernel.org/linux-cve-announce/",
+        "timestamp": "2026-07-21T14:26:58.278094",
+        "source": "Hacker News"
     }
 ]
