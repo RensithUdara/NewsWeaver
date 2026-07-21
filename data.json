@@ -427060,5 +427060,11 @@
         "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1oei",
         "timestamp": "2026-07-21T15:59:32.632320",
         "source": "Dev.to"
+    },
+    {
+        "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
+        "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
+        "timestamp": "2026-07-21T15:59:32.632334",
+        "source": "Dev.to"
     }
 ]
