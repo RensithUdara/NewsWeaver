@@ -426736,5 +426736,11 @@
         "url": "https://news.ycombinator.com/item?id=48992608",
         "timestamp": "2026-07-21T14:26:58.430236",
         "source": "Hacker News"
+    },
+    {
+        "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+        "url": "https://soteria-tools.com/blog/meta-garbage-collection",
+        "timestamp": "2026-07-21T14:26:58.430271",
+        "source": "Hacker News"
     }
 ]
