@@ -426982,5 +426982,11 @@
         "url": "https://civboot.github.io/blog/2026-07-21-fighting-ai.html",
         "timestamp": "2026-07-21T15:59:32.221081",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Mozilla killed Orbit, so I built a local-LLM extension",
+        "url": "https://github.com/darshi1337/apogee",
+        "timestamp": "2026-07-21T15:59:32.221102",
+        "source": "Hacker News"
     }
 ]
