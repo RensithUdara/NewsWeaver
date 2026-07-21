@@ -428302,5 +428302,11 @@
         "url": "https://www.qsl.net/oe3gbb/",
         "timestamp": "2026-07-21T23:26:09.626815",
         "source": "Hacker News"
+    },
+    {
+        "title": "NetBSD GSoC 2026 Reports: Testing Compat Linux: Syscall Testing",
+        "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_testing_compat_linux",
+        "timestamp": "2026-07-21T23:26:09.626842",
+        "source": "Hacker News"
     }
 ]
