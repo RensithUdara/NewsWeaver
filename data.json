@@ -425368,5 +425368,11 @@
         "url": "https://comuniq.xyz/post?t=1415",
         "timestamp": "2026-07-21T00:10:27.065159",
         "source": "Hacker News"
+    },
+    {
+        "title": "Wp2shell: First Critical Unauthenticated WordPress Core RCE in Nearly a Decade",
+        "url": "https://www.wordfence.com/blog/2026/07/wp2shell-aftermath-the-first-critical-unauthenticated-wordpress-core-rce-in-nearly-a-decade/",
+        "timestamp": "2026-07-21T00:10:27.065185",
+        "source": "Hacker News"
     }
 ]
