@@ -426040,5 +426040,11 @@
         "url": "https://gwern.net/screwfly",
         "timestamp": "2026-07-21T08:47:00.641849",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A BIOS-style terminal for observing a deterministic persistent world",
+        "url": "https://speykye.github.io/persistent-world-observer-terminal/",
+        "timestamp": "2026-07-21T08:47:00.641864",
+        "source": "Hacker News"
     }
 ]
