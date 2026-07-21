@@ -426412,5 +426412,11 @@
         "url": "https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage",
         "timestamp": "2026-07-21T12:18:54.420498",
         "source": "Hacker News"
+    },
+    {
+        "title": "The lock around WAL flush",
+        "url": "https://frn.sh/pgfsync/",
+        "timestamp": "2026-07-21T12:18:54.592550",
+        "source": "Hacker News"
     }
 ]
