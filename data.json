@@ -428200,5 +428200,11 @@
         "url": "https://www.celestrak.org/satcat/",
         "timestamp": "2026-07-21T23:26:09.427462",
         "source": "Hacker News"
+    },
+    {
+        "title": "Furtex: Post-exploitation, rootkit and evasion research toolkit for Linux",
+        "url": "https://github.com/MatheuZSecurity/Furtex",
+        "timestamp": "2026-07-21T23:26:09.427502",
+        "source": "Hacker News"
     }
 ]
