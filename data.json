@@ -425350,5 +425350,11 @@
         "url": "https://mashable.com/tech/anthropic-fable-5-disproves-jacobian-conjecture",
         "timestamp": "2026-07-21T00:10:27.065044",
         "source": "Hacker News"
+    },
+    {
+        "title": "Secrets Don't Belong in Config",
+        "url": "https://secretspec.dev/blog/secrets-dont-belong-in-config/",
+        "timestamp": "2026-07-21T00:10:27.065071",
+        "source": "Hacker News"
     }
 ]
