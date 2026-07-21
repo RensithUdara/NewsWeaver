@@ -426754,5 +426754,11 @@
         "url": "https://erikmcclure.com/blog/software-is-shit-eating-contest/",
         "timestamp": "2026-07-21T14:26:58.430339",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Explore Trends in HN posts. ETL using Embeddings/KMeans/DuckDB",
+        "url": "https://github.com/el10savio/hnTrends",
+        "timestamp": "2026-07-21T14:26:58.430375",
+        "source": "Hacker News"
     }
 ]
