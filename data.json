@@ -428182,5 +428182,11 @@
         "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf",
         "timestamp": "2026-07-21T23:26:09.426763",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+        "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+        "timestamp": "2026-07-21T23:26:09.426803",
+        "source": "Hacker News"
     }
 ]
