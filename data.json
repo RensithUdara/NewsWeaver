@@ -426058,5 +426058,11 @@
         "url": "https://twitter.com/SemiAnalysis_/status/2079251630608842814",
         "timestamp": "2026-07-21T08:47:00.641897",
         "source": "Hacker News"
+    },
+    {
+        "title": "Stacker – Deploy multi-container Docker stacks with one CLI command",
+        "url": "https://github.com/trydirect/stacker",
+        "timestamp": "2026-07-21T08:47:00.641913",
+        "source": "Hacker News"
     }
 ]
