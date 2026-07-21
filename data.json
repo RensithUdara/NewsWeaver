@@ -425950,5 +425950,11 @@
         "url": "https://github.com/abbradar/arw6_decode",
         "timestamp": "2026-07-21T08:47:00.641592",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust for Morello ARM CHERI: always-on memory safety, even in unsafe code [pdf]",
+        "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol263-ecoop2023/LIPIcs.ECOOP.2023.39/LIPIcs.ECOOP.2023.39.pdf",
+        "timestamp": "2026-07-21T08:47:00.641609",
+        "source": "Hacker News"
     }
 ]
