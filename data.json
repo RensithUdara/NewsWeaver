@@ -427798,5 +427798,11 @@
         "url": "https://www.history.com/this-day-in-history/may-2/dick-clark-survives-the-payola-scandal",
         "timestamp": "2026-07-21T21:22:12.906689",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built a chat client that uses embeddings to cluster messages by topic",
+        "url": "https://llmtrail.com/demo",
+        "timestamp": "2026-07-21T21:22:12.906717",
+        "source": "Hacker News"
     }
 ]
