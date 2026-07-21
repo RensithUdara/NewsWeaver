@@ -425650,5 +425650,11 @@
         "url": "https://reductions.network/",
         "timestamp": "2026-07-21T03:46:30.174066",
         "source": "Hacker News"
+    },
+    {
+        "title": "ML-pokedex – experiments trying to train some models directly on RDF",
+        "url": "https://alganet.github.io/ml-pokedex/index.html",
+        "timestamp": "2026-07-21T03:46:30.174082",
+        "source": "Hacker News"
     }
 ]
