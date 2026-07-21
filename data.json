@@ -425470,5 +425470,11 @@
         "url": "https://www.nytimes.com/2026/07/20/style/armored-cars-bulletproof-american-drivers.html",
         "timestamp": "2026-07-21T00:10:27.065606",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Relay – a self-hosted LLM gateway with eval-gated routing",
+        "url": "https://github.com/llmrelay/relay",
+        "timestamp": "2026-07-21T00:10:27.065633",
+        "source": "Hacker News"
     }
 ]
