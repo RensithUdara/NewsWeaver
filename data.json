@@ -427252,5 +427252,11 @@
         "url": "https://www.spletzer.com/2026/07/dont-put-an-llm-behind-an-mcp-server/",
         "timestamp": "2026-07-21T17:21:25.447466",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a page that tells you what AI model your laptop can run",
+        "url": "https://localsotabenchmark.engineersf.dev/",
+        "timestamp": "2026-07-21T17:21:25.447501",
+        "source": "Hacker News"
     }
 ]
