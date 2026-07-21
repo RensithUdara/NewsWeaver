@@ -425776,5 +425776,11 @@
         "url": "https://finance.yahoo.com/technology/ai/articles/chinas-z-ai-completes-1-205515769.html",
         "timestamp": "2026-07-21T06:16:42.397264",
         "source": "Hacker News"
+    },
+    {
+        "title": "Taipan: Run .py Without CPython",
+        "url": "https://github.com/FarhanAliRaza/taipan",
+        "timestamp": "2026-07-21T06:16:42.397290",
+        "source": "Hacker News"
     }
 ]
