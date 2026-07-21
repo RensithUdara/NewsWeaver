@@ -427240,5 +427240,11 @@
         "url": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
         "timestamp": "2026-07-21T17:21:25.447362",
         "source": "Hacker News"
+    },
+    {
+        "title": "Uhubctl – control USB power per-port on smart USB hubs",
+        "url": "https://github.com/mvp/uhubctl",
+        "timestamp": "2026-07-21T17:21:25.447431",
+        "source": "Hacker News"
     }
 ]
