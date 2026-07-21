@@ -427210,5 +427210,11 @@
         "url": "https://engineering.block.xyz/blog/buzz",
         "timestamp": "2026-07-21T17:21:25.447142",
         "source": "Hacker News"
+    },
+    {
+        "title": "What happened after we pushed our .env to a public repo",
+        "url": "https://tachyon.so/blog/what-happened-after-we-pushed-env-to-public-repo",
+        "timestamp": "2026-07-21T17:21:25.447193",
+        "source": "Hacker News"
     }
 ]
