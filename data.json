@@ -426490,5 +426490,11 @@
         "url": "https://news.ycombinator.com/item?id=48991146",
         "timestamp": "2026-07-21T12:18:54.593252",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hugging Face turns to GLM 5.2 to fend off AI agent attack",
+        "url": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
+        "timestamp": "2026-07-21T12:18:54.593288",
+        "source": "Hacker News"
     }
 ]
