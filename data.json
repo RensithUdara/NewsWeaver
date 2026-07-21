@@ -427588,5 +427588,11 @@
         "url": "https://khilavm.github.io/blog/2025/danielson-lanczos-fft/",
         "timestamp": "2026-07-21T20:06:45.868978",
         "source": "Hacker News"
+    },
+    {
+        "title": "From Seed Scripts to Desired-State Reference Data in PostgreSQL",
+        "url": "https://vvka-141.github.io/pgmi/articles/desired-state-reference-data-postgresql/",
+        "timestamp": "2026-07-21T20:06:45.869016",
+        "source": "Hacker News"
     }
 ]
