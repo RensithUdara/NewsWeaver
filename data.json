@@ -427432,5 +427432,11 @@
         "url": "https://news.ycombinator.com/item?id=48996283",
         "timestamp": "2026-07-21T18:46:47.393474",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Fractal – recursive agent loops for complex, multi-step work",
+        "url": "https://github.com/plasma-ai/fractal",
+        "timestamp": "2026-07-21T18:46:47.393508",
+        "source": "Hacker News"
     }
 ]
