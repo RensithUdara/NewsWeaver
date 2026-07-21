@@ -426670,5 +426670,11 @@
         "url": "https://aistudio.google.com/welcome",
         "timestamp": "2026-07-21T14:26:58.429796",
         "source": "Hacker News"
+    },
+    {
+        "title": "TekmerDB – a database that flags contradicting facts instead of averaging them",
+        "url": "https://github.com/raa82/tekmerdb",
+        "timestamp": "2026-07-21T14:26:58.429832",
+        "source": "Hacker News"
     }
 ]
