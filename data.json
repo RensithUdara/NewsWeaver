@@ -430690,5 +430690,11 @@
         "url": "https://icfpcontest2026.com/",
         "timestamp": "2026-07-22T21:05:58.812874",
         "source": "Hacker News"
+    },
+    {
+        "title": "On Strings in Rust",
+        "url": "https://mfroeh.github.io/2026/07/on-strings-in-rust/",
+        "timestamp": "2026-07-22T21:05:58.812901",
+        "source": "Hacker News"
     }
 ]
