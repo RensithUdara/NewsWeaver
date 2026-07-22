@@ -429298,5 +429298,11 @@
         "url": "https://www.liamcvw.com/p/security-after-remote-attestation",
         "timestamp": "2026-07-22T12:21:17.009935",
         "source": "Hacker News"
+    },
+    {
+        "title": "An AI Model Escaped Its Eval and Breached Hugging Face. Every Step Was a Syscall",
+        "url": "https://grith.ai/blog/openai-model-breached-hugging-face-eval-breakout",
+        "timestamp": "2026-07-22T12:21:17.009963",
+        "source": "Hacker News"
     }
 ]
