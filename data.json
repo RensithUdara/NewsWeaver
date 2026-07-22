@@ -431140,5 +431140,11 @@
         "url": "https://0xff.nu/human-kintsugi/",
         "timestamp": "2026-07-22T23:16:14.274464",
         "source": "Hacker News"
+    },
+    {
+        "title": "RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS",
+        "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600",
+        "timestamp": "2026-07-22T23:16:14.274485",
+        "source": "Hacker News"
     }
 ]
