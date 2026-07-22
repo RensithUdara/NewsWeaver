@@ -430504,5 +430504,11 @@
         "url": "https://www.youtube.com/watch?v=HtrcL6VcW_k",
         "timestamp": "2026-07-22T19:58:40.416878",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scan Your Codebase for Vulnerabilities",
+        "url": "https://code.claude.com/docs/en/claude-security",
+        "timestamp": "2026-07-22T19:58:40.416906",
+        "source": "Hacker News"
     }
 ]
