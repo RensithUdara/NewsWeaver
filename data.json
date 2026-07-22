@@ -429928,5 +429928,11 @@
         "url": "https://www.symbolab.com/resetPassword",
         "timestamp": "2026-07-22T16:04:13.720651",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: EcoTrace – Lightweight carbon footprint and energy tracker for Python",
+        "url": "https://github.com/Zwony/ecotrace",
+        "timestamp": "2026-07-22T16:04:13.720678",
+        "source": "Hacker News"
     }
 ]
