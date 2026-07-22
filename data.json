@@ -429478,5 +429478,11 @@
         "url": "https://twitter.com/nikitabier/status/2079787406300266743",
         "timestamp": "2026-07-22T14:31:11.532788",
         "source": "Hacker News"
+    },
+    {
+        "title": "WASM TeX Engines (PdfLaTeX/XeLaTeX/LuaLaTeX)",
+        "url": "https://github.com/corca-ai/wasmtex",
+        "timestamp": "2026-07-22T14:31:11.532852",
+        "source": "Hacker News"
     }
 ]
