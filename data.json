@@ -428950,5 +428950,11 @@
         "url": "https://www.canva.dev/blog/engineering/session-revocations-at-scale/",
         "timestamp": "2026-07-22T08:45:27.913845",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Open benchmark for memory layers vs. pasting full chat history",
+        "url": "https://github.com/leapmemory/memory-bench",
+        "timestamp": "2026-07-22T08:45:27.913892",
+        "source": "Hacker News"
     }
 ]
