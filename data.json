@@ -430510,5 +430510,11 @@
         "url": "https://code.claude.com/docs/en/claude-security",
         "timestamp": "2026-07-22T19:58:40.416906",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Readmer is a compiler for building READMEs from Liquid/Jinja2 templates",
+        "url": "https://github.com/artob/readmer",
+        "timestamp": "2026-07-22T19:58:40.416944",
+        "source": "Hacker News"
     }
 ]
