@@ -431014,5 +431014,11 @@
         "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
         "timestamp": "2026-07-22T23:16:14.197642",
         "source": "Hacker News"
+    },
+    {
+        "title": "Transcoding Billions of Unicode Characters per Second with SIMD (2022)",
+        "url": "https://arxiv.org/abs/2109.10433",
+        "timestamp": "2026-07-22T23:16:14.273990",
+        "source": "Hacker News"
     }
 ]
