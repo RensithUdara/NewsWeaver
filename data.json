@@ -428902,5 +428902,11 @@
         "url": "https://tabularis.dev/blog/why-tabularis-runs-on-tauri",
         "timestamp": "2026-07-22T08:45:27.913594",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sharecoin, a Bitcoin Core fork that turns GPU mining into public randomness",
+        "url": "https://github.com/TVHeroes/sharecoin",
+        "timestamp": "2026-07-22T08:45:27.913621",
+        "source": "Hacker News"
     }
 ]
