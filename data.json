@@ -430216,5 +430216,11 @@
         "url": "https://spectrum.ieee.org/fishery-satellite-surveillance",
         "timestamp": "2026-07-22T18:44:12.691903",
         "source": "Hacker News"
+    },
+    {
+        "title": "SuperPass: Fast-Tracking Blocking Threads to Mitigate Priority Inversion",
+        "url": "https://arxiv.org/abs/2607.18097",
+        "timestamp": "2026-07-22T18:44:12.691936",
+        "source": "Hacker News"
     }
 ]
