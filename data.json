@@ -428896,5 +428896,11 @@
         "url": "https://hy.tencent.com/research/hyra",
         "timestamp": "2026-07-22T08:45:27.913567",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why I'd choose Tauri again for a cross-platform database client",
+        "url": "https://tabularis.dev/blog/why-tabularis-runs-on-tauri",
+        "timestamp": "2026-07-22T08:45:27.913594",
+        "source": "Hacker News"
     }
 ]
