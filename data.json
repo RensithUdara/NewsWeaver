@@ -429466,5 +429466,11 @@
         "url": "https://tdd.cat",
         "timestamp": "2026-07-22T14:31:11.532716",
         "source": "Hacker News"
+    },
+    {
+        "title": "I was reporter #11 for a WPForms PayPal webhook vulnerability",
+        "url": "https://blog.himanshuanand.com/2026/07/reporter-11-10-people-found-the-wpforms-paypal-bug-before-me-cve-2026-4986/",
+        "timestamp": "2026-07-22T14:31:11.532749",
+        "source": "Hacker News"
     }
 ]
