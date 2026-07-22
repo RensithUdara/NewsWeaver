@@ -430300,5 +430300,11 @@
         "url": "https://institute.global/insights/geopolitics-and-security/what-to-expect-from-chinas-new-five-year-plan",
         "timestamp": "2026-07-22T18:44:12.692513",
         "source": "Hacker News"
+    },
+    {
+        "title": "RefluXFS: LPE in the Linux kernel via XFS reflink race (CVE-2026-64600)",
+        "url": "https://www.openwall.com/lists/oss-security/2026/07/22/14",
+        "timestamp": "2026-07-22T18:44:12.692546",
+        "source": "Hacker News"
     }
 ]
