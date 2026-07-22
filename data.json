@@ -429808,5 +429808,11 @@
         "url": "https://www.youtube.com/watch?v=WwVH_ODLIJU",
         "timestamp": "2026-07-22T16:04:13.720076",
         "source": "Hacker News"
+    },
+    {
+        "title": "MySQL 9.7 Community Edition: Smarter Join Planning with the Hypergraph Optimizer",
+        "url": "https://blogs.oracle.com/mysql/smarter-join-planning-with-the-hypergraph-optimizer",
+        "timestamp": "2026-07-22T16:04:13.720103",
+        "source": "Hacker News"
     }
 ]
