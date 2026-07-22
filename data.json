@@ -428758,5 +428758,11 @@
         "url": "https://status.deepseek.com/incidents/6741259174287",
         "timestamp": "2026-07-22T06:16:11.658465",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: JavaScript framework where code order matches the UI sequence",
+        "url": "https://github.com/livetrails/targetjs",
+        "timestamp": "2026-07-22T06:16:11.658488",
+        "source": "Hacker News"
     }
 ]
