@@ -429304,5 +429304,11 @@
         "url": "https://grith.ai/blog/openai-model-breached-hugging-face-eval-breakout",
         "timestamp": "2026-07-22T12:21:17.009963",
         "source": "Hacker News"
+    },
+    {
+        "title": "NMEMORY – A memory for AI agents that refuses to answer without evidence",
+        "url": "https://github.com/menot-you/n-memory",
+        "timestamp": "2026-07-22T12:21:17.010016",
+        "source": "Hacker News"
     }
 ]
