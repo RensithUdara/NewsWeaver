@@ -428944,5 +428944,11 @@
         "url": "https://news.ycombinator.com/item?id=49003232",
         "timestamp": "2026-07-22T08:45:27.913788",
         "source": "Hacker News"
+    },
+    {
+        "title": "Session Revocations at Scale",
+        "url": "https://www.canva.dev/blog/engineering/session-revocations-at-scale/",
+        "timestamp": "2026-07-22T08:45:27.913845",
+        "source": "Hacker News"
     }
 ]
