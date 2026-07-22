@@ -429964,5 +429964,11 @@
         "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
         "timestamp": "2026-07-22T17:36:03.230371",
         "source": "Hacker News"
+    },
+    {
+        "title": "GigaToken: ~1000x faster Language model tokenization",
+        "url": "https://github.com/marcelroed/gigatoken/",
+        "timestamp": "2026-07-22T17:36:03.230694",
+        "source": "Hacker News"
     }
 ]
