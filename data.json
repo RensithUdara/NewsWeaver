@@ -430912,5 +430912,11 @@
         "url": "https://www.roleframe.ai/blog/why-ai-resume-sounds-generic",
         "timestamp": "2026-07-22T22:13:17.638501",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running Claude Code on a Jailbroken Kindle over SSH via Tailscale",
+        "url": "https://github.com/Mounstroya/kindle-ssh-guide",
+        "timestamp": "2026-07-22T22:13:17.638527",
+        "source": "Hacker News"
     }
 ]
