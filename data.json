@@ -429976,5 +429976,11 @@
         "url": "https://opennode.com/",
         "timestamp": "2026-07-22T17:36:03.230769",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL",
+        "url": "https://deepsql.ai/",
+        "timestamp": "2026-07-22T17:36:03.230844",
+        "source": "Hacker News"
     }
 ]
