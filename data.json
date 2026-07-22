@@ -429598,5 +429598,11 @@
         "url": "https://coles.codes/posts/reviewing-code-you-didnt-write",
         "timestamp": "2026-07-22T14:31:11.533513",
         "source": "Hacker News"
+    },
+    {
+        "title": "Shackle: A pre-execution ALLOW/DENY/HITL gate for AI agents (open source)",
+        "url": "https://github.com/Fame510/SHACKLE",
+        "timestamp": "2026-07-22T14:31:11.533547",
+        "source": "Hacker News"
     }
 ]
