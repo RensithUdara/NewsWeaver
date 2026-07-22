@@ -429796,5 +429796,11 @@
         "url": "https://unlayer.com",
         "timestamp": "2026-07-22T16:04:13.720023",
         "source": "Hacker News"
+    },
+    {
+        "title": "Denying the Worm",
+        "url": "https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/",
+        "timestamp": "2026-07-22T16:04:13.720050",
+        "source": "Hacker News"
     }
 ]
