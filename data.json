@@ -429100,5 +429100,11 @@
         "url": "https://github.com/qijianpeng/awesome-edge-computing",
         "timestamp": "2026-07-22T10:52:00.184038",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making Xen's dom0 I/O path NUMA aware",
+        "url": "https://edera.dev/stories/numa-part-4-closing-the-xen-dom0-i-o-gap",
+        "timestamp": "2026-07-22T10:52:00.184073",
+        "source": "Hacker News"
     }
 ]
