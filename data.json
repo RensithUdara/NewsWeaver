@@ -430870,5 +430870,11 @@
         "url": "https://www.builder.io/blog/the-future-of-saas-is-cloneable",
         "timestamp": "2026-07-22T22:13:17.638220",
         "source": "Hacker News"
+    },
+    {
+        "title": "New Inference Server for DGX Spark: large model C4:55-90 tok/s no spec decode",
+        "url": "https://news.ycombinator.com/item?id=49014048",
+        "timestamp": "2026-07-22T22:13:17.638276",
+        "source": "Hacker News"
     }
 ]
