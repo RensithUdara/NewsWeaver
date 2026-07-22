@@ -428524,5 +428524,11 @@
         "url": "https://twitter.com/i/status/2079633466581258469",
         "timestamp": "2026-07-22T00:13:57.690845",
         "source": "Hacker News"
+    },
+    {
+        "title": "Headroom - compress AI agent input for reduced token usage w/out harming output",
+        "url": "https://github.com/headroomlabs-ai/headroom",
+        "timestamp": "2026-07-22T00:13:57.690865",
+        "source": "Hacker News"
     }
 ]
