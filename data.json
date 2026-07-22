@@ -429160,5 +429160,11 @@
         "url": "https://www.firefox.com/en-US/firefox/153.0/releasenotes/",
         "timestamp": "2026-07-22T10:52:00.184431",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linux CVE flood with catchy names",
+        "url": "https://git.infradead.org/~rw/cvenames-2026-07-19.html",
+        "timestamp": "2026-07-22T10:52:00.184470",
+        "source": "Hacker News"
     }
 ]
