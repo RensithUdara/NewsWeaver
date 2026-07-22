@@ -428554,5 +428554,11 @@
         "url": "https://www.aventos.dev/our-process?view=blog",
         "timestamp": "2026-07-22T03:47:44.506173",
         "source": "Hacker News"
+    },
+    {
+        "title": "A flaky test exposed a Redis client use-after-free",
+        "url": "https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/",
+        "timestamp": "2026-07-22T03:47:44.506308",
+        "source": "Hacker News"
     }
 ]
