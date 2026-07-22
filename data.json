@@ -431002,5 +431002,11 @@
         "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
         "timestamp": "2026-07-22T22:13:17.970310",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+        "url": "https://github.com/cactus-compute/cactus-hybrid",
+        "timestamp": "2026-07-22T23:16:14.197497",
+        "source": "Hacker News"
     }
 ]
