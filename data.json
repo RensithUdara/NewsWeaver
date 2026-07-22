@@ -430324,5 +430324,11 @@
         "url": "https://github.com/my-chiefmind/ai-maestro",
         "timestamp": "2026-07-22T18:44:12.692658",
         "source": "Hacker News"
+    },
+    {
+        "title": "Comhad: A TUI replacement for Cyberduck, written in Rust",
+        "url": "https://github.com/Eoin-McMahon/comhad",
+        "timestamp": "2026-07-22T18:44:12.692694",
+        "source": "Hacker News"
     }
 ]
