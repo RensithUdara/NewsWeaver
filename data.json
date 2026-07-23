@@ -432916,5 +432916,11 @@
         "url": "https://lanes.sh/blog/loop-engineering-with-lanes",
         "timestamp": "2026-07-23T16:10:48.002235",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Triton-blackhole – debug Triton FP drift without device_print",
+        "url": "https://github.com/brian-mwirigi/triton-blackhole",
+        "timestamp": "2026-07-23T16:10:48.002255",
+        "source": "Hacker News"
     }
 ]
