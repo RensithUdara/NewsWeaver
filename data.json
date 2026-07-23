@@ -433438,5 +433438,11 @@
         "url": "https://www.bbc.com/news/articles/cwylp3nxp5yo",
         "timestamp": "2026-07-23T18:50:50.669848",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Jik – a language with region-based memory management that compiles to C",
+        "url": "https://github.com/jik-lang/jik",
+        "timestamp": "2026-07-23T18:50:50.669870",
+        "source": "Hacker News"
     }
 ]
