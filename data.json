@@ -433012,5 +433012,11 @@
         "url": "https://cognition.com/blog/interaction",
         "timestamp": "2026-07-23T16:10:48.002569",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Remortgaging with Claude, so I built a MCP for Bank of England",
+        "url": "https://github.com/moureauf/boe-mcp",
+        "timestamp": "2026-07-23T16:10:48.002589",
+        "source": "Hacker News"
     }
 ]
