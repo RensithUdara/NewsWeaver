@@ -431218,5 +431218,11 @@
         "url": "https://www.thebuildnation.com/login?next=%2Fhttp%3A%2Flocalhost%3A3000",
         "timestamp": "2026-07-23T00:13:51.624172",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: KageOps – An open-source, local-first alternative to Devin",
+        "url": "https://github.com/hmanoor/kageops-core",
+        "timestamp": "2026-07-23T00:13:51.624200",
+        "source": "Hacker News"
     }
 ]
