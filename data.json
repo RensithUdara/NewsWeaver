@@ -434050,5 +434050,11 @@
         "url": "https://news.ycombinator.com/item?id=49028737",
         "timestamp": "2026-07-23T22:16:58.873087",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agents Found Three RCEs as System (and Root) on Bing Image Search",
+        "url": "https://xbow.com/blog/bing-images-rce-vulnerabilities",
+        "timestamp": "2026-07-23T22:16:58.873117",
+        "source": "Hacker News"
     }
 ]
