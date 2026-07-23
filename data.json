@@ -431578,5 +431578,11 @@
         "url": "https://twitter.com/Qiaoqiao2001/status/2080003441821163958",
         "timestamp": "2026-07-23T06:18:34.545186",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postgres in Rust: three dead ends before we passed 100% of the regression suite",
+        "url": "https://malisper.me/postgres-in-rust-regression-suite/",
+        "timestamp": "2026-07-23T06:18:34.545224",
+        "source": "Hacker News"
     }
 ]
