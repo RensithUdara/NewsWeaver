@@ -434326,5 +434326,11 @@
         "url": "https://www.linuxfromscratch.org/advisories/",
         "timestamp": "2026-07-23T23:13:08.778415",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Run GLM-4.5-Air(110B)on a 16GBRAM consumer machine",
+        "url": "https://github.com/FedericoTs/quantprobe",
+        "timestamp": "2026-07-23T23:13:08.778450",
+        "source": "Hacker News"
     }
 ]
