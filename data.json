@@ -432898,5 +432898,11 @@
         "url": "https://zerogate.cloud",
         "timestamp": "2026-07-23T16:10:48.002157",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kitty – Terminal Graphics Protocol",
+        "url": "https://sw.kovidgoyal.net/kitty/graphics-protocol/",
+        "timestamp": "2026-07-23T16:10:48.002192",
+        "source": "Hacker News"
     }
 ]
