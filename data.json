@@ -432106,5 +432106,11 @@
         "url": "https://journofinder.com/news-graph",
         "timestamp": "2026-07-23T10:52:22.067056",
         "source": "Hacker News"
+    },
+    {
+        "title": "What is missing in today's Go web frameworks?",
+        "url": "https://github.com/nelthaarion/breeze",
+        "timestamp": "2026-07-23T10:52:22.067112",
+        "source": "Hacker News"
     }
 ]
