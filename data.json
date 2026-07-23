@@ -433894,5 +433894,11 @@
         "url": "https://doctordario.ai/",
         "timestamp": "2026-07-23T21:17:56.006897",
         "source": "Hacker News"
+    },
+    {
+        "title": "Evaluating AI Agents: A Production Blueprint with Strands and AgentCore",
+        "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/",
+        "timestamp": "2026-07-23T21:17:56.006923",
+        "source": "Hacker News"
     }
 ]
