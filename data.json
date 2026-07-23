@@ -431254,5 +431254,11 @@
         "url": "https://dvorak.substack.com/p/the-capture-of-an-entire-country",
         "timestamp": "2026-07-23T00:13:51.624347",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Acknowledgment Gap – How Event-Driven Systems Lose Messages Without Errors",
+        "url": "https://sahansera.dev/the-acknowledgment-gap/",
+        "timestamp": "2026-07-23T00:13:51.624374",
+        "source": "Hacker News"
     }
 ]
