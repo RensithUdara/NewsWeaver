@@ -432844,5 +432844,11 @@
         "url": "https://blog.jimgrey.net/2026/06/30/what-happens-when-the-information-runs-out/",
         "timestamp": "2026-07-23T16:10:47.810206",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Whetuu – a zero-config cross-shell prompt written in Zig",
+        "url": "https://yamafaktory.github.io/whetuu/",
+        "timestamp": "2026-07-23T16:10:47.810229",
+        "source": "Hacker News"
     }
 ]
