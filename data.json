@@ -431746,5 +431746,11 @@
         "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
         "timestamp": "2026-07-23T08:46:37.424158",
         "source": "Hacker News"
+    },
+    {
+        "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+        "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+        "timestamp": "2026-07-23T08:46:37.424457",
+        "source": "Hacker News"
     }
 ]
