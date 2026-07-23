@@ -432082,5 +432082,11 @@
         "url": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
         "timestamp": "2026-07-23T10:52:22.066921",
         "source": "Hacker News"
+    },
+    {
+        "title": "MCP-spec-audit, scan your MCP server for the July 28 spec changes",
+        "url": "https://github.com/Temrel/temrel-agentic-toolkit/tree/main/tools/mcp-spec-audit",
+        "timestamp": "2026-07-23T10:52:22.066949",
+        "source": "Hacker News"
     }
 ]
