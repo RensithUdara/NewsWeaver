@@ -434344,5 +434344,11 @@
         "url": "https://www.indiehackers.com/post/i-built-for-one-user-myself-84ef3ca242",
         "timestamp": "2026-07-23T23:13:08.778520",
         "source": "Hacker News"
+    },
+    {
+        "title": "4 Silent Failures, 2 Undocumented APIs, and a Container That Crashed Because of a Missing User Directive",
+        "url": "https://dev.to/sarvar_04/4-silent-failures-2-undocumented-apis-and-a-container-that-crashed-because-of-a-missing-user-1b9n",
+        "timestamp": "2026-07-23T23:13:09.032195",
+        "source": "Dev.to"
     }
 ]
