@@ -433192,5 +433192,11 @@
         "url": "https://archive.nytimes.com/www.nytimes.com/library/national/unabom-manifesto-1.html",
         "timestamp": "2026-07-23T17:46:52.201648",
         "source": "Hacker News"
+    },
+    {
+        "title": "Qwen 3.8-Max: Interviewing the AI About Itself",
+        "url": "https://manish.sh/writings/models/inside-qwen-3-8-max-preview-reverse-engineering-an-ai-assistant-by-interviewing-itself",
+        "timestamp": "2026-07-23T17:46:52.201667",
+        "source": "Hacker News"
     }
 ]
