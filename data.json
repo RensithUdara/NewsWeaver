@@ -431362,5 +431362,11 @@
         "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
         "timestamp": "2026-07-23T00:13:52.124839",
         "source": "TechCrunch"
+    },
+    {
+        "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
+        "url": "https://github.com/exlee/ascdraw",
+        "timestamp": "2026-07-23T03:45:23.282902",
+        "source": "Hacker News"
     }
 ]
