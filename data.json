@@ -432928,5 +432928,11 @@
         "url": "https://blog.nassella.org/how-i-made-servers-invincible-to-hangs/",
         "timestamp": "2026-07-23T16:10:48.002275",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Static libvips builds, pick only the formats you need",
+        "url": "https://github.com/libstatic/libvips",
+        "timestamp": "2026-07-23T16:10:48.002294",
+        "source": "Hacker News"
     }
 ]
