@@ -431788,5 +431788,11 @@
         "url": "https://www.loopmein.ai/",
         "timestamp": "2026-07-23T08:46:37.513915",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lira Engine – prove your data isn't in an LLM (AUC-ROC 1.000)",
+        "url": "https://medium.com/@v_regis/why-self-auditing-your-ai-model-violates-eu-ai-act-article-53-22f693fb64a7",
+        "timestamp": "2026-07-23T08:46:37.513950",
+        "source": "Hacker News"
     }
 ]
