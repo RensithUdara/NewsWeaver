@@ -433480,5 +433480,11 @@
         "url": "https://developer.apple.com/videos/play/wwdc2026/233/",
         "timestamp": "2026-07-23T18:50:50.670027",
         "source": "Hacker News"
+    },
+    {
+        "title": "Snappable nRF52820 debugger integrated into nRF54L15 development board",
+        "url": "https://www.cnx-software.com/2026/07/23/icy-electronics-nrf54l15-discovery-devboard-integrates-a-snappable-nrf52820-cmsis-dap-debugger/",
+        "timestamp": "2026-07-23T18:50:50.670080",
+        "source": "Hacker News"
     }
 ]
