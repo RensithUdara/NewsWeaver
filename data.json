@@ -432694,5 +432694,11 @@
         "url": "https://yafl.dev",
         "timestamp": "2026-07-23T14:35:40.538575",
         "source": "Hacker News"
+    },
+    {
+        "title": "Software rendering in 500 lines of bare C++",
+        "url": "https://haqr.eu/tinyrenderer/",
+        "timestamp": "2026-07-23T14:35:40.538603",
+        "source": "Hacker News"
     }
 ]
