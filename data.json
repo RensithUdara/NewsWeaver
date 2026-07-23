@@ -432418,5 +432418,11 @@
         "url": "https://www.emgoto.com/books/the-wager/",
         "timestamp": "2026-07-23T12:18:08.518841",
         "source": "Hacker News"
+    },
+    {
+        "title": "I researched every order-book attack and built the defenses into a Go engine",
+        "url": "https://intrepidkarthi.github.io/orderbook/",
+        "timestamp": "2026-07-23T12:18:08.518868",
+        "source": "Hacker News"
     }
 ]
