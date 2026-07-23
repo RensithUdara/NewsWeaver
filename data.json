@@ -431596,5 +431596,11 @@
         "url": "https://news.ycombinator.com/item?id=49017441",
         "timestamp": "2026-07-23T06:18:34.545300",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Art of PostgreSQL",
+        "url": "https://theartofpostgresql.com/",
+        "timestamp": "2026-07-23T06:18:34.545335",
+        "source": "Hacker News"
     }
 ]
