@@ -432946,5 +432946,11 @@
         "url": "https://github.com/HimitsuShell/Himitsu",
         "timestamp": "2026-07-23T16:10:48.002334",
         "source": "Hacker News"
+    },
+    {
+        "title": "JEP 540: Simple JSON API (Now in Incubator)",
+        "url": "https://openjdk.org/jeps/540",
+        "timestamp": "2026-07-23T16:10:48.002354",
+        "source": "Hacker News"
     }
 ]
