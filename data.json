@@ -431434,5 +431434,11 @@
         "url": "https://fsfe.org/news/2026/news-20260629-01.html",
         "timestamp": "2026-07-23T03:45:23.474137",
         "source": "Hacker News"
+    },
+    {
+        "title": "Locality-Sensitive Hashing and Privacy",
+        "url": "https://arxiv.org/abs/2302.13635",
+        "timestamp": "2026-07-23T03:45:23.474166",
+        "source": "Hacker News"
     }
 ]
