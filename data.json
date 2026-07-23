@@ -433810,5 +433810,11 @@
         "url": "https://www.lrb.co.uk/the-paper/v48/n13/jonathan-coe/where-was-the-drum-kit",
         "timestamp": "2026-07-23T21:17:55.705838",
         "source": "Hacker News"
+    },
+    {
+        "title": "Escape Analysis in Go: Stack vs. Heap Allocations Explained",
+        "url": "https://blog.jetbrains.com/go/2026/07/20/escape-analysis/",
+        "timestamp": "2026-07-23T21:17:55.705891",
+        "source": "Hacker News"
     }
 ]
