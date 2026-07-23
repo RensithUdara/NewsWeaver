@@ -431752,5 +431752,11 @@
         "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
         "timestamp": "2026-07-23T08:46:37.424457",
         "source": "Hacker News"
+    },
+    {
+        "title": "Protecting our FLOSS commons from LLMs",
+        "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+        "timestamp": "2026-07-23T08:46:37.425087",
+        "source": "Hacker News"
     }
 ]
