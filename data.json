@@ -433918,5 +433918,11 @@
         "url": "https://news.ycombinator.com/item?id=49027955",
         "timestamp": "2026-07-23T21:17:56.007005",
         "source": "Hacker News"
+    },
+    {
+        "title": "ADTs (Algebraic Data Types) in Java",
+        "url": "https://rockthejvm.com/articles/algebraic-data-types-in-java",
+        "timestamp": "2026-07-23T21:17:56.007031",
+        "source": "Hacker News"
     }
 ]
