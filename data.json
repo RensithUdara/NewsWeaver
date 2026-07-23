@@ -431524,5 +431524,11 @@
         "url": "https://www.reuters.com/world/europe/russias-largest-online-retailer-says-warehouses-attacked-again-several-injured-2026-07-22/",
         "timestamp": "2026-07-23T03:45:23.474559",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Sambaudit, a secrets scanner for SMB shares with a web UI",
+        "url": "https://github.com/d-woosley/SambAudit",
+        "timestamp": "2026-07-23T03:45:23.474585",
+        "source": "Hacker News"
     }
 ]
