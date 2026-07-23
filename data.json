@@ -433498,5 +433498,11 @@
         "url": "https://www.hcn.org/articles/i-used-to-ignore-prediction-markets-then-i-learned-people-were-betting-on-wildfires/",
         "timestamp": "2026-07-23T18:50:50.670133",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why does DOS include \"get interrupt vector\" and \"set interrupt vector\" syscalls?",
+        "url": "https://retrocomputing.stackexchange.com/questions/32747/why-does-dos-include-get-interrupt-vector-and-set-interrupt-vector-syscalls",
+        "timestamp": "2026-07-23T18:50:50.670156",
+        "source": "Hacker News"
     }
 ]
