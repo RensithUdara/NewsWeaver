@@ -433984,5 +433984,11 @@
         "url": "https://github.com/lovelace-co/lovelace",
         "timestamp": "2026-07-23T21:17:56.007330",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: LLM-budget-cap – atomic Redis spend cap for LLM APIs",
+        "url": "https://github.com/Rentheria/llm-budget-cap",
+        "timestamp": "2026-07-23T21:17:56.007359",
+        "source": "Hacker News"
     }
 ]
