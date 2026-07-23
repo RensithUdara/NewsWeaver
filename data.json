@@ -432574,5 +432574,11 @@
         "url": "https://antirez.com/news/170",
         "timestamp": "2026-07-23T14:35:40.537956",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: macOS menu-bar manager for SSH port forwards",
+        "url": "https://github.com/lx2026/RelayBar",
+        "timestamp": "2026-07-23T14:35:40.538007",
+        "source": "Hacker News"
     }
 ]
