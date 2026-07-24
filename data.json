@@ -435592,5 +435592,11 @@
         "url": "https://huggingface.co/datasets/huggingface/forensic-refusal/blob/main/glm5.2.jsonl",
         "timestamp": "2026-07-24T14:05:58.592733",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: How much software do you build for yourself these days?",
+        "url": "https://news.ycombinator.com/item?id=49035758",
+        "timestamp": "2026-07-24T14:05:58.592754",
+        "source": "Hacker News"
     }
 ]
