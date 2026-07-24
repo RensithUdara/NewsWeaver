@@ -436942,5 +436942,11 @@
         "url": "https://www.youtube.com/watch?v=bTwnn-5TpmQ",
         "timestamp": "2026-07-24T22:28:02.988124",
         "source": "Hacker News"
+    },
+    {
+        "title": "Query cycles: A compiler murder mystery",
+        "url": "https://ferrous-systems.com/blog/query-cycles-a-compiler-murder-mystery/",
+        "timestamp": "2026-07-24T22:28:02.988145",
+        "source": "Hacker News"
     }
 ]
