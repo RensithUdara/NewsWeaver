@@ -434494,5 +434494,11 @@
         "url": "https://news.ycombinator.com/item?id=49029345",
         "timestamp": "2026-07-24T00:11:25.155792",
         "source": "Hacker News"
+    },
+    {
+        "title": "FreeBSD ports frozen after someone commits the 150MB Linux Copilot binary",
+        "url": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
+        "timestamp": "2026-07-24T00:11:25.155825",
+        "source": "Hacker News"
     }
 ]
