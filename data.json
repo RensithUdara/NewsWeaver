@@ -434392,5 +434392,11 @@
         "url": "https://www.morningstar.com/news/dow-jones/202607219336/palo-alto-networks-plans-to-buy-embrace-in-observability-push",
         "timestamp": "2026-07-24T00:11:25.155064",
         "source": "Hacker News"
+    },
+    {
+        "title": "Measuring the Performance Cost of High Availability in Postgres",
+        "url": "https://clickhouse.com/blog/postgresbench-ha",
+        "timestamp": "2026-07-24T00:11:25.155105",
+        "source": "Hacker News"
     }
 ]
