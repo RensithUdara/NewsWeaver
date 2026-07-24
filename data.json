@@ -435256,5 +435256,11 @@
         "url": "https://www.schneier.com/blog/archives/2026/07/end-to-end-encryption-and-going-dark.html",
         "timestamp": "2026-07-24T10:48:27.254244",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Amdb – Local code context MCP server, single Rust binary",
+        "url": "https://github.com/BETAER-08/amdb",
+        "timestamp": "2026-07-24T10:48:27.254277",
+        "source": "Hacker News"
     }
 ]
