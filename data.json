@@ -437236,5 +437236,11 @@
         "url": "https://lists.debian.org/debian-vote/2026/07/msg00000.html",
         "timestamp": "2026-07-24T23:31:04.411188",
         "source": "Hacker News"
+    },
+    {
+        "title": "Implementing SEH in Rust and why you shouldn't do it",
+        "url": "https://engineering.zeroitlab.com/2022/03/13/rust-seh/",
+        "timestamp": "2026-07-24T23:31:04.411222",
+        "source": "Hacker News"
     }
 ]
