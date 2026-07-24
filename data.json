@@ -436012,5 +436012,11 @@
         "url": "https://www.anthropic.com/claude-opus-5-system-card",
         "timestamp": "2026-07-24T17:10:16.307703",
         "source": "Hacker News"
+    },
+    {
+        "title": "As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port",
+        "url": "https://openjdk.org/jeps/541",
+        "timestamp": "2026-07-24T17:10:16.307785",
+        "source": "Hacker News"
     }
 ]
