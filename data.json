@@ -434974,5 +434974,11 @@
         "url": "https://github.com/danilo-znamerovszkij/draw-your-font",
         "timestamp": "2026-07-24T08:43:14.780577",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mohabi: Disaggregating and Sandboxing the Firefox JavaScript Engine",
+        "url": "https://www.usenix.org/conference/osdi26/presentation/sharma",
+        "timestamp": "2026-07-24T08:43:14.780606",
+        "source": "Hacker News"
     }
 ]
