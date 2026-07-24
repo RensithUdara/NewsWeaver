@@ -436600,5 +436600,11 @@
         "url": "https://www.theguardian.com/commentisfree/2026/jul/24/apology-ai-boss-sam-altman-rogue-openai-startup-pentagon",
         "timestamp": "2026-07-24T20:02:38.862184",
         "source": "Hacker News"
+    },
+    {
+        "title": "What syscall-layer tooling cannot see in P2P infrastructure",
+        "url": "https://nullrabbit.ai/research/why-syscall-tooling-cannot-see-p2p-infrastructure",
+        "timestamp": "2026-07-24T20:02:38.862218",
+        "source": "Hacker News"
     }
 ]
