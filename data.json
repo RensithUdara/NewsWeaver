@@ -434728,5 +434728,11 @@
         "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
         "timestamp": "2026-07-24T03:45:04.339568",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Quickly rewrite Git repository history",
+        "url": "https://github.com/newren/git-filter-repo",
+        "timestamp": "2026-07-24T06:13:53.717218",
+        "source": "Hacker News"
     }
 ]
