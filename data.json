@@ -434398,5 +434398,11 @@
         "url": "https://clickhouse.com/blog/postgresbench-ha",
         "timestamp": "2026-07-24T00:11:25.155105",
         "source": "Hacker News"
+    },
+    {
+        "title": "Middleware that catches when LLM conversations slowly drift off-topic",
+        "url": "https://github.com/ojki74/hallucinatoff",
+        "timestamp": "2026-07-24T00:11:25.155139",
+        "source": "Hacker News"
     }
 ]
