@@ -435028,5 +435028,11 @@
         "url": "https://thecreativeindependent.com/library/worksheet-on-using-the-internet-mindfully/",
         "timestamp": "2026-07-24T08:43:14.780843",
         "source": "Hacker News"
+    },
+    {
+        "title": "Topcoat: framework for building fullstack reactive web apps with Rust",
+        "url": "https://tokio.rs/blog/2026-07-22-announcing-topcoat",
+        "timestamp": "2026-07-24T08:43:14.780871",
+        "source": "Hacker News"
     }
 ]
