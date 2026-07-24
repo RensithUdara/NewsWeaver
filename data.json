@@ -437170,5 +437170,11 @@
         "url": "https://news.ubc.ca/2026/07/insect-submariners-survive-the-depths-without-imploding/",
         "timestamp": "2026-07-24T23:31:04.410683",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Evidence Graph – type checking for the specs your AI agent implements",
+        "url": "https://github.com/samchon/lint-plugin-evidence",
+        "timestamp": "2026-07-24T23:31:04.410716",
+        "source": "Hacker News"
     }
 ]
