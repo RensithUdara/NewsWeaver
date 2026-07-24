@@ -434962,5 +434962,11 @@
         "url": "https://www.ade-app.dev/",
         "timestamp": "2026-07-24T08:43:14.780515",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Book Prize Index",
+        "url": "https://book-prize-index.vercel.app",
+        "timestamp": "2026-07-24T08:43:14.780546",
+        "source": "Hacker News"
     }
 ]
