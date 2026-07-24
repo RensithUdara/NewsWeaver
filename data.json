@@ -435460,5 +435460,11 @@
         "url": "https://tawrida.xyz/",
         "timestamp": "2026-07-24T12:07:10.870793",
         "source": "Hacker News"
+    },
+    {
+        "title": "TFormula: Render LaTeX from any CLI app directly in Kitty-compatible terminals",
+        "url": "https://github.com/mikewang817/TFormula",
+        "timestamp": "2026-07-24T12:07:10.870826",
+        "source": "Hacker News"
     }
 ]
