@@ -435484,5 +435484,11 @@
         "url": "https://health.aws.amazon.com/health/status?",
         "timestamp": "2026-07-24T12:07:10.870927",
         "source": "Hacker News"
+    },
+    {
+        "title": "AgentCost – local CLI,attributes token cost in Claude Code/Cursor/Codex sessions",
+        "url": "https://pypi.org/project/agentcost-cli/0.1.0/",
+        "timestamp": "2026-07-24T12:07:10.871028",
+        "source": "Hacker News"
     }
 ]
