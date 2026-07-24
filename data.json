@@ -434830,5 +434830,11 @@
         "url": "https://www.ft.com/content/c836e73b-66bb-4aa1-b85b-dd5b6eb89af0",
         "timestamp": "2026-07-24T06:13:53.783226",
         "source": "Hacker News"
+    },
+    {
+        "title": "Execution-Free Agentic Program Repair for Enterprise-Scale Development [pdf]",
+        "url": "https://dl.acm.org/doi/epdf/10.1145/3793655.3793739",
+        "timestamp": "2026-07-24T06:13:53.783247",
+        "source": "Hacker News"
     }
 ]
