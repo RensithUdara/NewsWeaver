@@ -435328,5 +435328,11 @@
         "url": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
         "timestamp": "2026-07-24T12:07:10.616685",
         "source": "Hacker News"
+    },
+    {
+        "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
+        "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
+        "timestamp": "2026-07-24T12:07:10.616724",
+        "source": "Hacker News"
     }
 ]
