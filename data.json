@@ -435232,5 +435232,11 @@
         "url": "https://bagel-ros2.vercel.app",
         "timestamp": "2026-07-24T10:48:27.254034",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenTelemetry Collector: A Production-Ready Guide",
+        "url": "https://signoz.io/blog/opentelemetry-collector-complete-guide/",
+        "timestamp": "2026-07-24T10:48:27.254134",
+        "source": "Hacker News"
     }
 ]
