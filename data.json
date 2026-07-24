@@ -434776,5 +434776,11 @@
         "url": "https://kero.sh/",
         "timestamp": "2026-07-24T06:13:53.783039",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenSpectra: a Rust CLI for managing specs, changes, and implementation tasks",
+        "url": "https://github.com/howie/openspectra",
+        "timestamp": "2026-07-24T06:13:53.783060",
+        "source": "Hacker News"
     }
 ]
