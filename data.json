@@ -436288,5 +436288,11 @@
         "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
         "timestamp": "2026-07-24T18:43:38.761545",
         "source": "Hacker News"
+    },
+    {
+        "title": "Extending Polars with Rust Expression Plugins",
+        "url": "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins",
+        "timestamp": "2026-07-24T18:43:38.761814",
+        "source": "Hacker News"
     }
 ]
