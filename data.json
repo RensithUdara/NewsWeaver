@@ -436972,5 +436972,11 @@
         "url": "https://www.worldbank.org/en/programs/multi-donor-trust-fund-for-integrating-externally-financed-health-programs/brief/lessons-from-indonesia-s-10-year-journey-towards-universal-health-coverage",
         "timestamp": "2026-07-24T22:28:02.988257",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Proving Go 1.26's runtime/secret keeps secrets out of core dumps",
+        "url": "https://towardsdev.com/runtime-secret-go-1-26s-answer-to-secrets-leaking-in-core-dumps-d884615e971f",
+        "timestamp": "2026-07-24T22:28:02.988278",
+        "source": "Hacker News"
     }
 ]
