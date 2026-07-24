@@ -435832,5 +435832,11 @@
         "url": "https://vivsha.ws/blog/adopting-standard-site",
         "timestamp": "2026-07-24T15:39:14.715180",
         "source": "Hacker News"
+    },
+    {
+        "title": "Watching Go's new garbage collector move through the heap",
+        "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+        "timestamp": "2026-07-24T15:39:14.715216",
+        "source": "Hacker News"
     }
 ]
