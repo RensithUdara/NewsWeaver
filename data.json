@@ -436294,5 +436294,11 @@
         "url": "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins",
         "timestamp": "2026-07-24T18:43:38.761814",
         "source": "Hacker News"
+    },
+    {
+        "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+        "url": "https://blog.cloudflare.com/bgp-origin-attribute/",
+        "timestamp": "2026-07-24T18:43:38.761957",
+        "source": "Hacker News"
     }
 ]
