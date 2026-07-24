@@ -435880,5 +435880,11 @@
         "url": "https://www.youtube.com/watch?v=y1mac8LVQV8",
         "timestamp": "2026-07-24T15:39:14.715504",
         "source": "Hacker News"
+    },
+    {
+        "title": "A production-grade OCR pipeline on Kubernetes with vLLM and Rust",
+        "url": "https://github.com/neural-maze/production-ocr-course",
+        "timestamp": "2026-07-24T15:39:14.715540",
+        "source": "Hacker News"
     }
 ]
