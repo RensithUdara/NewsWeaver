@@ -436498,5 +436498,11 @@
         "url": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
         "timestamp": "2026-07-24T18:43:39.436186",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Postgres LISTEN/NOTIFY actually scales",
+        "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+        "timestamp": "2026-07-24T20:02:38.709975",
+        "source": "Hacker News"
     }
 ]
