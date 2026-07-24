@@ -434896,5 +434896,11 @@
         "url": "https://bfl.ai/blog/flux-3",
         "timestamp": "2026-07-24T08:43:14.585748",
         "source": "Hacker News"
+    },
+    {
+        "title": "The PImpl idiom and the C++26 std:indirect type",
+        "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+        "timestamp": "2026-07-24T08:43:14.585799",
+        "source": "Hacker News"
     }
 ]
