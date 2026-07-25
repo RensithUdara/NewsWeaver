@@ -439474,5 +439474,11 @@
         "url": "https://brolly.sh/forecast/RWFP2qW8",
         "timestamp": "2026-07-25T19:34:55.668238",
         "source": "Hacker News"
+    },
+    {
+        "title": "D-FINE-seg – detection, instance and semantic segmentation in one model",
+        "url": "https://github.com/ArgoHA/D-FINE-seg",
+        "timestamp": "2026-07-25T19:34:55.668499",
+        "source": "Hacker News"
     }
 ]
