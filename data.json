@@ -439876,5 +439876,11 @@
         "url": "https://kigen.design/color",
         "timestamp": "2026-07-25T21:24:20.992661",
         "source": "Hacker News"
+    },
+    {
+        "title": "Toolgz – cut LLM tool-definition tokens ~80% without hurting accuracy",
+        "url": "https://github.com/dperussina/toolgz",
+        "timestamp": "2026-07-25T21:24:20.992694",
+        "source": "Hacker News"
     }
 ]
