@@ -439558,5 +439558,11 @@
         "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
         "timestamp": "2026-07-25T19:34:55.928130",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+        "url": "https://github.com/slvDev/esp32-ai",
+        "timestamp": "2026-07-25T19:34:55.928164",
+        "source": "Hacker News"
     }
 ]
