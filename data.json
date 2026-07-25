@@ -439648,5 +439648,11 @@
         "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
         "timestamp": "2026-07-25T19:34:56.258624",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network",
+        "url": "https://github.com/lucid-fabrics/proxmox-bluetooth",
+        "timestamp": "2026-07-25T20:28:45.217322",
+        "source": "Hacker News"
     }
 ]
