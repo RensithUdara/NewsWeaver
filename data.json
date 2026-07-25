@@ -437644,5 +437644,11 @@
         "url": "https://blog.moertel.com/posts/2026-07-23-on-the-nature-and-purpose-of-code.html",
         "timestamp": "2026-07-25T06:31:52.414586",
         "source": "Hacker News"
+    },
+    {
+        "title": "The perils of parsing type inference declarations in C",
+        "url": "https://sebsite.pw/w/20260725-auto.html",
+        "timestamp": "2026-07-25T06:31:52.414621",
+        "source": "Hacker News"
     }
 ]
