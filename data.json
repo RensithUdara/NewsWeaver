@@ -437512,5 +437512,11 @@
         "url": "https://thezvi.substack.com/p/introducing-lightcone-commons",
         "timestamp": "2026-07-25T04:19:47.966676",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reusing Buffers in Multicore OCaml",
+        "url": "https://gazagnaire.org/blog/2026-07-24-domain-safe-codecs.html",
+        "timestamp": "2026-07-25T04:19:47.966711",
+        "source": "Hacker News"
     }
 ]
