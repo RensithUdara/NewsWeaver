@@ -437458,5 +437458,11 @@
         "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
         "timestamp": "2026-07-25T04:19:47.966343",
         "source": "Hacker News"
+    },
+    {
+        "title": "Escaping Claude Cowork's local VM sandbox via CVE-2026-46331",
+        "url": "https://accomplish.ai/blog/sharedroot-escaping-claude-cowork-sandbox/",
+        "timestamp": "2026-07-25T04:19:47.966379",
+        "source": "Hacker News"
     }
 ]
