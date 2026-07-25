@@ -438286,5 +438286,11 @@
         "url": "https://lkforge.com/blog/enable-lexicon-study/",
         "timestamp": "2026-07-25T11:34:47.918000",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agentreg – DNS for AI agents (self-hosted, single Go binary)",
+        "url": "https://github.com/mkk2026/agentreg",
+        "timestamp": "2026-07-25T11:34:47.918035",
+        "source": "Hacker News"
     }
 ]
