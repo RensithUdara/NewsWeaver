@@ -438898,5 +438898,11 @@
         "url": "https://formulae.brew.sh/analytics/cask-install/30d/",
         "timestamp": "2026-07-25T15:28:20.570989",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Proton – An immediate-mode GUI library for Go built on Gio without CGO",
+        "url": "https://news.ycombinator.com/item?id=49048048",
+        "timestamp": "2026-07-25T15:28:20.571010",
+        "source": "Hacker News"
     }
 ]
