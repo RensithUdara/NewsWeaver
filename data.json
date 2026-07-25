@@ -439864,5 +439864,11 @@
         "url": "https://www.axios.com/2026/07/23/rates-treasury-yields-borrowing",
         "timestamp": "2026-07-25T21:24:20.992593",
         "source": "Hacker News"
+    },
+    {
+        "title": "JIT Go Brrr: The Path to a Supported JIT Compiler for CPython",
+        "url": "https://peps.python.org/pep-0836/",
+        "timestamp": "2026-07-25T21:24:20.992628",
+        "source": "Hacker News"
     }
 ]
