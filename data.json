@@ -439690,5 +439690,11 @@
         "url": "https://www.phoronix.com/news/Fedora-45-Atomic-Remote-Install",
         "timestamp": "2026-07-25T20:28:45.441354",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Awsmux – Multi-account AWS CLI, up to 5.4x faster, 7.4x fewer tokens",
+        "url": "https://github.com/0hardik1/awsmux",
+        "timestamp": "2026-07-25T20:28:45.441388",
+        "source": "Hacker News"
     }
 ]
