@@ -437248,5 +437248,11 @@
         "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
         "timestamp": "2026-07-24T23:31:04.678013",
         "source": "TechCrunch"
+    },
+    {
+        "title": "The road to epsilon-zero: Nim always ends, even with infinite ordinals",
+        "url": "https://blog.plover.com/math/ordinals/02-wellfoundedness.html",
+        "timestamp": "2026-07-25T01:04:45.329555",
+        "source": "Hacker News"
     }
 ]
