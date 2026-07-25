@@ -439306,5 +439306,11 @@
         "url": "https://www.youtube.com/watch?v=Vv3CEAS_w34",
         "timestamp": "2026-07-25T18:13:43.751162",
         "source": "Hacker News"
+    },
+    {
+        "title": "Csvcomp – Zero-dependency Python CSV diff utility",
+        "url": "https://github.com/prasad-a-abhishek/csvcomp",
+        "timestamp": "2026-07-25T18:13:43.751199",
+        "source": "Hacker News"
     }
 ]
