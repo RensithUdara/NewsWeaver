@@ -439942,5 +439942,11 @@
         "url": "https://fly.io/blog/kurt-scott-money-sprites/",
         "timestamp": "2026-07-25T21:24:20.993157",
         "source": "Hacker News"
+    },
+    {
+        "title": "ALP: Adaptive lossless floating-point compression",
+        "url": "https://github.com/cwida/ALP",
+        "timestamp": "2026-07-25T21:24:20.993224",
+        "source": "Hacker News"
     }
 ]
