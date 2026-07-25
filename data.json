@@ -437692,5 +437692,11 @@
         "url": "https://extinct-media-museum.blog.jp/otemachi/",
         "timestamp": "2026-07-25T06:31:52.414893",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Rivers – a Rust/Python orchestrator with native OIDC and forward auth",
+        "url": "https://github.com/ion-elgreco/rivers",
+        "timestamp": "2026-07-25T06:31:52.414928",
+        "source": "Hacker News"
     }
 ]
