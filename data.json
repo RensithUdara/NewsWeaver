@@ -437830,5 +437830,11 @@
         "url": "https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1",
         "timestamp": "2026-07-25T08:33:09.768024",
         "source": "Hacker News"
+    },
+    {
+        "title": "Memory Safety's Hardest Problem",
+        "url": "https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html",
+        "timestamp": "2026-07-25T08:33:09.768060",
+        "source": "Hacker News"
     }
 ]
