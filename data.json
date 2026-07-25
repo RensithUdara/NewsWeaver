@@ -439060,5 +439060,11 @@
         "url": "https://pilgrima.ge/p/the-evil-eye",
         "timestamp": "2026-07-25T16:24:58.447974",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bringing PyTorch Monarch to AMD GPUs",
+        "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
+        "timestamp": "2026-07-25T16:24:58.448000",
+        "source": "Hacker News"
     }
 ]
