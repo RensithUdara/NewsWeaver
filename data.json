@@ -437710,5 +437710,11 @@
         "url": "https://news.ycombinator.com/item?id=49044813",
         "timestamp": "2026-07-25T06:31:52.414997",
         "source": "Hacker News"
+    },
+    {
+        "title": "Split Screen – browser workspaces to replace tab sprawl (free, local)",
+        "url": "https://github.com/MIR-2025/brave-ext/tree/main/splitscreen",
+        "timestamp": "2026-07-25T06:31:52.415031",
+        "source": "Hacker News"
     }
 ]
