@@ -439414,5 +439414,11 @@
         "url": "https://www.wired.com/story/made-in-china-chinas-vape-makers-have-a-new-way-around-flavor-bans/",
         "timestamp": "2026-07-25T18:13:43.751878",
         "source": "Hacker News"
+    },
+    {
+        "title": "Persistent State Machine: Breaking the von Neumann Memory Wall for LLM Attention",
+        "url": "https://zenodo.org/records/21566453",
+        "timestamp": "2026-07-25T18:13:43.751914",
+        "source": "Hacker News"
     }
 ]
