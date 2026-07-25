@@ -440134,5 +440134,11 @@
         "url": "https://swag.htmx.org/products/htmx-4-the-game",
         "timestamp": "2026-07-25T23:26:25.695685",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Routeveil – Shared-element and page transitions engine for React Router",
+        "url": "https://www.routeveil.dev/lab/shared-elements",
+        "timestamp": "2026-07-25T23:26:25.695735",
+        "source": "Hacker News"
     }
 ]
