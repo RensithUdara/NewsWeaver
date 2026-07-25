@@ -438502,5 +438502,11 @@
         "url": "https://hiotto.vercel.app/",
         "timestamp": "2026-07-25T12:35:30.252247",
         "source": "Hacker News"
+    },
+    {
+        "title": "How we pushed CDC into Postgres, and turned replication into clockwork",
+        "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+        "timestamp": "2026-07-25T12:35:30.252283",
+        "source": "Hacker News"
     }
 ]
