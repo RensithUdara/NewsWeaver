@@ -437260,5 +437260,11 @@
         "url": "https://vale.rocks/posts/hacker-news",
         "timestamp": "2026-07-25T01:04:45.544876",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Jolta – Automatic per-project JDK switching (like Volta, for Java)",
+        "url": "https://oneappplatform.github.io/jolta/",
+        "timestamp": "2026-07-25T01:04:45.544923",
+        "source": "Hacker News"
     }
 ]
