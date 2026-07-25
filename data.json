@@ -440230,5 +440230,11 @@
         "url": "https://icfpcontest2026.com/textbook#little%20men",
         "timestamp": "2026-07-25T23:26:25.696441",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nvprobe – Open-source, zero-setup CLI for CUDA benchmarks",
+        "url": "https://github.com/SergioZ3R0/nvprobe",
+        "timestamp": "2026-07-25T23:26:25.696475",
+        "source": "Hacker News"
     }
 ]
