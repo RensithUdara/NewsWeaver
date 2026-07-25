@@ -437836,5 +437836,11 @@
         "url": "https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html",
         "timestamp": "2026-07-25T08:33:09.768060",
         "source": "Hacker News"
+    },
+    {
+        "title": "Continuation-Centric Computing with Arca",
+        "url": "https://www.usenix.org/conference/osdi26/presentation/srivatsan",
+        "timestamp": "2026-07-25T08:33:09.768096",
+        "source": "Hacker News"
     }
 ]
