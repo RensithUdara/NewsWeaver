@@ -437668,5 +437668,11 @@
         "url": "https://news.ycombinator.com/item?id=49044903",
         "timestamp": "2026-07-25T06:31:52.414730",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reactive Python Notebooks in Jupyter",
+        "url": "https://github.com/ipyflow/ipyflow",
+        "timestamp": "2026-07-25T06:31:52.414781",
+        "source": "Hacker News"
     }
 ]
