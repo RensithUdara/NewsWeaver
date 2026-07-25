@@ -439618,5 +439618,11 @@
         "url": "https://www.wired.com/story/epstein-files-redwood-bark-school-newspaper/",
         "timestamp": "2026-07-25T19:34:55.928507",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lessons Learned Building High-Performance Rust Profiler",
+        "url": "https://hotpath.rs/blog/rust-performance-profiling",
+        "timestamp": "2026-07-25T19:34:55.928541",
+        "source": "Hacker News"
     }
 ]
