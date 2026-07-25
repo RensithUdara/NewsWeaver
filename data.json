@@ -439198,5 +439198,11 @@
         "url": "https://tlc.proc.io/hub/623f9b12-a08b-4b6d-850a-29d58934eb61/Handoff",
         "timestamp": "2026-07-25T17:27:06.919390",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kain – A non-von Neumann language (Zero GC, Python syntax, no borrow checker)",
+        "url": "https://github.com/kainlang/kain",
+        "timestamp": "2026-07-25T17:27:06.919426",
+        "source": "Hacker News"
     }
 ]
