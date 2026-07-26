@@ -441052,5 +441052,11 @@
         "url": "https://news.ycombinator.com/item?id=49055813",
         "timestamp": "2026-07-26T09:24:18.092438",
         "source": "Hacker News"
+    },
+    {
+        "title": "A protocol for AI agent workspace state and effect management",
+        "url": "https://github.com/eouzoe/reel",
+        "timestamp": "2026-07-26T09:24:18.092490",
+        "source": "Hacker News"
     }
 ]
