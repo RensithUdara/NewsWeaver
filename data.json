@@ -441208,5 +441208,11 @@
         "url": "https://stockhead.com.au/resources/when-the-ai-bubble-bursts-silver-is-eric-sprotts-play/",
         "timestamp": "2026-07-26T10:55:54.226095",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Sip-exporter – passive eBPF-based SIP/RTP monitoring with Prometheus",
+        "url": "https://github.com/aibudaevv/sip-exporter",
+        "timestamp": "2026-07-26T10:55:54.226129",
+        "source": "Hacker News"
     }
 ]
