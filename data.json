@@ -440512,5 +440512,11 @@
         "url": "https://xcancel.com/Mononofu/status/2080937562739531837",
         "timestamp": "2026-07-26T04:34:46.632690",
         "source": "Hacker News"
+    },
+    {
+        "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+        "url": "https://github.com/mulfyx/w4me-station",
+        "timestamp": "2026-07-26T04:34:46.632722",
+        "source": "Hacker News"
     }
 ]
