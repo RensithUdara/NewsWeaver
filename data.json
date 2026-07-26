@@ -442810,5 +442810,11 @@
         "url": "https://www.pewresearch.org/short-reads/2026/06/24/buying-a-home-has-gotten-harder-for-young-adults-in-most-us-metro-areas/",
         "timestamp": "2026-07-26T20:39:19.614205",
         "source": "Hacker News"
+    },
+    {
+        "title": "PGSimCity – an explorable 3D model that shows how Postgres works",
+        "url": "https://github.com/NikolayS/pgsimcity",
+        "timestamp": "2026-07-26T20:39:19.614233",
+        "source": "Hacker News"
     }
 ]
