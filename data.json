@@ -443158,5 +443158,11 @@
         "url": "https://apnews.com/article/skynet-ai-terminator-artificial-intelligence-eb85da03a0161beaa5f3babc4331e93b",
         "timestamp": "2026-07-26T22:35:01.776211",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: LuaJIT with Native SIMD",
+        "url": "https://github.com/TheLuaOSProject/LuaJITMT/releases/tag/1.0.0-simd",
+        "timestamp": "2026-07-26T22:35:01.776232",
+        "source": "Hacker News"
     }
 ]
