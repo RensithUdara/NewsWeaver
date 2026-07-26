@@ -442480,5 +442480,11 @@
         "url": "https://names.vaguespac.es/",
         "timestamp": "2026-07-26T18:38:57.053563",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Rust Async Runtime Footgun That Blocks Your Tokio Thread Pool",
+        "url": "https://medium.com/@yalovoy/the-rust-async-runtime-footgun-that-blocks-your-entire-tokio-thread-pool-94e5c390ae9e",
+        "timestamp": "2026-07-26T18:38:57.053596",
+        "source": "Hacker News"
     }
 ]
