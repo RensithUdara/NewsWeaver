@@ -442486,5 +442486,11 @@
         "url": "https://medium.com/@yalovoy/the-rust-async-runtime-footgun-that-blocks-your-entire-tokio-thread-pool-94e5c390ae9e",
         "timestamp": "2026-07-26T18:38:57.053596",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: An interactive way to exploit an LLM without going to jail",
+        "url": "https://github.com/joshfischer1108/jailbreak-lab",
+        "timestamp": "2026-07-26T18:38:57.053631",
+        "source": "Hacker News"
     }
 ]
