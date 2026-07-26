@@ -441592,5 +441592,11 @@
         "url": "https://github.com/VorticonCmdr/lemmings",
         "timestamp": "2026-07-26T13:00:29.203495",
         "source": "Hacker News"
+    },
+    {
+        "title": "Go Analysis Framework: modular static analysis by go team",
+        "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+        "timestamp": "2026-07-26T13:00:29.203530",
+        "source": "Hacker News"
     }
 ]
