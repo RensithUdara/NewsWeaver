@@ -440668,5 +440668,11 @@
         "url": "https://spotintelligence.com/2023/01/02/minhash/",
         "timestamp": "2026-07-26T07:13:39.640103",
         "source": "Hacker News"
+    },
+    {
+        "title": "Source Code Grep: Use your own grep, but make it source code aware",
+        "url": "https://github.com/m-manu/scgrep",
+        "timestamp": "2026-07-26T07:13:39.640154",
+        "source": "Hacker News"
     }
 ]
