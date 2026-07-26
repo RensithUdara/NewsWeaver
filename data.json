@@ -441934,5 +441934,11 @@
         "url": "https://news.ycombinator.com/item?id=49058888",
         "timestamp": "2026-07-26T15:46:10.237962",
         "source": "Hacker News"
+    },
+    {
+        "title": "The logic behind C declarations (and the only correct way to declare pointers)",
+        "url": "https://moffa.xyz/posts/the-logic-behind-c-declarations.html",
+        "timestamp": "2026-07-26T15:46:10.237995",
+        "source": "Hacker News"
     }
 ]
