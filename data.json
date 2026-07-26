@@ -440620,5 +440620,11 @@
         "url": "https://gpu.atarimae.dev/",
         "timestamp": "2026-07-26T04:34:46.633299",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Visual Journey Through Async Rust",
+        "url": "https://github.com/alexpusch/rust-magic-patterns/blob/master/visual-journey-through-async-rust/Readme.md",
+        "timestamp": "2026-07-26T04:34:46.633327",
+        "source": "Hacker News"
     }
 ]
