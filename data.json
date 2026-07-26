@@ -442342,5 +442342,11 @@
         "url": "https://leadprompt.sh/a/737-Lessons-from-crawling-the-web-at-scale-2026w17",
         "timestamp": "2026-07-26T17:39:08.774870",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Worklog, structured memory for Agent in one SQLite table",
+        "url": "https://github.com/xyb/worklog",
+        "timestamp": "2026-07-26T17:39:08.774907",
+        "source": "Hacker News"
     }
 ]
