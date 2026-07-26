@@ -440986,5 +440986,11 @@
         "url": "https://www.noahpinion.blog/p/what-will-more-intelligence-actually",
         "timestamp": "2026-07-26T09:24:18.092070",
         "source": "Hacker News"
+    },
+    {
+        "title": "HomeLab #2: Immutable GitOps homelab and MikroTik hardening",
+        "url": "https://justsomebody.dev/blog/gitops-k3s-flux",
+        "timestamp": "2026-07-26T09:24:18.092104",
+        "source": "Hacker News"
     }
 ]
