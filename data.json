@@ -441058,5 +441058,11 @@
         "url": "https://github.com/eouzoe/reel",
         "timestamp": "2026-07-26T09:24:18.092490",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reth ExEx spawn_critical_task terminates node on any plugin panic",
+        "url": "https://github.com/paradigmxyz/reth/security/advisories/GHSA-whc8-8pf6-5ch6",
+        "timestamp": "2026-07-26T09:24:18.092529",
+        "source": "Hacker News"
     }
 ]
