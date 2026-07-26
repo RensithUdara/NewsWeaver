@@ -441256,5 +441256,11 @@
         "url": "https://termic.dev/",
         "timestamp": "2026-07-26T10:55:54.226362",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Cfbench – A lightweight native CLI for Cloudflare speed tests",
+        "url": "https://github.com/fcendesu/cfbench",
+        "timestamp": "2026-07-26T10:55:54.226404",
+        "source": "Hacker News"
     }
 ]
