@@ -442870,5 +442870,11 @@
         "url": "https://www.nytimes.com/2026/07/15/magazine/electric-cars-american-evs.html",
         "timestamp": "2026-07-26T20:39:19.614484",
         "source": "Hacker News"
+    },
+    {
+        "title": "Vulnerabilities in CJSON",
+        "url": "https://joshua.hu/cjson-json-parser-cve-vulnerabilities",
+        "timestamp": "2026-07-26T20:39:19.614512",
+        "source": "Hacker News"
     }
 ]
