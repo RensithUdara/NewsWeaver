@@ -442438,5 +442438,11 @@
         "url": "https://www.modelfuzz.com/",
         "timestamp": "2026-07-26T18:38:57.053263",
         "source": "Hacker News"
+    },
+    {
+        "title": "Header-only C/C++ Meshtastic LoRa protocol stack for embedded systems",
+        "url": "https://github.com/jstockdale/meshtastic-lite",
+        "timestamp": "2026-07-26T18:38:57.053313",
+        "source": "Hacker News"
     }
 ]
