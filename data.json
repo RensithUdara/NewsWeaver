@@ -441292,5 +441292,11 @@
         "url": "https://plansync.store/",
         "timestamp": "2026-07-26T11:55:41.408161",
         "source": "Hacker News"
+    },
+    {
+        "title": "Microsoft rewrote the TypeScript compiler in native code and made it 10x faster",
+        "url": "https://www.youtube.com/watch?v=OytpXXeNmTQ",
+        "timestamp": "2026-07-26T11:55:41.408202",
+        "source": "Hacker News"
     }
 ]
