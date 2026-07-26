@@ -442948,5 +442948,11 @@
         "url": "https://claymcleod.dev/blog/2026-07-26-why-were-building-omics",
         "timestamp": "2026-07-26T21:34:27.637429",
         "source": "Hacker News"
+    },
+    {
+        "title": "Unreached: Find code that exists in your repo and is never reached",
+        "url": "https://github.com/siliroid/unreached",
+        "timestamp": "2026-07-26T21:34:27.637468",
+        "source": "Hacker News"
     }
 ]
