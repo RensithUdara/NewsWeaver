@@ -440536,5 +440536,11 @@
         "url": "https://www.dam.brown.edu/people/mumford/blog/2026/AIs%20with%20Agency.html",
         "timestamp": "2026-07-26T04:34:46.632859",
         "source": "Hacker News"
+    },
+    {
+        "title": "Interlock: Proving a secret moved, instead of guessing that it might",
+        "url": "https://yashwanthreddymali.com/blog/interlock-exfiltration-at-runtime/",
+        "timestamp": "2026-07-26T04:34:46.632889",
+        "source": "Hacker News"
     }
 ]
