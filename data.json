@@ -441502,5 +441502,11 @@
         "url": "https://www.gssiweb.org/sports-science-exchange/article/an-update-on-beta-alanine-supplementation-for-athletes",
         "timestamp": "2026-07-26T13:00:29.202845",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-49176 Exploit Development: WalletService to System",
+        "url": "https://davidcarliez.github.io/blog/cve-2026-49176-walletservice-to-system/",
+        "timestamp": "2026-07-26T13:00:29.202881",
+        "source": "Hacker News"
     }
 ]
