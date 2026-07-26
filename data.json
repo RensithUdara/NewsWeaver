@@ -440944,5 +440944,11 @@
         "url": "https://www.youtube.com/watch?v=PMiIytmoEuk",
         "timestamp": "2026-07-26T09:24:18.091759",
         "source": "Hacker News"
+    },
+    {
+        "title": "High Volume Transaction Processing Without Concurrency Control (1997)",
+        "url": "https://www.researchgate.net/publication/2310700_High_Volume_Transaction_Processing_Without_Concurrency_Control_Two_Phase_Commit_SQL_or_C",
+        "timestamp": "2026-07-26T09:24:18.091798",
+        "source": "Hacker News"
     }
 ]
