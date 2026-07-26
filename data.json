@@ -441874,5 +441874,11 @@
         "url": "https://office-deployment-tool.pages.dev",
         "timestamp": "2026-07-26T15:46:10.237595",
         "source": "Hacker News"
+    },
+    {
+        "title": "Surge: Blazing fast TUI download manager (outperforms aria2c by ~1.4x)",
+        "url": "https://github.com/SurgeDM/Surge",
+        "timestamp": "2026-07-26T15:46:10.237627",
+        "source": "Hacker News"
     }
 ]
