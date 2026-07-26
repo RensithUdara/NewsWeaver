@@ -442468,5 +442468,11 @@
         "url": "https://www.hornet.org/wikipedia-notes.txt",
         "timestamp": "2026-07-26T18:38:57.053485",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Readability for web and PDFs with TTS and local AI summary",
+        "url": "https://github.com/ldenoue/readability-read-aloud-web-pdf-ai-summary",
+        "timestamp": "2026-07-26T18:38:57.053527",
+        "source": "Hacker News"
     }
 ]
