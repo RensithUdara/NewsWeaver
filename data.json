@@ -440554,5 +440554,11 @@
         "url": "https://github.com/YoshiMannaert/95CSS",
         "timestamp": "2026-07-26T04:34:46.632952",
         "source": "Hacker News"
+    },
+    {
+        "title": "JEP 538: PEM Encodings of Cryptographic Objects",
+        "url": "https://openjdk.org/jeps/538",
+        "timestamp": "2026-07-26T04:34:46.632981",
+        "source": "Hacker News"
     }
 ]
