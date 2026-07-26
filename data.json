@@ -443314,5 +443314,11 @@
         "url": "https://www.alecvo.org/blog/types-with-ai/",
         "timestamp": "2026-07-26T23:33:47.204165",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Minecraft-alpha-style voxel game written in Rust with a custom engine",
+        "url": "https://github.com/dollspace-gay/Wildforge",
+        "timestamp": "2026-07-26T23:33:47.204199",
+        "source": "Hacker News"
     }
 ]
