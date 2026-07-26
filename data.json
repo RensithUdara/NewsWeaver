@@ -443014,5 +443014,11 @@
         "url": "https://twitter.com/xucian_/status/2081469757300359289",
         "timestamp": "2026-07-26T21:34:27.637790",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: MTLS with keys never leaving the TPM",
+        "url": "https://github.com/bschaatsbergen/go-tpm-tls",
+        "timestamp": "2026-07-26T21:34:27.637815",
+        "source": "Hacker News"
     }
 ]
