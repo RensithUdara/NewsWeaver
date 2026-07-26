@@ -440416,5 +440416,11 @@
         "url": "https://www.nepodb.com/",
         "timestamp": "2026-07-26T01:04:47.000076",
         "source": "Hacker News"
+    },
+    {
+        "title": "Triton: DirectX 11 driver for QEMU",
+        "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+        "timestamp": "2026-07-26T01:04:47.000112",
+        "source": "Hacker News"
     }
 ]
