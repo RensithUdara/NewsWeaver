@@ -442900,5 +442900,11 @@
         "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
         "timestamp": "2026-07-26T21:34:27.444975",
         "source": "Hacker News"
+    },
+    {
+        "title": "How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster",
+        "url": "https://astgrep.com/blog/tree-sitter-rust-rewrite",
+        "timestamp": "2026-07-26T21:34:27.445178",
+        "source": "Hacker News"
     }
 ]
