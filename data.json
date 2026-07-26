@@ -443332,5 +443332,11 @@
         "url": "https://github.com/vercel-labs/scriptc",
         "timestamp": "2026-07-26T23:33:47.204310",
         "source": "Hacker News"
+    },
+    {
+        "title": "Shepherd Model Gateway – Model-routing gateway for LLM deployments",
+        "url": "https://github.com/lightseekorg/smg",
+        "timestamp": "2026-07-26T23:33:47.204344",
+        "source": "Hacker News"
     }
 ]
