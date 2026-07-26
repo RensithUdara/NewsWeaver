@@ -441424,5 +441424,11 @@
         "url": "https://www.wsj.com/tech/ai/openai-chatbot-biological-weapons-poison-3d808e6c",
         "timestamp": "2026-07-26T11:55:41.409043",
         "source": "Hacker News"
+    },
+    {
+        "title": "A [rust] panic hook that asks ChatGPT what went wrong",
+        "url": "https://crates.io/crates/chatgpt-panic-hook",
+        "timestamp": "2026-07-26T11:55:41.409114",
+        "source": "Hacker News"
     }
 ]
