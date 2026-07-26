@@ -441064,5 +441064,11 @@
         "url": "https://github.com/paradigmxyz/reth/security/advisories/GHSA-whc8-8pf6-5ch6",
         "timestamp": "2026-07-26T09:24:18.092529",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code Cut Their System Prompt by 80%. Does That Work for Small Models Too?",
+        "url": "https://antigma.ai/blog/2026/07/25/short-prompt-small-models",
+        "timestamp": "2026-07-26T09:24:18.092563",
+        "source": "Hacker News"
     }
 ]
