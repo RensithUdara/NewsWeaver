@@ -440890,5 +440890,11 @@
         "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
         "timestamp": "2026-07-26T09:24:17.940606",
         "source": "Hacker News"
+    },
+    {
+        "title": "DskDitto: Ultra-fast, parallel duplicate-file detector",
+        "url": "https://github.com/jdefrancesco/dskDitto",
+        "timestamp": "2026-07-26T09:24:17.940782",
+        "source": "Hacker News"
     }
 ]
