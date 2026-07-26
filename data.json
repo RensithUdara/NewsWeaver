@@ -443200,5 +443200,11 @@
         "url": "https://github.com/ldyeax/macbook2010_nouveau_and_sleep_fixes/",
         "timestamp": "2026-07-26T22:35:01.776360",
         "source": "Hacker News"
+    },
+    {
+        "title": "Frontier LLMs drop from 83% to 43% once reasoning has to chain across domains",
+        "url": "https://arxiv.org/abs/2607.18438",
+        "timestamp": "2026-07-26T22:35:01.776383",
+        "source": "Hacker News"
     }
 ]
