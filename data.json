@@ -440956,5 +440956,11 @@
         "url": "https://astral.sh/blog/ruff-v0.16.0",
         "timestamp": "2026-07-26T09:24:18.091834",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code has a hardcoded instruction telling Opus 5 not to use subagents",
+        "url": "https://old.reddit.com/r/ClaudeCode/comments/1v6y5q2/claude_code_has_a_hardcoded_instruction_telling/",
+        "timestamp": "2026-07-26T09:24:18.091903",
+        "source": "Hacker News"
     }
 ]
