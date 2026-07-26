@@ -442000,5 +442000,11 @@
         "url": "https://spectrum.ieee.org/origami-circuit-boards",
         "timestamp": "2026-07-26T16:37:27.495993",
         "source": "Hacker News"
+    },
+    {
+        "title": "Setting up containerized dev environments you can spin up in seconds",
+        "url": "https://ykdojo.github.io/antigravity-cloud-run/posts/ephemeral-dev-environments.html",
+        "timestamp": "2026-07-26T16:37:27.955072",
+        "source": "Hacker News"
     }
 ]
