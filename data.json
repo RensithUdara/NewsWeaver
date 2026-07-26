@@ -440428,5 +440428,11 @@
         "url": "https://hou2.vercel.app/",
         "timestamp": "2026-07-26T01:04:47.000148",
         "source": "Hacker News"
+    },
+    {
+        "title": "Stinkpot: SQLite-Backed Shell History",
+        "url": "https://tangled.org/oppi.li/stinkpot",
+        "timestamp": "2026-07-26T01:04:47.000183",
+        "source": "Hacker News"
     }
 ]
