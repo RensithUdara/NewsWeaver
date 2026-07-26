@@ -441124,5 +441124,11 @@
         "url": "https://code.claude.com/docs/en/data-usage",
         "timestamp": "2026-07-26T10:55:54.225448",
         "source": "Hacker News"
+    },
+    {
+        "title": "KGazer: Kafka Compacted Topic Explorer",
+        "url": "https://github.com/alfonsojimenez/kgazer",
+        "timestamp": "2026-07-26T10:55:54.225528",
+        "source": "Hacker News"
     }
 ]
