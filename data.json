@@ -440368,5 +440368,11 @@
         "url": "https://en.wikipedia.org/wiki/Everything_is_a_file",
         "timestamp": "2026-07-26T01:04:46.999591",
         "source": "Hacker News"
+    },
+    {
+        "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+        "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+        "timestamp": "2026-07-26T01:04:46.999701",
+        "source": "Hacker News"
     }
 ]
