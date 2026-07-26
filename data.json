@@ -440704,5 +440704,11 @@
         "url": "https://news.ycombinator.com/item?id=49055494",
         "timestamp": "2026-07-26T07:13:39.640337",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Inflect TTS v2+ONNX, 9M/4M text-to-speech models running in the browser",
+        "url": "https://inflect-tts.geronimo-labs.com",
+        "timestamp": "2026-07-26T07:13:39.640371",
+        "source": "Hacker News"
     }
 ]
