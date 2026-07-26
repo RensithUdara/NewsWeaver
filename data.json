@@ -441100,5 +441100,11 @@
         "url": "https://comuniq.xyz/post?t=1439",
         "timestamp": "2026-07-26T10:55:53.981546",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pip install Postgres – no Docker/Brew/apt",
+        "url": "https://github.com/leontrolski/postgresql-testing",
+        "timestamp": "2026-07-26T10:55:53.981651",
+        "source": "Hacker News"
     }
 ]
