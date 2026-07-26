@@ -443320,5 +443320,11 @@
         "url": "https://github.com/dollspace-gay/Wildforge",
         "timestamp": "2026-07-26T23:33:47.204199",
         "source": "Hacker News"
+    },
+    {
+        "title": "FastJson 1.2.83 Remote Code Execution",
+        "url": "https://fearsoff.org/research/fastjson-1-2-83-rce",
+        "timestamp": "2026-07-26T23:33:47.204235",
+        "source": "Hacker News"
     }
 ]
