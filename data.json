@@ -441130,5 +441130,11 @@
         "url": "https://github.com/alfonsojimenez/kgazer",
         "timestamp": "2026-07-26T10:55:54.225528",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nub – A TypeScript-first toolchain that runs TypeScript files and package.json",
+        "url": "https://nubjs.com",
+        "timestamp": "2026-07-26T10:55:54.225580",
+        "source": "Hacker News"
     }
 ]
