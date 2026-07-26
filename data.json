@@ -443266,5 +443266,11 @@
         "url": "https://ziva.sh/blogs/godot-vampire-benchmark",
         "timestamp": "2026-07-26T23:33:47.203781",
         "source": "Hacker News"
+    },
+    {
+        "title": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+        "url": "https://github.com/faizannraza/wattage",
+        "timestamp": "2026-07-26T23:33:47.203823",
+        "source": "Hacker News"
     }
 ]
