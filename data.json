@@ -441640,5 +441640,11 @@
         "url": "https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html",
         "timestamp": "2026-07-26T14:42:22.157257",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: OpenSmith – Trace LLM pipelines locally with trace, no cloud",
+        "url": "https://github.com/shivnathtathe/opensmith",
+        "timestamp": "2026-07-26T14:42:22.157293",
+        "source": "Hacker News"
     }
 ]
