@@ -443326,5 +443326,11 @@
         "url": "https://fearsoff.org/research/fastjson-1-2-83-rce",
         "timestamp": "2026-07-26T23:33:47.204235",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+        "url": "https://github.com/vercel-labs/scriptc",
+        "timestamp": "2026-07-26T23:33:47.204310",
+        "source": "Hacker News"
     }
 ]
