@@ -443194,5 +443194,11 @@
         "url": "https://blog.ppb1701.com/rampocalypse-now-with-lawyers",
         "timestamp": "2026-07-26T22:35:01.776339",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Codex fixed my 2010 MacBook Pro driver troubles with kernel patches",
+        "url": "https://github.com/ldyeax/macbook2010_nouveau_and_sleep_fixes/",
+        "timestamp": "2026-07-26T22:35:01.776360",
+        "source": "Hacker News"
     }
 ]
