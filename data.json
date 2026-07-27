@@ -445066,5 +445066,11 @@
         "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
         "timestamp": "2026-07-27T20:51:53.984706",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted",
+        "url": "https://github.com/letsseal/letsseal",
+        "timestamp": "2026-07-27T20:51:53.984741",
+        "source": "Hacker News"
     }
 ]
