@@ -445408,5 +445408,11 @@
         "url": "https://bsky.app/profile/carlquintanilla.bsky.social/post/3mrnpjnje4c2y",
         "timestamp": "2026-07-27T21:55:45.454468",
         "source": "Hacker News"
+    },
+    {
+        "title": "Anthropic used robots.txt to hide shared Claude chats; the pages have no noindex",
+        "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+        "timestamp": "2026-07-27T21:55:45.454488",
+        "source": "Hacker News"
     }
 ]
