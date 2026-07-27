@@ -443662,5 +443662,11 @@
         "url": "https://github.com/sivaadityacoder/asl-v6",
         "timestamp": "2026-07-27T04:52:45.854802",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Injectable time and timers with custom Date types for TypeScript",
+        "url": "https://github.com/jaenyf/time-provider",
+        "timestamp": "2026-07-27T04:52:45.854837",
+        "source": "Hacker News"
     }
 ]
