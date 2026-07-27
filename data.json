@@ -445678,5 +445678,11 @@
         "url": "https://fridge0.branchable.com/",
         "timestamp": "2026-07-27T23:54:59.174050",
         "source": "Hacker News"
+    },
+    {
+        "title": "Git credential-cache and suspend: an unexpected timeout behavior",
+        "url": "https://github.com/unlinkedbyte/unlinkedbyte.github.io/blob/main/_posts/2026-07-25-Git-credential-cache-and-suspend-an-unexpected-timeout-behaviour.md",
+        "timestamp": "2026-07-27T23:54:59.174098",
+        "source": "Hacker News"
     }
 ]
