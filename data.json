@@ -443734,5 +443734,11 @@
         "url": "https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb",
         "timestamp": "2026-07-27T08:21:12.296716",
         "source": "Hacker News"
+    },
+    {
+        "title": "Elevated errors on Claude Opus 5",
+        "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
+        "timestamp": "2026-07-27T08:21:12.383365",
+        "source": "Hacker News"
     }
 ]
