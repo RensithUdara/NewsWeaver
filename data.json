@@ -445144,5 +445144,11 @@
         "url": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
         "timestamp": "2026-07-27T20:51:54.079336",
         "source": "Hacker News"
+    },
+    {
+        "title": "Softmax Approximation for FPGAs Using Taylor Series and Pade Approximants",
+        "url": "https://leetarxiv.substack.com/p/approximating-softmax-for-fpgas",
+        "timestamp": "2026-07-27T20:51:54.079371",
+        "source": "Hacker News"
     }
 ]
