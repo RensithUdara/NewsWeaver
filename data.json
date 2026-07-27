@@ -443566,5 +443566,11 @@
         "url": "https://news.ycombinator.com/item?id=49065291",
         "timestamp": "2026-07-27T04:52:45.854000",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Spur solver – Z3-backed model-finder solved values for coding agent",
+        "url": "https://github.com/getspur/spur/tree/main/crates/spur-solver",
+        "timestamp": "2026-07-27T04:52:45.854087",
+        "source": "Hacker News"
     }
 ]
