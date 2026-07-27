@@ -443656,5 +443656,11 @@
         "url": "https://www.theregister.com/virtualization/2026/07/27/foxconn-drops-vmware-adopts-hyperconverged-upstart-arcrfra-for-workloads-including-ai/5278684",
         "timestamp": "2026-07-27T04:52:45.854764",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ASL V6 – Open-source AST red-teaming engine for Python AI agents",
+        "url": "https://github.com/sivaadityacoder/asl-v6",
+        "timestamp": "2026-07-27T04:52:45.854802",
+        "source": "Hacker News"
     }
 ]
