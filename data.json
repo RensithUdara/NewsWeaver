@@ -444700,5 +444700,11 @@
         "url": "https://www.freebsd.org/status/report-2026-04-2026-06/",
         "timestamp": "2026-07-27T17:59:52.390535",
         "source": "Hacker News"
+    },
+    {
+        "title": "Stop Putting Your UniFi Admin Password in an Env Var",
+        "url": "https://blog.herlein.com/post/gofi-api-keys/",
+        "timestamp": "2026-07-27T17:59:52.390568",
+        "source": "Hacker News"
     }
 ]
