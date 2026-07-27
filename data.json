@@ -444388,5 +444388,11 @@
         "url": "https://www.mprnews.org/story/2026/07/09/lawsuit-alleges-mayo-clinic-cut-corners-with-ai",
         "timestamp": "2026-07-27T16:21:24.234949",
         "source": "Hacker News"
+    },
+    {
+        "title": "Docker alternatives for AI agents: Podman, bwrap and Firejail",
+        "url": "https://grigio.org/docker-alternatives-for-ai-agents-podman-bwrap-and-firejail/",
+        "timestamp": "2026-07-27T16:21:24.234986",
+        "source": "Hacker News"
     }
 ]
