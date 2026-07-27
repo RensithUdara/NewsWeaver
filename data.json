@@ -445642,5 +445642,11 @@
         "url": "https://github.com/rancher/rancher/security/advisories/GHSA-c5jm-xcmq-9j95",
         "timestamp": "2026-07-27T22:52:49.260367",
         "source": "Hacker News"
+    },
+    {
+        "title": "DConf 2026 in London",
+        "url": "https://dconf.org/2026/index.html",
+        "timestamp": "2026-07-27T23:54:59.060180",
+        "source": "Hacker News"
     }
 ]
