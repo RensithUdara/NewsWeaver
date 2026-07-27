@@ -445822,5 +445822,11 @@
         "url": "https://bonfirenetworks.org/posts/bonfire-for-communities/",
         "timestamp": "2026-07-27T23:54:59.174796",
         "source": "Hacker News"
+    },
+    {
+        "title": "Functional CQRS with .NET",
+        "url": "https://onurgumus.github.io/FCQRS/tutorial/index.html",
+        "timestamp": "2026-07-27T23:54:59.174823",
+        "source": "Hacker News"
     }
 ]
