@@ -443722,5 +443722,11 @@
         "url": "https://huggingface.co/moonshotai/Kimi-K3",
         "timestamp": "2026-07-27T08:21:12.295852",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Zen of Parallel Programming: The Posture of a Kernel",
+        "url": "https://smolnero.com/posts/the-zen-of-parallel-programming-the-posture-of-a-kernel",
+        "timestamp": "2026-07-27T08:21:12.296202",
+        "source": "Hacker News"
     }
 ]
