@@ -444034,5 +444034,11 @@
         "url": "https://www.shaylocomotives.com/",
         "timestamp": "2026-07-27T11:47:09.520518",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a Fast Lock-Free Queue in Modern C++ from Scratch",
+        "url": "https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/",
+        "timestamp": "2026-07-27T11:47:09.520585",
+        "source": "Hacker News"
     }
 ]
