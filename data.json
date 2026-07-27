@@ -443428,5 +443428,11 @@
         "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
         "timestamp": "2026-07-27T01:12:55.354340",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A 60-line PreToolUse hook that stops Claude Code from editing your .env",
+        "url": "https://github.com/avenna01-ceo/claude-code-survival-kr/tree/main/guard",
+        "timestamp": "2026-07-27T01:12:55.354375",
+        "source": "Hacker News"
     }
 ]
