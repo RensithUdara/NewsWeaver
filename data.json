@@ -445636,5 +445636,11 @@
         "url": "https://www.listennotes.com/podcast-stats/",
         "timestamp": "2026-07-27T22:52:49.260329",
         "source": "Hacker News"
+    },
+    {
+        "title": "SAML Authentication Replay in Rancher",
+        "url": "https://github.com/rancher/rancher/security/advisories/GHSA-c5jm-xcmq-9j95",
+        "timestamp": "2026-07-27T22:52:49.260367",
+        "source": "Hacker News"
     }
 ]
