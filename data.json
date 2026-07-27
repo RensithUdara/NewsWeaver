@@ -445546,5 +445546,11 @@
         "url": "https://news.ycombinator.com/item?id=49076401",
         "timestamp": "2026-07-27T22:52:49.259776",
         "source": "Hacker News"
+    },
+    {
+        "title": "Benchmarking Opus 5 on SlopCodeBench",
+        "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+        "timestamp": "2026-07-27T22:52:49.259811",
+        "source": "Hacker News"
     }
 ]
