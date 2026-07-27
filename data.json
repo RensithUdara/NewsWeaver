@@ -445000,5 +445000,11 @@
         "url": "https://openvisor.vercel.app/",
         "timestamp": "2026-07-27T19:37:36.018635",
         "source": "Hacker News"
+    },
+    {
+        "title": "Backfills should fail in minutes, not days",
+        "url": "https://will-keleher.com/posts/backfills-should-fail-in-minutes-not-days/",
+        "timestamp": "2026-07-27T19:37:36.018662",
+        "source": "Hacker News"
     }
 ]
