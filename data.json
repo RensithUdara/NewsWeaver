@@ -445432,5 +445432,11 @@
         "url": "https://arguseyes.xyz/?layers=fire",
         "timestamp": "2026-07-27T21:55:45.454565",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Sealing traffic between Go services with hpke –no mTLS, no secrets",
+        "url": "https://towardsdev.com/sealing-traffic-between-co-operating-go-services-with-crypto-hpke-a628cb897bde?sk=8bda76cbf0c2ae081caaf95b2457e17f",
+        "timestamp": "2026-07-27T21:55:45.454586",
+        "source": "Hacker News"
     }
 ]
