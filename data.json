@@ -445396,5 +445396,11 @@
         "url": "https://www.viksnewsletter.com/p/hbm-is-the-ugly-baby-what-now",
         "timestamp": "2026-07-27T21:55:45.454426",
         "source": "Hacker News"
+    },
+    {
+        "title": "I got tired of writing the same FastAPI boilerplate, so I built a CLI",
+        "url": "https://github.com/prathamdmehta/backend-dash",
+        "timestamp": "2026-07-27T21:55:45.454447",
+        "source": "Hacker News"
     }
 ]
