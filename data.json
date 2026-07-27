@@ -443710,5 +443710,11 @@
         "url": "https://freepress.today/",
         "timestamp": "2026-07-27T04:52:45.855130",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: a Rust, Wayland, Vulkan 3D CRT, screencast application, retroarch cores",
+        "url": "https://github.com/andrewfader/crtulum",
+        "timestamp": "2026-07-27T04:52:45.855177",
+        "source": "Hacker News"
     }
 ]
