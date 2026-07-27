@@ -444748,5 +444748,11 @@
         "url": "https://fortune.com/2026/07/21/ai-solves-jacobian-conjecture-levant-alpoge-claude-fable-5/",
         "timestamp": "2026-07-27T17:59:52.390857",
         "source": "Hacker News"
+    },
+    {
+        "title": "AgentENV: A platform for running agent env at scale (Kimi K3 RL)",
+        "url": "https://github.com/kvcache-ai/AgentENV",
+        "timestamp": "2026-07-27T17:59:52.390890",
+        "source": "Hacker News"
     }
 ]
