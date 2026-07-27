@@ -445264,5 +445264,11 @@
         "url": "https://platformengineering.org/blog/how-platform-engineering-2-0-mitigates-ai-security-and-compliance-risks",
         "timestamp": "2026-07-27T21:55:45.179855",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building GCC 1.27",
+        "url": "http://kristerw.blogspot.com/2019/01/building-gcc-127.html",
+        "timestamp": "2026-07-27T21:55:45.179914",
+        "source": "Hacker News"
     }
 ]
