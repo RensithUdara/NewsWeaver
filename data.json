@@ -444418,5 +444418,11 @@
         "url": "https://locafileai.com",
         "timestamp": "2026-07-27T16:21:24.235163",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hardware-Software Co-Design for Float16 On-Device Training on RISC-V Single-Core",
+        "url": "https://arxiv.org/abs/2607.21130",
+        "timestamp": "2026-07-27T16:21:24.235201",
+        "source": "Hacker News"
     }
 ]
