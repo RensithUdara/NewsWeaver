@@ -444130,5 +444130,11 @@
         "url": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
         "timestamp": "2026-07-27T13:59:33.842083",
         "source": "Hacker News"
+    },
+    {
+        "title": "Don't add PostHog to your codebase. Make AI do it for you",
+        "url": "https://posthog.com/wizard",
+        "timestamp": "2026-07-27T13:59:33.929793",
+        "source": "Hacker News"
     }
 ]
