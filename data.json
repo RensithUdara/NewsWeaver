@@ -444010,5 +444010,11 @@
         "url": "https://code.videolan.org/videolan/vlc-unity",
         "timestamp": "2026-07-27T11:47:09.520353",
         "source": "Hacker News"
+    },
+    {
+        "title": "Libsm64: Mario 64 as a library for use in external game engines",
+        "url": "https://github.com/libsm64/libsm64",
+        "timestamp": "2026-07-27T11:47:09.520378",
+        "source": "Hacker News"
     }
 ]
