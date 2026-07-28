@@ -447850,5 +447850,11 @@
         "url": "https://codedelta.app/article-otp-rework.html",
         "timestamp": "2026-07-28T18:57:28.215212",
         "source": "Hacker News"
+    },
+    {
+        "title": "Simulating TCP loss and congestion in browser using Go/WASM",
+        "url": "https://ccsim.fly.dev",
+        "timestamp": "2026-07-28T18:57:28.215247",
+        "source": "Hacker News"
     }
 ]
