@@ -447274,5 +447274,11 @@
         "url": "https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search",
         "timestamp": "2026-07-28T16:18:04.758645",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: XY – Fast, composable, GPU-accelerated charts, written in Rust",
+        "url": "https://github.com/reflex-dev/xy",
+        "timestamp": "2026-07-28T16:18:04.758692",
+        "source": "Hacker News"
     }
 ]
