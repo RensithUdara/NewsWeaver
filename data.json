@@ -446350,5 +446350,11 @@
         "url": "https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/",
         "timestamp": "2026-07-28T07:26:11.204382",
         "source": "Hacker News"
+    },
+    {
+        "title": "Evals before prompts: building an LLM OCR for KYC",
+        "url": "https://blog.nilenso.com/blog/2026/05/18/evals-before-prompts-building-an-llm-ocr-for-kyc/",
+        "timestamp": "2026-07-28T07:26:11.204417",
+        "source": "Hacker News"
     }
 ]
