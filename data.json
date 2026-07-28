@@ -447100,5 +447100,11 @@
         "url": "https://artreview.com/the-end-of-research-michelle-santiago-cortes/",
         "timestamp": "2026-07-28T14:29:43.409577",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lessons learned from handling a KVM flaw on tens of thousands of machines",
+        "url": "https://blog.ovhcloud.com/en/posts/cve-2026-53359-kvm-patching-lessons-learned/",
+        "timestamp": "2026-07-28T14:29:43.409635",
+        "source": "Hacker News"
     }
 ]
