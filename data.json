@@ -446668,5 +446668,11 @@
         "url": "https://news.ycombinator.com/item?id=49081439",
         "timestamp": "2026-07-28T10:02:53.333570",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: faster-enhancer.c – C library for stable real-time on-device denoising",
+        "url": "https://github.com/kdrkdrkdr/faster-enhancer.c",
+        "timestamp": "2026-07-28T10:02:53.333622",
+        "source": "Hacker News"
     }
 ]
