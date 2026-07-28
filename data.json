@@ -446746,5 +446746,11 @@
         "url": "https://homer.scrivium.com/report/",
         "timestamp": "2026-07-28T12:05:48.364908",
         "source": "Hacker News"
+    },
+    {
+        "title": "Don't ask an LLM for a confidence score",
+        "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+        "timestamp": "2026-07-28T12:05:48.365211",
+        "source": "Hacker News"
     }
 ]
