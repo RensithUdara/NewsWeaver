@@ -447250,5 +447250,11 @@
         "url": "https://arxiv.org/abs/1202.4212",
         "timestamp": "2026-07-28T16:18:04.758529",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zig's Incremental Compilation Internals",
+        "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+        "timestamp": "2026-07-28T16:18:04.758548",
+        "source": "Hacker News"
     }
 ]
