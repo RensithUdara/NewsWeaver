@@ -448246,5 +448246,11 @@
         "url": "https://news.ycombinator.com/item?id=49090089",
         "timestamp": "2026-07-28T21:32:19.987588",
         "source": "Hacker News"
+    },
+    {
+        "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+        "url": "https://github.com/anthropics/cryptography-research-demo",
+        "timestamp": "2026-07-28T21:32:19.987614",
+        "source": "Hacker News"
     }
 ]
