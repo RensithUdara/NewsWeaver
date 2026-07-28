@@ -448702,5 +448702,11 @@
         "url": "https://ae.studio/jobs/pirate",
         "timestamp": "2026-07-28T23:34:47.547743",
         "source": "Hacker News"
+    },
+    {
+        "title": "Preventing agents from cheating on our custom SWE-Bench",
+        "url": "https://www.superconductor.com/blog/preventing-agent-cheating",
+        "timestamp": "2026-07-28T23:34:47.547771",
+        "source": "Hacker News"
     }
 ]
