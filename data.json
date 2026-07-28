@@ -446974,5 +446974,11 @@
         "url": "https://arxiv.org/abs/2510.26692",
         "timestamp": "2026-07-28T14:29:43.321181",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+        "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
+        "timestamp": "2026-07-28T14:29:43.321218",
+        "source": "Hacker News"
     }
 ]
