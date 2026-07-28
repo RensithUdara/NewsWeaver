@@ -445924,5 +445924,11 @@
         "url": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
         "timestamp": "2026-07-28T01:40:41.757608",
         "source": "Hacker News"
+    },
+    {
+        "title": "Microsoft finetuned Qwen 27B for computer use",
+        "url": "https://huggingface.co/microsoft/Fara1.5-27B",
+        "timestamp": "2026-07-28T01:40:41.757626",
+        "source": "Hacker News"
     }
 ]
