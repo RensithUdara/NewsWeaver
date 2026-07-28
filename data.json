@@ -446962,5 +446962,11 @@
         "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
         "timestamp": "2026-07-28T14:29:43.321102",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+        "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+        "timestamp": "2026-07-28T14:29:43.321143",
+        "source": "Hacker News"
     }
 ]
