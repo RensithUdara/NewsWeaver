@@ -446800,5 +446800,11 @@
         "url": "https://www.antirez.com/news/172",
         "timestamp": "2026-07-28T12:05:48.609280",
         "source": "Hacker News"
+    },
+    {
+        "title": "An autonomous agent that researches, writes and publishes a news site",
+        "url": "https://distillation.technology/alembic.html",
+        "timestamp": "2026-07-28T12:05:48.609309",
+        "source": "Hacker News"
     }
 ]
