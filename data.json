@@ -448042,5 +448042,11 @@
         "url": "https://www.theregister.com/security/2026/07/28/def-con-bans-meta-style-pervert-glasses/5279763",
         "timestamp": "2026-07-28T20:13:26.002123",
         "source": "Hacker News"
+    },
+    {
+        "title": "`bun init` automatically creates a Claude.md file by default",
+        "url": "https://bun.com/docs/runtime/templating/init",
+        "timestamp": "2026-07-28T20:13:26.002158",
+        "source": "Hacker News"
     }
 ]
