@@ -446254,5 +446254,11 @@
         "url": "https://www.fermionresearch.com/models/neutrino-8b/",
         "timestamp": "2026-07-28T07:26:10.961405",
         "source": "Hacker News"
+    },
+    {
+        "title": "PyTorch: A Reference Language",
+        "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+        "timestamp": "2026-07-28T07:26:10.961658",
+        "source": "Hacker News"
     }
 ]
