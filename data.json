@@ -446518,5 +446518,11 @@
         "url": "https://www.producthunt.com/products/tag-your-photos",
         "timestamp": "2026-07-28T07:26:11.543813",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "7.1 Earthquake in Japan",
+        "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+        "timestamp": "2026-07-28T10:02:53.256169",
+        "source": "Hacker News"
     }
 ]
