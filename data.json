@@ -447346,5 +447346,11 @@
         "url": "https://webkit.org/blog/18178/webkit-features-for-safari-26-6/",
         "timestamp": "2026-07-28T16:18:04.938639",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Sticky Mark-Bit Algorithm for GCs",
+        "url": "https://wingolog.org/archives/2022/10/22/the-sticky-mark-bit-algorithm",
+        "timestamp": "2026-07-28T16:18:04.938655",
+        "source": "Hacker News"
     }
 ]
