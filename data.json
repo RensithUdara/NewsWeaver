@@ -446620,5 +446620,11 @@
         "url": "https://zenodo.org/records/21627527",
         "timestamp": "2026-07-28T10:02:53.333399",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building Real-Time Analytics with Streaming Engines",
+        "url": "https://medium.com/@DolphinDB_Inc/stop-waiting-for-insights-building-streaming-analytics-with-dolphindb-5338c6bc7f40",
+        "timestamp": "2026-07-28T10:02:53.333420",
+        "source": "Hacker News"
     }
 ]
