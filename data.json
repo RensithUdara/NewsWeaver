@@ -446422,5 +446422,11 @@
         "url": "https://news.ycombinator.com/item?id=49080135",
         "timestamp": "2026-07-28T07:26:11.204854",
         "source": "Hacker News"
+    },
+    {
+        "title": "Prompting Claude Opus 5",
+        "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5",
+        "timestamp": "2026-07-28T07:26:11.204894",
+        "source": "Hacker News"
     }
 ]
