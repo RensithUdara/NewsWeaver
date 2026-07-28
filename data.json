@@ -447616,5 +447616,11 @@
         "url": "https://claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
         "timestamp": "2026-07-28T17:46:33.391345",
         "source": "Hacker News"
+    },
+    {
+        "title": "Advanced Vulkan Compute: The Power of Parallelism",
+        "url": "https://docs.vulkan.org/tutorial/latest/Advanced_Vulkan_Compute/introduction.html",
+        "timestamp": "2026-07-28T17:46:33.391372",
+        "source": "Hacker News"
     }
 ]
