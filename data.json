@@ -446638,5 +446638,11 @@
         "url": "https://news.ycombinator.com/item?id=49081491",
         "timestamp": "2026-07-28T10:02:53.333463",
         "source": "Hacker News"
+    },
+    {
+        "title": "Someone runs K3 on 80x 5090s, for 20 tok/s",
+        "url": "https://twitter.com/totheagi/status/2081855316443205717",
+        "timestamp": "2026-07-28T10:02:53.333484",
+        "source": "Hacker News"
     }
 ]
