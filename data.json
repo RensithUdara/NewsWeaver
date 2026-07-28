@@ -447736,5 +447736,11 @@
         "url": "https://old.reddit.com/r/NoStupidQuestions/comments/1v8pm2x/comment/p07p4ri/",
         "timestamp": "2026-07-28T17:46:33.391958",
         "source": "Hacker News"
+    },
+    {
+        "title": "ClickCannon: Building a Tool for Benchmarking ClickHouse",
+        "url": "https://clickhouse.com/blog/building-clickcannon-a-tool-for-benchmark-clickhouse",
+        "timestamp": "2026-07-28T17:46:33.392020",
+        "source": "Hacker News"
     }
 ]
