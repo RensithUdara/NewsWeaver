@@ -447202,5 +447202,11 @@
         "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36",
         "timestamp": "2026-07-28T14:29:43.477999",
         "source": "Dev.to"
+    },
+    {
+        "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
+        "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
+        "timestamp": "2026-07-28T14:29:43.478008",
+        "source": "Dev.to"
     }
 ]
