@@ -447106,5 +447106,11 @@
         "url": "https://blog.ovhcloud.com/en/posts/cve-2026-53359-kvm-patching-lessons-learned/",
         "timestamp": "2026-07-28T14:29:43.409635",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rio-vt and librio: Rio's terminal engine, now embeddable",
+        "url": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
+        "timestamp": "2026-07-28T14:29:43.409708",
+        "source": "Hacker News"
     }
 ]
