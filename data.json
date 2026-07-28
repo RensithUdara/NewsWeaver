@@ -446812,5 +446812,11 @@
         "url": "https://blog.bytebytego.com/p/how-nvidia-builds-open-models-for",
         "timestamp": "2026-07-28T12:05:48.609336",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kernel accepts wrong-structure projections, allowing axiom-free proof of False",
+        "url": "https://github.com/leanprover/lean4/issues/14576",
+        "timestamp": "2026-07-28T12:05:48.609366",
+        "source": "Hacker News"
     }
 ]
