@@ -447316,5 +447316,11 @@
         "url": "https://github.com/utmapp/UTM/issues/7658",
         "timestamp": "2026-07-28T16:18:04.758877",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ubuntu's TPM encryption switches to snap kernel that blocks deb kernel packages",
+        "url": "https://bare.systems/posts/ubuntu-tpm-snap/",
+        "timestamp": "2026-07-28T16:18:04.938539",
+        "source": "Hacker News"
     }
 ]
