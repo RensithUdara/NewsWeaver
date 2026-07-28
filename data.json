@@ -447772,5 +447772,11 @@
         "url": "https://stephenkrings.com/posts/rtx-5070-linux-gpu-server/",
         "timestamp": "2026-07-28T18:57:28.127171",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gemini Distillation Service",
+        "url": "https://web.archive.org/web/20260728173925/https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tuning/distillation",
+        "timestamp": "2026-07-28T18:57:28.214649",
+        "source": "Hacker News"
     }
 ]
