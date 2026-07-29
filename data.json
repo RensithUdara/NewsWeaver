@@ -449638,5 +449638,11 @@
         "url": "https://www.youtube.com/watch?v=XuoqKYxDHVc",
         "timestamp": "2026-07-29T11:57:53.750816",
         "source": "Hacker News"
+    },
+    {
+        "title": "Adaptive Agentic Attacks on LLM Vulnerability Detectors via Adversarial Comments",
+        "url": "https://arxiv.org/abs/2607.24964",
+        "timestamp": "2026-07-29T11:57:53.750849",
+        "source": "Hacker News"
     }
 ]
