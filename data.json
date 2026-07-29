@@ -449482,5 +449482,11 @@
         "url": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china",
         "timestamp": "2026-07-29T09:57:40.046085",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Skewrun – fix Kerberos clock skew per-process, no root (open source)",
+        "url": "https://github.com/JVBotelho/skewrun",
+        "timestamp": "2026-07-29T09:57:40.046118",
+        "source": "Hacker News"
     }
 ]
