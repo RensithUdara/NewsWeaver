@@ -450376,5 +450376,11 @@
         "url": "https://medium.com/@alanscottencinas/i-took-first-place-without-training-a-model-0f556a043ce1",
         "timestamp": "2026-07-29T17:03:33.568308",
         "source": "Hacker News"
+    },
+    {
+        "title": "MULTI-GIT: Avoid ssh-agent juggling when using Git with multiple identities",
+        "url": "https://github.com/turbostartdev/multigit",
+        "timestamp": "2026-07-29T17:03:33.568341",
+        "source": "Hacker News"
     }
 ]
