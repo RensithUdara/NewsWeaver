@@ -451390,5 +451390,11 @@
         "url": "https://www.propublica.org/article/anthropic-mythos-microsoft-software-vulnerabilities",
         "timestamp": "2026-07-29T22:33:01.679139",
         "source": "Hacker News"
+    },
+    {
+        "title": "AgentSwarms – self-hostable agentic AI/BI platform with sandboxed Python (ELv2)",
+        "url": "https://github.com/AgentSwarms-fyi/agentswarms",
+        "timestamp": "2026-07-29T22:33:01.679174",
+        "source": "Hacker News"
     }
 ]
