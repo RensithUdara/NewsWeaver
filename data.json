@@ -450712,5 +450712,11 @@
         "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
         "timestamp": "2026-07-29T19:44:20.992575",
         "source": "Hacker News"
+    },
+    {
+        "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident",
+        "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+        "timestamp": "2026-07-29T19:44:20.992670",
+        "source": "Hacker News"
     }
 ]
