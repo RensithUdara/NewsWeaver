@@ -449104,5 +449104,11 @@
         "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
         "timestamp": "2026-07-29T07:12:09.124026",
         "source": "Hacker News"
+    },
+    {
+        "title": "Log is non-monotonic in PHP and Lua",
+        "url": "https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/",
+        "timestamp": "2026-07-29T07:12:09.124439",
+        "source": "Hacker News"
     }
 ]
