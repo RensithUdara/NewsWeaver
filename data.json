@@ -450532,5 +450532,11 @@
         "url": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
         "timestamp": "2026-07-29T18:13:07.771189",
         "source": "Hacker News"
+    },
+    {
+        "title": "Opendot: A terminal AI agent that snapshots every action so you can undo it",
+        "url": "https://github.com/vedaant00/opendot",
+        "timestamp": "2026-07-29T18:13:07.771246",
+        "source": "Hacker News"
     }
 ]
