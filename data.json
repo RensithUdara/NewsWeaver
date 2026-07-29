@@ -450064,5 +450064,11 @@
         "url": "https://cesium.com/events/cesium-developer-conference/2026/",
         "timestamp": "2026-07-29T15:55:17.777993",
         "source": "Hacker News"
+    },
+    {
+        "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
+        "url": "https://aistack.imec-int.com/blog/gpu-self-hosting",
+        "timestamp": "2026-07-29T15:55:17.778025",
+        "source": "Hacker News"
     }
 ]
