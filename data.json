@@ -449896,5 +449896,11 @@
         "url": "https://www.youtube.com/watch?v=RLQIvvFu0qg",
         "timestamp": "2026-07-29T14:04:11.039517",
         "source": "Hacker News"
+    },
+    {
+        "title": "Teaching agents to predict and pre-execute their next tool call",
+        "url": "https://arxiv.org/abs/2607.25816",
+        "timestamp": "2026-07-29T14:04:11.039544",
+        "source": "Hacker News"
     }
 ]
