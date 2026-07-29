@@ -450010,5 +450010,11 @@
         "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
         "timestamp": "2026-07-29T14:04:12.053375",
         "source": "Articles on Smashing Magazine — For Web Designers And Developers"
+    },
+    {
+        "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+        "url": "https://github.com/drumih/turbo-fieldfare",
+        "timestamp": "2026-07-29T15:55:17.777242",
+        "source": "Hacker News"
     }
 ]
