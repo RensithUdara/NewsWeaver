@@ -450208,5 +450208,11 @@
         "url": "https://github.com/dj9889/sitrep",
         "timestamp": "2026-07-29T15:55:18.653738",
         "source": "Hacker News"
+    },
+    {
+        "title": "KindaRails2Shell – Critical RCE in Rails via Active Storage",
+        "url": "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066",
+        "timestamp": "2026-07-29T15:55:18.653771",
+        "source": "Hacker News"
     }
 ]
