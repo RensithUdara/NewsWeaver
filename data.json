@@ -448744,5 +448744,11 @@
         "url": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
         "timestamp": "2026-07-29T01:02:39.359980",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lockless MPSC FIFO queues for io_uring",
+        "url": "https://lwn.net/Articles/1081871/",
+        "timestamp": "2026-07-29T01:02:39.360115",
+        "source": "Hacker News"
     }
 ]
