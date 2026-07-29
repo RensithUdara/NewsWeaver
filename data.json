@@ -450904,5 +450904,11 @@
         "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
         "timestamp": "2026-07-29T19:44:21.386869",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Aurora DSQL: Scalable, Multi-Region OLTP",
+        "url": "http://muratbuffalo.blogspot.com/2026/07/aurora-dsql-scalable-multi-region-oltp.html",
+        "timestamp": "2026-07-29T20:36:30.191135",
+        "source": "Hacker News"
     }
 ]
