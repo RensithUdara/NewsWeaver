@@ -450190,5 +450190,11 @@
         "url": "https://usemarker.ai/blog/hello-world/",
         "timestamp": "2026-07-29T15:55:18.653638",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Uvr – a uv-style package and environment manager for R, written in Rust",
+        "url": "https://github.com/nbafrank/uvr",
+        "timestamp": "2026-07-29T15:55:18.653671",
+        "source": "Hacker News"
     }
 ]
