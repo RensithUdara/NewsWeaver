@@ -449854,5 +449854,11 @@
         "url": "https://raw.githubusercontent.com/langens-jonathan/blog/refs/heads/main/What%20is%20an%20%27agent%27%3F%20A%20class-instance%20definition.md",
         "timestamp": "2026-07-29T14:04:11.039326",
         "source": "Hacker News"
+    },
+    {
+        "title": "Devenv 2.2: attach to running processes and persistent out-of-tree environments",
+        "url": "https://devenv.sh/blog/2026/07/28/devenv-22-attach-to-running-processes-and-persistent-out-of-tree-environments/",
+        "timestamp": "2026-07-29T14:04:11.039353",
+        "source": "Hacker News"
     }
 ]
