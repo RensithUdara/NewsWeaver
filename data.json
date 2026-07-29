@@ -449740,5 +449740,11 @@
         "url": "https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/",
         "timestamp": "2026-07-29T11:57:53.751485",
         "source": "Hacker News"
+    },
+    {
+        "title": "Topical – A C# event handling library with strong async/await support",
+        "url": "https://github.com/MonoSolid/topical",
+        "timestamp": "2026-07-29T11:57:53.751519",
+        "source": "Hacker News"
     }
 ]
