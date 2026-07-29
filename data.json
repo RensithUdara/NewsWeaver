@@ -449446,5 +449446,11 @@
         "url": "https://news.ycombinator.com/item?id=49095106",
         "timestamp": "2026-07-29T09:57:40.045852",
         "source": "Hacker News"
+    },
+    {
+        "title": "Can a 2.8T Model Run on a Single Node of Nvidia B300 X8?",
+        "url": "https://blog.us.fixstars.com/deploying-kimi-k3-on-day-0-can-a-2-8t-model-run-on-a-single-node-of-nvidia-b300-x8/",
+        "timestamp": "2026-07-29T09:57:40.045886",
+        "source": "Hacker News"
     }
 ]
