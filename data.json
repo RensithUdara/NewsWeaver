@@ -450034,5 +450034,11 @@
         "url": "https://lapcatsoftware.com/articles/2026/7/14.html",
         "timestamp": "2026-07-29T15:55:17.777380",
         "source": "Hacker News"
+    },
+    {
+        "title": "PostgreSQL's MVCC is bad. So is everyone else's",
+        "url": "https://boringsql.com/posts/mvcc-bad-bad/",
+        "timestamp": "2026-07-29T15:55:17.777493",
+        "source": "Hacker News"
     }
 ]
