@@ -451594,5 +451594,11 @@
         "url": "https://www.reddit.com/r/Anthropic/comments/1v8t9v0/whats_going_on/",
         "timestamp": "2026-07-29T23:36:11.871734",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenLore: Deterministic, local-first memory and guardrails for AI coding agents",
+        "url": "https://github.com/clay-good/OpenLore",
+        "timestamp": "2026-07-29T23:36:11.871772",
+        "source": "Hacker News"
     }
 ]
