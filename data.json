@@ -451348,5 +451348,11 @@
         "url": "https://useglass.up.railway.app/#",
         "timestamp": "2026-07-29T22:33:01.678893",
         "source": "Hacker News"
+    },
+    {
+        "title": "It was surprisingly hard to break CloudNativePG replication",
+        "url": "https://coroot.com/blog/fencing-a-cnpg-replica/",
+        "timestamp": "2026-07-29T22:33:01.678933",
+        "source": "Hacker News"
     }
 ]
