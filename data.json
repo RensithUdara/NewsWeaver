@@ -449878,5 +449878,11 @@
         "url": "https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows",
         "timestamp": "2026-07-29T14:04:11.039437",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Deterministic Memory Reduction (90%+) for Jax/XLA Profiling",
+        "url": "https://github.com/PastToFuture-Whisperer/xprof-cubism-reducer",
+        "timestamp": "2026-07-29T14:04:11.039464",
+        "source": "Hacker News"
     }
 ]
