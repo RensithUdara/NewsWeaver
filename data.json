@@ -448750,5 +448750,11 @@
         "url": "https://lwn.net/Articles/1081871/",
         "timestamp": "2026-07-29T01:02:39.360115",
         "source": "Hacker News"
+    },
+    {
+        "title": "Multiple Mouse Cursors in Wayland",
+        "url": "https://blinry.org/multi-seat-wayland/",
+        "timestamp": "2026-07-29T01:02:39.591262",
+        "source": "Hacker News"
     }
 ]
