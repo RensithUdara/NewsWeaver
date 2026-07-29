@@ -448738,5 +448738,11 @@
         "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
         "timestamp": "2026-07-29T01:02:39.359635",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+        "url": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+        "timestamp": "2026-07-29T01:02:39.359980",
+        "source": "Hacker News"
     }
 ]
