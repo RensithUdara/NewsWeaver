@@ -451468,5 +451468,11 @@
         "url": "https://maxleiter.com/blog/xios",
         "timestamp": "2026-07-29T22:33:01.679689",
         "source": "Hacker News"
+    },
+    {
+        "title": "PyWeMo: Python 3 module to setup, discover and control WeMo devices",
+        "url": "https://github.com/pywemo/pywemo",
+        "timestamp": "2026-07-29T22:33:01.679727",
+        "source": "Hacker News"
     }
 ]
