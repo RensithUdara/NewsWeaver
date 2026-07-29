@@ -448798,5 +448798,11 @@
         "url": "https://www.trymargin.org",
         "timestamp": "2026-07-29T01:02:39.591566",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nvidia Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+        "timestamp": "2026-07-29T01:02:39.591627",
+        "source": "Hacker News"
     }
 ]
