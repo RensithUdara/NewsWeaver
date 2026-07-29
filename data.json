@@ -448822,5 +448822,11 @@
         "url": "https://news.ycombinator.com/item?id=49091942",
         "timestamp": "2026-07-29T01:02:39.591735",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zep: Building Agents in Go Without a Framework",
+        "url": "https://blog.getzep.com/agentic-development-in-go/",
+        "timestamp": "2026-07-29T01:02:39.591765",
+        "source": "Hacker News"
     }
 ]
