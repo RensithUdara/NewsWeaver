@@ -450394,5 +450394,11 @@
         "url": "https://github.com/rekol-io/rekol",
         "timestamp": "2026-07-29T17:03:33.568430",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: OpenClaw – Solidity scanner with 0 false positives across OpenZeppelin",
+        "url": "https://github.com/juan23z/openclaw-audit",
+        "timestamp": "2026-07-29T17:03:33.568466",
+        "source": "Hacker News"
     }
 ]
