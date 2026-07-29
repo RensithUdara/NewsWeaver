@@ -449344,5 +449344,11 @@
         "url": "https://www.forbes.com/sites/jasonsnyder/2026/07/29/the-most-dangerous-ai-looks-exactly-like-the-one-you-trust/",
         "timestamp": "2026-07-29T09:57:40.045232",
         "source": "Hacker News"
+    },
+    {
+        "title": "How Zalando Built an In-Process Client-Side Load Balancer for One Million Reqs/S",
+        "url": "https://www.infoq.com/news/2026/07/client-side-load-balancer/",
+        "timestamp": "2026-07-29T09:57:40.045270",
+        "source": "Hacker News"
     }
 ]
