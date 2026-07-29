@@ -448942,5 +448942,11 @@
         "url": "https://onfinality.io/en",
         "timestamp": "2026-07-29T04:22:25.129267",
         "source": "Hacker News"
+    },
+    {
+        "title": "A CLI that shows which sub-agent burned your tokens in one run",
+        "url": "https://github.com/rrkher059/token-trace-viewer",
+        "timestamp": "2026-07-29T04:22:25.129298",
+        "source": "Hacker News"
     }
 ]
