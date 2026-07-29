@@ -450640,5 +450640,11 @@
         "url": "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/",
         "timestamp": "2026-07-29T18:13:07.772018",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: My Next.js .next folders hit 34 GB, so I built next-nuke to clean them",
+        "url": "https://github.com/RoyBkker/next-nuke",
+        "timestamp": "2026-07-29T18:13:07.772054",
+        "source": "Hacker News"
     }
 ]
