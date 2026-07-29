@@ -450508,5 +450508,11 @@
         "url": "https://techcrunch.com/video/no-ones-making-a-phone-like-this-lights-co-founders-on-building-for-the-anti-smartphone-generation/",
         "timestamp": "2026-07-29T17:03:34.075033",
         "source": "TechCrunch"
+    },
+    {
+        "title": "The Rust on ESP Book",
+        "url": "https://docs.espressif.com/projects/rust/book/",
+        "timestamp": "2026-07-29T18:13:07.555327",
+        "source": "Hacker News"
     }
 ]
