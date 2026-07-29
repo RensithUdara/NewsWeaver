@@ -451060,5 +451060,11 @@
         "url": "https://www.nature.com/articles/s41591-026-04498-0",
         "timestamp": "2026-07-29T20:36:31.443847",
         "source": "Hacker News"
+    },
+    {
+        "title": "Benchmarking LLMs on SAST Triage",
+        "url": "https://www.fencer.dev/blog/llm-triage-sast-false-positives",
+        "timestamp": "2026-07-29T20:36:31.443882",
+        "source": "Hacker News"
     }
 ]
