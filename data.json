@@ -454216,5 +454216,11 @@
         "url": "https://github.com/douglascrockford/Base32/",
         "timestamp": "2026-07-30T21:49:03.980854",
         "source": "Hacker News"
+    },
+    {
+        "title": "Offloading I/O to Dedicated Cores: An Asymmetric io_uring Back end for Seastar",
+        "url": "https://www.scylladb.com/2026/07/22/asymmetric-io_uring-backend-seastar/",
+        "timestamp": "2026-07-30T21:49:03.980921",
+        "source": "Hacker News"
     }
 ]
