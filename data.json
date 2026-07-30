@@ -451792,5 +451792,11 @@
         "url": "https://news.ycombinator.com/item?id=49104709",
         "timestamp": "2026-07-30T00:58:11.107088",
         "source": "Hacker News"
+    },
+    {
+        "title": "If Claude/Codex can connect via, what do we need a context layer for?",
+        "url": "https://getunblocked.com/blog/mcp-connectors-are-not-a-context-engine/",
+        "timestamp": "2026-07-30T00:58:11.107115",
+        "source": "Hacker News"
     }
 ]
