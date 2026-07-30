@@ -452008,5 +452008,11 @@
         "url": "https://swild.dev/dev/apfs-case-insensitive/",
         "timestamp": "2026-07-30T03:54:59.149156",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: a Rust coding agent that is compatible with Claude Code plugins/skills",
+        "url": "https://github.com/KonghaYao/peri",
+        "timestamp": "2026-07-30T03:54:59.149190",
+        "source": "Hacker News"
     }
 ]
