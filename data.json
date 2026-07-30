@@ -454546,5 +454546,11 @@
         "url": "https://arxiv.org/abs/2607.25333",
         "timestamp": "2026-07-30T23:43:36.290807",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLVM AI Tool Use Policy",
+        "url": "https://llvm.org/docs/AIToolPolicy.html",
+        "timestamp": "2026-07-30T23:43:36.290875",
+        "source": "Hacker News"
     }
 ]
