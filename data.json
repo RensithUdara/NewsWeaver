@@ -453286,5 +453286,11 @@
         "url": "https://brandur.org/fragments/pgtestdb",
         "timestamp": "2026-07-30T16:42:48.335961",
         "source": "Hacker News"
+    },
+    {
+        "title": "PaperPush: Automate submissions to journals, conferences, and preprints",
+        "url": "https://github.com/pachterlab/paperpush",
+        "timestamp": "2026-07-30T16:42:48.533191",
+        "source": "Hacker News"
     }
 ]
