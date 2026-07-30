@@ -454354,5 +454354,11 @@
         "url": "https://moai.studio/blog/posts/kobayashi-maru.html",
         "timestamp": "2026-07-30T22:48:09.527563",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pusu AdBlocker – 35K DNR rules, Manifest V3, zero tracking, anti-popup nuclear",
+        "url": "https://github.com/pusucip25/pusu-adblocker",
+        "timestamp": "2026-07-30T22:48:09.527586",
+        "source": "Hacker News"
     }
 ]
