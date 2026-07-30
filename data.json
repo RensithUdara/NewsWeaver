@@ -451930,5 +451930,11 @@
         "url": "https://zenodo.org/records/21696066",
         "timestamp": "2026-07-30T03:54:59.148623",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building an S3 client with 20x more throughput and single core [video]",
+        "url": "https://www.youtube.com/watch?v=-p-Xm7VEqSk",
+        "timestamp": "2026-07-30T03:54:59.148657",
+        "source": "Hacker News"
     }
 ]
