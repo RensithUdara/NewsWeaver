@@ -453742,5 +453742,11 @@
         "url": "https://supapool.io/",
         "timestamp": "2026-07-30T19:44:59.793302",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
+        "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+        "timestamp": "2026-07-30T19:44:59.793501",
+        "source": "Hacker News"
     }
 ]
