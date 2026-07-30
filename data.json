@@ -452236,5 +452236,11 @@
         "url": "https://www.n16f.net/blog/concurrency-interactivity-mutability-choose-two/",
         "timestamp": "2026-07-30T09:06:04.044865",
         "source": "Hacker News"
+    },
+    {
+        "title": "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison",
+        "url": "https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/",
+        "timestamp": "2026-07-30T09:06:04.044932",
+        "source": "Hacker News"
     }
 ]
