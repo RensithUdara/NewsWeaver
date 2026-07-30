@@ -451726,5 +451726,11 @@
         "url": "https://en.wikipedia.org/wiki/OpenURL",
         "timestamp": "2026-07-30T00:58:11.106748",
         "source": "Hacker News"
+    },
+    {
+        "title": "Milvus 3.0: Lake-Native Vector Search, S3-Based Storage, Offline/Batch Workflows",
+        "url": "https://milvus.io/blog/announcing-milvus-3-lake-native-vector-search-and-a-more-powerful-retrieval-engine.md",
+        "timestamp": "2026-07-30T00:58:11.106775",
+        "source": "Hacker News"
     }
 ]
