@@ -452272,5 +452272,11 @@
         "url": "https://andonlabs.com/blog/opus-5-vending-bench",
         "timestamp": "2026-07-30T09:06:04.296068",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tailscale with Mullvad leaks your DNS",
+        "url": "https://github.com/tailscale/tailscale/issues/9284",
+        "timestamp": "2026-07-30T09:06:04.296105",
+        "source": "Hacker News"
     }
 ]
