@@ -451942,5 +451942,11 @@
         "url": "https://www.wsj.com/style/fashion/ykk-sells-10-billion-zippers-a-year-how-did-it-get-so-big-253a24a2",
         "timestamp": "2026-07-30T03:54:59.148690",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: We quantized Qwen3.6-35B-A3B to 2-bit: 12.3 GB, 225 tok/s on a 4090",
+        "url": "https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
+        "timestamp": "2026-07-30T03:54:59.148725",
+        "source": "Hacker News"
     }
 ]
