@@ -452242,5 +452242,11 @@
         "url": "https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/",
         "timestamp": "2026-07-30T09:06:04.044932",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built myself the simplest worktree management tool",
+        "url": "https://github.com/kerem-kaynak/wt",
+        "timestamp": "2026-07-30T09:06:04.295845",
+        "source": "Hacker News"
     }
 ]
