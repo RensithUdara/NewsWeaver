@@ -452980,5 +452980,11 @@
         "url": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
         "timestamp": "2026-07-30T15:01:44.696649",
         "source": "Hacker News"
+    },
+    {
+        "title": "Trusted URLs via Cryptographic Signatures",
+        "url": "https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html",
+        "timestamp": "2026-07-30T15:01:44.696726",
+        "source": "Hacker News"
     }
 ]
