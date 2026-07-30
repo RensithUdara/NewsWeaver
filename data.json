@@ -454114,5 +454114,11 @@
         "url": "https://gergltd.com/aperturelab/aperture.html",
         "timestamp": "2026-07-30T20:46:19.278427",
         "source": "Hacker News"
+    },
+    {
+        "title": "Perry: A native TypeScript compiler written in Rust",
+        "url": "https://github.com/PerryTS/perry",
+        "timestamp": "2026-07-30T20:46:19.278461",
+        "source": "Hacker News"
     }
 ]
