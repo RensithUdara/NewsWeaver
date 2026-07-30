@@ -452578,5 +452578,11 @@
         "url": "https://www.khanlaw.co.uk/",
         "timestamp": "2026-07-30T11:17:19.152526",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A minimalist proxy for your local LLM cluster (~1100 lines)",
+        "url": "https://github.com/robolamp/smol-llm-proxy",
+        "timestamp": "2026-07-30T11:17:19.152562",
+        "source": "Hacker News"
     }
 ]
