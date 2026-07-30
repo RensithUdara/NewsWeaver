@@ -452764,5 +452764,11 @@
         "url": "https://earthspecies.org/2026/07/22/introducing-alp-data-a-shared-data-layer-for-animal-language-processing/",
         "timestamp": "2026-07-30T12:55:23.097679",
         "source": "Hacker News"
+    },
+    {
+        "title": "Going beneath NTFS: USN Journal, dfir_NTFS, and artefact-driven investigations",
+        "url": "https://andreafortuna.org/2026/07/06/ntfs-forensics-deep-dive/",
+        "timestamp": "2026-07-30T12:55:23.097717",
+        "source": "Hacker News"
     }
 ]
