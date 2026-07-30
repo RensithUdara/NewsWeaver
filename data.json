@@ -452398,5 +452398,11 @@
         "url": "https://clickhouse.com/blog/espresso-machine-observability-with-otel",
         "timestamp": "2026-07-30T09:06:04.296859",
         "source": "Hacker News"
+    },
+    {
+        "title": "Trellis: Workspace Tooling for Gleam Monorepos",
+        "url": "https://tylerbutler.com/trellis/",
+        "timestamp": "2026-07-30T09:06:04.296893",
+        "source": "Hacker News"
     }
 ]
