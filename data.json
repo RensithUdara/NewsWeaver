@@ -452308,5 +452308,11 @@
         "url": "https://github.com/Vishwamitra/explain-this",
         "timestamp": "2026-07-30T09:06:04.296317",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cisco FMC static credential vulnerability exploited as a zero-day",
+        "url": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh",
+        "timestamp": "2026-07-30T09:06:04.296350",
+        "source": "Hacker News"
     }
 ]
