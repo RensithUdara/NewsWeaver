@@ -452896,5 +452896,11 @@
         "url": "https://rjp.io/blog/2026-07-19-register-deprivation",
         "timestamp": "2026-07-30T12:55:23.098051",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Edgemetry – self-hosted web analytics on Cloudflare's free tier",
+        "url": "https://github.com/hayaran/edgemetry",
+        "timestamp": "2026-07-30T12:55:23.098067",
+        "source": "Hacker News"
     }
 ]
