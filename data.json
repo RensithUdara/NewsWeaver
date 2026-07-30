@@ -454294,5 +454294,11 @@
         "url": "https://www.rfc-editor.org/info/rfc8890/",
         "timestamp": "2026-07-30T21:49:03.981407",
         "source": "Hacker News"
+    },
+    {
+        "title": "C++ float-to-int conversion can be undefined behavior",
+        "url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+        "timestamp": "2026-07-30T21:49:03.981441",
+        "source": "Hacker News"
     }
 ]
