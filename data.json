@@ -453124,5 +453124,11 @@
         "url": "https://webbynode.com/articles/same-20-vultr-vm-six-times-one-fifth-performance",
         "timestamp": "2026-07-30T15:01:44.928381",
         "source": "Hacker News"
+    },
+    {
+        "title": "What broke when I let an AI agent modify its own Python code for 144 cycles",
+        "url": "https://github.com/ADevBelgie/zmb-audit",
+        "timestamp": "2026-07-30T15:01:44.928406",
+        "source": "Hacker News"
     }
 ]
