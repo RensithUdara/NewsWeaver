@@ -452986,5 +452986,11 @@
         "url": "https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html",
         "timestamp": "2026-07-30T15:01:44.696726",
         "source": "Hacker News"
+    },
+    {
+        "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+        "url": "https://github.com/grafana/ai-sdk",
+        "timestamp": "2026-07-30T15:01:44.696776",
+        "source": "Hacker News"
     }
 ]
