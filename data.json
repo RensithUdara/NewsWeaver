@@ -454000,5 +454000,11 @@
         "url": "https://github.com/tsirysndr/panini",
         "timestamp": "2026-07-30T20:46:19.277685",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Interlock – Python circuit breaker tripping on latency, not just errors",
+        "url": "https://github.com/bagowix/interlock",
+        "timestamp": "2026-07-30T20:46:19.277718",
+        "source": "Hacker News"
     }
 ]
