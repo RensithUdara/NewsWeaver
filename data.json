@@ -452104,5 +452104,11 @@
         "url": "https://status.claude.com/incidents/fsh2zzzl2c4l",
         "timestamp": "2026-07-30T06:18:29.078876",
         "source": "Hacker News"
+    },
+    {
+        "title": "First Proof",
+        "url": "https://1stproof.org/",
+        "timestamp": "2026-07-30T06:18:29.078916",
+        "source": "Hacker News"
     }
 ]
