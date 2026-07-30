@@ -454210,5 +454210,11 @@
         "url": "https://www.phoronix.com/news/GraalVM-Community-25.1.3",
         "timestamp": "2026-07-30T21:49:03.980784",
         "source": "Hacker News"
+    },
+    {
+        "title": "An IETF Internet-Draft Example Written in Kramdown-RFC (Crockford's Base32)",
+        "url": "https://github.com/douglascrockford/Base32/",
+        "timestamp": "2026-07-30T21:49:03.980854",
+        "source": "Hacker News"
     }
 ]
