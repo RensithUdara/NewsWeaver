@@ -453610,5 +453610,11 @@
         "url": "https://www.hughparry.com/blog/music-mesh/",
         "timestamp": "2026-07-30T18:03:14.639783",
         "source": "Hacker News"
+    },
+    {
+        "title": "Handling environment variables in Emacs on OS X and Linux",
+        "url": "https://seds.nl/notes/handling_environment_variables_in_emacs_on_osx_and_linux/",
+        "timestamp": "2026-07-30T18:03:14.639801",
+        "source": "Hacker News"
     }
 ]
