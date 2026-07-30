@@ -453700,5 +453700,11 @@
         "url": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
         "timestamp": "2026-07-30T18:03:15.779066",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Making Postgres queues scale",
+        "url": "https://www.dbos.dev/blog/making-postgres-queues-scale",
+        "timestamp": "2026-07-30T19:44:59.792788",
+        "source": "Hacker News"
     }
 ]
