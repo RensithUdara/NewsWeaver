@@ -452950,5 +452950,11 @@
         "url": "https://prized.dev",
         "timestamp": "2026-07-30T15:01:44.696463",
         "source": "Hacker News"
+    },
+    {
+        "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+        "url": "https://github.com/n67094/sdl_gp",
+        "timestamp": "2026-07-30T15:01:44.696545",
+        "source": "Hacker News"
     }
 ]
