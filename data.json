@@ -452392,5 +452392,11 @@
         "url": "https://arxiv.org/abs/2607.26886",
         "timestamp": "2026-07-30T09:06:04.296823",
         "source": "Hacker News"
+    },
+    {
+        "title": "Instrumenting my espresso machine with OpenTelemetry",
+        "url": "https://clickhouse.com/blog/espresso-machine-observability-with-otel",
+        "timestamp": "2026-07-30T09:06:04.296859",
+        "source": "Hacker News"
     }
 ]
