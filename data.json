@@ -451984,5 +451984,11 @@
         "url": "https://www.alarium.tech",
         "timestamp": "2026-07-30T03:54:59.149021",
         "source": "Hacker News"
+    },
+    {
+        "title": "After rewriting SQLite in Rust, Turso turns its sights on Postgres",
+        "url": "https://www.theregister.com/databases/2026/07/29/after-rewriting-sqlite-in-rust-turso-turns-its-sights-on-postgres/5279835",
+        "timestamp": "2026-07-30T03:54:59.149056",
+        "source": "Hacker News"
     }
 ]
