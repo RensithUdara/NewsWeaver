@@ -453040,5 +453040,11 @@
         "url": "https://github.com/hamzarehmandeveloper/claude-account",
         "timestamp": "2026-07-30T15:01:44.927982",
         "source": "Hacker News"
+    },
+    {
+        "title": "Paging Through a Parquet File in DuckDB: File_row_number or Offset?",
+        "url": "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/",
+        "timestamp": "2026-07-30T15:01:44.928023",
+        "source": "Hacker News"
     }
 ]
