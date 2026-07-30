@@ -454558,5 +454558,11 @@
         "url": "https://twitter.com/arcprize/status/2082925303601459347",
         "timestamp": "2026-07-30T23:43:36.290940",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hugging Face Incident Initial Post-Mortem",
+        "url": "https://cloudsecurityalliance.org/artifacts/hugging-face-ciso-post-mortem",
+        "timestamp": "2026-07-30T23:43:36.291007",
+        "source": "Hacker News"
     }
 ]
