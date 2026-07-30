@@ -452716,5 +452716,11 @@
         "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
         "timestamp": "2026-07-30T12:55:22.916007",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+        "url": "https://github.com/YoanWai/agent-manager",
+        "timestamp": "2026-07-30T12:55:22.916041",
+        "source": "Hacker News"
     }
 ]
