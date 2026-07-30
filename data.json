@@ -453574,5 +453574,11 @@
         "url": "https://xcancel.com/bryan_johnson/status/2082631490840760622#m",
         "timestamp": "2026-07-30T18:03:14.639683",
         "source": "Hacker News"
+    },
+    {
+        "title": "EnvLockr – local secrets CLI that tells you which stored API keys are still live",
+        "url": "https://github.com/RohanRatwani/envlockr-cli",
+        "timestamp": "2026-07-30T18:03:14.639699",
+        "source": "Hacker News"
     }
 ]
