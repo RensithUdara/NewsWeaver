@@ -453820,5 +453820,11 @@
         "url": "https://www.dailymail.com/sciencetech/article-16016355/Biohacker-Bryan-Johnson-longevity-thing-far.html",
         "timestamp": "2026-07-30T19:45:00.042167",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why prompt injection is still possible in LLM applications",
+        "url": "https://pantsyr.dev/blog/why-prompt-injection-is-still-possible-in-llm-applications/",
+        "timestamp": "2026-07-30T19:45:00.042201",
+        "source": "Hacker News"
     }
 ]
