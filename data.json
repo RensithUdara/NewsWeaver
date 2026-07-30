@@ -453136,5 +453136,11 @@
         "url": "https://blog.ericgoldman.org/archives/2026/07/when-you-reject-cookies-you-might-be-agreeing-to-arbitration-alba-v-harbor-freight.htm",
         "timestamp": "2026-07-30T15:01:44.928431",
         "source": "Hacker News"
+    },
+    {
+        "title": "PostgreSQL and the Linux OOM Killer: A Better Default",
+        "url": "https://clickhouse.com/blog/strict-memory-overcommit-for-postgres",
+        "timestamp": "2026-07-30T15:01:44.928456",
+        "source": "Hacker News"
     }
 ]
