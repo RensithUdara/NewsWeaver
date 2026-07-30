@@ -454540,5 +454540,11 @@
         "url": "https://lwn.net/Articles/1083750/",
         "timestamp": "2026-07-30T23:43:36.290735",
         "source": "Hacker News"
+    },
+    {
+        "title": "Specula: Scaling formal specs for autonomous model checking of system code",
+        "url": "https://arxiv.org/abs/2607.25333",
+        "timestamp": "2026-07-30T23:43:36.290807",
+        "source": "Hacker News"
     }
 ]
