@@ -452302,5 +452302,11 @@
         "url": "https://bpmcompanion.app/",
         "timestamp": "2026-07-30T09:06:04.296283",
         "source": "Hacker News"
+    },
+    {
+        "title": "Explain This – select text, get an explanation from a local LLM",
+        "url": "https://github.com/Vishwamitra/explain-this",
+        "timestamp": "2026-07-30T09:06:04.296317",
+        "source": "Hacker News"
     }
 ]
