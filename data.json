@@ -453886,5 +453886,11 @@
         "url": "https://www.svix.com/blog/strong-typing-hill-to-die-on/",
         "timestamp": "2026-07-30T19:45:00.042592",
         "source": "Hacker News"
+    },
+    {
+        "title": "SSH-cast – record / watch agents SSH sessions",
+        "url": "https://github.com/kmeinke/ssh-cast",
+        "timestamp": "2026-07-30T19:45:00.042625",
+        "source": "Hacker News"
     }
 ]
