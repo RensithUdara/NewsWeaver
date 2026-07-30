@@ -451684,5 +451684,11 @@
         "url": "https://www.staszewski.xyz/blog/recursive-filters/",
         "timestamp": "2026-07-30T00:58:10.900771",
         "source": "Hacker News"
+    },
+    {
+        "title": "Persistent State Machines for LLM Attention (Vivado Estimated 0.0267 PJ/Op)",
+        "url": "https://zenodo.org/records/21694686",
+        "timestamp": "2026-07-30T00:58:11.106553",
+        "source": "Hacker News"
     }
 ]
