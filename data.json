@@ -454618,5 +454618,11 @@
         "url": "https://datascienceweekly.substack.com/p/data-science-weekly-issue-662",
         "timestamp": "2026-07-30T23:43:36.291356",
         "source": "Hacker News"
+    },
+    {
+        "title": "At-the-Roofline Sparse Tensor Contractions on Vector Processors for Inference",
+        "url": "https://arxiv.org/abs/2607.25504",
+        "timestamp": "2026-07-30T23:43:36.291391",
+        "source": "Hacker News"
     }
 ]
