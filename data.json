@@ -455962,5 +455962,11 @@
         "url": "https://www.bbc.com/news/articles/c0jl4np49w1o",
         "timestamp": "2026-07-31T16:18:59.507425",
         "source": "Hacker News"
+    },
+    {
+        "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+        "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
+        "timestamp": "2026-07-31T16:18:59.507463",
+        "source": "Hacker News"
     }
 ]
