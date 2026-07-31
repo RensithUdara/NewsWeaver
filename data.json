@@ -455878,5 +455878,11 @@
         "url": "https://www.fire-dome.com/",
         "timestamp": "2026-07-31T14:36:20.574039",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenQ4 0.9.0: open-source reimplementation of Quake 4",
+        "url": "https://github.com/themuffinator/openQ4/releases/tag/v0.9.0",
+        "timestamp": "2026-07-31T14:36:20.574073",
+        "source": "Hacker News"
     }
 ]
