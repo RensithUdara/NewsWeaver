@@ -454930,5 +454930,11 @@
         "url": "https://signal-drift-fluency-authority.jsic.chatgpt.site",
         "timestamp": "2026-07-31T04:42:02.891695",
         "source": "Hacker News"
+    },
+    {
+        "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+        "url": "https://github.com/openjdk/jdk/pull/31120",
+        "timestamp": "2026-07-31T04:42:02.891791",
+        "source": "Hacker News"
     }
 ]
