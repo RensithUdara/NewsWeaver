@@ -456004,5 +456004,11 @@
         "url": "https://klartext.it-handwerk-stuttgart.de/",
         "timestamp": "2026-07-31T16:18:59.507592",
         "source": "Hacker News"
+    },
+    {
+        "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
+        "url": "https://swe-rebench.com",
+        "timestamp": "2026-07-31T16:18:59.507630",
+        "source": "Hacker News"
     }
 ]
