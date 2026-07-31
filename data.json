@@ -457042,5 +457042,11 @@
         "url": "https://www.propublica.org/article/federal-science-grants-russell-vought-omb",
         "timestamp": "2026-07-31T22:42:44.840377",
         "source": "Hacker News"
+    },
+    {
+        "title": "CircuitProver: Agentic Lean 4 Theorem Proving for Hardware Verification",
+        "url": "https://arxiv.org/abs/2607.27259",
+        "timestamp": "2026-07-31T22:42:44.840400",
+        "source": "Hacker News"
     }
 ]
