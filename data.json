@@ -456502,5 +456502,11 @@
         "url": "https://github.com/golang/go/issues/80590",
         "timestamp": "2026-07-31T19:10:17.267059",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making Referential Stability a Type",
+        "url": "https://jovidecroock.com/blog/referential-stability-types/",
+        "timestamp": "2026-07-31T19:10:17.267127",
+        "source": "Hacker News"
     }
 ]
