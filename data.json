@@ -456748,5 +456748,11 @@
         "url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
         "timestamp": "2026-07-31T21:42:13.324312",
         "source": "Hacker News"
+    },
+    {
+        "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+        "url": "https://arxiv.org/abs/2607.28233",
+        "timestamp": "2026-07-31T21:42:13.324340",
+        "source": "Hacker News"
     }
 ]
