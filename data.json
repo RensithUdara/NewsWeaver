@@ -455854,5 +455854,11 @@
         "url": "https://www.blacksmith.sh/blog/the-physics-of-docker-build-caching",
         "timestamp": "2026-07-31T14:36:20.573900",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
+        "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
+        "timestamp": "2026-07-31T14:36:20.573933",
+        "source": "Hacker News"
     }
 ]
