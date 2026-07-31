@@ -456496,5 +456496,11 @@
         "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
         "timestamp": "2026-07-31T19:10:17.266822",
         "source": "Hacker News"
+    },
+    {
+        "title": "Golang proposal: container/: generic collection types",
+        "url": "https://github.com/golang/go/issues/80590",
+        "timestamp": "2026-07-31T19:10:17.267059",
+        "source": "Hacker News"
     }
 ]
