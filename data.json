@@ -455248,5 +455248,11 @@
         "url": "https://thinkingtoasters.com/2026/07/30/cold-bread-rebellion/",
         "timestamp": "2026-07-31T07:35:52.559573",
         "source": "Hacker News"
+    },
+    {
+        "title": "HexCore: Low-Latency Paged KV Cache Allocator in C++20 and CUDA",
+        "url": "https://github.com/password162156/hexcore-llm",
+        "timestamp": "2026-07-31T07:35:52.559590",
+        "source": "Hacker News"
     }
 ]
