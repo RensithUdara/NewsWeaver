@@ -456490,5 +456490,11 @@
         "url": "https://tailscale.com/blog/hugging-face-intrusion",
         "timestamp": "2026-07-31T19:10:17.266754",
         "source": "Hacker News"
+    },
+    {
+        "title": "Everyone is building LLM routers, we deprecated ours",
+        "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+        "timestamp": "2026-07-31T19:10:17.266822",
+        "source": "Hacker News"
     }
 ]
