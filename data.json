@@ -454846,5 +454846,11 @@
         "url": "https://moneion.com",
         "timestamp": "2026-07-31T01:14:57.230668",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why do OpenAI's GPT-2 weights beat mine? Part three: testing overtraining",
+        "url": "https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-3-overtraining",
+        "timestamp": "2026-07-31T01:14:57.230702",
+        "source": "Hacker News"
     }
 ]
