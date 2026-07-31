@@ -455950,5 +455950,11 @@
         "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
         "timestamp": "2026-07-31T16:18:59.507387",
         "source": "Hacker News"
+    },
+    {
+        "title": "U.S. debt-to-GDP ratio reaches 123%",
+        "url": "https://fred.stlouisfed.org/series/GFDEGDQ188S",
+        "timestamp": "2026-07-31T16:18:59.507406",
+        "source": "Hacker News"
     }
 ]
