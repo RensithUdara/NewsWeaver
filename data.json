@@ -456046,5 +456046,11 @@
         "url": "https://www.lemonde.fr/en/international/article/2026/07/28/eu-tells-firms-to-label-ai-generated-content-from-sunday_6755910_4.html",
         "timestamp": "2026-07-31T16:18:59.691707",
         "source": "Hacker News"
+    },
+    {
+        "title": "We write our own C and C++ inference engines",
+        "url": "https://localai.io/blog/why-we-write-our-own-engines/",
+        "timestamp": "2026-07-31T16:18:59.691731",
+        "source": "Hacker News"
     }
 ]
