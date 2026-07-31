@@ -456640,5 +456640,11 @@
         "url": "https://www.wsj.com/politics/policy/trump-donations-company-fundraising-1e34a78f",
         "timestamp": "2026-07-31T20:36:34.453528",
         "source": "Hacker News"
+    },
+    {
+        "title": "An old-new take on argument parsing in Rust",
+        "url": "https://blogsystem5.substack.com/p/hello-getoptsargs",
+        "timestamp": "2026-07-31T20:36:34.453548",
+        "source": "Hacker News"
     }
 ]
