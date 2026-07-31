@@ -455212,5 +455212,11 @@
         "url": "https://tentomushi.to",
         "timestamp": "2026-07-31T07:35:52.559449",
         "source": "Hacker News"
+    },
+    {
+        "title": "Use Twenty Questions Game to Benchmark LLMs",
+        "url": "https://mindalyze-com.github.io/deep-20-bench/",
+        "timestamp": "2026-07-31T07:35:52.559467",
+        "source": "Hacker News"
     }
 ]
