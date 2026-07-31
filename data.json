@@ -456820,5 +456820,11 @@
         "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/",
         "timestamp": "2026-07-31T21:42:13.563656",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: An LSP for agent skills–rename, references, completion, and diagnostics",
+        "url": "https://github.com/CyrusNuevoDia/skill-language-server",
+        "timestamp": "2026-07-31T21:42:13.563684",
+        "source": "Hacker News"
     }
 ]
