@@ -455842,5 +455842,11 @@
         "url": "https://status.anoxinon.de/status/anoxinon",
         "timestamp": "2026-07-31T14:36:20.573827",
         "source": "Hacker News"
+    },
+    {
+        "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+        "url": "https://github.com/sqliteai/waste",
+        "timestamp": "2026-07-31T14:36:20.573866",
+        "source": "Hacker News"
     }
 ]
