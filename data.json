@@ -456052,5 +456052,11 @@
         "url": "https://localai.io/blog/why-we-write-our-own-engines/",
         "timestamp": "2026-07-31T16:18:59.691731",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agent Sandbox: A Kubernetes CRD and controller for AI agent runtimes",
+        "url": "https://github.com/kubernetes-sigs/agent-sandbox",
+        "timestamp": "2026-07-31T16:18:59.691753",
+        "source": "Hacker News"
     }
 ]
