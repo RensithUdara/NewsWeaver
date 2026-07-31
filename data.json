@@ -456766,5 +456766,11 @@
         "url": "https://schlaff.com/wp/nontransitive-dice/",
         "timestamp": "2026-07-31T21:42:13.563362",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Go compiler is now a semantic code reviewer (and it's better than you)",
+        "url": "https://blog.devgenius.io/the-go-compiler-just-code-reviewed-me-and-it-was-right-c19d0d183158?sk=c5342b60e6bc9f9a8e3552b946512ede",
+        "timestamp": "2026-07-31T21:42:13.563412",
+        "source": "Hacker News"
     }
 ]
