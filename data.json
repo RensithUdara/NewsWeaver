@@ -455734,5 +455734,11 @@
         "url": "https://openclaw.ai/blog/extended-stable-releases-and-maturity-scorecards",
         "timestamp": "2026-07-31T14:36:20.573114",
         "source": "Hacker News"
+    },
+    {
+        "title": "Understanding AWS IAM Roles for Service Accounts (IRSA) from First Principles",
+        "url": "https://arcade-lab.io/blog/irsa-without-eks-self-hosted-oidc",
+        "timestamp": "2026-07-31T14:36:20.573150",
+        "source": "Hacker News"
     }
 ]
