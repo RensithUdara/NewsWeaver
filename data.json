@@ -456484,5 +456484,11 @@
         "url": "https://github.com/l00sed/termixer",
         "timestamp": "2026-07-31T19:10:17.266476",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tailscale didn't stop the Hugging Face intrusion",
+        "url": "https://tailscale.com/blog/hugging-face-intrusion",
+        "timestamp": "2026-07-31T19:10:17.266754",
+        "source": "Hacker News"
     }
 ]
