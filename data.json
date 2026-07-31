@@ -456928,5 +456928,11 @@
         "url": "https://mag.uchicago.edu/arts-humanities/shades-meaning",
         "timestamp": "2026-07-31T21:42:13.564172",
         "source": "Hacker News"
+    },
+    {
+        "title": "C++ Dependencies Without the Headache: Vcpkg and Copilot CLI",
+        "url": "https://devblogs.microsoft.com/cppblog/c-dependencies-without-the-headache-vcpkg-copilot-cli/",
+        "timestamp": "2026-07-31T21:42:13.564206",
+        "source": "Hacker News"
     }
 ]
