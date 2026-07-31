@@ -455644,5 +455644,11 @@
         "url": "https://thunkpoorly.bearblog.dev/un-employ-us-all/",
         "timestamp": "2026-07-31T12:13:59.995957",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tired of paying per domain for DMARC, so I built a self-hosted one",
+        "url": "https://github.com/pescheckit/dmarc-service",
+        "timestamp": "2026-07-31T12:13:59.995990",
+        "source": "Hacker News"
     }
 ]
