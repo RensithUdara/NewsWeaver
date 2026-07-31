@@ -455320,5 +455320,11 @@
         "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
         "timestamp": "2026-07-31T10:09:55.595532",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A udev implementation in Guile Scheme",
+        "url": "https://codeberg.org/goodev/goodev",
+        "timestamp": "2026-07-31T10:09:55.595719",
+        "source": "Hacker News"
     }
 ]
