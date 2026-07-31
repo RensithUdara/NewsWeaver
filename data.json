@@ -455860,5 +455860,11 @@
         "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
         "timestamp": "2026-07-31T14:36:20.573933",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cro – elegant reactive services in Raku",
+        "url": "https://cro.raku.org/",
+        "timestamp": "2026-07-31T14:36:20.573965",
+        "source": "Hacker News"
     }
 ]
