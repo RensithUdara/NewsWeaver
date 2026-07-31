@@ -456532,5 +456532,11 @@
         "url": "https://lcamtuf.substack.com/p/severance",
         "timestamp": "2026-07-31T20:36:34.269691",
         "source": "Hacker News"
+    },
+    {
+        "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+        "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+        "timestamp": "2026-07-31T20:36:34.269773",
+        "source": "Hacker News"
     }
 ]
