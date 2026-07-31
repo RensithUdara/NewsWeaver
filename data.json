@@ -457210,5 +457210,11 @@
         "url": "https://www.jrzs.dev/blog/recovering-from-agentic-coding",
         "timestamp": "2026-07-31T23:42:58.141825",
         "source": "Hacker News"
+    },
+    {
+        "title": "Framework choice explains ~0.06% of agentic AI security outcome (7,020 trials)",
+        "url": "https://figshare.com/articles/preprint/Cross-Framework_Portability_of_Agentic_AI_Security_A_Controlled_Payload-Verified_Evaluation/33110642",
+        "timestamp": "2026-07-31T23:42:58.141902",
+        "source": "Hacker News"
     }
 ]
