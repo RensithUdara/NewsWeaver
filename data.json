@@ -456010,5 +456010,11 @@
         "url": "https://swe-rebench.com",
         "timestamp": "2026-07-31T16:18:59.507630",
         "source": "Hacker News"
+    },
+    {
+        "title": "Where .env Went Wrong",
+        "url": "https://secretspec.dev/blog/where-env-went-wrong/",
+        "timestamp": "2026-07-31T16:18:59.507649",
+        "source": "Hacker News"
     }
 ]
