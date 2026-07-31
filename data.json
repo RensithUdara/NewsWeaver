@@ -456556,5 +456556,11 @@
         "url": "https://janilowski.pl/en/blog/2026/amodei-memo/",
         "timestamp": "2026-07-31T20:36:34.269983",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lerd, an open source Herd-like PHP development environment for Linux and macOS",
+        "url": "https://github.com/lerd-env/lerd",
+        "timestamp": "2026-07-31T20:36:34.270157",
+        "source": "Hacker News"
     }
 ]
