@@ -458410,5 +458410,11 @@
         "url": "https://www.youtube.com/watch?v=zZiw15VgWoI",
         "timestamp": "2026-08-01T11:50:09.764057",
         "source": "Hacker News"
+    },
+    {
+        "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+        "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+        "timestamp": "2026-08-01T12:42:25.952695",
+        "source": "Hacker News"
     }
 ]
