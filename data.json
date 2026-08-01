@@ -459316,5 +459316,11 @@
         "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
         "timestamp": "2026-08-01T17:29:45.128220",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Hermes Agent Skill Looping Between Codex and Claude Code",
+        "url": "https://codenote.net/en/posts/issue-to-pr-autonomous-loop-hermes-agent-skill/",
+        "timestamp": "2026-08-01T17:29:45.128256",
+        "source": "Hacker News"
     }
 ]
