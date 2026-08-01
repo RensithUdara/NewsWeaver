@@ -460204,5 +460204,11 @@
         "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-greenland-threats-europe-b3025688.html",
         "timestamp": "2026-08-01T23:26:50.520863",
         "source": "Hacker News"
+    },
+    {
+        "title": "RoR: Arbitrary file read and RCE in Active Storage",
+        "url": "https://discuss.rubyonrails.org/t/cve-2026-66066-possible-arbitrary-file-read-and-remote-code-execution-in-active-storage-variant-processing/91432",
+        "timestamp": "2026-08-01T23:26:50.520903",
+        "source": "Hacker News"
     }
 ]
