@@ -459814,5 +459814,11 @@
         "url": "https://zenodo.org/records/21744442",
         "timestamp": "2026-08-01T20:33:39.007111",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Open OneNote Viewer in Rust",
+        "url": "https://github.com/emsi/OneNoteViewer",
+        "timestamp": "2026-08-01T20:33:39.007144",
+        "source": "Hacker News"
     }
 ]
