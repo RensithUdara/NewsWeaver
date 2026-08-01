@@ -458746,5 +458746,11 @@
         "url": "https://medicalxpress.com/news/2026-07-protein-intake-healthy-aging-reshaping.html",
         "timestamp": "2026-08-01T14:15:03.569501",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust – What .boxed() costs you (and a tiny crate to avoid it)",
+        "url": "https://ae2.rs/post/boxed-vs-box-pin",
+        "timestamp": "2026-08-01T14:15:03.569537",
+        "source": "Hacker News"
     }
 ]
