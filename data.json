@@ -459736,5 +459736,11 @@
         "url": "https://github.com/jeprinz/pantograph/blob/main/README.md",
         "timestamp": "2026-08-01T20:33:39.006577",
         "source": "Hacker News"
+    },
+    {
+        "title": "Uber SubmitQueue: a high-performance speculative merge queue",
+        "url": "https://github.com/uber/submitqueue/",
+        "timestamp": "2026-08-01T20:33:39.006625",
+        "source": "Hacker News"
     }
 ]
