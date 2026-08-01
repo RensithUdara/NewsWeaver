@@ -458032,5 +458032,11 @@
         "url": "https://twitter.com/oohweehuman/status/2083162929369878606",
         "timestamp": "2026-08-01T09:16:43.057771",
         "source": "Hacker News"
+    },
+    {
+        "title": "Multi-Paxos vs. Strong-Sync vs. Raft",
+        "url": "https://medium.com/from-zero-to-seekdb/multi-paxos-vs-strong-sync-primary-replica-vs-raft-which-ha-model-actually-gets-you-rpo-0-in-2026-d9bc3e2baaf9",
+        "timestamp": "2026-08-01T09:16:43.057799",
+        "source": "Hacker News"
     }
 ]
