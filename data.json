@@ -458104,5 +458104,11 @@
         "url": "https://www.producthunt.com/products/port22",
         "timestamp": "2026-08-01T09:16:43.273301",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "AWS Secrets Manager Terraform: Least-Privilege Access",
+        "url": "https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/",
+        "timestamp": "2026-08-01T10:49:59.910205",
+        "source": "Hacker News"
     }
 ]
