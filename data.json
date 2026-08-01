@@ -460180,5 +460180,11 @@
         "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
         "timestamp": "2026-08-01T23:26:50.254108",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kubeside – a Kubernetes client that shows your app, not your cluster",
+        "url": "https://github.com/dynaum/kubeside",
+        "timestamp": "2026-08-01T23:26:50.520722",
+        "source": "Hacker News"
     }
 ]
