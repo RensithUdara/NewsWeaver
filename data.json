@@ -459586,5 +459586,11 @@
         "url": "https://stridee.fit/developer",
         "timestamp": "2026-08-01T19:43:07.118913",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linux 7.3 to Allow Tuning AMD P-State Dynamic EPP with per CPU Core Granularity",
+        "url": "https://www.phoronix.com/news/Linux-7.3-AMD-Per-Core-Dynamic",
+        "timestamp": "2026-08-01T19:43:07.118951",
+        "source": "Hacker News"
     }
 ]
