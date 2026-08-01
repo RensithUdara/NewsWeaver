@@ -458590,5 +458590,11 @@
         "url": "https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/2AX2BCJ3EQX7G3YXSDX73BR4NCAWXXBZ/",
         "timestamp": "2026-08-01T14:15:03.365355",
         "source": "Hacker News"
+    },
+    {
+        "title": "Codex reimplemented in 8k lines of C++, <1MB binary",
+        "url": "https://github.com/paoloanzn/microcodex",
+        "timestamp": "2026-08-01T14:15:03.568436",
+        "source": "Hacker News"
     }
 ]
