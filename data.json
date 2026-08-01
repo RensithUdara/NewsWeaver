@@ -460186,5 +460186,11 @@
         "url": "https://github.com/dynaum/kubeside",
         "timestamp": "2026-08-01T23:26:50.520722",
         "source": "Hacker News"
+    },
+    {
+        "title": "Stop fucking around with database commits and transactions",
+        "url": "https://www.droppedasbaby.com/posts/db-commits/",
+        "timestamp": "2026-08-01T23:26:50.520788",
+        "source": "Hacker News"
     }
 ]
