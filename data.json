@@ -458122,5 +458122,11 @@
         "url": "https://trysumora.com",
         "timestamp": "2026-08-01T10:50:00.155440",
         "source": "Hacker News"
+    },
+    {
+        "title": "Semantic Memory for Hermes Agent with LanceDB",
+        "url": "https://www.lancedb.com/blog/semantic-memory-for-hermes-agent-with-lancedb",
+        "timestamp": "2026-08-01T10:50:00.155481",
+        "source": "Hacker News"
     }
 ]
