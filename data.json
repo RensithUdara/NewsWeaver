@@ -457534,5 +457534,11 @@
         "url": "https://www.shirt-pocket.com/blog/supererduperer",
         "timestamp": "2026-08-01T04:36:13.585421",
         "source": "Hacker News"
+    },
+    {
+        "title": "A LangGraph pipeline that generates compiling Flutter apps (with a repair loop)",
+        "url": "https://github.com/carlosge492/app-generation-microservice",
+        "timestamp": "2026-08-01T04:36:13.585459",
+        "source": "Hacker News"
     }
 ]
