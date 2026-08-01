@@ -457390,5 +457390,11 @@
         "url": "https://jwlabs.vercel.app/post/speculative-decoding-first-principles",
         "timestamp": "2026-08-01T01:16:41.713991",
         "source": "Hacker News"
+    },
+    {
+        "title": "Benchmark: 68x faster than AWS DMS for real-time CDC",
+        "url": "https://www.artie.com/blogs/artie-vs-aws-dms",
+        "timestamp": "2026-08-01T01:16:41.714045",
+        "source": "Hacker News"
     }
 ]
