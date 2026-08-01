@@ -458560,5 +458560,11 @@
         "url": "https://heartbeats.dorianmarie.com/",
         "timestamp": "2026-08-01T12:42:26.105938",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Stack v3",
+        "url": "https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train",
+        "timestamp": "2026-08-01T12:42:26.105976",
+        "source": "Hacker News"
     }
 ]
