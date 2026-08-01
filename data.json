@@ -457510,5 +457510,11 @@
         "url": "https://www.johndcook.com/blog/2026/07/27/float-binary/",
         "timestamp": "2026-08-01T04:36:13.492658",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hardening Google Cloud IAM with CEL Conditions and Deny Policies",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/generosity-under-conditions-hardening-google-cloud-access-management/",
+        "timestamp": "2026-08-01T04:36:13.585284",
+        "source": "Hacker News"
     }
 ]
