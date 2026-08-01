@@ -459730,5 +459730,11 @@
         "url": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
         "timestamp": "2026-08-01T20:33:37.736418",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pantograph",
+        "url": "https://github.com/jeprinz/pantograph/blob/main/README.md",
+        "timestamp": "2026-08-01T20:33:39.006577",
+        "source": "Hacker News"
     }
 ]
