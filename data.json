@@ -457822,5 +457822,11 @@
         "url": "https://news.ycombinator.com/item?id=49131426",
         "timestamp": "2026-08-01T07:08:12.343662",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cross Validation vs. Leaderboard: When CV Is Too Timid",
+        "url": "https://medium.com/@alanscottencinas/cross-validation-vs-leaderboard-when-cv-is-too-timid-209215695fe1",
+        "timestamp": "2026-08-01T07:08:12.343696",
+        "source": "Hacker News"
     }
 ]
