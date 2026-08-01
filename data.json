@@ -457498,5 +457498,11 @@
         "url": "https://piegames.de/dumps/a-week-in-matrix/",
         "timestamp": "2026-08-01T04:36:13.492084",
         "source": "Hacker News"
+    },
+    {
+        "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
+        "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
+        "timestamp": "2026-08-01T04:36:13.492460",
+        "source": "Hacker News"
     }
 ]
