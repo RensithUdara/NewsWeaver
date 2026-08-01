@@ -458878,5 +458878,11 @@
         "url": "https://dscode.ai/",
         "timestamp": "2026-08-01T15:27:09.601133",
         "source": "Hacker News"
+    },
+    {
+        "title": "Single-file Ada 83 LLVM compiler",
+        "url": "https://github.com/AdaDoom3/Ada83/tree/main",
+        "timestamp": "2026-08-01T15:27:09.601175",
+        "source": "Hacker News"
     }
 ]
