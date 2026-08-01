@@ -457660,5 +457660,11 @@
         "url": "https://atlantic-cable.com/",
         "timestamp": "2026-08-01T04:36:13.586336",
         "source": "Hacker News"
+    },
+    {
+        "title": "Doom on Emacs",
+        "url": "https://github.com/minad/doom-on-emacs/tree/3830991bd3d69a9426498ee4a3dc8b55c8eb2eb5",
+        "timestamp": "2026-08-01T04:36:13.586373",
+        "source": "Hacker News"
     }
 ]
