@@ -459232,5 +459232,11 @@
         "url": "https://arxiv.org/abs/2606.00463",
         "timestamp": "2026-08-01T17:29:45.127674",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ruby on Rails RCE",
+        "url": "https://github.com/rails/rails/security/advisories/GHSA-xr9x-r78c-5hrm",
+        "timestamp": "2026-08-01T17:29:45.127708",
+        "source": "Hacker News"
     }
 ]
