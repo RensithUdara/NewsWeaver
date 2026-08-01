@@ -458284,5 +458284,11 @@
         "url": "https://type.today/en/journal/dots",
         "timestamp": "2026-08-01T11:50:09.521895",
         "source": "Hacker News"
+    },
+    {
+        "title": "Quantum-secure open-source hardware wallet for EVM/Ethereum",
+        "url": "https://github.com/EthereumPhone/PQ1",
+        "timestamp": "2026-08-01T11:50:09.763270",
+        "source": "Hacker News"
     }
 ]
