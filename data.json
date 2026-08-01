@@ -459514,5 +459514,11 @@
         "url": "https://news.sky.com/story/nirmal-purja-former-british-special-forces-soldier-dead-after-avalanche-13568810",
         "timestamp": "2026-08-01T18:29:10.876149",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postmortem for Kernel Soundness Bug #14576",
+        "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+        "timestamp": "2026-08-01T19:43:06.909776",
+        "source": "Hacker News"
     }
 ]
