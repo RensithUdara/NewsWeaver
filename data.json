@@ -459646,5 +459646,11 @@
         "url": "https://www.axios.com/local/atlanta/2026/07/24/arieforce-one-closing-fayetteville-fun-spot-america-atlanta-roller-coaster",
         "timestamp": "2026-08-01T19:43:07.119292",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rails patches critical Active Storage flaw with RCE potential",
+        "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+        "timestamp": "2026-08-01T19:43:07.119327",
+        "source": "Hacker News"
     }
 ]
