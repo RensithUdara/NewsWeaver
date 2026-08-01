@@ -457384,5 +457384,11 @@
         "url": "https://blog.nathanlangley.dev/posts/proactive-ai.html",
         "timestamp": "2026-08-01T01:16:41.713953",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLM speculative decoding explained simply",
+        "url": "https://jwlabs.vercel.app/post/speculative-decoding-first-principles",
+        "timestamp": "2026-08-01T01:16:41.713991",
+        "source": "Hacker News"
     }
 ]
