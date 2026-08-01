@@ -457750,5 +457750,11 @@
         "url": "https://gemini.google.com/share/2cb21bc5b39a",
         "timestamp": "2026-08-01T07:08:12.343215",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fast Rust Library for PDF text extraction",
+        "url": "https://github.com/firecrawl/pdf-inspector",
+        "timestamp": "2026-08-01T07:08:12.343249",
+        "source": "Hacker News"
     }
 ]
