@@ -459370,5 +459370,11 @@
         "url": "https://news.ycombinator.com/item?id=49136990",
         "timestamp": "2026-08-01T18:29:10.875690",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+        "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
+        "timestamp": "2026-08-01T18:29:10.875708",
+        "source": "Hacker News"
     }
 ]
