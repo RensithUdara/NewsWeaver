@@ -460120,5 +460120,11 @@
         "url": "https://taoofmac.com/space/reviews/2026/08/01/2130",
         "timestamp": "2026-08-01T22:27:03.823804",
         "source": "Hacker News"
+    },
+    {
+        "title": "Presigned URLs are technically a security vuln",
+        "url": "https://www.tigrisdata.com/blog/presigned-urls-security-vuln/",
+        "timestamp": "2026-08-01T22:27:03.823843",
+        "source": "Hacker News"
     }
 ]
