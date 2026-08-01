@@ -459652,5 +459652,11 @@
         "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
         "timestamp": "2026-08-01T19:43:07.119327",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tell HN: Amazonbot aggressively scraping my website and ignoring robots.txt",
+        "url": "https://news.ycombinator.com/item?id=49137359",
+        "timestamp": "2026-08-01T19:43:07.119386",
+        "source": "Hacker News"
     }
 ]
