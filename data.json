@@ -458866,5 +458866,11 @@
         "url": "https://gdox.korze.org/wtf/",
         "timestamp": "2026-08-01T15:27:09.601062",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ls-guard: generate and audit Postgres/Supabase RLS from a spec",
+        "url": "https://github.com/greyrow/rls-guard",
+        "timestamp": "2026-08-01T15:27:09.601098",
+        "source": "Hacker News"
     }
 ]
