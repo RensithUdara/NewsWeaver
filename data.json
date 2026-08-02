@@ -463408,5 +463408,11 @@
         "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
         "timestamp": "2026-08-02T23:33:32.134037",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: STB-like zero-dependency O(N) FMM gravity solver",
+        "url": "https://github.com/nihiL7331/polesitter",
+        "timestamp": "2026-08-02T23:33:32.134068",
+        "source": "Hacker News"
     }
 ]
