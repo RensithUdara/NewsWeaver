@@ -460372,5 +460372,11 @@
         "url": "https://simonwillison.net/2026/Jul/31/smevals/",
         "timestamp": "2026-08-02T01:04:30.405027",
         "source": "Hacker News"
+    },
+    {
+        "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+        "url": "https://zenodo.org/records/21753002",
+        "timestamp": "2026-08-02T01:04:30.405082",
+        "source": "Hacker News"
     }
 ]
