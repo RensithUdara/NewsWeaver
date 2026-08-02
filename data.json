@@ -463030,5 +463030,11 @@
         "url": "https://towardsdev.com/i-built-a-prompt-injection-detector-using-gos-standard-library-f4528c13d038?sk=863bde17fcdde2da80a260d16d6b6154",
         "timestamp": "2026-08-02T21:30:39.481351",
         "source": "Hacker News"
+    },
+    {
+        "title": "Understanding Raft Leader Election by building from scratch",
+        "url": "https://sushantdhiman.dev/blog/raft/",
+        "timestamp": "2026-08-02T21:30:39.481386",
+        "source": "Hacker News"
     }
 ]
