@@ -461848,5 +461848,11 @@
         "url": "https://lemurintheattic.mataroa.blog/p/shitty-sleep/",
         "timestamp": "2026-08-02T14:26:27.774455",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zellij: Support the Kitty Image Protocol",
+        "url": "https://github.com/zellij-org/zellij/pull/5428",
+        "timestamp": "2026-08-02T14:26:27.774493",
+        "source": "Hacker News"
     }
 ]
