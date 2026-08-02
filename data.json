@@ -461740,5 +461740,11 @@
         "url": "https://www.librarian.net/notoai/",
         "timestamp": "2026-08-02T14:26:27.773763",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: CC Meter, a Windows Tray Gauge for Claude Code and Codex Limits",
+        "url": "https://github.com/silverdolphin863/claude-code-meter",
+        "timestamp": "2026-08-02T14:26:27.773800",
+        "source": "Hacker News"
     }
 ]
