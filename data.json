@@ -460804,5 +460804,11 @@
         "url": "https://github.com/trycompai/crm",
         "timestamp": "2026-08-02T07:11:31.694052",
         "source": "Hacker News"
+    },
+    {
+        "title": "Testing LLM Concurrency on Consumer Hardware (RTX 5060)",
+        "url": "https://ai.2it.onl/posts/concurrency-sweep/",
+        "timestamp": "2026-08-02T07:11:31.694075",
+        "source": "Hacker News"
     }
 ]
