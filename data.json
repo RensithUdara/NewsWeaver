@@ -462862,5 +462862,11 @@
         "url": "https://www.shedblog.co.uk/",
         "timestamp": "2026-08-02T20:37:01.336305",
         "source": "Hacker News"
+    },
+    {
+        "title": "Adding Go's Defer to the TypeScript Compiler",
+        "url": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
+        "timestamp": "2026-08-02T20:37:01.336339",
+        "source": "Hacker News"
     }
 ]
