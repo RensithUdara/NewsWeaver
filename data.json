@@ -461074,5 +461074,11 @@
         "url": "https://www.imdb.com/title/tt0071203",
         "timestamp": "2026-08-02T09:22:18.293335",
         "source": "Hacker News"
+    },
+    {
+        "title": "Don't replicate data over webhooks. SCROLL",
+        "url": "https://welidev.github.io/scroll/",
+        "timestamp": "2026-08-02T09:22:18.293389",
+        "source": "Hacker News"
     }
 ]
