@@ -462658,5 +462658,11 @@
         "url": "https://www.nbcnews.com",
         "timestamp": "2026-08-02T19:48:07.258167",
         "source": "Hacker News"
+    },
+    {
+        "title": "Baltram/seednaut: Inspect, verify and extract files from Seedvault backups",
+        "url": "https://github.com/Baltram/seednaut",
+        "timestamp": "2026-08-02T19:48:07.258203",
+        "source": "Hacker News"
     }
 ]
