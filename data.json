@@ -461098,5 +461098,11 @@
         "url": "https://medium.com/towards-artificial-intelligence/what-happens-when-frustrated-machines-talk-to-each-other-16e234b1e55f",
         "timestamp": "2026-08-02T09:22:18.293472",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running a 35B LLM at 128K Context, Full Speed, on €870 of Used Hardware",
+        "url": "https://medium.com/ai-advances/running-a-35b-llm-at-128k-context-full-speed-on-870-of-used-hardware-no-cloud-required-c4f7629810b8",
+        "timestamp": "2026-08-02T09:22:18.293498",
+        "source": "Hacker News"
     }
 ]
