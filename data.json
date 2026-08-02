@@ -460348,5 +460348,11 @@
         "url": "https://scrybble.ink/blog/understanding-remarkable-coordinate-system",
         "timestamp": "2026-08-01T23:26:50.521827",
         "source": "Hacker News"
+    },
+    {
+        "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+        "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+        "timestamp": "2026-08-02T01:04:30.156544",
+        "source": "Hacker News"
     }
 ]
