@@ -460798,5 +460798,11 @@
         "url": "https://agent4lease.com/",
         "timestamp": "2026-08-02T07:11:31.694031",
         "source": "Hacker News"
+    },
+    {
+        "title": "CRM: An open-source, agentic-first CRM",
+        "url": "https://github.com/trycompai/crm",
+        "timestamp": "2026-08-02T07:11:31.694052",
+        "source": "Hacker News"
     }
 ]
