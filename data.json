@@ -461932,5 +461932,11 @@
         "url": "https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html",
         "timestamp": "2026-08-02T15:35:48.348286",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A fixed harness for comparing LLM agent memory systems",
+        "url": "https://github.com/AML-memory/agent-memory-leaderboard",
+        "timestamp": "2026-08-02T15:35:48.348324",
+        "source": "Hacker News"
     }
 ]
