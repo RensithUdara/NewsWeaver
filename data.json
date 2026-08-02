@@ -463036,5 +463036,11 @@
         "url": "https://sushantdhiman.dev/blog/raft/",
         "timestamp": "2026-08-02T21:30:39.481386",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I implemented the Kimi K3 paper from scratch in PyTorch",
+        "url": "https://github.com/TimRots/kimi3",
+        "timestamp": "2026-08-02T21:30:39.481426",
+        "source": "Hacker News"
     }
 ]
