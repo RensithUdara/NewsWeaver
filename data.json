@@ -461038,5 +461038,11 @@
         "url": "https://medium.com/@chanaka3d/why-i-built-handysuite-as-a-native-apple-app-and-skipped-cross-platform-685a5e9748b1",
         "timestamp": "2026-08-02T09:22:18.293141",
         "source": "Hacker News"
+    },
+    {
+        "title": "AirLLM: Inference 2.8T Kimi K3 on a single 4GB GPU",
+        "url": "https://github.com/lyogavin/airllm",
+        "timestamp": "2026-08-02T09:22:18.293169",
+        "source": "Hacker News"
     }
 ]
