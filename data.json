@@ -462022,5 +462022,11 @@
         "url": "https://pluralistic.net/2026/08/01/dare-snot/",
         "timestamp": "2026-08-02T15:35:48.349005",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Cross-Platform Rust UI Framework via Qt's Bridging Technology",
+        "url": "https://www.qt.io/blog/rust-ui-framework-via-bridging-technology",
+        "timestamp": "2026-08-02T15:35:48.349048",
+        "source": "Hacker News"
     }
 ]
