@@ -460612,5 +460612,11 @@
         "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
         "timestamp": "2026-08-02T04:31:41.002174",
         "source": "Hacker News"
+    },
+    {
+        "title": "Booting Fuchsia's Zircon on a Homebrew RISC-V SoC, on an Artix-7 FPGA",
+        "url": "https://www.hdlfactory.com/post/2026/07/19/cocoapuffs-booting-fuchsias-zircon-kernel-on-a-risc-v-core-in-artix-7-fpga/",
+        "timestamp": "2026-08-02T04:31:41.002214",
+        "source": "Hacker News"
     }
 ]
