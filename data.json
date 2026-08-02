@@ -460588,5 +460588,11 @@
         "url": "https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/",
         "timestamp": "2026-08-02T04:31:40.914914",
         "source": "Hacker News"
+    },
+    {
+        "title": "We accidentally built an LLVM compiler for Jax",
+        "url": "https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/",
+        "timestamp": "2026-08-02T04:31:40.915017",
+        "source": "Hacker News"
     }
 ]
