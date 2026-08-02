@@ -460636,5 +460636,11 @@
         "url": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
         "timestamp": "2026-08-02T04:31:41.002377",
         "source": "Hacker News"
+    },
+    {
+        "title": "Safeguards Based on Copyable Context Cannot Provide Reliable Safety for LLMs",
+        "url": "https://arxiv.org/abs/2607.27951",
+        "timestamp": "2026-08-02T04:31:41.002413",
+        "source": "Hacker News"
     }
 ]
