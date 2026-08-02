@@ -462442,5 +462442,11 @@
         "url": "https://blog.cloudflare.com/agents-week-welcome/",
         "timestamp": "2026-08-02T18:36:56.594284",
         "source": "Hacker News"
+    },
+    {
+        "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
+        "url": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
+        "timestamp": "2026-08-02T18:36:56.594389",
+        "source": "Hacker News"
     }
 ]
