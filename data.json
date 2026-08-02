@@ -462562,5 +462562,11 @@
         "url": "https://ai-five-layer-map.pages.dev/",
         "timestamp": "2026-08-02T18:36:56.828479",
         "source": "Hacker News"
+    },
+    {
+        "title": "I pointed my agent security tool at myself and four of the bugs were mine",
+        "url": "https://agentmetry.ai/blog/dogfooding-found-five-bugs",
+        "timestamp": "2026-08-02T18:36:56.828545",
+        "source": "Hacker News"
     }
 ]
