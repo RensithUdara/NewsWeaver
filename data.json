@@ -460684,5 +460684,11 @@
         "url": "https://philarchive.org/archive/NIEWTCv17",
         "timestamp": "2026-08-02T04:31:41.002688",
         "source": "Hacker News"
+    },
+    {
+        "title": "Foundational ternary-model inference and training – CUDA, CPU, BitNet/TQ",
+        "url": "https://github.com/Quitetall/tritium",
+        "timestamp": "2026-08-02T04:31:41.002727",
+        "source": "Hacker News"
     }
 ]
