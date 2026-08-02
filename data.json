@@ -460480,5 +460480,11 @@
         "url": "https://conikeec.substack.com/p/ablative-software",
         "timestamp": "2026-08-02T01:04:30.405816",
         "source": "Hacker News"
+    },
+    {
+        "title": "Send and Pretend: Exploiting Transcript Consistency Issues in E2EE Group Chats",
+        "url": "https://arxiv.org/abs/2607.27510",
+        "timestamp": "2026-08-02T01:04:30.405850",
+        "source": "Hacker News"
     }
 ]
