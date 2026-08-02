@@ -461962,5 +461962,11 @@
         "url": "https://news.ycombinator.com/item?id=49145307",
         "timestamp": "2026-08-02T15:35:48.348512",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cross compiling Swift (including SwiftUI) to WASM",
+        "url": "https://github.com/patch-release/patch-swift",
+        "timestamp": "2026-08-02T15:35:48.348549",
+        "source": "Hacker News"
     }
 ]
