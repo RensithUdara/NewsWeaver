@@ -461260,5 +461260,11 @@
         "url": "https://www.youtube.com/watch?v=C0DDxNcI2BA",
         "timestamp": "2026-08-02T10:55:35.856273",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+        "url": "https://github.com/kamalfarahani/katharos",
+        "timestamp": "2026-08-02T10:55:35.856336",
+        "source": "Hacker News"
     }
 ]
