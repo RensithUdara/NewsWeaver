@@ -461662,5 +461662,11 @@
         "url": "https://algo-finance.com/ai/machine-learning/transformer-models-financial-forecasting-2026/",
         "timestamp": "2026-08-02T12:57:48.574345",
         "source": "Hacker News"
+    },
+    {
+        "title": "Velocity a proof of linear-scaling long context for existing LLMs, no retraining",
+        "url": "https://github.com/Veloresearch/velocity-mta-proof",
+        "timestamp": "2026-08-02T12:57:48.574379",
+        "source": "Hacker News"
     }
 ]
