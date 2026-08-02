@@ -462472,5 +462472,11 @@
         "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
         "timestamp": "2026-08-02T18:36:56.827853",
         "source": "Hacker News"
+    },
+    {
+        "title": "A fresh look at CPU silent data corruption in modern data centers",
+        "url": "https://cacm.acm.org/research/revisiting-cpu-silent-data-corruptions-in-modern-datacenters/",
+        "timestamp": "2026-08-02T18:36:56.827888",
+        "source": "Hacker News"
     }
 ]
