@@ -462568,5 +462568,11 @@
         "url": "https://agentmetry.ai/blog/dogfooding-found-five-bugs",
         "timestamp": "2026-08-02T18:36:56.828545",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a real self-evolving operating system: Fable-OS",
+        "url": "https://github.com/robiot/fable-os",
+        "timestamp": "2026-08-02T18:36:56.828598",
+        "source": "Hacker News"
     }
 ]
