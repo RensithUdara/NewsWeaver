@@ -462760,5 +462760,11 @@
         "url": "https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse",
         "timestamp": "2026-08-02T19:48:07.258859",
         "source": "Hacker News"
+    },
+    {
+        "title": "A cold-start fallback wrote 17,000 rows while the real handler never ran",
+        "url": "https://silentwiring.com/articles/more-agents-silent-failure/",
+        "timestamp": "2026-08-02T19:48:07.258894",
+        "source": "Hacker News"
     }
 ]
