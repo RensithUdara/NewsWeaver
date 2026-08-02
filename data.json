@@ -461944,5 +461944,11 @@
         "url": "https://blog.mozilla.org/en/mozilla/mozilla-state-of-open-source-ai-report/",
         "timestamp": "2026-08-02T15:35:48.348397",
         "source": "Hacker News"
+    },
+    {
+        "title": "Stack Trace for Distributed Systems",
+        "url": "https://github.com/leandromoreira/distributed-stack-trace/tree/main",
+        "timestamp": "2026-08-02T15:35:48.348438",
+        "source": "Hacker News"
     }
 ]
