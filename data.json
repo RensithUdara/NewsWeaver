@@ -462940,5 +462940,11 @@
         "url": "https://seanhelvey.com/tools-and-their-tools/",
         "timestamp": "2026-08-02T21:30:39.172744",
         "source": "Hacker News"
+    },
+    {
+        "title": "WireguardTCP: WireGuard over TCP",
+        "url": "https://wireguardtcp.net/",
+        "timestamp": "2026-08-02T21:30:39.172998",
+        "source": "Hacker News"
     }
 ]
