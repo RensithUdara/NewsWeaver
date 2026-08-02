@@ -461512,5 +461512,11 @@
         "url": "https://blog.backslasher.net/tsaas-saves.html",
         "timestamp": "2026-08-02T11:54:32.284065",
         "source": "Hacker News"
+    },
+    {
+        "title": "I made a Promise-aware debounce and throttle library for TypeScript",
+        "url": "https://github.com/nyvexis1/temporize",
+        "timestamp": "2026-08-02T11:54:32.284092",
+        "source": "Hacker News"
     }
 ]
