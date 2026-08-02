@@ -463054,5 +463054,11 @@
         "url": "https://news.ycombinator.com/item?id=49148312",
         "timestamp": "2026-08-02T21:30:39.481564",
         "source": "Hacker News"
+    },
+    {
+        "title": "Design by Contract and effects are essential for LLM-generated code",
+        "url": "https://gavinray97.github.io/blog/design-by-contract-and-effects-for-llms",
+        "timestamp": "2026-08-02T21:30:39.481603",
+        "source": "Hacker News"
     }
 ]
