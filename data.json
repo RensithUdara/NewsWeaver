@@ -462754,5 +462754,11 @@
         "url": "https://www.rnz.co.nz/news/science-and-technology/868752/explainer-what-is-a-data-centre-and-why-is-everyone-freaking-out-now",
         "timestamp": "2026-08-02T19:48:07.258825",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scaling a 1.59 quadrillion-row logging system with ClickHouse",
+        "url": "https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse",
+        "timestamp": "2026-08-02T19:48:07.258859",
+        "source": "Hacker News"
     }
 ]
