@@ -464740,5 +464740,11 @@
         "url": "https://planetscale.com/blog/massively-parallel-postgres-backups",
         "timestamp": "2026-08-03T18:14:32.560701",
         "source": "Hacker News"
+    },
+    {
+        "title": "SearXNG in Rust",
+        "url": "https://github.com/MikeLuu99/searxng-rust",
+        "timestamp": "2026-08-03T18:14:32.560754",
+        "source": "Hacker News"
     }
 ]
