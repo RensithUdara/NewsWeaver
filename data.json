@@ -464332,5 +464332,11 @@
         "url": "https://neurips.cc/virtual/2025/loc/san-diego/invited-talk/109606",
         "timestamp": "2026-08-03T13:59:37.263192",
         "source": "Hacker News"
+    },
+    {
+        "title": "bstr: A string type for Rust that is not required to be valid UTF-8",
+        "url": "https://github.com/BurntSushi/bstr",
+        "timestamp": "2026-08-03T13:59:37.263237",
+        "source": "Hacker News"
     }
 ]
