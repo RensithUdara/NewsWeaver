@@ -463840,5 +463840,11 @@
         "url": "https://www.youtube.com/watch?v=lnBPhelCdWE",
         "timestamp": "2026-08-03T08:04:23.863903",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pipe – A runtime where AI operations are language primitives",
+        "url": "https://pipe-lang.com",
+        "timestamp": "2026-08-03T08:04:23.863938",
+        "source": "Hacker News"
     }
 ]
