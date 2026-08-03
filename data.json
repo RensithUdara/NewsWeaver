@@ -465352,5 +465352,11 @@
         "url": "https://www.cbc.ca/news/canada/montreal/new-social-media-app-to-defeat-doom-scrolling-9.7289312",
         "timestamp": "2026-08-03T23:19:26.528663",
         "source": "Hacker News"
+    },
+    {
+        "title": "NIIN: NVSHMEM Implemented In NCCL",
+        "url": "https://github.com/NVIDIA/nccl/tree/staging/contrib/niin",
+        "timestamp": "2026-08-03T23:19:26.528697",
+        "source": "Hacker News"
     }
 ]
