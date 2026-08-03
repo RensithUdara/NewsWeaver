@@ -463720,5 +463720,11 @@
         "url": "https://www.youtube.com/watch?v=2OUGXI9Y1sk",
         "timestamp": "2026-08-03T04:44:07.928284",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: swsql – A PostgreSQL client for the terminal, written in Swift",
+        "url": "https://github.com/vdsingh/swsql",
+        "timestamp": "2026-08-03T04:44:07.928356",
+        "source": "Hacker News"
     }
 ]
