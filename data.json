@@ -463798,5 +463798,11 @@
         "url": "https://mertbulan.com/more-german-than-many-germans/",
         "timestamp": "2026-08-03T08:04:23.604121",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust project goals: Immobile types and guaranteed destructors",
+        "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+        "timestamp": "2026-08-03T08:04:23.604160",
+        "source": "Hacker News"
     }
 ]
