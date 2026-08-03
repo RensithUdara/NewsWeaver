@@ -463432,5 +463432,11 @@
         "url": "https://mighil.com/playing-with-georgia",
         "timestamp": "2026-08-03T01:10:12.699403",
         "source": "Hacker News"
+    },
+    {
+        "title": "A tool for finding the causes of unstable Python tests",
+        "url": "https://github.com/mgaitan/pytest-leak-finder",
+        "timestamp": "2026-08-03T01:10:12.700109",
+        "source": "Hacker News"
     }
 ]
