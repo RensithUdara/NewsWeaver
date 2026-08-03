@@ -463846,5 +463846,11 @@
         "url": "https://pipe-lang.com",
         "timestamp": "2026-08-03T08:04:23.863938",
         "source": "Hacker News"
+    },
+    {
+        "title": "A C++ toolchain from 357 bytes, in Bazel",
+        "url": "https://fzakaria.com/2026/08/01/a-c++-toolchain-from-357-bytes-in-bazel",
+        "timestamp": "2026-08-03T08:04:23.863973",
+        "source": "Hacker News"
     }
 ]
