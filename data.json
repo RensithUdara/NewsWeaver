@@ -464632,5 +464632,11 @@
         "url": "https://jatan.space/the-two-faced-moon/",
         "timestamp": "2026-08-03T16:27:01.404033",
         "source": "Hacker News"
+    },
+    {
+        "title": "Measuring an eBPF Cache Without Leaving the Kernel",
+        "url": "https://naveensrinivasan.com/posts/2026-08-02-measuring-an-ebpf-cache-without-leaving-the-kernel/",
+        "timestamp": "2026-08-03T16:27:01.404053",
+        "source": "Hacker News"
     }
 ]
