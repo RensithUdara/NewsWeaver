@@ -464146,5 +464146,11 @@
         "url": "https://blog.emilburzo.com/2026/06/gps-spoofing-teleported-me-to-peru-while-flying/",
         "timestamp": "2026-08-03T11:38:16.709898",
         "source": "Hacker News"
+    },
+    {
+        "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+        "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+        "timestamp": "2026-08-03T11:38:16.709932",
+        "source": "Hacker News"
     }
 ]
