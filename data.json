@@ -463480,5 +463480,11 @@
         "url": "https://accomplishments.app/",
         "timestamp": "2026-08-03T01:10:12.958277",
         "source": "Hacker News"
+    },
+    {
+        "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+        "url": "https://github.com/johnsonjh/cpm386",
+        "timestamp": "2026-08-03T01:10:12.958311",
+        "source": "Hacker News"
     }
 ]
