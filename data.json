@@ -464458,5 +464458,11 @@
         "url": "https://www.nytimes.com/2026/08/02/us/bore-tide-surfing-alaska.html",
         "timestamp": "2026-08-03T13:59:37.263812",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Swath – parallel S3 listing without knowing the key distribution",
+        "url": "https://github.com/varveio/swath",
+        "timestamp": "2026-08-03T13:59:37.263840",
+        "source": "Hacker News"
     }
 ]
