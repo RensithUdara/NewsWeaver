@@ -464758,5 +464758,11 @@
         "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
         "timestamp": "2026-08-03T18:14:32.560945",
         "source": "Hacker News"
+    },
+    {
+        "title": "How Cursor + BrowserAct Handles Dynamic Pages Without Brittle Selectors",
+        "url": "https://dev.to/anthonymax/how-cursor-browseract-handles-dynamic-pages-without-brittle-selectors-dh4",
+        "timestamp": "2026-08-03T18:14:32.922921",
+        "source": "Dev.to"
     }
 ]
