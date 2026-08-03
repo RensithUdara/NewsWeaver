@@ -464872,5 +464872,11 @@
         "url": "https://techtonic.fm/episodes/2026-05-18-when-is-it-ok-to-use-ai/",
         "timestamp": "2026-08-03T19:58:45.546793",
         "source": "Hacker News"
+    },
+    {
+        "title": "PicoEFI: Minimal build environment for EFI applications",
+        "url": "https://github.com/PicoEFI/PicoEFI",
+        "timestamp": "2026-08-03T19:58:45.546835",
+        "source": "Hacker News"
     }
 ]
