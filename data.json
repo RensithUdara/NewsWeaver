@@ -465334,5 +465334,11 @@
         "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
         "timestamp": "2026-08-03T23:19:26.528548",
         "source": "Hacker News"
+    },
+    {
+        "title": "Compiler-Grounded Hierarchical Diagnosis for LLM Triton Kernel Optimization",
+        "url": "https://arxiv.org/abs/2607.23089",
+        "timestamp": "2026-08-03T23:19:26.528581",
+        "source": "Hacker News"
     }
 ]
