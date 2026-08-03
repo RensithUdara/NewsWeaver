@@ -463666,5 +463666,11 @@
         "url": "https://design.withfudge.com/website-feedback",
         "timestamp": "2026-08-03T04:44:07.927948",
         "source": "Hacker News"
+    },
+    {
+        "title": "DDisasm: Reversible (bi-directional) Disassembler",
+        "url": "https://github.com/GrammaTech/ddisasm",
+        "timestamp": "2026-08-03T04:44:07.927982",
+        "source": "Hacker News"
     }
 ]
