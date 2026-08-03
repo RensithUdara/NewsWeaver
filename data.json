@@ -464752,5 +464752,11 @@
         "url": "https://blog.cloudflare.com/billable-usage-api/",
         "timestamp": "2026-08-03T18:14:32.560866",
         "source": "Hacker News"
+    },
+    {
+        "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+        "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+        "timestamp": "2026-08-03T18:14:32.560945",
+        "source": "Hacker News"
     }
 ]
