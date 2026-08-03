@@ -465364,5 +465364,11 @@
         "url": "https://lee-ai.com/",
         "timestamp": "2026-08-03T23:19:26.528731",
         "source": "Hacker News"
+    },
+    {
+        "title": "Evaluating job search ranking with LLM judge",
+        "url": "https://corvi.careers/blog/search-eval-llm-judges-ndcg/",
+        "timestamp": "2026-08-03T23:19:26.528768",
+        "source": "Hacker News"
     }
 ]
