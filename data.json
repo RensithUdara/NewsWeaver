@@ -463534,5 +463534,11 @@
         "url": "https://ssh.place",
         "timestamp": "2026-08-03T01:10:12.958586",
         "source": "Hacker News"
+    },
+    {
+        "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+        "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
+        "timestamp": "2026-08-03T01:10:12.958625",
+        "source": "Hacker News"
     }
 ]
