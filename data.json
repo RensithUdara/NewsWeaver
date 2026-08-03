@@ -464734,5 +464734,11 @@
         "url": "https://hoplite.sh",
         "timestamp": "2026-08-03T18:14:32.560455",
         "source": "Hacker News"
+    },
+    {
+        "title": "Massively Parallel Postgres Backups",
+        "url": "https://planetscale.com/blog/massively-parallel-postgres-backups",
+        "timestamp": "2026-08-03T18:14:32.560701",
+        "source": "Hacker News"
     }
 ]
