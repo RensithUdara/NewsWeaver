@@ -464470,5 +464470,11 @@
         "url": "https://plugins.jetbrains.com/plugin/33126-asksql",
         "timestamp": "2026-08-03T13:59:37.263867",
         "source": "Hacker News"
+    },
+    {
+        "title": "Transforms complex documents like PDFs and Office docs into Markdown/JSON",
+        "url": "https://github.com/opendatalab/mineru",
+        "timestamp": "2026-08-03T13:59:37.263894",
+        "source": "Hacker News"
     }
 ]
