@@ -463600,5 +463600,11 @@
         "url": "https://qwen.ai/blog?id=qwen3.8",
         "timestamp": "2026-08-03T04:44:07.840812",
         "source": "Hacker News"
+    },
+    {
+        "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+        "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
+        "timestamp": "2026-08-03T04:44:07.841268",
+        "source": "Hacker News"
     }
 ]
