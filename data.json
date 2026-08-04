@@ -467752,5 +467752,11 @@
         "url": "https://www.thisandthat.chat/blog/most-tech-revolutions-made-work-worse-for-employees/",
         "timestamp": "2026-08-04T21:39:05.993551",
         "source": "Hacker News"
+    },
+    {
+        "title": "S-OS V-RAM Engine – 8MB virtual memory on a $1.50 ESP32 without PSRAM",
+        "url": "https://github.com/StepanoskiZ/vram-engine-esp32",
+        "timestamp": "2026-08-04T21:39:06.226717",
+        "source": "Hacker News"
     }
 ]
