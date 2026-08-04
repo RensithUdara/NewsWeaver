@@ -467392,5 +467392,11 @@
         "url": "https://blog.haskell.org/revised-haskell-2010-report/",
         "timestamp": "2026-08-04T18:54:31.650806",
         "source": "Hacker News"
+    },
+    {
+        "title": "Data.table, base, dplyr, Pandas, and polars",
+        "url": "https://arelbundock.com/posts/dt_tb_df/",
+        "timestamp": "2026-08-04T18:54:31.650841",
+        "source": "Hacker News"
     }
 ]
