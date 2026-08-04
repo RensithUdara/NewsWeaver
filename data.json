@@ -465784,5 +465784,11 @@
         "url": "https://www.abc.net.au/news/2026-08-04/property-collapse-highlights-private-credit-danger-jon-adgemis/106992190",
         "timestamp": "2026-08-04T03:40:51.418853",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hollow-LLM Attack: Ghost Weights That Fool Zero-Knowledge LLM Verification",
+        "url": "https://arxiv.org/abs/2607.28884",
+        "timestamp": "2026-08-04T03:40:51.418890",
+        "source": "Hacker News"
     }
 ]
