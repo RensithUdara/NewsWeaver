@@ -466714,5 +466714,11 @@
         "url": "https://www.crux.day/",
         "timestamp": "2026-08-04T13:18:04.866686",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mullvad Exit Nodes on Tailscale",
+        "url": "https://tailscale.com/docs/features/exit-nodes/mullvad-exit-nodes",
+        "timestamp": "2026-08-04T13:18:04.866715",
+        "source": "Hacker News"
     }
 ]
