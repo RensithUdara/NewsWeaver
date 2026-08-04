@@ -466348,5 +466348,11 @@
         "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
         "timestamp": "2026-08-04T11:31:57.228121",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hollowgraph Backdoor Turns Microsoft 365 Calendars into a C2 Channel",
+        "url": "https://www.picussecurity.com/resource/blog/hollowgraph-backdoor-turns-microsoft-365-calendars-into-a-c2-channel",
+        "timestamp": "2026-08-04T11:31:57.228193",
+        "source": "Hacker News"
     }
 ]
