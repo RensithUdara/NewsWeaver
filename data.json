@@ -466276,5 +466276,11 @@
         "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
         "timestamp": "2026-08-04T11:31:57.143010",
         "source": "Hacker News"
+    },
+    {
+        "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
+        "url": "https://pedroth.github.io/?p=post/NoNeedReact",
+        "timestamp": "2026-08-04T11:31:57.143234",
+        "source": "Hacker News"
     }
 ]
