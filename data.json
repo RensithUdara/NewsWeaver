@@ -466540,5 +466540,11 @@
         "url": "https://arxiv.org/abs/2608.02412",
         "timestamp": "2026-08-04T13:18:04.630523",
         "source": "Hacker News"
+    },
+    {
+        "title": "Safe Lock-free Primitives with iceoryx2's ByteAtomic",
+        "url": "https://ekxide.io/blog/byte-wise-atomic-wrapper-to-prevent-ub/",
+        "timestamp": "2026-08-04T13:18:04.630712",
+        "source": "Hacker News"
     }
 ]
