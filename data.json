@@ -465514,5 +465514,11 @@
         "url": "https://staunchapps.com/launch/",
         "timestamp": "2026-08-04T00:17:08.381857",
         "source": "Hacker News"
+    },
+    {
+        "title": "Solving the Multi-Plane Telemetry Challenge with Argo CD and OSS MyDecisive",
+        "url": "https://www.mydecisive.ai/blog/multi-plane-telemetry-argo-cd",
+        "timestamp": "2026-08-04T00:17:08.381877",
+        "source": "Hacker News"
     }
 ]
