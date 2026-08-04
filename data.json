@@ -466072,5 +466072,11 @@
         "url": "https://www.bloomberg.com/news/audio/2026-08-03/odd-lots-tungsten-market-is-warning-of-upcoming-war-podcast",
         "timestamp": "2026-08-04T09:09:21.682478",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code can read plaintext secrets even when Read is denied",
+        "url": "https://jankovd.substack.com/p/claude-can-read-your-secrets",
+        "timestamp": "2026-08-04T09:09:21.682511",
+        "source": "Hacker News"
     }
 ]
