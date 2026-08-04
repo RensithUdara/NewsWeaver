@@ -466258,5 +466258,11 @@
         "url": "https://www.producthunt.com/products/driven-ai",
         "timestamp": "2026-08-04T09:09:22.107284",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "FFmpeg 9.0",
+        "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+        "timestamp": "2026-08-04T11:31:57.142566",
+        "source": "Hacker News"
     }
 ]
