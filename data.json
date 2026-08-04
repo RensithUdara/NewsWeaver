@@ -468244,5 +468244,11 @@
         "url": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/",
         "timestamp": "2026-08-04T23:43:12.542062",
         "source": "Hacker News"
+    },
+    {
+        "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+        "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+        "timestamp": "2026-08-04T23:43:12.542104",
+        "source": "Hacker News"
     }
 ]
