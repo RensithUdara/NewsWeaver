@@ -467404,5 +467404,11 @@
         "url": "https://github.com/mrusme/kopi",
         "timestamp": "2026-08-04T18:54:31.650877",
         "source": "Hacker News"
+    },
+    {
+        "title": "LFM2.5 2.6B model competitive with 4x larger models",
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+        "timestamp": "2026-08-04T18:54:31.650911",
+        "source": "Hacker News"
     }
 ]
