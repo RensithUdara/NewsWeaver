@@ -466354,5 +466354,11 @@
         "url": "https://www.picussecurity.com/resource/blog/hollowgraph-backdoor-turns-microsoft-365-calendars-into-a-c2-channel",
         "timestamp": "2026-08-04T11:31:57.228193",
         "source": "Hacker News"
+    },
+    {
+        "title": "Built an FEM solver that runs in a web browser",
+        "url": "https://elementarium.app/",
+        "timestamp": "2026-08-04T11:31:57.228229",
+        "source": "Hacker News"
     }
 ]
