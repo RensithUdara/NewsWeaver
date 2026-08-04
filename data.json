@@ -465772,5 +465772,11 @@
         "url": "https://socket.dev/cargo/package/tokio",
         "timestamp": "2026-08-04T03:40:51.418768",
         "source": "Hacker News"
+    },
+    {
+        "title": "Eval-driven development: Lessons from evaluating GenAI at scale",
+        "url": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788",
+        "timestamp": "2026-08-04T03:40:51.418802",
+        "source": "Hacker News"
     }
 ]
