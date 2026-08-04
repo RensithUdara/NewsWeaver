@@ -465742,5 +465742,11 @@
         "url": "https://stuff.do/",
         "timestamp": "2026-08-04T03:40:51.418565",
         "source": "Hacker News"
+    },
+    {
+        "title": "JsxCore – A TSX/JSX View Engine for Asp.net Core",
+        "url": "https://github.com/davidwhitney/JsxCore",
+        "timestamp": "2026-08-04T03:40:51.418597",
+        "source": "Hacker News"
     }
 ]
