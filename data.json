@@ -466606,5 +466606,11 @@
         "url": "https://www.solvimon.com/blog/ai-pricing-is-not-broken",
         "timestamp": "2026-08-04T13:18:04.866176",
         "source": "Hacker News"
+    },
+    {
+        "title": "Run CI/CD for repos – on your platform, on Cloudflare",
+        "url": "https://blog.cloudflare.com/ci-workflows/",
+        "timestamp": "2026-08-04T13:18:04.866204",
+        "source": "Hacker News"
     }
 ]
