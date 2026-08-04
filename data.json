@@ -467338,5 +467338,11 @@
         "url": "https://github.com/agentrust-io/cmcp",
         "timestamp": "2026-08-04T18:54:31.390485",
         "source": "Hacker News"
+    },
+    {
+        "title": "MariaDB: Promote getting to 10k GitHub stars in server log and client prompt",
+        "url": "https://github.com/MariaDB/server/pull/4262",
+        "timestamp": "2026-08-04T18:54:31.390519",
+        "source": "Hacker News"
     }
 ]
