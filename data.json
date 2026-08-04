@@ -467986,5 +467986,11 @@
         "url": "https://www.youtube.com/playlist?list=PLangBM27OtEA",
         "timestamp": "2026-08-04T22:41:00.069780",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: SIMD Viterbi Decoder in Rust",
+        "url": "https://github.com/brian-armstrong/fec",
+        "timestamp": "2026-08-04T22:41:00.069823",
+        "source": "Hacker News"
     }
 ]
