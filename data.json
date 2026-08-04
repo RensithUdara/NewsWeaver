@@ -465844,5 +465844,11 @@
         "url": "https://ardor.cloud/blog/ardor-getblock-agentic-operations",
         "timestamp": "2026-08-04T06:15:35.666031",
         "source": "Hacker News"
+    },
+    {
+        "title": "Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning",
+        "url": "https://arxiv.org/abs/2607.29211",
+        "timestamp": "2026-08-04T06:15:35.666066",
+        "source": "Hacker News"
     }
 ]
