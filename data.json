@@ -466636,5 +466636,11 @@
         "url": "https://blog.cloudflare.com/wallets/",
         "timestamp": "2026-08-04T13:18:04.866329",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Loopers – Fail-closed reverse proxy and circuit breaker for AI agents",
+        "url": "https://app.tryloopers.com/",
+        "timestamp": "2026-08-04T13:18:04.866355",
+        "source": "Hacker News"
     }
 ]
