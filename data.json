@@ -465820,5 +465820,11 @@
         "url": "https://zenodo.org/records/21359923",
         "timestamp": "2026-08-04T06:15:35.423673",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bubo: AI code-reviewer that learns from review comments",
+        "url": "https://github.com/mountainowl/bubo",
+        "timestamp": "2026-08-04T06:15:35.665873",
+        "source": "Hacker News"
     }
 ]
