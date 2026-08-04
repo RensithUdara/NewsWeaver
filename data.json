@@ -466000,5 +466000,11 @@
         "url": "https://lex.school",
         "timestamp": "2026-08-04T09:09:21.682009",
         "source": "Hacker News"
+    },
+    {
+        "title": "Migration numbers are a distributed counter without coordination",
+        "url": "https://vvka-141.github.io/pgmi/articles/migration-numbers-distributed-counter/",
+        "timestamp": "2026-08-04T09:09:21.682054",
+        "source": "Hacker News"
     }
 ]
