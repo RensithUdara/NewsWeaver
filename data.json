@@ -465766,5 +465766,11 @@
         "url": "https://velokey.ai",
         "timestamp": "2026-08-04T03:40:51.418734",
         "source": "Hacker News"
+    },
+    {
+        "title": "Socket.dev warns about Rust Tokio library obfuscation",
+        "url": "https://socket.dev/cargo/package/tokio",
+        "timestamp": "2026-08-04T03:40:51.418768",
+        "source": "Hacker News"
     }
 ]
