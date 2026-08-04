@@ -465910,5 +465910,11 @@
         "url": "https://fiberfs.io/blog/assert_a_modern_how_to",
         "timestamp": "2026-08-04T06:15:35.666418",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLM memory doesn't only get written wrong, it goes wrong later",
+        "url": "https://manazir.dev/work/anamnesis-forecasting-memory-corruption",
+        "timestamp": "2026-08-04T06:15:35.666485",
+        "source": "Hacker News"
     }
 ]
