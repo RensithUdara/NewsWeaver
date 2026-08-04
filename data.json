@@ -468172,5 +468172,11 @@
         "url": "https://twitter.com/gwern/status/2084739205071343837",
         "timestamp": "2026-08-04T23:43:12.454083",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+        "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+        "timestamp": "2026-08-04T23:43:12.454311",
+        "source": "Hacker News"
     }
 ]
