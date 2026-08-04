@@ -468178,5 +468178,11 @@
         "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
         "timestamp": "2026-08-04T23:43:12.454311",
         "source": "Hacker News"
+    },
+    {
+        "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
+        "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+        "timestamp": "2026-08-04T23:43:12.454414",
+        "source": "Hacker News"
     }
 ]
