@@ -466546,5 +466546,11 @@
         "url": "https://ekxide.io/blog/byte-wise-atomic-wrapper-to-prevent-ub/",
         "timestamp": "2026-08-04T13:18:04.630712",
         "source": "Hacker News"
+    },
+    {
+        "title": "Homebench – Benchmark local LLMs for speed, memory, and quality",
+        "url": "https://github.com/david-g-3654/homebench",
+        "timestamp": "2026-08-04T13:18:04.630793",
+        "source": "Hacker News"
     }
 ]
