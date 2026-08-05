@@ -469132,5 +469132,11 @@
         "url": "https://www.bitbead.app/en",
         "timestamp": "2026-08-05T09:44:30.471741",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hoodik: A lightweight, self-hosted, end-to-end encrypted cloud storage server",
+        "url": "https://github.com/hudikhq/hoodik",
+        "timestamp": "2026-08-05T09:44:30.471775",
+        "source": "Hacker News"
     }
 ]
