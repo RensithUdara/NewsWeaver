@@ -470392,5 +470392,11 @@
         "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
         "timestamp": "2026-08-05T20:14:55.492764",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sula: A Gemini protocol server written in Scryer Prolog",
+        "url": "https://sagredo.dev/projects/sula/",
+        "timestamp": "2026-08-05T20:14:55.492872",
+        "source": "Hacker News"
     }
 ]
