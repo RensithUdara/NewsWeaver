@@ -470662,5 +470662,11 @@
         "url": "https://twitter.com/nikitabier/status/2085105586966827343/",
         "timestamp": "2026-08-05T21:33:10.778779",
         "source": "Hacker News"
+    },
+    {
+        "title": "Anyone who installed ecto 5.0.1 should consider that environment compromised",
+        "url": "https://github.com/jaredwray/ecto/issues/391",
+        "timestamp": "2026-08-05T21:33:10.778813",
+        "source": "Hacker News"
     }
 ]
