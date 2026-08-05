@@ -470968,5 +470968,11 @@
         "url": "https://www.idolojuego.com/",
         "timestamp": "2026-08-05T23:33:50.405233",
         "source": "Hacker News"
+    },
+    {
+        "title": "Private LLM in a TEE, verified against Intel's root with no cloud in the chain",
+        "url": "https://505labs.com/blog/private-llm-inside-a-tee",
+        "timestamp": "2026-08-05T23:33:50.405266",
+        "source": "Hacker News"
     }
 ]
