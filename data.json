@@ -470458,5 +470458,11 @@
         "url": "https://www.theregister.com/storage/2026/08/04/nvme-polishes-its-specs-brings-virtualization-to-locally-attached-ssds/5282882",
         "timestamp": "2026-08-05T20:14:55.648242",
         "source": "Hacker News"
+    },
+    {
+        "title": "Go: A more robust proposal process",
+        "url": "https://github.com/golang/go/discussions/80580",
+        "timestamp": "2026-08-05T20:14:55.648281",
+        "source": "Hacker News"
     }
 ]
