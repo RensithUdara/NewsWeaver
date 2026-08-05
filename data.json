@@ -470356,5 +470356,11 @@
         "url": "https://news.ycombinator.com/item?id=49186754",
         "timestamp": "2026-08-05T18:42:58.322129",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ClickBench Playground – a playground for 110 database systems",
+        "url": "https://benchmark.clickhouse.com/playground/",
+        "timestamp": "2026-08-05T18:42:58.322171",
+        "source": "Hacker News"
     }
 ]
