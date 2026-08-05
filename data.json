@@ -470284,5 +470284,11 @@
         "url": "https://blabbingabout.substack.com/p/new-drug-ai",
         "timestamp": "2026-08-05T18:42:58.321767",
         "source": "Hacker News"
+    },
+    {
+        "title": "Deployah – deploy to Kubernetes from a short spec, no Helm, nothing in-cluster",
+        "url": "https://github.com/deployah-dev/deployah",
+        "timestamp": "2026-08-05T18:42:58.321795",
+        "source": "Hacker News"
     }
 ]
