@@ -469672,5 +469672,11 @@
         "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
         "timestamp": "2026-08-05T15:35:17.626543",
         "source": "Hacker News"
+    },
+    {
+        "title": "Google's HTTP/2 codec slows Envoy",
+        "url": "https://apoxy.dev/blog/oghttp2-vs-nghttp2",
+        "timestamp": "2026-08-05T15:35:17.626613",
+        "source": "Hacker News"
     }
 ]
