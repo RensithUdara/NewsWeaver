@@ -469390,5 +469390,11 @@
         "url": "https://kurate.org/",
         "timestamp": "2026-08-05T11:45:31.430970",
         "source": "Hacker News"
+    },
+    {
+        "title": "How I Smashed a Bug in a Shared Authentication Library",
+        "url": "https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm",
+        "timestamp": "2026-08-05T11:45:31.502394",
+        "source": "Dev.to"
     }
 ]
