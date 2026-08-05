@@ -468730,5 +468730,11 @@
         "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
         "timestamp": "2026-08-05T07:08:22.686751",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: An AI office-work benchmark, and 4 bugs we found in our own judge",
+        "url": "https://github.com/dongsheng123132/ai2work-bench",
+        "timestamp": "2026-08-05T07:08:22.686788",
+        "source": "Hacker News"
     }
 ]
