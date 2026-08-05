@@ -470086,5 +470086,11 @@
         "url": "https://miccah.io/posts/2026-08-01-my-nixos-dev-machine/",
         "timestamp": "2026-08-05T17:05:48.739107",
         "source": "Hacker News"
+    },
+    {
+        "title": "Celld: Self-hosted, distributed Durable Objects",
+        "url": "https://github.com/denoland/celld",
+        "timestamp": "2026-08-05T17:05:48.739147",
+        "source": "Hacker News"
     }
 ]
