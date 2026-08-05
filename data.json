@@ -470818,5 +470818,11 @@
         "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
         "timestamp": "2026-08-05T21:33:11.212927",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
+        "url": "https://github.com/morishuz/delaunay32",
+        "timestamp": "2026-08-05T23:33:50.166295",
+        "source": "Hacker News"
     }
 ]
