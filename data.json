@@ -470236,5 +470236,11 @@
         "url": "https://openflexure.org/",
         "timestamp": "2026-08-05T18:42:58.321521",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: DeepSeek V4 Flash 0731 with MoonViT Vision (NVFP4)",
+        "url": "https://huggingface.co/webbrain-one/DeepSeek-V4-Flash-0731-Vision-NVFP4",
+        "timestamp": "2026-08-05T18:42:58.321550",
+        "source": "Hacker News"
     }
 ]
