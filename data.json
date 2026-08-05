@@ -469120,5 +469120,11 @@
         "url": "https://calpaterson.com/helsinki-hn.html",
         "timestamp": "2026-08-05T09:44:30.471636",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kernel Fusion in Nvidia CUDA: Optimizing Memory Traffic and Launch Overhead",
+        "url": "https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/",
+        "timestamp": "2026-08-05T09:44:30.471704",
+        "source": "Hacker News"
     }
 ]
