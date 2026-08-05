@@ -470026,5 +470026,11 @@
         "url": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
         "timestamp": "2026-08-05T17:05:48.738695",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ExANS – Lossless KV cache compression at 622 GB/s on H100",
+        "url": "https://www.theopenlake.com/blog/exans-lossless-gpu-compression-for-bf16-kv-cache",
+        "timestamp": "2026-08-05T17:05:48.738730",
+        "source": "Hacker News"
     }
 ]
