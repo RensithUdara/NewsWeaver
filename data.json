@@ -469204,5 +469204,11 @@
         "url": "https://lawrencecpaulson.github.io//2026/07/30/Collatz.html",
         "timestamp": "2026-08-05T11:45:31.218233",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scaling NumPy on Free-Threaded Python",
+        "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
+        "timestamp": "2026-08-05T11:45:31.218256",
+        "source": "Hacker News"
     }
 ]
