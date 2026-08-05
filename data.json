@@ -470122,5 +470122,11 @@
         "url": "https://virginiamercury.com/2026/08/05/scc-orders-dominion-to-develop-tariff-to-assign-more-transmission-costs-to-data-centers/",
         "timestamp": "2026-08-05T17:05:48.739327",
         "source": "Hacker News"
+    },
+    {
+        "title": "AWS DynamoDB Vector Search",
+        "url": "https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/",
+        "timestamp": "2026-08-05T17:05:48.739396",
+        "source": "Hacker News"
     }
 ]
