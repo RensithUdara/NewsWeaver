@@ -469288,5 +469288,11 @@
         "url": "https://www.blocksandfiles.com/flash/2026/08/03/kioxias-nearly-faster-than-optane-ssd/5282259",
         "timestamp": "2026-08-05T11:45:31.430502",
         "source": "Hacker News"
+    },
+    {
+        "title": "SQS consumer can hang forever by default",
+        "url": "https://encore.dev/blog/message-queue-hangs",
+        "timestamp": "2026-08-05T11:45:31.430525",
+        "source": "Hacker News"
     }
 ]
