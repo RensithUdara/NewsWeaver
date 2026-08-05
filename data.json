@@ -468790,5 +468790,11 @@
         "url": "https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups/",
         "timestamp": "2026-08-05T07:08:22.687107",
         "source": "Hacker News"
+    },
+    {
+        "title": "Enabling the next iteration of the Rust borrow checker on nightly",
+        "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/",
+        "timestamp": "2026-08-05T07:08:22.687142",
+        "source": "Hacker News"
     }
 ]
