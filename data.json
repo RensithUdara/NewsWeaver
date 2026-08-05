@@ -470974,5 +470974,11 @@
         "url": "https://505labs.com/blog/private-llm-inside-a-tee",
         "timestamp": "2026-08-05T23:33:50.405266",
         "source": "Hacker News"
+    },
+    {
+        "title": "The silent failure taxonomy: an autonomous pipeline's 32 ways of faking success",
+        "url": "https://claude.ai/code/artifact/f66e6308-e81b-40fb-9474-b2b840cb4399",
+        "timestamp": "2026-08-05T23:33:50.405305",
+        "source": "Hacker News"
     }
 ]
