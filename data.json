@@ -470752,5 +470752,11 @@
         "url": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai",
         "timestamp": "2026-08-05T21:33:10.779257",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pre-commit vs. CI quality gates",
+        "url": "https://blog.codacy.com/pre-commit-vs-ci-quality-gates-when-fast-shipping-moves-the-checks-upstream",
+        "timestamp": "2026-08-05T21:33:10.779284",
+        "source": "Hacker News"
     }
 ]
