@@ -469156,5 +469156,11 @@
         "url": "https://twitter.com/GustavHartz/status/2084926544800035266",
         "timestamp": "2026-08-05T09:44:30.471878",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a Rust Inference Engine That Matches Llama.cpp",
+        "url": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
+        "timestamp": "2026-08-05T09:44:30.471912",
+        "source": "Hacker News"
     }
 ]
