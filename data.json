@@ -471364,5 +471364,11 @@
         "url": "https://www.wsj.com/finance/stocks/spacex-ipo-spv-investors-2698a174",
         "timestamp": "2026-08-06T04:09:57.320978",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI agents that inherit the user's permissions, not API keys",
+        "url": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/",
+        "timestamp": "2026-08-06T04:09:57.320998",
+        "source": "Hacker News"
     }
 ]
