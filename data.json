@@ -472090,5 +472090,11 @@
         "url": "https://www.bloomberg.com/news/articles/2026-08-06/alphabet-returns-to-bond-market-amid-ai-spending-worries",
         "timestamp": "2026-08-06T15:39:02.296036",
         "source": "Hacker News"
+    },
+    {
+        "title": "DuckDB upgrade speed is getting slower and slower",
+        "url": "https://rusty.today/blog/duckdb-release-adoption-telemetry/",
+        "timestamp": "2026-08-06T15:39:02.296062",
+        "source": "Hacker News"
     }
 ]
