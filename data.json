@@ -471208,5 +471208,11 @@
         "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
         "timestamp": "2026-08-06T04:09:57.126989",
         "source": "Hacker News"
+    },
+    {
+        "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
+        "url": "https://www.greyblake.com/blog/branchless-rust/",
+        "timestamp": "2026-08-06T04:09:57.127053",
+        "source": "Hacker News"
     }
 ]
