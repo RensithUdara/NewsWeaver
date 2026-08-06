@@ -472234,5 +472234,11 @@
         "url": "https://runwithzombies.com/",
         "timestamp": "2026-08-06T15:39:02.296667",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Open Lustre in the cloud, with ZFS OSTs on object storage not disks",
+        "url": "https://github.com/zettalane-systems/open-lustre-cloud",
+        "timestamp": "2026-08-06T15:39:02.296690",
+        "source": "Hacker News"
     }
 ]
