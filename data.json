@@ -471916,5 +471916,11 @@
         "url": "https://github.com/mstdokumaci/zsort",
         "timestamp": "2026-08-06T11:48:48.793734",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: The-veil-12B, a Gemma 12B fine-tune that reads its tool list",
+        "url": "https://huggingface.co/gary23w/the-veil-12b",
+        "timestamp": "2026-08-06T11:48:48.793803",
+        "source": "Hacker News"
     }
 ]
