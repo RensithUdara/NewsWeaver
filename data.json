@@ -471454,5 +471454,11 @@
         "url": "https://www.indiehackers.com/post/7-weeks-solo-a-cli-that-deploys-your-express-nestjs-app-to-your-own-aws-or-azure-no-iac-aa326bff5d",
         "timestamp": "2026-08-06T06:42:35.658771",
         "source": "Hacker News"
+    },
+    {
+        "title": "Token-Budget-Aware LLM Reasoning",
+        "url": "https://arxiv.org/abs/2412.18547",
+        "timestamp": "2026-08-06T06:42:35.658797",
+        "source": "Hacker News"
     }
 ]
