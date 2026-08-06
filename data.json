@@ -471034,5 +471034,11 @@
         "url": "https://news.ycombinator.com/item?id=49191013",
         "timestamp": "2026-08-06T00:58:17.660375",
         "source": "Hacker News"
+    },
+    {
+        "title": "Good Evals Are Boring",
+        "url": "https://langfuse.com/academy/evaluate/writing-evaluators",
+        "timestamp": "2026-08-06T00:58:17.660432",
+        "source": "Hacker News"
     }
 ]
