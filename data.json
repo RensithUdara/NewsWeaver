@@ -471448,5 +471448,11 @@
         "url": "https://github.com/PrimeIntellect-ai/prime-agent",
         "timestamp": "2026-08-06T06:42:35.658716",
         "source": "Hacker News"
+    },
+    {
+        "title": "A CLI that deploys your Express/NestJS app to your own AWS or Azure – no IaC",
+        "url": "https://www.indiehackers.com/post/7-weeks-solo-a-cli-that-deploys-your-express-nestjs-app-to-your-own-aws-or-azure-no-iac-aa326bff5d",
+        "timestamp": "2026-08-06T06:42:35.658771",
+        "source": "Hacker News"
     }
 ]
