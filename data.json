@@ -471610,5 +471610,11 @@
         "url": "https://news.ycombinator.com/item?id=49194355",
         "timestamp": "2026-08-06T09:30:22.651256",
         "source": "Hacker News"
+    },
+    {
+        "title": "From AI Experiments to Production:Lessons from Insurance Systems",
+        "url": "https://geekyants.com/en-us/blog/ai-in-insurance-building-production-ready-products-for-claims-underwriting-and-customer-experience",
+        "timestamp": "2026-08-06T09:30:22.651272",
+        "source": "Hacker News"
     }
 ]
