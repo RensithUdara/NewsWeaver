@@ -471214,5 +471214,11 @@
         "url": "https://www.greyblake.com/blog/branchless-rust/",
         "timestamp": "2026-08-06T04:09:57.127053",
         "source": "Hacker News"
+    },
+    {
+        "title": "Evading Chain-of-Thought Monitoring Through Model Poisoning",
+        "url": "https://arxiv.org/abs/2608.02820",
+        "timestamp": "2026-08-06T04:09:57.320397",
+        "source": "Hacker News"
     }
 ]
