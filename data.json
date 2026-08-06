@@ -471850,5 +471850,11 @@
         "url": "https://www.theguardian.com/technology/2026/aug/06/restaurants-pubs-and-theatres-ban-metas-spy-glasses-over-privacy-fears",
         "timestamp": "2026-08-06T11:48:48.793223",
         "source": "Hacker News"
+    },
+    {
+        "title": "Codegraph – Fast, flexible graph database for code relationships",
+        "url": "https://github.com/anvanster/codegraph",
+        "timestamp": "2026-08-06T11:48:48.793299",
+        "source": "Hacker News"
     }
 ]
