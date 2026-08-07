@@ -476176,5 +476176,11 @@
         "url": "https://en.wikipedia.org/wiki/Mail%C3%BCfterl",
         "timestamp": "2026-08-07T21:06:09.001592",
         "source": "Hacker News"
+    },
+    {
+        "title": "Run Gitea Actions on Apple Hardware",
+        "url": "https://github.com/markwylde/gitea-runner-lume",
+        "timestamp": "2026-08-07T21:06:09.001626",
+        "source": "Hacker News"
     }
 ]
