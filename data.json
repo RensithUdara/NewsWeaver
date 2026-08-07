@@ -474190,5 +474190,11 @@
         "url": "https://news.ycombinator.com/item?id=49208446",
         "timestamp": "2026-08-07T11:25:33.987727",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code skill allowing orchestration of edits beat-synced to songs",
+        "url": "https://github.com/ZiadAbdelkarim/beat-synced-edit",
+        "timestamp": "2026-08-07T11:25:33.987756",
+        "source": "Hacker News"
     }
 ]
