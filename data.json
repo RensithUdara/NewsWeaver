@@ -473530,5 +473530,11 @@
         "url": "https://meettogather.com/",
         "timestamp": "2026-08-07T08:45:34.903023",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Llmem – Local persistent memory for AI coding, no embeddings",
+        "url": "https://github.com/netrixone/llmem",
+        "timestamp": "2026-08-07T08:45:34.903058",
+        "source": "Hacker News"
     }
 ]
