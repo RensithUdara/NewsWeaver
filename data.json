@@ -474676,5 +474676,11 @@
         "url": "https://playclef.com/",
         "timestamp": "2026-08-07T14:29:31.414260",
         "source": "Hacker News"
+    },
+    {
+        "title": "Neural Word Embedding as Implicit Matrix Factorization (2014)",
+        "url": "https://mlanthology.org/neurips/2014/levy2014neurips-neural/",
+        "timestamp": "2026-08-07T14:29:31.414296",
+        "source": "Hacker News"
     }
 ]
