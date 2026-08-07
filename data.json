@@ -473122,5 +473122,11 @@
         "url": "https://www.influanto.com/",
         "timestamp": "2026-08-07T06:35:06.350601",
         "source": "Hacker News"
+    },
+    {
+        "title": "SparSEEty: Extracting Tokens from Sparsity-Exploiting LLM Serving Systems",
+        "url": "https://arxiv.org/abs/2608.02995",
+        "timestamp": "2026-08-07T06:35:06.350657",
+        "source": "Hacker News"
     }
 ]
