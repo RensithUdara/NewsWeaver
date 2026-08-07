@@ -473602,5 +473602,11 @@
         "url": "https://twitter.com/elonmusk/status/2085377974396752305",
         "timestamp": "2026-08-07T08:45:34.903529",
         "source": "Hacker News"
+    },
+    {
+        "title": "AetherGrid – Distributed AI compute orchestration without K8s",
+        "url": "https://github.com/wycliffRotich-dev/aethergrid",
+        "timestamp": "2026-08-07T08:45:34.903562",
+        "source": "Hacker News"
     }
 ]
