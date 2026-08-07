@@ -476434,5 +476434,11 @@
         "url": "https://archer.com/tech-blog/zee-predicting-the-airspace",
         "timestamp": "2026-08-07T22:24:31.013248",
         "source": "Hacker News"
+    },
+    {
+        "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
+        "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
+        "timestamp": "2026-08-07T22:24:31.013288",
+        "source": "Hacker News"
     }
 ]
