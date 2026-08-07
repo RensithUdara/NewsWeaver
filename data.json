@@ -476584,5 +476584,11 @@
         "url": "https://crossplay.ma-r-s.com",
         "timestamp": "2026-08-07T23:01:37.948076",
         "source": "Hacker News"
+    },
+    {
+        "title": "Detecting breaking API changes in Go with golang.org/x/exp/cmd/apidiff",
+        "url": "https://medium.com/dev-genius/detecting-breaking-api-changes-in-go-with-apidiff-bd608bbc7996",
+        "timestamp": "2026-08-07T23:01:37.948103",
+        "source": "Hacker News"
     }
 ]
