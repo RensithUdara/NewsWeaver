@@ -475912,5 +475912,11 @@
         "url": "https://ethiack.com/info-hub/write-once-shell-everywhere-arbitrary-file-writes-into-rce",
         "timestamp": "2026-08-07T19:43:27.290466",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 10",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578",
+        "timestamp": "2026-08-07T20:22:40.178281",
+        "source": "Hacker News"
     }
 ]
