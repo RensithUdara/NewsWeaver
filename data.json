@@ -474826,5 +474826,11 @@
         "url": "https://www.niemanlab.org/2026/08/even-the-new-york-times-isnt-immune-to-declining-search-traffic-one-reason-its-leaning-into-video/",
         "timestamp": "2026-08-07T15:25:42.808453",
         "source": "Hacker News"
+    },
+    {
+        "title": "I wrote my first C project after a long time. Unix wc clone. NO AI",
+        "url": "https://github.com/emanueleoggiano/word_count",
+        "timestamp": "2026-08-07T15:25:42.808493",
+        "source": "Hacker News"
     }
 ]
