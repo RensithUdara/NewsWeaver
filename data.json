@@ -476560,5 +476560,11 @@
         "url": "https://github.com/roku-oss/dirblock",
         "timestamp": "2026-08-07T23:01:37.947967",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: More Branchless Optimization",
+        "url": "https://sites.google.com/view/david-kooi/blog/branchless_in_c",
+        "timestamp": "2026-08-07T23:01:37.947996",
+        "source": "Hacker News"
     }
 ]
