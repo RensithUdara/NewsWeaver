@@ -474304,5 +474304,11 @@
         "url": "https://twitter.com/addictedtoigno1/status/2085343928778133875",
         "timestamp": "2026-08-07T12:04:59.505364",
         "source": "Hacker News"
+    },
+    {
+        "title": "Basilisk has been removed from the Python typing conformance leaderboard",
+        "url": "https://github.com/python/typing/pull/2330",
+        "timestamp": "2026-08-07T12:04:59.505390",
+        "source": "Hacker News"
     }
 ]
