@@ -473386,5 +473386,11 @@
         "url": "https://github.com/sonic0002/pikabo",
         "timestamp": "2026-08-07T07:53:25.342159",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Skill to stop AI agents from retry-looping during GitHub outages",
+        "url": "https://github.com/tbille/check-github-status",
+        "timestamp": "2026-08-07T07:53:25.342189",
+        "source": "Hacker News"
     }
 ]
