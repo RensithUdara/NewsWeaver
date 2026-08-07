@@ -475624,5 +475624,11 @@
         "url": "https://saigaddam.medium.com/dear-ai-from-the-near-future-heres-how-you-become-sentient-5d0e9a493e6d",
         "timestamp": "2026-08-07T18:53:57.887109",
         "source": "Hacker News"
+    },
+    {
+        "title": "Concurrency vs. Throughput: why more parallelism can make databases slower",
+        "url": "https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql",
+        "timestamp": "2026-08-07T18:53:57.887129",
+        "source": "Hacker News"
     }
 ]
