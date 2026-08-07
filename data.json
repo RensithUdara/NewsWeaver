@@ -473980,5 +473980,11 @@
         "url": "https://www.sitealyser.com",
         "timestamp": "2026-08-07T10:34:28.115067",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Benchmark local LLMs fit for your device specs",
+        "url": "https://github.com/SupermodularAI/local_bench",
+        "timestamp": "2026-08-07T10:34:28.115102",
+        "source": "Hacker News"
     }
 ]
