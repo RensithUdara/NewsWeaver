@@ -473680,5 +473680,11 @@
         "url": "https://www.youtube.com/watch?v=GwMtzhjCzyc",
         "timestamp": "2026-08-07T09:42:15.248685",
         "source": "Hacker News"
+    },
+    {
+        "title": "Runtime instances: persistent compute for production AI agents",
+        "url": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
+        "timestamp": "2026-08-07T09:42:15.336435",
+        "source": "Hacker News"
     }
 ]
