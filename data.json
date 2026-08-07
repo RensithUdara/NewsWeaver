@@ -476086,5 +476086,11 @@
         "url": "https://www.scmp.com/tech/tech-trends/article/3363271/chinas-kimi-k3-ai-model-escapes-isolated-sandbox-during-security-test-researchers",
         "timestamp": "2026-08-07T21:06:09.001066",
         "source": "Hacker News"
+    },
+    {
+        "title": "Schrödinger's Toctou",
+        "url": "https://github.com/xoreaxeaxeax/schrodingers-toctou",
+        "timestamp": "2026-08-07T21:06:09.001101",
+        "source": "Hacker News"
     }
 ]
