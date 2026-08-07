@@ -475630,5 +475630,11 @@
         "url": "https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql",
         "timestamp": "2026-08-07T18:53:57.887129",
         "source": "Hacker News"
+    },
+    {
+        "title": "TensorLift: Auto Extraction of ISA Semantics from Accelerator RTL via MLIR",
+        "url": "https://arxiv.org/abs/2604.13523",
+        "timestamp": "2026-08-07T18:53:57.887150",
+        "source": "Hacker News"
     }
 ]
