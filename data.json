@@ -473044,5 +473044,11 @@
         "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo",
         "timestamp": "2026-08-07T06:35:06.350160",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Linkly – a language designed for LLMs, compiled through MLIR",
+        "url": "https://github.com/choiyounggi/linkly/releases",
+        "timestamp": "2026-08-07T06:35:06.350191",
+        "source": "Hacker News"
     }
 ]
