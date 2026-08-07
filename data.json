@@ -475282,5 +475282,11 @@
         "url": "https://valeman.medium.com/hidden-deep-inside-a-moscow-museum-a-metal-turtle-that-learned-e7c9c731f995",
         "timestamp": "2026-08-07T17:08:08.272762",
         "source": "Hacker News"
+    },
+    {
+        "title": "Attention Became Efficient and Scalable: KV Caching, MQA, GQA, MLA, and DSA",
+        "url": "https://chizkidd.github.io//2026/08/05/attention-efficient-scalable/",
+        "timestamp": "2026-08-07T17:08:08.272788",
+        "source": "Hacker News"
     }
 ]
