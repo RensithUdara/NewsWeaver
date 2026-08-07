@@ -475786,5 +475786,11 @@
         "url": "https://www.youtube.com/watch?v=wPL4mNxY3Tw",
         "timestamp": "2026-08-07T19:43:27.289838",
         "source": "Hacker News"
+    },
+    {
+        "title": "WordPress CVE-2026-64638 Pre-Auth XSS to RCE",
+        "url": "https://pwn.ai/blog/xss2shell",
+        "timestamp": "2026-08-07T19:43:27.289866",
+        "source": "Hacker News"
     }
 ]
