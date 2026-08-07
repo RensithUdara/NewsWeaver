@@ -476602,5 +476602,11 @@
         "url": "https://en.wikipedia.org/wiki/Tucows",
         "timestamp": "2026-08-07T23:01:37.948182",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Jobman – nohup with retries, timeouts, and dependencies",
+        "url": "https://github.com/ryancswallace/jobman",
+        "timestamp": "2026-08-07T23:01:37.948212",
+        "source": "Hacker News"
     }
 ]
