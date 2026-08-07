@@ -476020,5 +476020,11 @@
         "url": "https://www.rendemo.com",
         "timestamp": "2026-08-07T20:22:40.179098",
         "source": "Hacker News"
+    },
+    {
+        "title": "One agent, every surface: how we built the Kiro agent harness",
+        "url": "https://kiro.dev/blog/one-agent/",
+        "timestamp": "2026-08-07T20:22:40.179134",
+        "source": "Hacker News"
     }
 ]
