@@ -474382,5 +474382,11 @@
         "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
         "timestamp": "2026-08-07T13:23:51.731749",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to Generate a TLSA Record and Fix the 3 1 1 Mismatch",
+        "url": "https://dmarcguard.io/blog/tlsa-record-setup/",
+        "timestamp": "2026-08-07T13:23:51.731771",
+        "source": "Hacker News"
     }
 ]
