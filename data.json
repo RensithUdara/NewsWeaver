@@ -476284,5 +476284,11 @@
         "url": "https://www.metabase.com/blog/security-update",
         "timestamp": "2026-08-07T21:51:10.002068",
         "source": "Hacker News"
+    },
+    {
+        "title": "A shell exclamation mark is not for yelling. Be lazy",
+        "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+        "timestamp": "2026-08-07T21:51:10.002106",
+        "source": "Hacker News"
     }
 ]
