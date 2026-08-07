@@ -475048,5 +475048,11 @@
         "url": "https://tryclicked.app/blog/most-explanations-fail",
         "timestamp": "2026-08-07T16:13:31.452039",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: MCP-debug-proxy – A visual reverse proxy for MCP and OAuth traffic",
+        "url": "https://github.com/ytkoka/mcp-debug-proxy",
+        "timestamp": "2026-08-07T16:13:31.452061",
+        "source": "Hacker News"
     }
 ]
