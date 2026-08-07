@@ -474880,5 +474880,11 @@
         "url": "https://naveensrinivasan.com/posts/2026-08-07-finding-hidden-internal-apps-through-public-certificate-logs/",
         "timestamp": "2026-08-07T15:25:42.808776",
         "source": "Hacker News"
+    },
+    {
+        "title": "Trustfall: An RSA Heap Underwrite into OP-TEE's Secure World",
+        "url": "https://blog.byteray.co.uk/blog/optee-rsa-nopad-heap-underwrite.html",
+        "timestamp": "2026-08-07T15:25:42.808811",
+        "source": "Hacker News"
     }
 ]
