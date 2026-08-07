@@ -474124,5 +474124,11 @@
         "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
         "timestamp": "2026-08-07T11:25:33.987422",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+        "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+        "timestamp": "2026-08-07T11:25:33.987449",
+        "source": "Hacker News"
     }
 ]
