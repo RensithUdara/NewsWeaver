@@ -474286,5 +474286,11 @@
         "url": "https://chromewebstore.google.com/detail/resume-autofill-for-job-a/hianlncojnfigojgoaooegapjphndgaa",
         "timestamp": "2026-08-07T12:04:59.505286",
         "source": "Hacker News"
+    },
+    {
+        "title": "Re-rasterization-free variable font morphing (knot-lattice blend)",
+        "url": "https://github.com/GitBruno/VarFont",
+        "timestamp": "2026-08-07T12:04:59.505311",
+        "source": "Hacker News"
     }
 ]
