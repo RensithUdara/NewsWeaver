@@ -474652,5 +474652,11 @@
         "url": "https://www.a16z.news/p/charts-of-the-week-bookslop",
         "timestamp": "2026-08-07T14:29:31.414109",
         "source": "Hacker News"
+    },
+    {
+        "title": "Half the tokens for the same 36 tool calls: optimizing a coding agent",
+        "url": "https://app.nz/blog/app-agent-token-efficiency-optimizations",
+        "timestamp": "2026-08-07T14:29:31.414150",
+        "source": "Hacker News"
     }
 ]
