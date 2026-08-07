@@ -475432,5 +475432,11 @@
         "url": "https://theclaudyssey.com/",
         "timestamp": "2026-08-07T17:58:27.651628",
         "source": "Hacker News"
+    },
+    {
+        "title": "Adding Native Gaussian Splatting Support to ThreeJS",
+        "url": "https://ben3d.ca/blog/gaussian-splatting-for-threejs",
+        "timestamp": "2026-08-07T17:58:27.651655",
+        "source": "Hacker News"
     }
 ]
