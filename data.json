@@ -475906,5 +475906,11 @@
         "url": "https://peachtrace.com/",
         "timestamp": "2026-08-07T19:43:27.290438",
         "source": "Hacker News"
+    },
+    {
+        "title": "Write Once, Shell Everywhere: Turning Arbitrary File Writes into RCE",
+        "url": "https://ethiack.com/info-hub/write-once-shell-everywhere-arbitrary-file-writes-into-rce",
+        "timestamp": "2026-08-07T19:43:27.290466",
+        "source": "Hacker News"
     }
 ]
