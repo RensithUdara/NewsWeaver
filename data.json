@@ -474130,5 +474130,11 @@
         "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
         "timestamp": "2026-08-07T11:25:33.987449",
         "source": "Hacker News"
+    },
+    {
+        "title": "Marp now supports Mermaid diagrams",
+        "url": "https://github.com/marp-team/marp-core/blob/main/docs/markdown.md",
+        "timestamp": "2026-08-07T11:25:33.987476",
+        "source": "Hacker News"
     }
 ]
