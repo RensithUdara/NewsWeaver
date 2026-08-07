@@ -476026,5 +476026,11 @@
         "url": "https://kiro.dev/blog/one-agent/",
         "timestamp": "2026-08-07T20:22:40.179134",
         "source": "Hacker News"
+    },
+    {
+        "title": "Under the hood of a Gleam test-framework",
+        "url": "https://markuseliasson.se/article/under-the-hood-of-a-gleam-test-framework",
+        "timestamp": "2026-08-07T20:22:40.179170",
+        "source": "Hacker News"
     }
 ]
