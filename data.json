@@ -476464,5 +476464,11 @@
         "url": "https://cowboystatedaily.com/2026/08/07/oops-man-running-from-cheyenne-cops-tries-to-break-into-laramie-county-jail/",
         "timestamp": "2026-08-07T22:24:31.013395",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linux Patched for Safe RET Interrupt Vulnerability",
+        "url": "https://www.phoronix.com/news/Linux-Safe-RET-Interrupt-Vuln",
+        "timestamp": "2026-08-07T22:24:31.013426",
+        "source": "Hacker News"
     }
 ]
