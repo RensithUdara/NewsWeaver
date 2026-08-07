@@ -473104,5 +473104,11 @@
         "url": "https://lwn.net/Articles/1084015/",
         "timestamp": "2026-08-07T06:35:06.350491",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: An ultra-fast Prime Agent fork with Bun REPL",
+        "url": "https://github.com/sng-asyncfunc/prime-bun",
+        "timestamp": "2026-08-07T06:35:06.350519",
+        "source": "Hacker News"
     }
 ]
