@@ -473314,5 +473314,11 @@
         "url": "https://ballscratchsimulator.wiki/",
         "timestamp": "2026-08-07T07:53:25.341790",
         "source": "Hacker News"
+    },
+    {
+        "title": "Passkeys by default and retirement of Microsoft SMS and voice authentication",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/",
+        "timestamp": "2026-08-07T07:53:25.341820",
+        "source": "Hacker News"
     }
 ]
