@@ -472942,5 +472942,11 @@
         "url": "https://blog.grod.es/use-the-right-model-for-every-task",
         "timestamp": "2026-08-07T05:18:31.654272",
         "source": "Hacker News"
+    },
+    {
+        "title": "Benchmarking the Residual: What Long-Horizon Evals Add Beyond Short-Task Perf",
+        "url": "https://arxiv.org/abs/2607.27283",
+        "timestamp": "2026-08-07T05:18:31.654307",
+        "source": "Hacker News"
     }
 ]
