@@ -472324,5 +472324,11 @@
         "url": "https://provenmetal.com",
         "timestamp": "2026-08-07T00:31:31.903424",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
+        "url": "https://github.com/mattdeeds/pokeemerald-rp2350",
+        "timestamp": "2026-08-07T00:31:31.903493",
+        "source": "Hacker News"
     }
 ]
