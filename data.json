@@ -474736,5 +474736,11 @@
         "url": "https://www.theguardian.com/business/2026/aug/07/boeing-737-max-fuselage-cracks-check-faa",
         "timestamp": "2026-08-07T14:29:31.414730",
         "source": "Hacker News"
+    },
+    {
+        "title": "RAE: Open-source offline risk matrices for ISO 27005, EBIOS RM and DPIA",
+        "url": "https://github.com/StephaneV/Risk-Analysis-Editor",
+        "timestamp": "2026-08-07T14:29:31.414765",
+        "source": "Hacker News"
     }
 ]
