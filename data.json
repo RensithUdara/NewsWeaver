@@ -477802,5 +477802,11 @@
         "url": "https://en.wikipedia.org/wiki/Grammelot",
         "timestamp": "2026-08-08T09:54:47.398544",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building my own project management tool on Cloudflare",
+        "url": "https://tom-dickson.com/blog/projektor-mcp-issue-tracker-cloudflare-workers/",
+        "timestamp": "2026-08-08T09:54:47.398614",
+        "source": "Hacker News"
     }
 ]
