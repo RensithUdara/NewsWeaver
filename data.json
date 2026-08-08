@@ -477454,5 +477454,11 @@
         "url": "https://cozystack.io/blog/2026/08/blockstor-linstor-compatible-storage-for-kubernetes/",
         "timestamp": "2026-08-08T07:08:19.224623",
         "source": "Hacker News"
+    },
+    {
+        "title": "Celld: Self-hosted, distributed durable objects",
+        "url": "https://flaviocopes.com/celld/",
+        "timestamp": "2026-08-08T07:08:19.224658",
+        "source": "Hacker News"
     }
 ]
