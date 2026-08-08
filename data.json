@@ -479806,5 +479806,11 @@
         "url": "https://github.com/owasp-amass/amass",
         "timestamp": "2026-08-08T19:49:55.175217",
         "source": "Hacker News"
+    },
+    {
+        "title": "Benchmarking LLMs on File System Design and Implementation",
+        "url": "https://arxiv.org/abs/2608.00280",
+        "timestamp": "2026-08-08T19:49:55.175243",
+        "source": "Hacker News"
     }
 ]
