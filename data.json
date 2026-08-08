@@ -479278,5 +479278,11 @@
         "url": "https://medium.com/@chalyi/moving-repository-memory-from-specs-to-okf-d1b6a45e9354",
         "timestamp": "2026-08-08T17:39:36.678143",
         "source": "Hacker News"
+    },
+    {
+        "title": "Jolt: A Clojure compiler implemented on top of Chez Scheme",
+        "url": "https://github.com/jolt-lang/jolt",
+        "timestamp": "2026-08-08T17:39:36.678171",
+        "source": "Hacker News"
     }
 ]
