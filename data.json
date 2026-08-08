@@ -477628,5 +477628,11 @@
         "url": "https://apisubstack.com/",
         "timestamp": "2026-08-08T08:29:19.630746",
         "source": "Hacker News"
+    },
+    {
+        "title": "Conway's Law",
+        "url": "https://martinfowler.com/bliki/ConwaysLaw.html",
+        "timestamp": "2026-08-08T08:29:19.630817",
+        "source": "Hacker News"
     }
 ]
