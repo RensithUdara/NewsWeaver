@@ -478126,5 +478126,11 @@
         "url": "https://scholarlyfutures.substack.com/p/frontier-models-transparency-and",
         "timestamp": "2026-08-08T12:25:47.013546",
         "source": "Hacker News"
+    },
+    {
+        "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+        "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
+        "timestamp": "2026-08-08T12:25:47.013563",
+        "source": "Hacker News"
     }
 ]
