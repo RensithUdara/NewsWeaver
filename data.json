@@ -479842,5 +479842,11 @@
         "url": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607",
         "timestamp": "2026-08-08T20:11:33.879131",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Bun-boss – Bun-native fork of the pg-boss queue package",
+        "url": "https://www.npmjs.com/package/bun-boss",
+        "timestamp": "2026-08-08T20:11:33.879161",
+        "source": "Hacker News"
     }
 ]
