@@ -479140,5 +479140,11 @@
         "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
         "timestamp": "2026-08-08T17:04:52.324885",
         "source": "Hacker News"
+    },
+    {
+        "title": "Jolt: Running Clojure on Chez Scheme",
+        "url": "https://yogthos.net/posts/2026-07-02-jolt.html",
+        "timestamp": "2026-08-08T17:04:52.324918",
+        "source": "Hacker News"
     }
 ]
