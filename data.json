@@ -477922,5 +477922,11 @@
         "url": "https://nasser.blog/dial-up-justice/",
         "timestamp": "2026-08-08T10:20:27.962424",
         "source": "Hacker News"
+    },
+    {
+        "title": "React 19's useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset Button",
+        "url": "https://dev.to/shubhradev/react-19s-useoptimistic-fixed-my-instant-ui-then-combining-it-with-useactionstate-broke-my-reset-41km",
+        "timestamp": "2026-08-08T10:20:28.183745",
+        "source": "Dev.to"
     }
 ]
