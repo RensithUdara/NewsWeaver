@@ -478480,5 +478480,11 @@
         "url": "https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that",
         "timestamp": "2026-08-08T14:42:21.159733",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A probabilistic programming language with exact inference and loops",
+        "url": "https://github.com/kccqzy/probabilistic-program-inference/blob/master/README.md",
+        "timestamp": "2026-08-08T14:42:21.159792",
+        "source": "Hacker News"
     }
 ]
