@@ -477604,5 +477604,11 @@
         "url": "https://appealr.vercel.app",
         "timestamp": "2026-08-08T08:29:19.630578",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Vampire Theorem Prover",
+        "url": "https://github.com/vprover/vampire",
+        "timestamp": "2026-08-08T08:29:19.630627",
+        "source": "Hacker News"
     }
 ]
