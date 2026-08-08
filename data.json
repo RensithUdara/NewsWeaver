@@ -477964,5 +477964,11 @@
         "url": "https://thereader.mitpress.mit.edu/the-future-encyclopedia-of-luddism/",
         "timestamp": "2026-08-08T10:56:45.885229",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Presse – a Rust CLI tool to compress and merge PDFs",
+        "url": "https://github.com/SimonBure/presse",
+        "timestamp": "2026-08-08T10:56:45.885258",
+        "source": "Hacker News"
     }
 ]
