@@ -479542,5 +479542,11 @@
         "url": "https://www.cato.org/blog/friday-feature-mini-cities",
         "timestamp": "2026-08-08T18:52:33.062287",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: JustAPI:a Python web framework where the framework itself is Rust",
+        "url": "https://blog.swadhin.cv/blog/just-api-a-python-framework/",
+        "timestamp": "2026-08-08T18:52:33.062307",
+        "source": "Hacker News"
     }
 ]
