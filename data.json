@@ -480394,5 +480394,11 @@
         "url": "https://bigthink.com/series/full-interview/meaning-crisis-brooks/",
         "timestamp": "2026-08-08T23:38:27.261005",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a client-side HEIC converter using WebAssembly",
+        "url": "https://heictools.io",
+        "timestamp": "2026-08-08T23:38:27.261039",
+        "source": "Hacker News"
     }
 ]
