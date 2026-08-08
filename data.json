@@ -477670,5 +477670,11 @@
         "url": "https://www.nytimes.com/2020/06/09/nyregion/exxon-mobil-hackers-greenpeace.html",
         "timestamp": "2026-08-08T09:54:47.397674",
         "source": "Hacker News"
+    },
+    {
+        "title": "Supply-chain hygiene for Emacs: LLM review of package upgrades",
+        "url": "https://blog.fidelramos.net/software/emacs-straight-ai-review",
+        "timestamp": "2026-08-08T09:54:47.397725",
+        "source": "Hacker News"
     }
 ]
