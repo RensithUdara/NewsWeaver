@@ -479038,5 +479038,11 @@
         "url": "https://nautil.us/inside-the-not-so-dumb-head-of-the-dodo-bird-1283522",
         "timestamp": "2026-08-08T16:35:37.710149",
         "source": "Hacker News"
+    },
+    {
+        "title": "'CPU deoptimization' project to find the slowest single x86 instruction",
+        "url": "https://www.tomshardware.com/pc-components/cpus/hardware-researcher-spins-up-cpu-deoptimization-project-to-find-the-slowest-machine-code-worst-offender-takes-198-billion-cycles-to-execute",
+        "timestamp": "2026-08-08T16:35:37.710187",
+        "source": "Hacker News"
     }
 ]
