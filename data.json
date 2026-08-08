@@ -479746,5 +479746,11 @@
         "url": "https://holycode.cloud",
         "timestamp": "2026-08-08T19:49:55.174922",
         "source": "Hacker News"
+    },
+    {
+        "title": "KubeTective: Deterministic Incident Investigation for Kubernetes",
+        "url": "https://github.com/GlediLami/kubetective",
+        "timestamp": "2026-08-08T19:49:55.174949",
+        "source": "Hacker News"
     }
 ]
