@@ -479920,5 +479920,11 @@
         "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
         "timestamp": "2026-08-08T20:48:45.679259",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Per-module tags and releases for Terraform monorepos",
+        "url": "https://github.com/techpivot/terraform-module-releaser",
+        "timestamp": "2026-08-08T20:48:45.679295",
+        "source": "Hacker News"
     }
 ]
