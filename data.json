@@ -477382,5 +477382,11 @@
         "url": "https://finance.yahoo.com/energy/articles/amazon-behind-massive-private-gas-210211828.html",
         "timestamp": "2026-08-08T07:08:19.224203",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: RAMGuard Pro – Real Windows Memory Optimizer in Rust and Tauri",
+        "url": "https://github.com/jojin1709/ramguard-pro",
+        "timestamp": "2026-08-08T07:08:19.224249",
+        "source": "Hacker News"
     }
 ]
