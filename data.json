@@ -480268,5 +480268,11 @@
         "url": "https://tweet.download/",
         "timestamp": "2026-08-08T23:02:13.052856",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ExpertCache – Run the Full GPT-OSS 120B (63GB) on a 16GB M1 Pro",
+        "url": "https://github.com/amos-labs/expertcache",
+        "timestamp": "2026-08-08T23:02:13.052897",
+        "source": "Hacker News"
     }
 ]
