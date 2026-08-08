@@ -477160,5 +477160,11 @@
         "url": "https://framewrite.cc/",
         "timestamp": "2026-08-08T03:53:42.515698",
         "source": "Hacker News"
+    },
+    {
+        "title": "Non Vim TUI for K8s that you don't hate",
+        "url": "https://github.com/olafurbergs/krowser",
+        "timestamp": "2026-08-08T03:53:42.515754",
+        "source": "Hacker News"
     }
 ]
