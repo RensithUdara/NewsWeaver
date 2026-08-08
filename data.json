@@ -478156,5 +478156,11 @@
         "url": "https://raygum.com/research/roland-tr-808-monograph",
         "timestamp": "2026-08-08T12:25:47.013659",
         "source": "Hacker News"
+    },
+    {
+        "title": "1.59X speedup on SQLite 3 in 8 hrs with $150 API cost",
+        "url": "https://github.com/ksenxx/sqlite-optimized",
+        "timestamp": "2026-08-08T12:25:47.013692",
+        "source": "Hacker News"
     }
 ]
