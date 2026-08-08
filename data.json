@@ -478132,5 +478132,11 @@
         "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
         "timestamp": "2026-08-08T12:25:47.013563",
         "source": "Hacker News"
+    },
+    {
+        "title": "Qector-Decoder-v3: Multi-Back End Software Architecture for QEC",
+        "url": "https://zenodo.org/records/21850315",
+        "timestamp": "2026-08-08T12:25:47.013596",
+        "source": "Hacker News"
     }
 ]
