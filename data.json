@@ -479200,5 +479200,11 @@
         "url": "https://snwagh.com/blog/2026/stained-glass-transform/",
         "timestamp": "2026-08-08T17:04:52.325248",
         "source": "Hacker News"
+    },
+    {
+        "title": "Jolt: Clojure compiler implemented with Chez Scheme",
+        "url": "https://jolt-lang.github.io",
+        "timestamp": "2026-08-08T17:39:36.677740",
+        "source": "Hacker News"
     }
 ]
