@@ -477262,5 +477262,11 @@
         "url": "https://github.com/muhammadwaqasai/agent_acid",
         "timestamp": "2026-08-08T05:28:18.553253",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cross platform, portable and CPU accelerated AI inference with Go 1.27",
+        "url": "https://blog.devgenius.io/achieving-local-ai-inference-with-go-1-27s-simd-package-e8875f567e35?sk=5162348584951937a84caba3ca9a1fc0",
+        "timestamp": "2026-08-08T05:28:18.553308",
+        "source": "Hacker News"
     }
 ]
