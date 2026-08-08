@@ -478948,5 +478948,11 @@
         "url": "https://vibetv.shop/",
         "timestamp": "2026-08-08T16:35:37.709489",
         "source": "Hacker News"
+    },
+    {
+        "title": "A tool to quickly step through and audit LLM-generated Python codebases",
+        "url": "https://github.com/arnoldpredator/pyreplay",
+        "timestamp": "2026-08-08T16:35:37.709529",
+        "source": "Hacker News"
     }
 ]
