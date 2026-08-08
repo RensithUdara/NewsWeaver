@@ -479836,5 +479836,11 @@
         "url": "https://www.politico.com/news/2026/08/07/delays-imperil-senate-crypto-bill-01029817",
         "timestamp": "2026-08-08T20:11:33.879066",
         "source": "Hacker News"
+    },
+    {
+        "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3",
+        "url": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607",
+        "timestamp": "2026-08-08T20:11:33.879131",
+        "source": "Hacker News"
     }
 ]
