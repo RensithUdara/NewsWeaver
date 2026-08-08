@@ -478396,5 +478396,11 @@
         "url": "https://news.ycombinator.com/item?id=49221828",
         "timestamp": "2026-08-08T14:03:45.000922",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Sovereign Engine – Local-first intent engine in Rust and Tauri",
+        "url": "https://github.com/Sovereign34/sovereign-engine",
+        "timestamp": "2026-08-08T14:03:45.000966",
+        "source": "Hacker News"
     }
 ]
