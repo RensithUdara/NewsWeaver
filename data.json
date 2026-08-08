@@ -479650,5 +479650,11 @@
         "url": "https://refybe.com/en",
         "timestamp": "2026-08-08T19:20:56.503167",
         "source": "Hacker News"
+    },
+    {
+        "title": "Console.log recursively processes format specifiers introduced by %s",
+        "url": "https://issues.chromium.org/issues/543972096?pli=1",
+        "timestamp": "2026-08-08T19:20:56.503194",
+        "source": "Hacker News"
     }
 ]
