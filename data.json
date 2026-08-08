@@ -478282,5 +478282,11 @@
         "url": "https://en.wikipedia.org/wiki/Cave_of_the_Crystals",
         "timestamp": "2026-08-08T13:24:46.634763",
         "source": "Hacker News"
+    },
+    {
+        "title": "Git, CRDT, Markdown",
+        "url": "https://replicated.live/blog/crdt.html",
+        "timestamp": "2026-08-08T13:24:46.634797",
+        "source": "Hacker News"
     }
 ]
