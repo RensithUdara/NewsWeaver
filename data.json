@@ -480442,5 +480442,11 @@
         "url": "https://news.ycombinator.com/item?id=49227024",
         "timestamp": "2026-08-08T23:59:25.384520",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lisp doesn't have just one syntax (or zero syntax); it has infinite syntax",
+        "url": "https://www.reddit.com/r/ProgrammingLanguages/comments/1ejaowf/making_my_own_lisp_made_me_realize_lisp_doesnt/",
+        "timestamp": "2026-08-08T23:59:25.384555",
+        "source": "Hacker News"
     }
 ]
