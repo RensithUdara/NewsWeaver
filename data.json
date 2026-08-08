@@ -477430,5 +477430,11 @@
         "url": "https://nntaleb.substack.com/p/a-lebanese-technology-transfer",
         "timestamp": "2026-08-08T07:08:19.224484",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Scrut – A Python static code reviewer that focuses on changed Git files",
+        "url": "https://github.com/mukundzha/scrut",
+        "timestamp": "2026-08-08T07:08:19.224517",
+        "source": "Hacker News"
     }
 ]
