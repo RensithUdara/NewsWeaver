@@ -478750,5 +478750,11 @@
         "url": "https://privamesh.org",
         "timestamp": "2026-08-08T15:38:26.997606",
         "source": "Hacker News"
+    },
+    {
+        "title": "Qwen/Qwen3.8-2.4T-A95B",
+        "url": "https://modelscope.cn/models/Qwen/Qwen3.8-2.4T-A95B",
+        "timestamp": "2026-08-08T15:38:26.997627",
+        "source": "Hacker News"
     }
 ]
