@@ -477526,5 +477526,11 @@
         "url": "https://testnetswap.com/",
         "timestamp": "2026-08-08T07:55:45.222057",
         "source": "Hacker News"
+    },
+    {
+        "title": "To Save C, We Must Save ABI",
+        "url": "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi",
+        "timestamp": "2026-08-08T07:55:45.222189",
+        "source": "Hacker News"
     }
 ]
