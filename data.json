@@ -478528,5 +478528,11 @@
         "url": "https://ai-updates.net/ai-leaders-say-the-singularity-has-already-begun/",
         "timestamp": "2026-08-08T14:42:21.160097",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Gram, a vector search engine I built in C++",
+        "url": "https://github.com/sverp/gram",
+        "timestamp": "2026-08-08T14:42:21.160136",
+        "source": "Hacker News"
     }
 ]
