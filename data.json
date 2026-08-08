@@ -476800,5 +476800,11 @@
         "url": "https://arxiv.org/abs/2607.24504",
         "timestamp": "2026-08-08T00:30:36.784842",
         "source": "Hacker News"
+    },
+    {
+        "title": "Annessaia – a sandboxed WASM app runtime with its own UI toolkit",
+        "url": "https://github.com/vm100900/annessaia",
+        "timestamp": "2026-08-08T00:30:36.784879",
+        "source": "Hacker News"
     }
 ]
