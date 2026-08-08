@@ -477070,5 +477070,11 @@
         "url": "https://www.cpuscout.com/",
         "timestamp": "2026-08-08T03:53:42.515235",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Finding obfuscated GitHub PATs and API keys in large repos",
+        "url": "https://medium.com/@hanikhaled876/how-i-found-hardcoded-secrets-in-facebooks-react-repository-ed71a56dfba4",
+        "timestamp": "2026-08-08T03:53:42.515262",
+        "source": "Hacker News"
     }
 ]
