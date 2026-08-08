@@ -477448,5 +477448,11 @@
         "url": "https://twitter.com/GrapheneOS/status/2085888745421558195",
         "timestamp": "2026-08-08T07:08:19.224587",
         "source": "Hacker News"
+    },
+    {
+        "title": "Blockstor: A LINSTOR-compatible storage system for Kubernetes",
+        "url": "https://cozystack.io/blog/2026/08/blockstor-linstor-compatible-storage-for-kubernetes/",
+        "timestamp": "2026-08-08T07:08:19.224623",
+        "source": "Hacker News"
     }
 ]
