@@ -483250,5 +483250,11 @@
         "url": "https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you",
         "timestamp": "2026-08-09T19:01:12.512422",
         "source": "Hacker News"
+    },
+    {
+        "title": "A zero-dependency, ultra-lightweight database time machine for SQLite",
+        "url": "https://github.com/nsrht/time-travel-sqlite-debugger",
+        "timestamp": "2026-08-09T19:01:12.599668",
+        "source": "Hacker News"
     }
 ]
