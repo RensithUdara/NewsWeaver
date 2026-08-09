@@ -484174,5 +484174,11 @@
         "url": "https://novc.fyi/",
         "timestamp": "2026-08-09T23:51:01.005467",
         "source": "Hacker News"
+    },
+    {
+        "title": ".NET on AWS Open Source Software Fund",
+        "url": "https://github.com/aws/dotnet-foss",
+        "timestamp": "2026-08-09T23:51:01.005489",
+        "source": "Hacker News"
     }
 ]
