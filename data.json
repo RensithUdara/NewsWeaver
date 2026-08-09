@@ -483148,5 +483148,11 @@
         "url": "https://rollcall.nicksavarese.com/",
         "timestamp": "2026-08-09T18:14:12.946437",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: AURcade – A tiny self-hosted Git service using cgit and SSH",
+        "url": "https://github.com/skorotkiewicz/aurcade",
+        "timestamp": "2026-08-09T18:14:12.946465",
+        "source": "Hacker News"
     }
 ]
