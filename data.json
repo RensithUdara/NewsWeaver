@@ -480952,5 +480952,11 @@
         "url": "https://github.com/PJHkorea/photonic-mesh-fng-router",
         "timestamp": "2026-08-09T05:34:47.682629",
         "source": "Hacker News"
+    },
+    {
+        "title": "Driving a 7.3\" 6-Color E-Paper Display in `no_std` Rust (ESP32-S3)",
+        "url": "https://github.com/melastmohican/rust-reterminal-e1002-examples",
+        "timestamp": "2026-08-09T05:34:47.682664",
+        "source": "Hacker News"
     }
 ]
