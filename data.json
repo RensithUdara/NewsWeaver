@@ -480598,5 +480598,11 @@
         "url": "https://github.com/Tura-AI/tura",
         "timestamp": "2026-08-09T01:49:16.941605",
         "source": "Hacker News"
+    },
+    {
+        "title": "Answer First, Reason Later: Commitment Order in Diffusion LLMs",
+        "url": "https://arxiv.org/abs/2608.05687",
+        "timestamp": "2026-08-09T01:49:16.941672",
+        "source": "Hacker News"
     }
 ]
