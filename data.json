@@ -481780,5 +481780,11 @@
         "url": "https://news.emory.edu/stories/2026/08/how-mice-learn-think-out-box-neuroscience-surprise",
         "timestamp": "2026-08-09T11:45:32.658824",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Inspect any MCP server – latency, token usage, and security scans",
+        "url": "https://github.com/ytkoka/mcp-tester",
+        "timestamp": "2026-08-09T11:45:32.658859",
+        "source": "Hacker News"
     }
 ]
