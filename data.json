@@ -484222,5 +484222,11 @@
         "url": "https://filmshelves.com",
         "timestamp": "2026-08-09T23:51:01.005629",
         "source": "Hacker News"
+    },
+    {
+        "title": "vLLM Serving Experiments on H100s – config beats the baseline on p95 TTFT,ITL",
+        "url": "https://efficientagent.substack.com/p/a-better-knob-beats-more-silicon",
+        "timestamp": "2026-08-09T23:51:01.005650",
+        "source": "Hacker News"
     }
 ]
