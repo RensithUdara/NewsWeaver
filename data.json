@@ -483112,5 +483112,11 @@
         "url": "https://flowg.cloud/blog/logs-into-metrics",
         "timestamp": "2026-08-09T18:14:12.946264",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Play Tetris in the terminal (solo and pvp)",
+        "url": "https://github.com/backnotprop/tuitetris",
+        "timestamp": "2026-08-09T18:14:12.946293",
+        "source": "Hacker News"
     }
 ]
