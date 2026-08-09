@@ -481378,5 +481378,11 @@
         "url": "https://venturebeat.com/orchestration/qwen-3-8-max-and-claude-opus-5-show-why-raw-benchmark-scores-dont-predict-the-bill",
         "timestamp": "2026-08-09T08:57:22.130301",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tracking down a Zsh history data loss bug",
+        "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+        "timestamp": "2026-08-09T08:57:22.130324",
+        "source": "Hacker News"
     }
 ]
