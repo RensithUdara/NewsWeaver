@@ -482464,5 +482464,11 @@
         "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
         "timestamp": "2026-08-09T14:58:27.585552",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Show HN: Sufleur-style prompt registry with typed code-generation",
+        "url": "https://github.com/sufleur/cli",
+        "timestamp": "2026-08-09T15:29:59.238427",
+        "source": "Hacker News"
     }
 ]
