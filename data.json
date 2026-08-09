@@ -481552,5 +481552,11 @@
         "url": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom",
         "timestamp": "2026-08-09T10:07:04.913246",
         "source": "Hacker News"
+    },
+    {
+        "title": "Swarm-forge: A simple tool for coordinating several AI agents",
+        "url": "https://github.com/unclebob/swarm-forge",
+        "timestamp": "2026-08-09T10:07:04.913275",
+        "source": "Hacker News"
     }
 ]
