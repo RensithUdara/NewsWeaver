@@ -483718,5 +483718,11 @@
         "url": "https://pacslate.com/",
         "timestamp": "2026-08-09T21:14:30.068019",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Wardline, a Go proxy that auto-blocks compromised AI agents",
+        "url": "https://github.com/kabirnarang39/wardline",
+        "timestamp": "2026-08-09T21:14:30.068038",
+        "source": "Hacker News"
     }
 ]
