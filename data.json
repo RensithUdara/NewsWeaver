@@ -483196,5 +483196,11 @@
         "url": "https://www.youtube.com/watch?v=_OWqzhwsWXM",
         "timestamp": "2026-08-09T18:14:12.946692",
         "source": "Hacker News"
+    },
+    {
+        "title": "Jorge – minimal site generator with Markdown and org-mode support",
+        "url": "https://github.com/facundoolano/jorge",
+        "timestamp": "2026-08-09T18:14:12.946723",
+        "source": "Hacker News"
     }
 ]
