@@ -482494,5 +482494,11 @@
         "url": "https://www.youtube.com/watch?v=XuUq6F_wL5w",
         "timestamp": "2026-08-09T15:29:59.238594",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agentic Coding in the Wild: Characterizing GitHub Copilot at Production Scale [pdf]",
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/ghcp_traces-6.pdf",
+        "timestamp": "2026-08-09T15:29:59.238622",
+        "source": "Hacker News"
     }
 ]
