@@ -480490,5 +480490,11 @@
         "url": "https://news.ycombinator.com/item?id=49227632",
         "timestamp": "2026-08-09T01:49:16.940856",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a video editor in Rust with extensive AI-powered features",
+        "url": "https://github.com/heng30/wayshot",
+        "timestamp": "2026-08-09T01:49:16.940900",
+        "source": "Hacker News"
     }
 ]
