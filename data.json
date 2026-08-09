@@ -481228,5 +481228,11 @@
         "url": "https://atlaspress.news/en/2026/08/01/taliban-south-asia-internet-transit-afghanistan/",
         "timestamp": "2026-08-09T07:29:06.254200",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a failover daemon for Vast.ai spot GPUs, found 5 real bugs testing it",
+        "url": "https://github.com/enplabs/spotwarp",
+        "timestamp": "2026-08-09T07:29:06.254235",
+        "source": "Hacker News"
     }
 ]
