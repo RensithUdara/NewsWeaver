@@ -483442,5 +483442,11 @@
         "url": "https://softwareleads.substack.com/p/the-four-pillars-of-engineering-management",
         "timestamp": "2026-08-09T19:42:38.437933",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tiny-GPU – A minimal open-source GPU design in Verilog to learn how GPUs work",
+        "url": "https://github.com/adam-maj/tiny-gpu",
+        "timestamp": "2026-08-09T19:42:38.437960",
+        "source": "Hacker News"
     }
 ]
