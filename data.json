@@ -483064,5 +483064,11 @@
         "url": "https://www.the-sun.com/news/16813454/late-passengers-run-tarmac-catch-flight/",
         "timestamp": "2026-08-09T17:42:23.369202",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
+        "url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
+        "timestamp": "2026-08-09T17:42:23.369273",
+        "source": "Hacker News"
     }
 ]
