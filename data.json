@@ -483556,5 +483556,11 @@
         "url": "https://github.com/Tboworst/beacon",
         "timestamp": "2026-08-09T20:04:35.550320",
         "source": "Hacker News"
+    },
+    {
+        "title": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
+        "url": "https://github.com/yegors/deGDID",
+        "timestamp": "2026-08-09T20:46:59.789290",
+        "source": "Hacker News"
     }
 ]
