@@ -480868,5 +480868,11 @@
         "url": "https://news.ycombinator.com/item?id=49228251",
         "timestamp": "2026-08-09T04:41:54.321920",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: CIRadar – Self-hosted CI failure diagnosis",
+        "url": "https://github.com/Bluezly/CIRadar",
+        "timestamp": "2026-08-09T04:41:54.321943",
+        "source": "Hacker News"
     }
 ]
