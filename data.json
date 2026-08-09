@@ -483766,5 +483766,11 @@
         "url": "https://world.hey.com/dhh/endless-execution-4157e065",
         "timestamp": "2026-08-09T21:14:30.068198",
         "source": "Hacker News"
+    },
+    {
+        "title": "Stop using the localStorage hack to sync browser tabs. BroadcastChannel does it natively.",
+        "url": "https://dev.to/parsajiravand/stop-using-the-localstorage-hack-to-sync-browser-tabs-broadcastchannel-does-it-natively-4an9",
+        "timestamp": "2026-08-09T21:14:30.323388",
+        "source": "Dev.to"
     }
 ]
