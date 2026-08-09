@@ -480682,5 +480682,11 @@
         "url": "https://news.ycombinator.com/item?id=49227843",
         "timestamp": "2026-08-09T03:20:52.564336",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: OpsCart – Read-only Kubernetes triage with incident history",
+        "url": "https://github.com/opscart/opscart-k8s-watcher",
+        "timestamp": "2026-08-09T03:20:52.564370",
+        "source": "Hacker News"
     }
 ]
