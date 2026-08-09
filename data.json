@@ -484090,5 +484090,11 @@
         "url": "https://news.ycombinator.com/item?id=49237225",
         "timestamp": "2026-08-09T23:20:00.336522",
         "source": "Hacker News"
+    },
+    {
+        "title": "Streambed ships compaction using SQLite for CAS",
+        "url": "http://streambed.dev/blog/introducing-compaction/",
+        "timestamp": "2026-08-09T23:20:00.336551",
+        "source": "Hacker News"
     }
 ]
