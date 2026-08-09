@@ -483592,5 +483592,11 @@
         "url": "https://news.ycombinator.com/item?id=49235583",
         "timestamp": "2026-08-09T20:46:59.962663",
         "source": "Hacker News"
+    },
+    {
+        "title": "FreeBSD Storage for OpenShift with Democratic CSI",
+        "url": "https://vermaden.wordpress.com/2026/08/09/freebsd-openshift-democratic-csi/",
+        "timestamp": "2026-08-09T20:46:59.962732",
+        "source": "Hacker News"
     }
 ]
