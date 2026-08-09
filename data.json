@@ -481978,5 +481978,11 @@
         "url": "https://arctotherium.substack.com/p/the-closure-of-the-internet",
         "timestamp": "2026-08-09T13:09:55.348648",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+        "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+        "timestamp": "2026-08-09T13:09:55.348683",
+        "source": "Hacker News"
     }
 ]
