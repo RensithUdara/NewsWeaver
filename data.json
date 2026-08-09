@@ -483820,5 +483820,11 @@
         "url": "https://decodingvibes.com/blog/mayflies-and-the-toxic-side-of-carpe-diem/",
         "timestamp": "2026-08-09T21:48:43.692560",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Evolution of Go Generics: A Retrospective from 1.18 to 1.27",
+        "url": "https://towardsdev.com/the-evolution-of-go-generics-a-retrospective-from-1-18-to-1-27-f11c06513eed?sk=0ced5d9cdbd56c96aa1abe3f18efccca",
+        "timestamp": "2026-08-09T21:48:43.692588",
+        "source": "Hacker News"
     }
 ]
