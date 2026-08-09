@@ -484156,5 +484156,11 @@
         "url": "https://blog.sentry.security/beyond-prompt-injection-hacking-apples-private-cloud-compute/",
         "timestamp": "2026-08-09T23:51:01.005338",
         "source": "Hacker News"
+    },
+    {
+        "title": "GitHub issues as long-term memory for coding agents",
+        "url": "https://meshintelligence.substack.com/p/how-to-use-github-as-long-term-memory",
+        "timestamp": "2026-08-09T23:51:01.005387",
+        "source": "Hacker News"
     }
 ]
