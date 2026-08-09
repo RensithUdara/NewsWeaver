@@ -482578,5 +482578,11 @@
         "url": "https://darrylbayliss.net/im-building-for-shipaton-2026/",
         "timestamp": "2026-08-09T15:29:59.238988",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: StoneBuild – a build tool in Go for your projects in any languages",
+        "url": "https://github.com/tigerlang/stonebuild",
+        "timestamp": "2026-08-09T15:29:59.239069",
+        "source": "Hacker News"
     }
 ]
