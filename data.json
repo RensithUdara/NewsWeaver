@@ -481480,5 +481480,11 @@
         "url": "https://airy.so",
         "timestamp": "2026-08-09T09:33:59.357646",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A Minimal Python CLI Implementation of Quick Share for Linux",
+        "url": "https://github.com/adityatelange/quickshare-cli-py",
+        "timestamp": "2026-08-09T09:33:59.357681",
+        "source": "Hacker News"
     }
 ]
