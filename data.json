@@ -481186,5 +481186,11 @@
         "url": "https://www.reuters.com/business/retail-consumer/apple-says-mac-users-china-can-connect-alibabas-qwen-ai-service-2026-08-08/",
         "timestamp": "2026-08-09T07:29:06.253960",
         "source": "Hacker News"
+    },
+    {
+        "title": "GSoC Port the Enlightenment desktop environment to NetBSD",
+        "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
+        "timestamp": "2026-08-09T07:29:06.253993",
+        "source": "Hacker News"
     }
 ]
