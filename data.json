@@ -483550,5 +483550,11 @@
         "url": "https://robss2020.github.io/sol-vnc-elapsed/",
         "timestamp": "2026-08-09T20:04:35.550135",
         "source": "Hacker News"
+    },
+    {
+        "title": "Beacon: A self-hosted error tracking and LLM observability in one place",
+        "url": "https://github.com/Tboworst/beacon",
+        "timestamp": "2026-08-09T20:04:35.550320",
+        "source": "Hacker News"
     }
 ]
