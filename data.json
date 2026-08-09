@@ -482596,5 +482596,11 @@
         "url": "https://runsnack.com",
         "timestamp": "2026-08-09T15:29:59.239122",
         "source": "Hacker News"
+    },
+    {
+        "title": "Better Gaussian Splatting in Julia",
+        "url": "https://pxl-th.github.io/blog/better-gs-julia/",
+        "timestamp": "2026-08-09T15:29:59.239151",
+        "source": "Hacker News"
     }
 ]
