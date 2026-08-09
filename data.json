@@ -482452,5 +482452,11 @@
         "url": "https://www.icecreamcalc.app/",
         "timestamp": "2026-08-09T14:58:27.207885",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claim Checks at Scale: Stop Letting Every Consumer Talk to S3",
+        "url": "https://james-carr.org/posts/2026-07-29-stop-treating-your-object-store-like-a-shared-database/",
+        "timestamp": "2026-08-09T14:58:27.207929",
+        "source": "Hacker News"
     }
 ]
