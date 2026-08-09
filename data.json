@@ -483382,5 +483382,11 @@
         "url": "https://www.woah.org/en/rabies-detected-in-cape-fur-seals-highlights-an-unprecedented-shift-in-rabies-ecology/",
         "timestamp": "2026-08-09T19:01:12.600603",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running models on RISC-V with IREE",
+        "url": "https://iree.dev/community/blog/2026-07-23-running-models-on-risc-v-with-iree/",
+        "timestamp": "2026-08-09T19:01:12.600638",
+        "source": "Hacker News"
     }
 ]
