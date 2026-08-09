@@ -482422,5 +482422,11 @@
         "url": "https://douwe.com/projects/tectonic_globe",
         "timestamp": "2026-08-09T14:58:27.207713",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A tool to auto-generate .vscode/settings.json and extensions.json",
+        "url": "https://github.com/RKasai127/vscode-autoconfig",
+        "timestamp": "2026-08-09T14:58:27.207747",
+        "source": "Hacker News"
     }
 ]
