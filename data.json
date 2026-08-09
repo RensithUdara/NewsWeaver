@@ -481582,5 +481582,11 @@
         "url": "https://current.fas.harvard.edu/stories/meet-economics-professor-who-keeps-running-office-hours",
         "timestamp": "2026-08-09T10:48:07.680661",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Restoredrill proves your Postgres backups restore",
+        "url": "https://github.com/ahmadpiran/restoredrill",
+        "timestamp": "2026-08-09T10:48:07.680701",
+        "source": "Hacker News"
     }
 ]
