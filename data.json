@@ -483490,5 +483490,11 @@
         "url": "https://kamod-ch.github.io/kamod-ui/",
         "timestamp": "2026-08-09T19:42:38.438204",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLM Scaler – LLM Support for Intel's Arc Pro B60 and B70 GPUs",
+        "url": "https://github.com/intel/llm-scaler",
+        "timestamp": "2026-08-09T19:42:38.438234",
+        "source": "Hacker News"
     }
 ]
