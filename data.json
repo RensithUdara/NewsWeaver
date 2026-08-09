@@ -483130,5 +483130,11 @@
         "url": "https://hypotheses.org/",
         "timestamp": "2026-08-09T18:14:12.946352",
         "source": "Hacker News"
+    },
+    {
+        "title": "Interviews with key Python developers from the first 25 years",
+        "url": "https://gvanrossum.github.io/interviews/index.html",
+        "timestamp": "2026-08-09T18:14:12.946380",
+        "source": "Hacker News"
     }
 ]
