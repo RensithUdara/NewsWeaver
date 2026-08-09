@@ -482776,5 +482776,11 @@
         "url": "https://www.youtube.com/watch?v=nNXzQ7V1S_k",
         "timestamp": "2026-08-09T16:31:18.001864",
         "source": "Hacker News"
+    },
+    {
+        "title": "Super-readable and debuggable shell pipeline command tool, styled like YAML",
+        "url": "https://github.com/puutaro/yomel",
+        "timestamp": "2026-08-09T16:31:18.001907",
+        "source": "Hacker News"
     }
 ]
