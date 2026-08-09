@@ -482338,5 +482338,11 @@
         "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
         "timestamp": "2026-08-09T14:58:27.207198",
         "source": "Hacker News"
+    },
+    {
+        "title": "PEP 784 – Adding Zstandard to the standard library",
+        "url": "https://peps.python.org/pep-0784/",
+        "timestamp": "2026-08-09T14:58:27.207270",
+        "source": "Hacker News"
     }
 ]
