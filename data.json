@@ -484150,5 +484150,11 @@
         "url": "https://www.economist.com/the-americas/2026/08/09/donald-trumps-bullying-of-canada-is-endless",
         "timestamp": "2026-08-09T23:20:00.336876",
         "source": "Hacker News"
+    },
+    {
+        "title": "Beyond Prompt Injection: Hacking Apple's Private Cloud Compute",
+        "url": "https://blog.sentry.security/beyond-prompt-injection-hacking-apples-private-cloud-compute/",
+        "timestamp": "2026-08-09T23:51:01.005338",
+        "source": "Hacker News"
     }
 ]
