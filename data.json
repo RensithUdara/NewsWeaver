@@ -481330,5 +481330,11 @@
         "url": "https://antigma.ai/eval",
         "timestamp": "2026-08-09T08:57:22.130028",
         "source": "Hacker News"
+    },
+    {
+        "title": "S3-Compatible Object Storage. A MinIO Fork Maintained by Pgsty",
+        "url": "https://github.com/pgsty/silo",
+        "timestamp": "2026-08-09T08:57:22.130099",
+        "source": "Hacker News"
     }
 ]
