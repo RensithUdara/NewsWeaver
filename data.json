@@ -482068,5 +482068,11 @@
         "url": "https://www.the-hinternet.com/p/the-dynamics-of-the-egg",
         "timestamp": "2026-08-09T13:55:51.415935",
         "source": "Hacker News"
+    },
+    {
+        "title": "ParallelClusterMaker – CLI toolkit to manage AWS ParallelCluster stacks",
+        "url": "https://github.com/rmarable/ParallelClusterMaker",
+        "timestamp": "2026-08-09T13:55:51.501418",
+        "source": "Hacker News"
     }
 ]
