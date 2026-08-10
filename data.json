@@ -487294,5 +487294,11 @@
         "url": "https://www.newyorker.com/magazine/2026/08/17/are-you-a-human",
         "timestamp": "2026-08-10T20:07:01.929977",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenAI Daybreak Red",
+        "url": "https://developers.openai.com/api/docs/models/daybreak-red-latest",
+        "timestamp": "2026-08-10T20:07:01.930006",
+        "source": "Hacker News"
     }
 ]
