@@ -485422,5 +485422,11 @@
         "url": "https://github.com/jmarshall23/ETQW",
         "timestamp": "2026-08-10T10:38:33.262386",
         "source": "Hacker News"
+    },
+    {
+        "title": "One Email, Three Identities: SPF, DKIM and DMARC Explained",
+        "url": "https://senderledger.com/articles/one-email-three-identities-spf-dkim-dmarc",
+        "timestamp": "2026-08-10T10:38:33.262415",
+        "source": "Hacker News"
     }
 ]
