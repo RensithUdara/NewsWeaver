@@ -484486,5 +484486,11 @@
         "url": "https://www.ft.com/content/fb49381a-3e09-4666-85b0-7a171e01394e",
         "timestamp": "2026-08-10T03:08:44.881500",
         "source": "Hacker News"
+    },
+    {
+        "title": "Safe-rm: Remap `rm` on Macs to `mv _ Trash` so LLMs don't delete data",
+        "url": "https://gist.github.com/Divide-By-0/5e1ae59ccf66129dd9ec5ef239f87d65",
+        "timestamp": "2026-08-10T03:08:44.881572",
+        "source": "Hacker News"
     }
 ]
