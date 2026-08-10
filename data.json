@@ -484684,5 +484684,11 @@
         "url": "https://news.ycombinator.com/item?id=49239162",
         "timestamp": "2026-08-10T04:49:12.638390",
         "source": "Hacker News"
+    },
+    {
+        "title": "Trellis – A Workspace Management Tool for Multi-Package Gleam Projects",
+        "url": "https://github.com/tylerbutler/trellis",
+        "timestamp": "2026-08-10T04:49:12.638435",
+        "source": "Hacker News"
     }
 ]
