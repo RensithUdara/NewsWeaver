@@ -486826,5 +486826,11 @@
         "url": "https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e",
         "timestamp": "2026-08-10T17:30:15.086865",
         "source": "Dev.to"
+    },
+    {
+        "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
+        "url": "https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1",
+        "timestamp": "2026-08-10T17:30:15.086868",
+        "source": "Dev.to"
     }
 ]
