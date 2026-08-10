@@ -486838,5 +486838,11 @@
         "url": "https://www.anthropic.com/research/riemann-zeta",
         "timestamp": "2026-08-10T18:23:46.126016",
         "source": "Hacker News"
+    },
+    {
+        "title": "QaDiT: A 160M text-to-audio DiT trained on cosumer GPU's",
+        "url": "https://huggingface.co/QuarkML/QaDiT",
+        "timestamp": "2026-08-10T18:23:46.277892",
+        "source": "Hacker News"
     }
 ]
