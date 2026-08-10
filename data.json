@@ -487300,5 +487300,11 @@
         "url": "https://developers.openai.com/api/docs/models/daybreak-red-latest",
         "timestamp": "2026-08-10T20:07:01.930006",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dyna-2: A 1M-Hour Scaling Law for World-Action Models",
+        "url": "https://www.dyna.co/dyna-2",
+        "timestamp": "2026-08-10T20:07:01.930034",
+        "source": "Hacker News"
     }
 ]
