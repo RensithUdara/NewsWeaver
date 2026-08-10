@@ -484366,5 +484366,11 @@
         "url": "https://github.com/celerp/celerp",
         "timestamp": "2026-08-10T00:57:09.151666",
         "source": "Hacker News"
+    },
+    {
+        "title": "Optimizing a GPT-2-Class Transformer on a GPU",
+        "url": "http://martinkristiansen.com/llm-gpu-optimization/index.html",
+        "timestamp": "2026-08-10T00:57:09.151687",
+        "source": "Hacker News"
     }
 ]
