@@ -487984,5 +487984,11 @@
         "url": "https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98",
         "timestamp": "2026-08-10T23:25:01.882475",
         "source": "Hacker News"
+    },
+    {
+        "title": "My Homelab Got Hacked – A Postmortem",
+        "url": "https://phunky.cafe/my-homelab-got-hacked/",
+        "timestamp": "2026-08-10T23:25:01.882512",
+        "source": "Hacker News"
     }
 ]
