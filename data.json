@@ -487360,5 +487360,11 @@
         "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands/",
         "timestamp": "2026-08-10T20:07:01.930317",
         "source": "Hacker News"
+    },
+    {
+        "title": "Slopocop: ESLint for TypeScript Slop",
+        "url": "https://github.com/LBognanni/slopocop",
+        "timestamp": "2026-08-10T20:07:01.930346",
+        "source": "Hacker News"
     }
 ]
