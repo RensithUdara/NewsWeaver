@@ -484504,5 +484504,11 @@
         "url": "https://www.geohound.app/",
         "timestamp": "2026-08-10T03:08:44.881647",
         "source": "Hacker News"
+    },
+    {
+        "title": "DeepSeekV4SSD: DeepSeek-V4-Flash-0731 on an M-series Mac",
+        "url": "https://github.com/yanun0323/deepseek_ssd",
+        "timestamp": "2026-08-10T03:08:44.881715",
+        "source": "Hacker News"
     }
 ]
