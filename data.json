@@ -484948,5 +484948,11 @@
         "url": "https://openthatemail.com",
         "timestamp": "2026-08-10T07:58:54.589108",
         "source": "Hacker News"
+    },
+    {
+        "title": "CleverSocks – multithreaded, small, efficient SOCKS5 server",
+        "url": "https://github.com/clevotec/cleversocks",
+        "timestamp": "2026-08-10T07:58:54.589141",
+        "source": "Hacker News"
     }
 ]
