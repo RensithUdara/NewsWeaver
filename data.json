@@ -486298,5 +486298,11 @@
         "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
         "timestamp": "2026-08-10T15:42:56.771849",
         "source": "Hacker News"
+    },
+    {
+        "title": "filebouncer - Node library for detecting suspicious uploads.",
+        "url": "https://github.com/Ramzi-Abidi/filebouncer",
+        "timestamp": "2026-08-10T15:42:56.771884",
+        "source": "Hacker News"
     }
 ]
