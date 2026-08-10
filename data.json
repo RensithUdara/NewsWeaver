@@ -488092,5 +488092,11 @@
         "url": "https://canartuc.medium.com/the-field-is-optional-the-death-threats-were-not-1e2f1f0ce772",
         "timestamp": "2026-08-10T23:56:59.351511",
         "source": "Hacker News"
+    },
+    {
+        "title": "Optimizing GEMM and Activation on CDNA4 with TLX",
+        "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/optimizing-gemm-with-tlx.html",
+        "timestamp": "2026-08-10T23:56:59.351534",
+        "source": "Hacker News"
     }
 ]
