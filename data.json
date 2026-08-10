@@ -485764,5 +485764,11 @@
         "url": "https://heltweg.org/posts/evolving-plans-looking-back-on-the-first-half-of-2026/",
         "timestamp": "2026-08-10T12:26:12.762079",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Taalas-style on-chip LLM weights on a $250 AMD FPGA (60k tok/s)",
+        "url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/",
+        "timestamp": "2026-08-10T12:26:12.762108",
+        "source": "Hacker News"
     }
 ]
