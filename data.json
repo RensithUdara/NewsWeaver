@@ -484792,5 +484792,11 @@
         "url": "https://medium.com/@rahulgolwalkar/the-support-agent-that-actually-reads-your-code-and-your-production-data-b3d9ee03ec0a",
         "timestamp": "2026-08-10T06:02:50.258533",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Teaching agents how to play Factorio (using RLM, GEPA)",
+        "url": "https://github.com/ukituki/dspy-factorio/",
+        "timestamp": "2026-08-10T06:02:50.258562",
+        "source": "Hacker News"
     }
 ]
