@@ -484624,5 +484624,11 @@
         "url": "https://arxiv.org/abs/2608.00358",
         "timestamp": "2026-08-10T04:49:12.638036",
         "source": "Hacker News"
+    },
+    {
+        "title": "Migrate from GitHub Container Registry (GHCR) to Vercel Container Registry (VCR)",
+        "url": "https://vercel.com/kb/guide/migrate-ghcr-to-vcr",
+        "timestamp": "2026-08-10T04:49:12.638072",
+        "source": "Hacker News"
     }
 ]
