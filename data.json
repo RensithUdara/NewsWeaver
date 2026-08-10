@@ -486898,5 +486898,11 @@
         "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
         "timestamp": "2026-08-10T18:23:46.278264",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-65400: Apple macOS Screen Sharing authentication bypass",
+        "url": "https://support.apple.com/en-us/148170",
+        "timestamp": "2026-08-10T18:23:46.278298",
+        "source": "Hacker News"
     }
 ]
