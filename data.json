@@ -484780,5 +484780,11 @@
         "url": "https://clickhouse.com/blog/wal-backpressure-clickhouse-managed-postgres",
         "timestamp": "2026-08-10T06:02:50.258468",
         "source": "Hacker News"
+    },
+    {
+        "title": "Escaping the LLM Coding Rat Race",
+        "url": "https://aaronstannard.com/escaping-ai-coding-ratrace/",
+        "timestamp": "2026-08-10T06:02:50.258502",
+        "source": "Hacker News"
     }
 ]
