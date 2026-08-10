@@ -487252,5 +487252,11 @@
         "url": "https://sunranker.com",
         "timestamp": "2026-08-10T20:07:01.929768",
         "source": "Hacker News"
+    },
+    {
+        "title": "StockCoaster (Made by Orca)",
+        "url": "https://stockcoaster.vercel.app/",
+        "timestamp": "2026-08-10T20:07:01.929795",
+        "source": "Hacker News"
     }
 ]
