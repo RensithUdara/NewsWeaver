@@ -487366,5 +487366,11 @@
         "url": "https://github.com/LBognanni/slopocop",
         "timestamp": "2026-08-10T20:07:01.930346",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code no longer limits sessions to 200 spawned subagents",
+        "url": "https://github.com/anthropics/claude-code/commit/66edf5358349356774812264b75b8ea792f0d0a3",
+        "timestamp": "2026-08-10T20:07:01.930375",
+        "source": "Hacker News"
     }
 ]
