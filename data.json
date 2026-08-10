@@ -485818,5 +485818,11 @@
         "url": "https://82mhz.net/posts/2026/08/why-a-raspberry-pi-shouldn-t-be-powered-through-it-s-gpio-pins/",
         "timestamp": "2026-08-10T13:51:33.479882",
         "source": "Hacker News"
+    },
+    {
+        "title": "Findphone: Locate a nearby Bluetooth device by signal strength",
+        "url": "https://github.com/ben-z/findphone",
+        "timestamp": "2026-08-10T13:51:33.480007",
+        "source": "Hacker News"
     }
 ]
