@@ -486922,5 +486922,11 @@
         "url": "https://geek-fighter.vercel.app/",
         "timestamp": "2026-08-10T18:23:46.278402",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust SIMD on the GPU",
+        "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+        "timestamp": "2026-08-10T18:23:46.278460",
+        "source": "Hacker News"
     }
 ]
