@@ -486832,5 +486832,11 @@
         "url": "https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1",
         "timestamp": "2026-08-10T17:30:15.086868",
         "source": "Dev.to"
+    },
+    {
+        "title": "Learning more about Claude's mathematical capabilities",
+        "url": "https://www.anthropic.com/research/riemann-zeta",
+        "timestamp": "2026-08-10T18:23:46.126016",
+        "source": "Hacker News"
     }
 ]
