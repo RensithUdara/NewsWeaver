@@ -485476,5 +485476,11 @@
         "url": "https://sunsetatlas.ch/?lat=50.84674&lng=4.35249&date=08-12&lang=fr&mode=eclipse",
         "timestamp": "2026-08-10T11:31:53.030899",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making More NPM Packages Work with JsDelivr ESM Mode",
+        "url": "https://www.jsdelivr.com/blog/making-more-npm-packages-work-with-jsdelivr-esm/",
+        "timestamp": "2026-08-10T11:31:53.030923",
+        "source": "Hacker News"
     }
 ]
