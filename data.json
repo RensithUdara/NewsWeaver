@@ -485290,5 +485290,11 @@
         "url": "https://ethw.org/Milestones:Parametron,_1954",
         "timestamp": "2026-08-10T10:38:33.261661",
         "source": "Hacker News"
+    },
+    {
+        "title": "Meta releases a 30B agent model that fits in ~17GB",
+        "url": "https://huggingface.co/meta-models",
+        "timestamp": "2026-08-10T10:38:33.261689",
+        "source": "Hacker News"
     }
 ]
