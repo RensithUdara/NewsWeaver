@@ -487420,5 +487420,11 @@
         "url": "https://graph2agent.github.io/",
         "timestamp": "2026-08-10T21:34:42.136892",
         "source": "Hacker News"
+    },
+    {
+        "title": "EvoHarnessRL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents",
+        "url": "https://arxiv.org/abs/2608.05446",
+        "timestamp": "2026-08-10T21:34:42.136931",
+        "source": "Hacker News"
     }
 ]
