@@ -484972,5 +484972,11 @@
         "url": "https://www.smh.com.au/national/nsw/every-millimetre-counts-inside-the-beast-tunnelling-under-sydney-harbour-20260804-p60la1.html",
         "timestamp": "2026-08-10T07:58:54.589309",
         "source": "Hacker News"
+    },
+    {
+        "title": "We Build an Autonomous SRE Agent for Kubernetes Deployments",
+        "url": "https://www.langchain.com/blog/how-we-build-an-autonomous-sre-agent-for-kubernetes-deployments",
+        "timestamp": "2026-08-10T07:58:54.589344",
+        "source": "Hacker News"
     }
 ]
