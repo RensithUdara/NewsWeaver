@@ -486364,5 +486364,11 @@
         "url": "https://www.nytimes.com/2026/08/10/obituaries/ben-jones-dead.html",
         "timestamp": "2026-08-10T15:42:56.772276",
         "source": "Hacker News"
+    },
+    {
+        "title": "ChainDrop: A Self-Propagating NPM Worm",
+        "url": "https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/",
+        "timestamp": "2026-08-10T15:42:56.772313",
+        "source": "Hacker News"
     }
 ]
