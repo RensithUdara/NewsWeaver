@@ -484636,5 +484636,11 @@
         "url": "https://vercel.com/kb/guide/docker-compose-concepts-on-vercel",
         "timestamp": "2026-08-10T04:49:12.638112",
         "source": "Hacker News"
+    },
+    {
+        "title": "Training neural nets on Apple Neural Engine via reverse-engineered private APIs",
+        "url": "https://github.com/maderix/ANE",
+        "timestamp": "2026-08-10T04:49:12.638148",
+        "source": "Hacker News"
     }
 ]
