@@ -486976,5 +486976,11 @@
         "url": "https://twitter.com/jarredsumner/status/2086869681785500011",
         "timestamp": "2026-08-10T18:23:46.278773",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Django-Style Queries for SQLAlchemy",
+        "url": "https://github.com/ViAchKoN/sqlalchemy-query-manager",
+        "timestamp": "2026-08-10T18:23:46.278840",
+        "source": "Hacker News"
     }
 ]
