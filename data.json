@@ -484546,5 +484546,11 @@
         "url": "https://news.ycombinator.com/item?id=49238489",
         "timestamp": "2026-08-10T03:08:44.881928",
         "source": "Hacker News"
+    },
+    {
+        "title": "Neovim Colorscheme: Luna.nvim",
+        "url": "https://github.com/WTFox/luna.nvim",
+        "timestamp": "2026-08-10T03:08:44.881961",
+        "source": "Hacker News"
     }
 ]
