@@ -486556,5 +486556,11 @@
         "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=50.09972069964572&lon=14.418220027500752&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=5&palier=minute",
         "timestamp": "2026-08-10T16:33:32.291637",
         "source": "Hacker News"
+    },
+    {
+        "title": "TuFac – offline TOTP app with Google Authenticator QR import",
+        "url": "https://github.com/mikegasche/TuFac/releases",
+        "timestamp": "2026-08-10T16:33:32.291670",
+        "source": "Hacker News"
     }
 ]
