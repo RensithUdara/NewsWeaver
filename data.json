@@ -487486,5 +487486,11 @@
         "url": "https://broadsheet.sh",
         "timestamp": "2026-08-10T21:34:42.137283",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pulse-Train-Resonator: deep learning architecture for engine sound synthesis",
+        "url": "https://github.com/rdoerfler/ptr-model",
+        "timestamp": "2026-08-10T21:34:42.137317",
+        "source": "Hacker News"
     }
 ]
