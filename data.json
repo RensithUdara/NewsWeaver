@@ -485008,5 +485008,11 @@
         "url": "https://99percentinvisible.org/episode/579-towers-of-silence/",
         "timestamp": "2026-08-10T07:58:54.589540",
         "source": "Hacker News"
+    },
+    {
+        "title": "Diffusion LLMs as Targets and Adversaries: Mechanistic Safety Exploits",
+        "url": "https://arxiv.org/abs/2608.07430",
+        "timestamp": "2026-08-10T07:58:54.589572",
+        "source": "Hacker News"
     }
 ]
