@@ -484978,5 +484978,11 @@
         "url": "https://www.langchain.com/blog/how-we-build-an-autonomous-sre-agent-for-kubernetes-deployments",
         "timestamp": "2026-08-10T07:58:54.589344",
         "source": "Hacker News"
+    },
+    {
+        "title": "Contra DSPy and GEPA",
+        "url": "https://benanderson.work/blog/contra-dspy-gepa/",
+        "timestamp": "2026-08-10T07:58:54.589410",
+        "source": "Hacker News"
     }
 ]
