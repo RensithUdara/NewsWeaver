@@ -484564,5 +484564,11 @@
         "url": "https://proton.me/business/blog/business-continuity-survey",
         "timestamp": "2026-08-10T03:08:44.882042",
         "source": "Hacker News"
+    },
+    {
+        "title": "Restate's Single Binary vs Temporal's Cluster: When the Lighter Engine Wins",
+        "url": "https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635",
+        "timestamp": "2026-08-10T03:08:44.994609",
+        "source": "Dev.to"
     }
 ]
