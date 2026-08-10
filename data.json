@@ -486562,5 +486562,11 @@
         "url": "https://github.com/mikegasche/TuFac/releases",
         "timestamp": "2026-08-10T16:33:32.291670",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making JsDelivr's Origin More Reliable at Scale",
+        "url": "https://www.jsdelivr.com/blog/making-jsdelivrs-origin-more-reliable-at-scale/",
+        "timestamp": "2026-08-10T16:33:32.291738",
+        "source": "Hacker News"
     }
 ]
