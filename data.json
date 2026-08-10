@@ -488098,5 +488098,11 @@
         "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/optimizing-gemm-with-tlx.html",
         "timestamp": "2026-08-10T23:56:59.351534",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Basht – A bash shell that handles multitasking better",
+        "url": "https://github.com/samiam95124/basht",
+        "timestamp": "2026-08-10T23:56:59.351556",
+        "source": "Hacker News"
     }
 ]
