@@ -488110,5 +488110,11 @@
         "url": "https://mlberkeley.substack.com/p/the-annotated-diffusiongemma",
         "timestamp": "2026-08-10T23:56:59.351578",
         "source": "Hacker News"
+    },
+    {
+        "title": "VectorGrid Core – Bare-metal C++ grid orchestration for AI data centers",
+        "url": "https://github.com/MaximiH-86/GridPulse_Production_Server",
+        "timestamp": "2026-08-10T23:56:59.351601",
+        "source": "Hacker News"
     }
 ]
