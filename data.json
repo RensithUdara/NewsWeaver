@@ -485338,5 +485338,11 @@
         "url": "https://twitter.com/finkd/status/2086755195535413696",
         "timestamp": "2026-08-10T10:38:33.261940",
         "source": "Hacker News"
+    },
+    {
+        "title": "Quasipolynomial Cryptanalysis of the McEliece Cryptosystem (PIR Meets McEliece)",
+        "url": "https://eprint.iacr.org/2026/1630",
+        "timestamp": "2026-08-10T10:38:33.261972",
+        "source": "Hacker News"
     }
 ]
