@@ -485950,5 +485950,11 @@
         "url": "https://thepollyproject.org/2026/07/14/polly-osmf-announcement.html",
         "timestamp": "2026-08-10T13:51:33.671331",
         "source": "Hacker News"
+    },
+    {
+        "title": "GitHub Actions needs OIDC audience constraints",
+        "url": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
+        "timestamp": "2026-08-10T13:51:33.671358",
+        "source": "Hacker News"
     }
 ]
