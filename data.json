@@ -489664,5 +489664,11 @@
         "url": "https://github.com/biw/swift-node",
         "timestamp": "2026-08-11T10:29:05.237427",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pi's AgentHarness: From an In-Process Loop to a Durable Runtime",
+        "url": "https://github.com/earendil-works/pi/tree/main/packages/agent/docs",
+        "timestamp": "2026-08-11T10:29:05.237462",
+        "source": "Hacker News"
     }
 ]
