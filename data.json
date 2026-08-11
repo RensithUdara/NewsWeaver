@@ -492160,5 +492160,11 @@
         "url": "https://www.youtube.com/watch?v=Yf51-__QeN8&list=PL5vCjAyS9QP_Pze76CYAlidc0hpdTXFLV",
         "timestamp": "2026-08-11T23:09:09.738505",
         "source": "Hacker News"
+    },
+    {
+        "title": "Auger load test, scan and inspect HTTP from one rust binary",
+        "url": "https://github.com/user123cy/auger",
+        "timestamp": "2026-08-11T23:09:09.738531",
+        "source": "Hacker News"
     }
 ]
