@@ -491722,5 +491722,11 @@
         "url": "https://piszczek.pl/blog/dflash-changes-what-tokens-per-second-means",
         "timestamp": "2026-08-11T20:59:21.153488",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nix didn't hang it was evaluating the world",
+        "url": "https://www.labcraft.dev/blog/nix-didnt-hang-it-was-evaluating-the-world",
+        "timestamp": "2026-08-11T20:59:21.153524",
+        "source": "Hacker News"
     }
 ]
