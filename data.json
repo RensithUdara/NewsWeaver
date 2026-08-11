@@ -488404,5 +488404,11 @@
         "url": "https://capship.org/",
         "timestamp": "2026-08-11T03:11:29.913533",
         "source": "Hacker News"
+    },
+    {
+        "title": "Unified.nvim",
+        "url": "https://github.com/axkirillov/unified.nvim",
+        "timestamp": "2026-08-11T03:11:29.913559",
+        "source": "Hacker News"
     }
 ]
