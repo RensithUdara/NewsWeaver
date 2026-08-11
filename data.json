@@ -491878,5 +491878,11 @@
         "url": "https://attestable.com/blog/model-weights-security",
         "timestamp": "2026-08-11T21:49:07.951775",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Log-decisions – an append-only decision journal for AI agents",
+        "url": "https://github.com/swe-workflow/log-decisions",
+        "timestamp": "2026-08-11T21:49:07.951809",
+        "source": "Hacker News"
     }
 ]
