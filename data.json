@@ -490132,5 +490132,11 @@
         "url": "https://status.openai.com/incidents/01KZRE6ZA1RE1ZH4HQ111CX1S8",
         "timestamp": "2026-08-11T13:34:08.977345",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Open Source AI Popularity Leaderboard from Scarf",
+        "url": "https://app.scarf.sh/ai-leaderboard",
+        "timestamp": "2026-08-11T13:34:08.977374",
+        "source": "Hacker News"
     }
 ]
