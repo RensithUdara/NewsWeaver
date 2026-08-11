@@ -492286,5 +492286,11 @@
         "url": "https://liftoffasia.com/posts/vikram-india-private-rocket/",
         "timestamp": "2026-08-11T23:54:54.948598",
         "source": "Hacker News"
+    },
+    {
+        "title": "AbstractSingletonProxyFactoryBean",
+        "url": "https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/aop/framework/AbstractSingletonProxyFactoryBean.html",
+        "timestamp": "2026-08-11T23:54:54.948624",
+        "source": "Hacker News"
     }
 ]
