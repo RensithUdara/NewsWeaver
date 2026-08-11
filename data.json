@@ -488944,5 +488944,11 @@
         "url": "https://www.businessinsider.com/anthropic-watermarking-feature-stops-undetected-ai-generated-writing-2026-8",
         "timestamp": "2026-08-11T07:50:00.094043",
         "source": "Hacker News"
+    },
+    {
+        "title": "CortexBrain: A monitoring pipeline that integrates with your AI agents",
+        "url": "https://github.com/CortexFlow/CortexBrain",
+        "timestamp": "2026-08-11T07:50:00.094088",
+        "source": "Hacker News"
     }
 ]
