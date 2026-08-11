@@ -490576,5 +490576,11 @@
         "url": "https://idle.news/blog/the-bench-as-a-made-object/",
         "timestamp": "2026-08-11T15:33:15.183739",
         "source": "Hacker News"
+    },
+    {
+        "title": "Self-improving agents are event sourced",
+        "url": "https://lobu.ai/blog/self-improving-agents-are-event-sourced/",
+        "timestamp": "2026-08-11T15:33:15.183763",
+        "source": "Hacker News"
     }
 ]
