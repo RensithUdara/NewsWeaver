@@ -489610,5 +489610,11 @@
         "url": "https://blog.lvmbdv.dev/posts/theres-a-dungeon-under-this-blog/",
         "timestamp": "2026-08-11T10:29:05.237089",
         "source": "Hacker News"
+    },
+    {
+        "title": "P: Safe asynchronous event-driven programming",
+        "url": "https://dl.acm.org/doi/10.1145/2499370.2462184",
+        "timestamp": "2026-08-11T10:29:05.237156",
+        "source": "Hacker News"
     }
 ]
