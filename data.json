@@ -490774,5 +490774,11 @@
         "url": "https://medium.com/databrickscommunity/watermark-based-incremental-ingestion-lakeflow-connect-query-based-capture-91836fbaa453",
         "timestamp": "2026-08-11T16:28:34.278489",
         "source": "Hacker News"
+    },
+    {
+        "title": "I benchmarked the new Databricks Lakehouse RT for billion-record tables",
+        "url": "https://medium.com/databrickscommunity/i-benchmarked-the-new-lakehouse-rt-for-billion-record-tables-and-it-is-crazy-fast-and-crazy-cheap-cf674ad40fc3",
+        "timestamp": "2026-08-11T16:28:34.278519",
+        "source": "Hacker News"
     }
 ]
