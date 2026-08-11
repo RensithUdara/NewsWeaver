@@ -491974,5 +491974,11 @@
         "url": "https://arxiv.org/abs/2505.05370",
         "timestamp": "2026-08-11T22:25:23.752243",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I wrote the emudev hello world (CHIP-8 emulator in C)",
+        "url": "https://github.com/Tackx/c8",
+        "timestamp": "2026-08-11T22:25:23.752277",
+        "source": "Hacker News"
     }
 ]
