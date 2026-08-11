@@ -490066,5 +490066,11 @@
         "url": "https://github.com/dbward-dev/dbward",
         "timestamp": "2026-08-11T13:34:08.977084",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nvidia Nemotron 3.5 Lightning",
+        "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+        "timestamp": "2026-08-11T13:34:08.977109",
+        "source": "Hacker News"
     }
 ]
