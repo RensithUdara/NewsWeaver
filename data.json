@@ -488800,5 +488800,11 @@
         "url": "https://www.intercom.com/blog/ai-is-approving-our-pull-requests-heres-how-we-made-it-safe/",
         "timestamp": "2026-08-11T06:37:14.682076",
         "source": "Hacker News"
+    },
+    {
+        "title": "Quasipolynomial Cryptanalysis of the McEliece Cryptosystem [pdf]",
+        "url": "https://eprint.iacr.org/2026/1630.pdf",
+        "timestamp": "2026-08-11T06:37:14.682113",
+        "source": "Hacker News"
     }
 ]
