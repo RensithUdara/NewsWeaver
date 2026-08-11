@@ -489832,5 +489832,11 @@
         "url": "https://www.certpost.ai/blog/certbot-renewed-nginx-still-serves-old-cert",
         "timestamp": "2026-08-11T11:19:17.894301",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fast Haskell Scripts on GitHub Actions",
+        "url": "https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/",
+        "timestamp": "2026-08-11T11:19:17.894322",
+        "source": "Hacker News"
     }
 ]
