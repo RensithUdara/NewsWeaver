@@ -492118,5 +492118,11 @@
         "url": "https://outagedeck.com/developers/mcp",
         "timestamp": "2026-08-11T23:09:09.738285",
         "source": "Hacker News"
+    },
+    {
+        "title": "Unauthenticated Root Access to the Enphase IQ Gateway",
+        "url": "https://j027.net/enphase-rce/",
+        "timestamp": "2026-08-11T23:09:09.738315",
+        "source": "Hacker News"
     }
 ]
