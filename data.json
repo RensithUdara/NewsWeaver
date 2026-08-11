@@ -489946,5 +489946,11 @@
         "url": "https://www.eurekalert.org/news-releases/1137218",
         "timestamp": "2026-08-11T12:00:40.532874",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Sentris – scans your Supabase repo for missing RLS and leaked keys",
+        "url": "https://www.sentris.dev/index",
+        "timestamp": "2026-08-11T12:00:40.532927",
+        "source": "Hacker News"
     }
 ]
