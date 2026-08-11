@@ -490930,5 +490930,11 @@
         "url": "https://runtimewire.com/article/cursor-spacexai-launch-grok-bot-general-purpose-agents",
         "timestamp": "2026-08-11T17:26:09.565194",
         "source": "Hacker News"
+    },
+    {
+        "title": "How we control a remote browser with a Chrome extension faster than Playwright",
+        "url": "https://www.browserbase.com/blog/stagehand-v4",
+        "timestamp": "2026-08-11T17:26:09.565222",
+        "source": "Hacker News"
     }
 ]
