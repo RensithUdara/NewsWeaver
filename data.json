@@ -490384,5 +490384,11 @@
         "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-unveils-ghost-deployable-launch-system-enable",
         "timestamp": "2026-08-11T14:38:37.218667",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Lightweight Rootless Container Sandbox for Claude Code and Codex",
+        "url": "https://medium.com/@Koukyosyumei/h5i-a-lightweight-rootless-container-sandbox-for-claude-code-and-codex-e9a9eb0cf71e",
+        "timestamp": "2026-08-11T14:38:37.218707",
+        "source": "Hacker News"
     }
 ]
