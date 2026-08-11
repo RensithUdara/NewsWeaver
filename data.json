@@ -491446,5 +491446,11 @@
         "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
         "timestamp": "2026-08-11T19:24:54.999931",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Nvidia Nemotron 3.5 lightning and NeMo Switchyard",
+        "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+        "timestamp": "2026-08-11T20:07:55.669852",
+        "source": "Hacker News"
     }
 ]
