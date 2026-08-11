@@ -491356,5 +491356,11 @@
         "url": "https://cacm.acm.org/blogcacm/the-day-we-almost-let-a-bot-lose-us-a-loyal-customer/",
         "timestamp": "2026-08-11T19:24:54.607207",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Advect – autodiff for NumPy and Array API programs",
+        "url": "https://yaugenst.github.io/advect/0.1.0/playground/",
+        "timestamp": "2026-08-11T19:24:54.607241",
+        "source": "Hacker News"
     }
 ]
