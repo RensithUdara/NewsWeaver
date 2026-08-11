@@ -490768,5 +490768,11 @@
         "url": "https://medium.com/databrickscommunity/multiplex-streaming-delta-sinks-and-iceberg-reads-with-databricks-2fe684a62229",
         "timestamp": "2026-08-11T16:28:34.278462",
         "source": "Hacker News"
+    },
+    {
+        "title": "Databricks Watermark-Based Incremental Ingestion",
+        "url": "https://medium.com/databrickscommunity/watermark-based-incremental-ingestion-lakeflow-connect-query-based-capture-91836fbaa453",
+        "timestamp": "2026-08-11T16:28:34.278489",
+        "source": "Hacker News"
     }
 ]
