@@ -490780,5 +490780,11 @@
         "url": "https://medium.com/databrickscommunity/i-benchmarked-the-new-lakehouse-rt-for-billion-record-tables-and-it-is-crazy-fast-and-crazy-cheap-cf674ad40fc3",
         "timestamp": "2026-08-11T16:28:34.278519",
         "source": "Hacker News"
+    },
+    {
+        "title": "WebKit emits mousemove event even when mouse hasn't moved",
+        "url": "https://blog.oodle.ai/someones-hack-is-someone-elses-bug/",
+        "timestamp": "2026-08-11T16:28:34.278546",
+        "source": "Hacker News"
     }
 ]
