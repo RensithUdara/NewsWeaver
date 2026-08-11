@@ -488890,5 +488890,11 @@
         "url": "https://hymera.co/research-design-engineer-salary-europe",
         "timestamp": "2026-08-11T06:37:14.682768",
         "source": "Hacker News"
+    },
+    {
+        "title": "Moving integer division to floating-point is trivial",
+        "url": "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html",
+        "timestamp": "2026-08-11T06:37:14.682801",
+        "source": "Hacker News"
     }
 ]
