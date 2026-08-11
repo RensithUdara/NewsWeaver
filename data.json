@@ -488968,5 +488968,11 @@
         "url": "https://codemadness.org/todo-application.html",
         "timestamp": "2026-08-11T07:50:00.094231",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scope and Lifetime Restrictions in Swift",
+        "url": "https://github.com/rjmccall/swift-evolution/blob/scope-restrictions/scope-restriction-models.md",
+        "timestamp": "2026-08-11T07:50:00.094282",
+        "source": "Hacker News"
     }
 ]
