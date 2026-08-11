@@ -490762,5 +490762,11 @@
         "url": "https://captaincompliance.com/news/california-issues-first-dual-fine-under-ccpa-and-delete-act-against-data-broker-locatesmarter/",
         "timestamp": "2026-08-11T16:28:34.278435",
         "source": "Hacker News"
+    },
+    {
+        "title": "Multiplex Streaming, Delta Sinks, and Iceberg Reads with Databricks",
+        "url": "https://medium.com/databrickscommunity/multiplex-streaming-delta-sinks-and-iceberg-reads-with-databricks-2fe684a62229",
+        "timestamp": "2026-08-11T16:28:34.278462",
+        "source": "Hacker News"
     }
 ]
