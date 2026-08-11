@@ -488740,5 +488740,11 @@
         "url": "https://viterbischool.usc.edu/news/2026/08/can-ai-read-the-room-usc-study-finds-ai-is-better-at-reading-than-listening/",
         "timestamp": "2026-08-11T05:41:42.348788",
         "source": "Hacker News"
+    },
+    {
+        "title": "Solving Advent of Code on FPGAs with Haskell RetroClash",
+        "url": "https://midirus.com/blog/advent-of-fpga",
+        "timestamp": "2026-08-11T05:41:42.348822",
+        "source": "Hacker News"
     }
 ]
