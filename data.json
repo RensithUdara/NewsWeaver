@@ -489010,5 +489010,11 @@
         "url": "https://helppeer.ai/llms.txt",
         "timestamp": "2026-08-11T07:50:00.094765",
         "source": "Hacker News"
+    },
+    {
+        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+        "url": "https://arxiv.org/abs/2608.09867",
+        "timestamp": "2026-08-11T07:50:00.094858",
+        "source": "Hacker News"
     }
 ]
