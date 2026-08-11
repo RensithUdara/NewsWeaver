@@ -492028,5 +492028,11 @@
         "url": "https://specbranch.com/posts/expensive-abstraction/",
         "timestamp": "2026-08-11T22:25:23.752632",
         "source": "Hacker News"
+    },
+    {
+        "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+        "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+        "timestamp": "2026-08-11T22:25:23.752666",
+        "source": "Hacker News"
     }
 ]
