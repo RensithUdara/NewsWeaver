@@ -490816,5 +490816,11 @@
         "url": "https://alec.is/posts/is-claude-suffering-no-but-maybe-it-should-be/",
         "timestamp": "2026-08-11T16:28:34.278685",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: WeaveKit – A declarative, SwiftUI like toolkit that renders to canvas",
+        "url": "https://github.com/pixdeo/weavekit",
+        "timestamp": "2026-08-11T16:28:34.278712",
+        "source": "Hacker News"
     }
 ]
