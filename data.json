@@ -490072,5 +490072,11 @@
         "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
         "timestamp": "2026-08-11T13:34:08.977109",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Lightweight, TypeScript-first mocking library for AWS SDK v3 and Vitest",
+        "url": "https://github.com/sudokar/aws-sdk-vitest-mock",
+        "timestamp": "2026-08-11T13:34:08.977131",
+        "source": "Hacker News"
     }
 ]
