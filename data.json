@@ -492322,5 +492322,11 @@
         "url": "https://blogs.oracle.com/linux/jiffies-the-heartbeat-of-the-linux-operating-system",
         "timestamp": "2026-08-11T23:54:54.948821",
         "source": "Hacker News"
+    },
+    {
+        "title": "mmiotic: Latency x-ray for undocumented hardware",
+        "url": "https://github.com/xoreaxeaxeax/mmiotic",
+        "timestamp": "2026-08-11T23:54:54.948848",
+        "source": "Hacker News"
     }
 ]
