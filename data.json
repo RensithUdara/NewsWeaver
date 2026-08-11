@@ -488914,5 +488914,11 @@
         "url": "https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html",
         "timestamp": "2026-08-11T06:37:14.682968",
         "source": "Hacker News"
+    },
+    {
+        "title": "Faster floating point math with Rust's new API",
+        "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
+        "timestamp": "2026-08-11T07:49:59.814255",
+        "source": "Hacker News"
     }
 ]
