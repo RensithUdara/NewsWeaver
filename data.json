@@ -490486,5 +490486,11 @@
         "url": "https://fables-for-robots.ch/blog/harvesting-ethereum-traces-without-an-archive-node/",
         "timestamp": "2026-08-11T15:33:15.183389",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mozilla revokes Firefox signing key after unencrypted copy lands in GitHub",
+        "url": "https://www.theregister.com/security/2026/08/11/mozilla-revokes-firefox-signing-key-after-unencrypted-copy-lands-in-github/5285908",
+        "timestamp": "2026-08-11T15:33:15.183411",
+        "source": "Hacker News"
     }
 ]
