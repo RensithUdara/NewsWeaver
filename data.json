@@ -490534,5 +490534,11 @@
         "url": "https://github.com/AppsVortex/arness",
         "timestamp": "2026-08-11T15:33:15.183578",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Code changes that look fine but fail SOC 2 / GDPR checks",
+        "url": "https://github.com/better-isms/control-in-code",
+        "timestamp": "2026-08-11T15:33:15.183604",
+        "source": "Hacker News"
     }
 ]
