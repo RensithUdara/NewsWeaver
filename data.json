@@ -495034,5 +495034,11 @@
         "url": "https://climate.metoffice.cloud/glaciers.html",
         "timestamp": "2026-08-12T17:29:30.048459",
         "source": "Hacker News"
+    },
+    {
+        "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+        "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+        "timestamp": "2026-08-12T17:29:30.048558",
+        "source": "Hacker News"
     }
 ]
