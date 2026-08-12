@@ -494956,5 +494956,11 @@
         "url": "https://news.ycombinator.com/item?id=49274680",
         "timestamp": "2026-08-12T16:29:47.664202",
         "source": "Hacker News"
+    },
+    {
+        "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
+        "url": "https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g",
+        "timestamp": "2026-08-12T16:29:47.827177",
+        "source": "Dev.to"
     }
 ]
