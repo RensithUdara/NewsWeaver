@@ -493474,5 +493474,11 @@
         "url": "https://github.com/YOalphabet/YOalphabet",
         "timestamp": "2026-08-12T09:19:46.614523",
         "source": "Hacker News"
+    },
+    {
+        "title": "The case for disaggregated LLM serving",
+        "url": "https://blog.doubleword.ai/when-to-disaggregate",
+        "timestamp": "2026-08-12T09:19:46.614594",
+        "source": "Hacker News"
     }
 ]
