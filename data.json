@@ -492664,5 +492664,11 @@
         "url": "https://ourworldindata.org/grapher/statin-use-cardiovascular-disease-death-rate",
         "timestamp": "2026-08-12T03:27:06.257594",
         "source": "Hacker News"
+    },
+    {
+        "title": "We found a bug in FFmpeg with a vibecoded fuzzer",
+        "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/23945",
+        "timestamp": "2026-08-12T03:27:06.257621",
+        "source": "Hacker News"
     }
 ]
