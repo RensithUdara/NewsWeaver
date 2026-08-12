@@ -493570,5 +493570,11 @@
         "url": "https://github.com/tigerlang/huntclaw",
         "timestamp": "2026-08-12T10:29:20.585294",
         "source": "Hacker News"
+    },
+    {
+        "title": "150M-parameter reasoning model sets new cost-accuracy frontier on ARC-AGI-1",
+        "url": "https://huggingface.co/papers/2608.09888",
+        "timestamp": "2026-08-12T10:29:20.585325",
+        "source": "Hacker News"
     }
 ]
