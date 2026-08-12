@@ -495172,5 +495172,11 @@
         "url": "https://news.ycombinator.com/item?id=49275608",
         "timestamp": "2026-08-12T17:29:30.259129",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sqlfmt: An SQL gofmt-style formatter",
+        "url": "https://tapoueh.org/blog/2026/08/introducing-sqlfmt-an-sql-gofmt-style-formatter/",
+        "timestamp": "2026-08-12T17:29:30.259172",
+        "source": "Hacker News"
     }
 ]
