@@ -493132,5 +493132,11 @@
         "url": "https://discoveredmaterials.com/research/",
         "timestamp": "2026-08-12T08:04:09.878327",
         "source": "Hacker News"
+    },
+    {
+        "title": "Using Rust Code from Unity for High Performance",
+        "url": "https://oddur.me/posts/native-rust-in-unity/",
+        "timestamp": "2026-08-12T08:04:09.878358",
+        "source": "Hacker News"
     }
 ]
