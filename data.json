@@ -495538,5 +495538,11 @@
         "url": "https://news.ycombinator.com/item?id=49277321",
         "timestamp": "2026-08-12T19:39:09.169652",
         "source": "Hacker News"
+    },
+    {
+        "title": "Updates on Django's Async Story – Talk Python to Me Podcast",
+        "url": "https://talkpython.fm/episodes/show/556/updates-on-djangos-async-story",
+        "timestamp": "2026-08-12T19:39:09.169687",
+        "source": "Hacker News"
     }
 ]
