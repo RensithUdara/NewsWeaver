@@ -493408,5 +493408,11 @@
         "url": "https://blog.0.xyz/articles/introducing-project-0-vaults/",
         "timestamp": "2026-08-12T09:19:46.614093",
         "source": "Hacker News"
+    },
+    {
+        "title": "Unofficial Home Assistant integration for Geely vehicles",
+        "url": "https://github.com/YossiKon/geely-connect",
+        "timestamp": "2026-08-12T09:19:46.614127",
+        "source": "Hacker News"
     }
 ]
