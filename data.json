@@ -495274,5 +495274,11 @@
         "url": "https://www.databricks.com/blog/open-sourcing-metals-v2-databricks-java-and-scala-language-server-multi-million-line-codebases",
         "timestamp": "2026-08-12T18:25:53.144620",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zed: Delta",
+        "url": "https://zed.dev/blog/introducing-delta",
+        "timestamp": "2026-08-12T18:25:53.144686",
+        "source": "Hacker News"
     }
 ]
