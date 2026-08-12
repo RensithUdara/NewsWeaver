@@ -496234,5 +496234,11 @@
         "url": "https://mcclowes.com/blog/2026/05/29/ai-is-just-another-layer",
         "timestamp": "2026-08-12T22:32:59.296475",
         "source": "Hacker News"
+    },
+    {
+        "title": "Node.js creator liberates Durable Objects from Cloudflare",
+        "url": "https://www.theregister.com/devops/2026/08/12/nodejs-creator-liberates-durable-objects-from-cloudflare-with-celld/5286954",
+        "timestamp": "2026-08-12T22:32:59.296497",
+        "source": "Hacker News"
     }
 ]
