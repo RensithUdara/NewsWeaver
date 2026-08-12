@@ -492892,5 +492892,11 @@
         "url": "https://en.wikipedia.org/wiki/Death_march_(project_management)",
         "timestamp": "2026-08-12T05:12:45.411314",
         "source": "Hacker News"
+    },
+    {
+        "title": "Apache Fory JSON: JSON Serialization for Java, 10x faster than Jackson",
+        "url": "https://fory.apache.org/blog/fory_json_fastest_java_json_framework/",
+        "timestamp": "2026-08-12T05:12:45.411341",
+        "source": "Hacker News"
     }
 ]
