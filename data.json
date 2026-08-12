@@ -493822,5 +493822,11 @@
         "url": "https://securitylab.amnesty.org/latest/2025/02/cellebrite-zero-day-exploit-used-to-target-phone-of-serbian-student-activist/",
         "timestamp": "2026-08-12T11:22:05.842419",
         "source": "Hacker News"
+    },
+    {
+        "title": "OAuth for Agents",
+        "url": "https://blog.exe.dev/oauth-for-agents",
+        "timestamp": "2026-08-12T11:22:05.842447",
+        "source": "Hacker News"
     }
 ]
