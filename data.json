@@ -493144,5 +493144,11 @@
         "url": "https://www.theregister.com/personal-tech/2026/08/10/framework-loses-customer-data-in-metabase-zero-day-attack/5285302",
         "timestamp": "2026-08-12T08:04:09.878387",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linux binaries running as ordinary macOS processes",
+        "url": "https://github.com/mslxnu/native_abi",
+        "timestamp": "2026-08-12T08:04:09.878415",
+        "source": "Hacker News"
     }
 ]
