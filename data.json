@@ -493192,5 +493192,11 @@
         "url": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
         "timestamp": "2026-08-12T08:04:09.878649",
         "source": "Hacker News"
+    },
+    {
+        "title": "How do you decide that an agent's output is good enough to stop iterating?",
+        "url": "https://news.ycombinator.com/item?id=49268922",
+        "timestamp": "2026-08-12T08:04:09.878677",
+        "source": "Hacker News"
     }
 ]
