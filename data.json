@@ -495706,5 +495706,11 @@
         "url": "https://www.scottberrevoets.com/2026/08/11/the-foundations-of-a-mobile-platform/",
         "timestamp": "2026-08-12T20:18:34.336388",
         "source": "Hacker News"
+    },
+    {
+        "title": "Micro-Hook – Zero-dependency local webhook inspector",
+        "url": "https://github.com/nsrht/micro-hook",
+        "timestamp": "2026-08-12T20:18:34.336416",
+        "source": "Hacker News"
     }
 ]
