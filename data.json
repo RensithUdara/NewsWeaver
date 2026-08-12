@@ -494788,5 +494788,11 @@
         "url": "https://www.josemunozmatos.com/blog/why-i-miss-apple-carplay-tesla",
         "timestamp": "2026-08-12T16:29:47.663399",
         "source": "Hacker News"
+    },
+    {
+        "title": "Qwen3.8-2.4T",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
+        "timestamp": "2026-08-12T16:29:47.663432",
+        "source": "Hacker News"
     }
 ]
