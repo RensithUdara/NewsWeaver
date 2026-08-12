@@ -494746,5 +494746,11 @@
         "url": "https://why.com",
         "timestamp": "2026-08-12T15:34:07.272282",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
+        "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
+        "timestamp": "2026-08-12T15:34:07.583363",
+        "source": "Dev.to"
     }
 ]
