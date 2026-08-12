@@ -493354,5 +493354,11 @@
         "url": "https://cutthroat.news/",
         "timestamp": "2026-08-12T09:19:46.613728",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Dangers of Postgres Subtransactions",
+        "url": "https://planetscale.com/blog/the-dangers-of-postgres-subtransactions",
+        "timestamp": "2026-08-12T09:19:46.613774",
+        "source": "Hacker News"
     }
 ]
