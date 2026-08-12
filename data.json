@@ -494302,5 +494302,11 @@
         "url": "https://knownagents.com/insights",
         "timestamp": "2026-08-12T14:39:59.828031",
         "source": "Hacker News"
+    },
+    {
+        "title": "ArenaAllocators don't play nicely with ArrayLists",
+        "url": "https://www.openmymind.net/Arena-Allocators-and-ArrayLists/",
+        "timestamp": "2026-08-12T14:39:59.828129",
+        "source": "Hacker News"
     }
 ]
