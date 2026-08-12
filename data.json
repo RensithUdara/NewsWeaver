@@ -495118,5 +495118,11 @@
         "url": "https://news.ycombinator.com/item?id=49275720",
         "timestamp": "2026-08-12T17:29:30.258756",
         "source": "Hacker News"
+    },
+    {
+        "title": "Skein-JS – The open-source LangGraph Platform alternative, for TypeScript",
+        "url": "https://skein-js.github.io/skein-js/",
+        "timestamp": "2026-08-12T17:29:30.258791",
+        "source": "Hacker News"
     }
 ]
