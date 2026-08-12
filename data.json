@@ -494206,5 +494206,11 @@
         "url": "https://www.coindesk.com/policy/2026/08/11/cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-state-lawsuit",
         "timestamp": "2026-08-12T13:37:07.270599",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dropping one tool invalidated the prompt cache on GPT-5.5 but not on 5.2",
+        "url": "https://srcecde.me/posts/tool-changes-break-prompt-cache/",
+        "timestamp": "2026-08-12T13:37:07.270623",
+        "source": "Hacker News"
     }
 ]
