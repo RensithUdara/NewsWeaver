@@ -493708,5 +493708,11 @@
         "url": "https://github.com/kleinebossie/Mainline",
         "timestamp": "2026-08-12T10:29:20.586056",
         "source": "Hacker News"
+    },
+    {
+        "title": "First Binary Distribution of the OpenSSL Library: Windows Installer Test Release",
+        "url": "https://github.com/openssl/openssl/discussions/32317",
+        "timestamp": "2026-08-12T10:29:20.586083",
+        "source": "Hacker News"
     }
 ]
