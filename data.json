@@ -495268,5 +495268,11 @@
         "url": "https://text.npr.org/nx-s1-5853571",
         "timestamp": "2026-08-12T18:25:53.144570",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open-sourcing Metals v2: Databricks' Java and Scala language server",
+        "url": "https://www.databricks.com/blog/open-sourcing-metals-v2-databricks-java-and-scala-language-server-multi-million-line-codebases",
+        "timestamp": "2026-08-12T18:25:53.144620",
+        "source": "Hacker News"
     }
 ]
