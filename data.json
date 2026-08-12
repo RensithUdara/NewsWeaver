@@ -493168,5 +493168,11 @@
         "url": "https://robinroy.xyz/blog/frappe-document-follow-vulnerability/",
         "timestamp": "2026-08-12T08:04:09.878525",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Brave DevTools MCP – Control Brave from Claude, Codex, and Cursor",
+        "url": "https://github.com/triuzzi/brave-devtools-mcp",
+        "timestamp": "2026-08-12T08:04:09.878553",
+        "source": "Hacker News"
     }
 ]
