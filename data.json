@@ -494566,5 +494566,11 @@
         "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
         "timestamp": "2026-08-12T15:34:07.129167",
         "source": "Hacker News"
+    },
+    {
+        "title": "Solving the Shortest Vector Problem in $2^{0.6039n}$ Time via Mid-Point Hessian",
+        "url": "https://arxiv.org/abs/2608.02478",
+        "timestamp": "2026-08-12T15:34:07.129250",
+        "source": "Hacker News"
     }
 ]
