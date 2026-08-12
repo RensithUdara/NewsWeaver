@@ -494626,5 +494626,11 @@
         "url": "https://ojcp.dev/",
         "timestamp": "2026-08-12T15:34:07.271688",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running DeepSeek V4 Flash on an RTX 5080 with 16GB VRAM Under Linux/WSL2 via DS4",
+        "url": "https://github.com/peppe200175/ds4_RTX_5080_cuda",
+        "timestamp": "2026-08-12T15:34:07.271715",
+        "source": "Hacker News"
     }
 ]
