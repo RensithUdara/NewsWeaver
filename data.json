@@ -492730,5 +492730,11 @@
         "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
         "timestamp": "2026-08-12T03:27:06.257971",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors",
+        "url": "https://github.com/rimironenko/rag-staleness-check",
+        "timestamp": "2026-08-12T05:12:45.168454",
+        "source": "Hacker News"
     }
 ]
