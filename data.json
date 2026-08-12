@@ -495190,5 +495190,11 @@
         "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/25-year-old-hedge-fund-manager-who-lost-35-billion-in-a-month-eyes-fresh-capital-after-ai-stock-selloff/articleshow/133147747.cms?from=mdr",
         "timestamp": "2026-08-12T17:29:30.259241",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Sonny OS – An async Rust microkernel replacing ROS 2/DDS with Zenoh",
+        "url": "https://github.com/JackTrainer/Sonny",
+        "timestamp": "2026-08-12T17:29:30.259277",
+        "source": "Hacker News"
     }
 ]
