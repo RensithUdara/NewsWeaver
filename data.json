@@ -495508,5 +495508,11 @@
         "url": "https://pressgazette.co.uk/news/fake-forbes-websites-and-the-pr-agency-offering-guaranteed-coverage-at-a-price/",
         "timestamp": "2026-08-12T19:39:09.169475",
         "source": "Hacker News"
+    },
+    {
+        "title": "PEP 828 – Supporting 'yield from' in asynchronous generators – peps.python.org",
+        "url": "https://peps.python.org/pep-0828/",
+        "timestamp": "2026-08-12T19:39:09.169509",
+        "source": "Hacker News"
     }
 ]
