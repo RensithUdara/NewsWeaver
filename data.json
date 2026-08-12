@@ -493840,5 +493840,11 @@
         "url": "https://www.coinbase.com/en-ca/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
         "timestamp": "2026-08-12T11:22:05.842501",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A declarative, SwiftUI toolkit that renders to <canvas>",
+        "url": "https://pixdeo.github.io/weavekit/",
+        "timestamp": "2026-08-12T11:22:05.842527",
+        "source": "Hacker News"
     }
 ]
