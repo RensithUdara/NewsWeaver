@@ -496018,5 +496018,11 @@
         "url": "https://news.ycombinator.com/item?id=49278956",
         "timestamp": "2026-08-12T21:56:27.099718",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI Course for Golang incorrectly generates content about the Go board game",
+        "url": "https://github.com/nilbuild/developer-roadmap/issues/10226",
+        "timestamp": "2026-08-12T21:56:27.099794",
+        "source": "Hacker News"
     }
 ]
