@@ -494350,5 +494350,11 @@
         "url": "https://worksinprogress.co/issue/future-of-medicine/",
         "timestamp": "2026-08-12T14:39:59.916090",
         "source": "Hacker News"
+    },
+    {
+        "title": "I ran the same local LLM on an RTX 5070 laptop and one with an iGPU",
+        "url": "https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/",
+        "timestamp": "2026-08-12T14:39:59.916128",
+        "source": "Hacker News"
     }
 ]
