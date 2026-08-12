@@ -494470,5 +494470,11 @@
         "url": "https://deadline-dividend.onrender.com",
         "timestamp": "2026-08-12T14:39:59.916811",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+        "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+        "timestamp": "2026-08-12T14:39:59.916845",
+        "source": "Hacker News"
     }
 ]
