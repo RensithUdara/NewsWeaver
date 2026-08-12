@@ -495934,5 +495934,11 @@
         "url": "https://opensource.org/blog/the-ai-era-arcs-toward-openness",
         "timestamp": "2026-08-12T21:05:42.638788",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI Agent Sandboxes Stop Escapes. They Don't Tell You What Happened Inside",
+        "url": "https://rye.ai/blog/ai-agent-sandboxes-ebpf-runtime-visibility/",
+        "timestamp": "2026-08-12T21:05:42.638816",
+        "source": "Hacker News"
     }
 ]
