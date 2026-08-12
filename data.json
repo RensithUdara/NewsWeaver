@@ -492610,5 +492610,11 @@
         "url": "https://www.telegraph.co.uk/news/2026/08/09/spy-cameras-on-navy-drones-secretly-sent-data-to-china",
         "timestamp": "2026-08-12T03:27:06.257270",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Memftprt, a consistent, process-tree-wide memory footprint on Linux",
+        "url": "https://github.com/menzew/memoryfootprint",
+        "timestamp": "2026-08-12T03:27:06.257328",
+        "source": "Hacker News"
     }
 ]
