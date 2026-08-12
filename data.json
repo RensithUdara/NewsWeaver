@@ -494560,5 +494560,11 @@
         "url": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
         "timestamp": "2026-08-12T15:34:07.128835",
         "source": "Hacker News"
+    },
+    {
+        "title": "Qwen/Qwen3.8-2.4T-A95B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+        "timestamp": "2026-08-12T15:34:07.129167",
+        "source": "Hacker News"
     }
 ]
