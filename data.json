@@ -494812,5 +494812,11 @@
         "url": "https://www.githubstatus.com/incidents/76t89hbfb09h",
         "timestamp": "2026-08-12T16:29:47.663522",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building scalable back end services with Rust and PostgreSQL",
+        "url": "https://kerkour.com/rust-scalable-backend-services",
+        "timestamp": "2026-08-12T16:29:47.663549",
+        "source": "Hacker News"
     }
 ]
