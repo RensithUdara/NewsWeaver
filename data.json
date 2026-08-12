@@ -494962,5 +494962,11 @@
         "url": "https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g",
         "timestamp": "2026-08-12T16:29:47.827177",
         "source": "Dev.to"
+    },
+    {
+        "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
+        "url": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li",
+        "timestamp": "2026-08-12T16:29:47.827182",
+        "source": "Dev.to"
     }
 ]
