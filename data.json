@@ -495676,5 +495676,11 @@
         "url": "https://antithesis.com/blog/2026/wal-reset-bug/",
         "timestamp": "2026-08-12T20:18:34.336238",
         "source": "Hacker News"
+    },
+    {
+        "title": "Best Current Practice for Security of Cross-Device Flows",
+        "url": "https://datatracker.ietf.org/doc/rfc10027/",
+        "timestamp": "2026-08-12T20:18:34.336271",
+        "source": "Hacker News"
     }
 ]
