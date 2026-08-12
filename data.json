@@ -494644,5 +494644,11 @@
         "url": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
         "timestamp": "2026-08-12T15:34:07.271785",
         "source": "Hacker News"
+    },
+    {
+        "title": "A BSON symbol namespace bypasses MongoDB's authorization check (CVE-2026-18690)",
+        "url": "https://hellorecon.com/blog/cve-2026-18690-mongodb-symbol-type-authz-bypass",
+        "timestamp": "2026-08-12T15:34:07.271812",
+        "source": "Hacker News"
     }
 ]
