@@ -495628,5 +495628,11 @@
         "url": "https://www.moss.dev/blog/the-production-ai-stack",
         "timestamp": "2026-08-12T20:18:34.335963",
         "source": "Hacker News"
+    },
+    {
+        "title": "Does anyone run Postgres without PgBouncer?",
+        "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
+        "timestamp": "2026-08-12T20:18:34.335995",
+        "source": "Hacker News"
     }
 ]
