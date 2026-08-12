@@ -493462,5 +493462,11 @@
         "url": "https://www.themarginalian.org/2012/01/12/john-steinbeck-on-love-1958/",
         "timestamp": "2026-08-12T09:19:46.614437",
         "source": "Hacker News"
+    },
+    {
+        "title": "We're fighting over the wrong wire: WebSockets vs. SSE for HTML over the wire",
+        "url": "https://en.andros.dev/blog/bd74e61a/were-fighting-over-the-wrong-wire-websockets-vs-sse-for-html-over-the-wire/",
+        "timestamp": "2026-08-12T09:19:46.614470",
+        "source": "Hacker News"
     }
 ]
