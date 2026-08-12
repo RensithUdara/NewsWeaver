@@ -495472,5 +495472,11 @@
         "url": "https://carly.substack.com/p/everything-i-dont-like-is-slop",
         "timestamp": "2026-08-12T19:39:09.169202",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building Security Agents That Cannot Escape Their Trust Boundary",
+        "url": "https://cynative.com/blog/agent-trust-boundaries/",
+        "timestamp": "2026-08-12T19:39:09.169238",
+        "source": "Hacker News"
     }
 ]
