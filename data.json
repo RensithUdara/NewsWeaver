@@ -496444,5 +496444,11 @@
         "url": "https://cdn.sanity.io/files/w77i7m8x/production/0de35a24de4d425390546ebd521107d5444985e9.pdf",
         "timestamp": "2026-08-12T23:19:21.024417",
         "source": "Hacker News"
+    },
+    {
+        "title": "DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead",
+        "url": "https://github.com/DannyArends/DLLM",
+        "timestamp": "2026-08-12T23:19:21.024444",
+        "source": "Hacker News"
     }
 ]
