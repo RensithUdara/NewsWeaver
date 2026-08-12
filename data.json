@@ -493588,5 +493588,11 @@
         "url": "https://www.youtube.com/watch?v=BlbQsKpq3Ak",
         "timestamp": "2026-08-12T10:29:20.585387",
         "source": "Hacker News"
+    },
+    {
+        "title": "Knowledge graphs using Ollama and Embeddings to answer and visualizing queries",
+        "url": "https://github.com/punnerud/Local_Knowledge_Graph",
+        "timestamp": "2026-08-12T10:29:20.585444",
+        "source": "Hacker News"
     }
 ]
