@@ -496414,5 +496414,11 @@
         "url": "https://built2winweb.com/",
         "timestamp": "2026-08-12T23:19:21.024171",
         "source": "Hacker News"
+    },
+    {
+        "title": "SlateDB Benchmarks",
+        "url": "https://benchmark.slatedb.io/0.15.0/workload/balanced/",
+        "timestamp": "2026-08-12T23:19:21.024197",
+        "source": "Hacker News"
     }
 ]
