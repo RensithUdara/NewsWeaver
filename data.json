@@ -496630,5 +496630,11 @@
         "url": "https://github.com/doable-me/Doable",
         "timestamp": "2026-08-13T02:39:21.337679",
         "source": "Hacker News"
+    },
+    {
+        "title": "Production-ready detection and response queries for osquery",
+        "url": "https://github.com/chainguard-dev/osquery-defense-kit",
+        "timestamp": "2026-08-13T02:39:21.337717",
+        "source": "Hacker News"
     }
 ]
