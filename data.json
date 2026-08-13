@@ -499054,5 +499054,11 @@
         "url": "https://www.upworthy.com/a-small-battery-has-been-ringing-a-bell-continuously-since-1840/",
         "timestamp": "2026-08-13T18:30:28.381799",
         "source": "Hacker News"
+    },
+    {
+        "title": "OxiSH: SSH Server Written in Rust",
+        "url": "https://github.com/djc/oxish",
+        "timestamp": "2026-08-13T18:30:28.381833",
+        "source": "Hacker News"
     }
 ]
