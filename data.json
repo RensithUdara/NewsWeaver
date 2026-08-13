@@ -498862,5 +498862,11 @@
         "url": "https://mrjstickel.com/projects/review-scorecard",
         "timestamp": "2026-08-13T17:33:43.384772",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Zod schema is a binary codec, no IDL, no codegen",
+        "url": "https://github.com/ChiChuRita/shorn",
+        "timestamp": "2026-08-13T17:33:43.384788",
+        "source": "Hacker News"
     }
 ]
