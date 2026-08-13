@@ -497002,5 +497002,11 @@
         "url": "https://medium.com/@CometAPI_/the-july-2026-model-wave-gpt-5-6-gemini-3-6-flash-grok-4-5-kimi-k3-and-glm-5-2-compared-f2f915cda64e",
         "timestamp": "2026-08-13T05:55:19.157493",
         "source": "Hacker News"
+    },
+    {
+        "title": "llambda.lisp: Bare-Metal, Multi-Threaded, AVX2-Accelerated LLM inf eng in CL",
+        "url": "http://funcall.blogspot.com/2026/07/llambdalisp.html",
+        "timestamp": "2026-08-13T05:55:19.157529",
+        "source": "Hacker News"
     }
 ]
