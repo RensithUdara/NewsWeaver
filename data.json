@@ -496966,5 +496966,11 @@
         "url": "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
         "timestamp": "2026-08-13T04:28:14.891124",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tailscale says deeply buried 16-year-old SQLite bug caused last year's outages",
+        "url": "https://www.theregister.com/databases/2026/08/12/tailscale-says-deeply-buried-16-year-old-sqlite-bug-caused-last-years-outages/5287004",
+        "timestamp": "2026-08-13T04:28:14.891168",
+        "source": "Hacker News"
     }
 ]
