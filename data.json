@@ -498928,5 +498928,11 @@
         "url": "https://www.theguardian.com/technology/blog/2013/mar/01/groupon-andrew-mason-fired-letter",
         "timestamp": "2026-08-13T17:33:43.384990",
         "source": "Hacker News"
+    },
+    {
+        "title": "Chasing an Elusive Rails SSE Bug/Hang",
+        "url": "https://www.babylist.com/engineering/blog/rails-sse-hang",
+        "timestamp": "2026-08-13T17:33:43.385004",
+        "source": "Hacker News"
     }
 ]
