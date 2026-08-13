@@ -497896,5 +497896,11 @@
         "url": "https://paperlauncher.app/",
         "timestamp": "2026-08-13T12:10:11.390518",
         "source": "Hacker News"
+    },
+    {
+        "title": "Crisp's chat widget refuses to load when Lighthouse is the user agent",
+        "url": "https://ghostchat.dev/blog/chat-widget-lighthouse-benchmark",
+        "timestamp": "2026-08-13T12:10:11.390544",
+        "source": "Hacker News"
     }
 ]
