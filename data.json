@@ -497014,5 +497014,11 @@
         "url": "https://updates.midjourney.com/midjourneys-first-acquisition/",
         "timestamp": "2026-08-13T05:55:19.157615",
         "source": "Hacker News"
+    },
+    {
+        "title": "Secret-scan: find leaked secrets in your repo – one zero-dependency Python file",
+        "url": "https://github.com/ninthlife-tools/secret-scan",
+        "timestamp": "2026-08-13T05:55:19.157642",
+        "source": "Hacker News"
     }
 ]
