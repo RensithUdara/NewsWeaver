@@ -496492,5 +496492,11 @@
         "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
         "timestamp": "2026-08-13T00:01:07.450044",
         "source": "Hacker News"
+    },
+    {
+        "title": "How HN: GreenTree – Cache test results by Git tree, not commit SHA",
+        "url": "https://github.com/Reachpad/greentree",
+        "timestamp": "2026-08-13T00:01:07.450072",
+        "source": "Hacker News"
     }
 ]
