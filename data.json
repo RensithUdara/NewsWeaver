@@ -496486,5 +496486,11 @@
         "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
         "timestamp": "2026-08-13T00:01:07.450015",
         "source": "Hacker News"
+    },
+    {
+        "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
+        "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+        "timestamp": "2026-08-13T00:01:07.450044",
+        "source": "Hacker News"
     }
 ]
