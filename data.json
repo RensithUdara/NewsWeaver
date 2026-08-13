@@ -497044,5 +497044,11 @@
         "url": "https://en.wikipedia.org/wiki/Silurian_hypothesis",
         "timestamp": "2026-08-13T05:55:19.157810",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Appwrite CLI is now written in Go",
+        "url": "https://appwrite.io/blog/post/rewriting-the-appwrite-cli-in-go",
+        "timestamp": "2026-08-13T05:55:19.157841",
+        "source": "Hacker News"
     }
 ]
