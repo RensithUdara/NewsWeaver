@@ -497098,5 +497098,11 @@
         "url": "https://news.ycombinator.com/item?id=49281976",
         "timestamp": "2026-08-13T05:55:19.158079",
         "source": "Hacker News"
+    },
+    {
+        "title": "How much memory is needed to render a TrueType font to bitmap",
+        "url": "https://nothings.org/gamedev/font_rendering_malloc.txt",
+        "timestamp": "2026-08-13T05:55:19.158107",
+        "source": "Hacker News"
     }
 ]
