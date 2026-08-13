@@ -498196,5 +498196,11 @@
         "url": "https://oxide.computer/blog/kubernetes-on-oxide",
         "timestamp": "2026-08-13T14:44:49.554485",
         "source": "Hacker News"
+    },
+    {
+        "title": "Time to Move On: Querying Without Nulls and Bags",
+        "url": "https://arxiv.org/abs/2608.10863",
+        "timestamp": "2026-08-13T14:44:49.554624",
+        "source": "Hacker News"
     }
 ]
