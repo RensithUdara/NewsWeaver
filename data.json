@@ -498220,5 +498220,11 @@
         "url": "https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation",
         "timestamp": "2026-08-13T14:44:49.555188",
         "source": "Hacker News"
+    },
+    {
+        "title": "DSPy silently drops Pydantic Field constraints before any back end sees them",
+        "url": "https://www.evolutionid.com/en/technical-insights/your-dspy-field-constraints-never-reach-the-model",
+        "timestamp": "2026-08-13T14:44:49.643062",
+        "source": "Hacker News"
     }
 ]
