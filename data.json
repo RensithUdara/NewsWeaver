@@ -498226,5 +498226,11 @@
         "url": "https://www.evolutionid.com/en/technical-insights/your-dspy-field-constraints-never-reach-the-model",
         "timestamp": "2026-08-13T14:44:49.643062",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: WireDoctor – Spring Boot startup and bean cycle analyzer",
+        "url": "https://medium.com/@ddsha441981/a-story-about-40-second-boot-times-silent-bean-cycles-and-the-analysis-layer-nobody-ships-9634686ad693",
+        "timestamp": "2026-08-13T14:44:49.643109",
+        "source": "Hacker News"
     }
 ]
