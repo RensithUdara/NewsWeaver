@@ -499084,5 +499084,11 @@
         "url": "https://news.ycombinator.com/item?id=49289942",
         "timestamp": "2026-08-13T18:30:28.381988",
         "source": "Hacker News"
+    },
+    {
+        "title": "Solid 2.0 RC: The Big <Reveal>",
+        "url": "https://github.com/solidjs/solid/releases/tag/v2.0.0-rc.0",
+        "timestamp": "2026-08-13T18:30:28.382029",
+        "source": "Hacker News"
     }
 ]
