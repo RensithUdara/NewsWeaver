@@ -498904,5 +498904,11 @@
         "url": "https://www.hardresetmedia.com/p/why-google-killed-its-best-argument",
         "timestamp": "2026-08-13T17:33:43.384927",
         "source": "Hacker News"
+    },
+    {
+        "title": "From slow tests to slow production: Debugging with Stackprof",
+        "url": "https://www.aha.io/engineering/articles/debugging-with-stack-prof",
+        "timestamp": "2026-08-13T17:33:43.384944",
+        "source": "Hacker News"
     }
 ]
