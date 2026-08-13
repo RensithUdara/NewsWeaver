@@ -498880,5 +498880,11 @@
         "url": "https://usebench.dev/",
         "timestamp": "2026-08-13T17:33:43.384822",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hillock – Local neuro-symbolic memory engine running in <1.2GB VRAM",
+        "url": "https://github.com/roandejager/Hillock",
+        "timestamp": "2026-08-13T17:33:43.384839",
+        "source": "Hacker News"
     }
 ]
