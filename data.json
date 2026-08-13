@@ -497050,5 +497050,11 @@
         "url": "https://appwrite.io/blog/post/rewriting-the-appwrite-cli-in-go",
         "timestamp": "2026-08-13T05:55:19.157841",
         "source": "Hacker News"
+    },
+    {
+        "title": "Watermarks-remover: Strip multi-vendor AI provenance marks",
+        "url": "https://github.com/guillaumemeyer/watermarks-remover",
+        "timestamp": "2026-08-13T05:55:19.157871",
+        "source": "Hacker News"
     }
 ]
