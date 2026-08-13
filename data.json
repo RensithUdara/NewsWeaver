@@ -497452,5 +497452,11 @@
         "url": "https://walavibes.wtf",
         "timestamp": "2026-08-13T09:47:22.053837",
         "source": "Hacker News"
+    },
+    {
+        "title": "If I own Claude's outputs why can't I train my own model on them?",
+        "url": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
+        "timestamp": "2026-08-13T09:47:22.053883",
+        "source": "Hacker News"
     }
 ]
