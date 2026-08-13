@@ -499030,5 +499030,11 @@
         "url": "https://news.ycombinator.com/item?id=49290060",
         "timestamp": "2026-08-13T18:30:28.381615",
         "source": "Hacker News"
+    },
+    {
+        "title": "ESP-Claw",
+        "url": "https://github.com/espressif/esp-claw",
+        "timestamp": "2026-08-13T18:30:28.381681",
+        "source": "Hacker News"
     }
 ]
