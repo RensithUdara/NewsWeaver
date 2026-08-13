@@ -498022,5 +498022,11 @@
         "url": "https://www.namecheap.com/status-updates/",
         "timestamp": "2026-08-13T13:42:31.151866",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: MCP-uplift – run legacy MCP servers behind the new stateless protocol",
+        "url": "https://github.com/MohibShaikh/mcp-uplift",
+        "timestamp": "2026-08-13T13:42:31.151895",
+        "source": "Hacker News"
     }
 ]
