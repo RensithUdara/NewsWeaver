@@ -496924,5 +496924,11 @@
         "url": "https://agentmemoryleaderboard.ai/leaderboard/academic/textual",
         "timestamp": "2026-08-13T04:28:14.890856",
         "source": "Hacker News"
+    },
+    {
+        "title": "SLAC: CPU-to-GPU Side-Channel Attacks via System-Level Cache on Apple Silicon",
+        "url": "https://arxiv.org/abs/2608.09075",
+        "timestamp": "2026-08-13T04:28:14.890889",
+        "source": "Hacker News"
     }
 ]
