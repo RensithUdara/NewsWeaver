@@ -498568,5 +498568,11 @@
         "url": "https://ask-foreman.dev/",
         "timestamp": "2026-08-13T15:39:35.633772",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Lark, OSS realtime database, drop-in compatible with Firebase SDKs",
+        "url": "https://github.com/lark-sh/lark",
+        "timestamp": "2026-08-13T15:39:35.633801",
+        "source": "Hacker News"
     }
 ]
