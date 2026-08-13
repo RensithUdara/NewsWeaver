@@ -497938,5 +497938,11 @@
         "url": "https://www.delimiter.live/tools",
         "timestamp": "2026-08-13T12:10:11.390716",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ticketry: Jira alternative, but with all the data in Git",
+        "url": "https://github.com/LoumTechnologies/ticketry",
+        "timestamp": "2026-08-13T12:10:11.390743",
+        "source": "Hacker News"
     }
 ]
