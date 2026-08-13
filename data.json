@@ -498286,5 +498286,11 @@
         "url": "https://twitter.com/__tosh/status/2087910563066073424",
         "timestamp": "2026-08-13T14:44:49.643537",
         "source": "Hacker News"
+    },
+    {
+        "title": "WASI 0.3.1",
+        "url": "https://github.com/WebAssembly/WASI/releases/tag/v0.3.1",
+        "timestamp": "2026-08-13T14:44:49.643570",
+        "source": "Hacker News"
     }
 ]
