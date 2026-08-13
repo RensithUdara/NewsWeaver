@@ -497644,5 +497644,11 @@
         "url": "https://github.com/blothecap/yardmaster",
         "timestamp": "2026-08-13T11:30:18.024565",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reduce large sorted set memory with a packed B+ tree",
+        "url": "https://github.com/redis/redis/pull/15635",
+        "timestamp": "2026-08-13T11:30:18.024598",
+        "source": "Hacker News"
     }
 ]
