@@ -497542,5 +497542,11 @@
         "url": "https://agent-wars.com/news/2026-08-11-mistral-code-tool-calls-patent-b1",
         "timestamp": "2026-08-13T09:47:22.054340",
         "source": "Hacker News"
+    },
+    {
+        "title": "SQLite: The WAL-Reset Bug",
+        "url": "https://www.sqlite.org/wal.html#walresetbug",
+        "timestamp": "2026-08-13T09:47:22.054369",
+        "source": "Hacker News"
     }
 ]
