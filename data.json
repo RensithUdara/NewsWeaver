@@ -498892,5 +498892,11 @@
         "url": "https://surfil.com/",
         "timestamp": "2026-08-13T17:33:43.384868",
         "source": "Hacker News"
+    },
+    {
+        "title": "JDK 27 G1/Parallel/Serial GC Changes",
+        "url": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
+        "timestamp": "2026-08-13T17:33:43.384911",
+        "source": "Hacker News"
     }
 ]
