@@ -498316,5 +498316,11 @@
         "url": "https://status.claude.com/incidents/j160kkjmm2n1",
         "timestamp": "2026-08-13T14:44:49.643707",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLMs are bad at decoding Modbus registers, so I made sure they never have to",
+        "url": "https://medium.com/@pokhts/i-built-an-llm-agent-that-reads-real-plcs-heres-what-nobody-tells-you-about-tool-calling-with-64734bab8959",
+        "timestamp": "2026-08-13T14:44:49.643741",
+        "source": "Hacker News"
     }
 ]
