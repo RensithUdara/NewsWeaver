@@ -497686,5 +497686,11 @@
         "url": "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt/",
         "timestamp": "2026-08-13T11:30:18.024869",
         "source": "Hacker News"
+    },
+    {
+        "title": "Information Abundance Paradox: Long-Context Training Undermines Parametric",
+        "url": "https://arxiv.org/abs/2608.12218",
+        "timestamp": "2026-08-13T11:30:18.024903",
+        "source": "Hacker News"
     }
 ]
