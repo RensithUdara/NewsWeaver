@@ -499192,5 +499192,11 @@
         "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
         "timestamp": "2026-08-13T18:30:28.653838",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+        "url": "https://github.com/systemd/systemd/issues/40262",
+        "timestamp": "2026-08-13T19:38:36.695982",
+        "source": "Hacker News"
     }
 ]
