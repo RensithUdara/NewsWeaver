@@ -634924,5 +634924,11 @@
         "url": "https://scaledthought.com/go/org-hn",
         "timestamp": "2026-10-12T07:55:59.336978",
         "source": "Hacker News"
+    },
+    {
+        "title": "Self-hosting an AI agent environment with OpenCode and shared memory",
+        "url": "https://smalldata.tech/blog/2026/10/11/self-hosting-an-ai-agent-environment-with-opencode-and-shared-memory",
+        "timestamp": "2026-10-12T07:55:59.337018",
+        "source": "Hacker News"
     }
 ]
