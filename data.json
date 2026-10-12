@@ -635614,5 +635614,11 @@
         "url": "https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm",
         "timestamp": "2026-10-12T23:37:29.335396",
         "source": "Hacker News"
+    },
+    {
+        "title": "SQL Injection found on ibm.com subdomain",
+        "url": "https://hackerone.com/reports/3662090",
+        "timestamp": "2026-10-12T23:37:29.532263",
+        "source": "Hacker News"
     }
 ]
