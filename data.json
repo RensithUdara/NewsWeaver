@@ -635410,5 +635410,11 @@
         "url": "https://app.learngit.io/blog/whats-inside-a-git-commit/",
         "timestamp": "2026-10-12T17:11:13.253673",
         "source": "Hacker News"
+    },
+    {
+        "title": "A YouTube Transcript CLI Built for Humans and AI Agents",
+        "url": "https://github.com/nmdra/yt-transcript",
+        "timestamp": "2026-10-12T17:11:13.253693",
+        "source": "Hacker News"
     }
 ]
