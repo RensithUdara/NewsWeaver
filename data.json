@@ -634840,5 +634840,11 @@
         "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
         "timestamp": "2026-10-12T07:55:59.079717",
         "source": "Hacker News"
+    },
+    {
+        "title": "No portable way to detect string-to-float conversion errors in standard C",
+        "url": "https://sebsite.pw/w/20261009-strtod.html",
+        "timestamp": "2026-10-12T07:55:59.079782",
+        "source": "Hacker News"
     }
 ]
