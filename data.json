@@ -635524,5 +635524,11 @@
         "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
         "timestamp": "2026-10-12T23:37:29.335060",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making big downloads resumable in Firefox",
+        "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+        "timestamp": "2026-10-12T23:37:29.335076",
+        "source": "Hacker News"
     }
 ]
