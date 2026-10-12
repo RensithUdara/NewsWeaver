@@ -634828,5 +634828,11 @@
         "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
         "timestamp": "2026-10-12T07:55:59.079564",
         "source": "Hacker News"
+    },
+    {
+        "title": "Calculus with Julia",
+        "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
+        "timestamp": "2026-10-12T07:55:59.079683",
+        "source": "Hacker News"
     }
 ]
