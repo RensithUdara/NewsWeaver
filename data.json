@@ -634822,5 +634822,11 @@
         "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
         "timestamp": "2026-10-12T07:55:59.079413",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postgres isn't slow, your storage is",
+        "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+        "timestamp": "2026-10-12T07:55:59.079564",
+        "source": "Hacker News"
     }
 ]
