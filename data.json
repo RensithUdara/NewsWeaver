@@ -634816,5 +634816,11 @@
         "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
         "timestamp": "2026-10-12T01:35:34.569930",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Type-safe HTML templating in Zig",
+        "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+        "timestamp": "2026-10-12T07:55:59.079413",
+        "source": "Hacker News"
     }
 ]
