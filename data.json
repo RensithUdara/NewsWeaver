@@ -634870,5 +634870,11 @@
         "url": "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/",
         "timestamp": "2026-10-12T07:55:59.080177",
         "source": "Hacker News"
+    },
+    {
+        "title": "ClickHouse C – Talk to ClickHouse using its native binary protocol",
+        "url": "https://github.com/ClickHouse/clickhouse-c",
+        "timestamp": "2026-10-12T07:55:59.080334",
+        "source": "Hacker News"
     }
 ]
