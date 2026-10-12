@@ -634912,5 +634912,11 @@
         "url": "https://github.com/wbeni95/mertens-function-bounds",
         "timestamp": "2026-10-12T07:55:59.336897",
         "source": "Hacker News"
+    },
+    {
+        "title": "Do not install Zod 4.6.6 – might be infected",
+        "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
+        "timestamp": "2026-10-12T07:55:59.336936",
+        "source": "Hacker News"
     }
 ]
