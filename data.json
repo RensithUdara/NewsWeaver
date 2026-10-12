@@ -635542,5 +635542,11 @@
         "url": "https://news.ycombinator.com/item?id=50059096",
         "timestamp": "2026-10-12T23:37:29.335106",
         "source": "Hacker News"
+    },
+    {
+        "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+        "url": "https://github.com/openai/codex/issues/48195",
+        "timestamp": "2026-10-12T23:37:29.335134",
+        "source": "Hacker News"
     }
 ]
