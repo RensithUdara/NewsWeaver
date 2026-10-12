@@ -635002,5 +635002,11 @@
         "url": "https://www.jruva.in",
         "timestamp": "2026-10-12T07:55:59.337430",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fetch transformers, HF download etc. via Torrent with uv run pirateface",
+        "url": "https://github.com/pirateface/pirateface_hub",
+        "timestamp": "2026-10-12T07:55:59.337463",
+        "source": "Hacker News"
     }
 ]
