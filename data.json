@@ -634984,5 +634984,11 @@
         "url": "https://initialcommit.com/blog/git-sim-mistakes-and-fixes",
         "timestamp": "2026-10-12T07:55:59.337331",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+        "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+        "timestamp": "2026-10-12T07:55:59.337366",
+        "source": "Hacker News"
     }
 ]
