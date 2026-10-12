@@ -635362,5 +635362,11 @@
         "url": "https://www.lesswrong.com/posts/o8roRrdisBAjngHJN/a-summary-of-a-viral-chinese-essay-on-what-a-deepseek-kernel",
         "timestamp": "2026-10-12T17:11:13.253501",
         "source": "Hacker News"
+    },
+    {
+        "title": "GitLab warns of max severity code execution vulnerability",
+        "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+        "timestamp": "2026-10-12T17:11:13.253522",
+        "source": "Hacker News"
     }
 ]
