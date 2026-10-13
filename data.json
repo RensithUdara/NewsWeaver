@@ -636100,5 +636100,11 @@
         "url": "https://github.com/antstanley/storytold-stats",
         "timestamp": "2026-10-13T11:11:04.862778",
         "source": "Hacker News"
+    },
+    {
+        "title": "Natura-1: 50B trained on 1M hours of human video drives 20-DoF hands at 100ms",
+        "url": "https://www.naturewill.ai/blog/natura-1",
+        "timestamp": "2026-10-13T11:11:04.862808",
+        "source": "Hacker News"
     }
 ]
