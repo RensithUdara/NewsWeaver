@@ -636604,5 +636604,11 @@
         "url": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/",
         "timestamp": "2026-10-13T18:19:22.186939",
         "source": "Hacker News"
+    },
+    {
+        "title": "MountX: A self-hosted dynamic language compiling to C99",
+        "url": "https://github.com/mountxlang-eng/mountxlang",
+        "timestamp": "2026-10-13T18:19:22.186960",
+        "source": "Hacker News"
     }
 ]
