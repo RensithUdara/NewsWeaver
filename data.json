@@ -636082,5 +636082,11 @@
         "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
         "timestamp": "2026-10-13T11:11:04.785948",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+        "url": "https://github.com/bherbruck/solidcraft",
+        "timestamp": "2026-10-13T11:11:04.786051",
+        "source": "Hacker News"
     }
 ]
