@@ -636994,5 +636994,11 @@
         "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
         "timestamp": "2026-10-13T22:53:58.259240",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Enki LLM A pure rust (even kernels) with live GPU/CPU brain migration",
+        "url": "https://github.com/enkiruntime/enki_llm",
+        "timestamp": "2026-10-13T22:53:58.259266",
+        "source": "Hacker News"
     }
 ]
