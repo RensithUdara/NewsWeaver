@@ -636568,5 +636568,11 @@
         "url": "https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf",
         "timestamp": "2026-10-13T18:19:22.186819",
         "source": "Hacker News"
+    },
+    {
+        "title": "98% of the most popular open-source agents break Meta's Agents Rule of Two",
+        "url": "https://safetycard.dev/insights",
+        "timestamp": "2026-10-13T18:19:22.186839",
+        "source": "Hacker News"
     }
 ]
