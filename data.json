@@ -637018,5 +637018,11 @@
         "url": "https://www.hashicorp.com/en/blog/hcp-vagrant-deprecation-important-dates-and-migration-guidance",
         "timestamp": "2026-10-13T22:53:58.259370",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nix and Lix local root-privilege-escalation vulnerabilities",
+        "url": "https://lwn.net/Articles/1100247/",
+        "timestamp": "2026-10-13T22:53:58.259409",
+        "source": "Hacker News"
     }
 ]
