@@ -635836,5 +635836,11 @@
         "url": "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
         "timestamp": "2026-10-13T03:49:29.955067",
         "source": "Hacker News"
+    },
+    {
+        "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+        "url": "https://github.com/prabanta-dev/janas",
+        "timestamp": "2026-10-13T03:49:29.955097",
+        "source": "Hacker News"
     }
 ]
