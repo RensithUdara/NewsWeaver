@@ -636040,5 +636040,11 @@
         "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
         "timestamp": "2026-10-13T03:49:30.136292",
         "source": "Dev.to"
+    },
+    {
+        "title": "11 year old unsoundness bugs found in Rust borrow checker",
+        "url": "https://github.com/rust-lang/rust/issues/164250",
+        "timestamp": "2026-10-13T11:11:04.785337",
+        "source": "Hacker News"
     }
 ]
