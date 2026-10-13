@@ -637048,5 +637048,11 @@
         "url": "https://www.cbc.ca/news/world/open-ai-listening-device-fbi-9.7379357",
         "timestamp": "2026-10-13T22:53:58.259521",
         "source": "Hacker News"
+    },
+    {
+        "title": "Investigating unintended model actions in our evaluations and internal use",
+        "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+        "timestamp": "2026-10-13T22:53:58.259549",
+        "source": "Hacker News"
     }
 ]
