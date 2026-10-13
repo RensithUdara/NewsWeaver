@@ -636862,5 +636862,11 @@
         "url": "https://parsimony.lasu.dev/",
         "timestamp": "2026-10-13T22:53:58.180740",
         "source": "Hacker News"
+    },
+    {
+        "title": "Maybe a better way to track the release history of a Git repo",
+        "url": "https://blog.plover.com/prog/git/history-proposal.html",
+        "timestamp": "2026-10-13T22:53:58.180765",
+        "source": "Hacker News"
     }
 ]
