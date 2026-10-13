@@ -636922,5 +636922,11 @@
         "url": "https://anitab.org/press-release",
         "timestamp": "2026-10-13T22:53:58.258909",
         "source": "Hacker News"
+    },
+    {
+        "title": "ARM64 bootloader for QEMU virt with verified A/B boot",
+        "url": "https://github.com/rdrunky/bootloader",
+        "timestamp": "2026-10-13T22:53:58.258936",
+        "source": "Hacker News"
     }
 ]
