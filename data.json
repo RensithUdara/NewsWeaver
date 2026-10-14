@@ -638746,5 +638746,11 @@
         "url": "https://tezgrid.com/",
         "timestamp": "2026-10-14T23:27:35.203941",
         "source": "Hacker News"
+    },
+    {
+        "title": "GGUF: GGML Universal File",
+        "url": "https://en.wikipedia.org/wiki/GGUF",
+        "timestamp": "2026-10-14T23:27:35.203975",
+        "source": "Hacker News"
     }
 ]
