@@ -638848,5 +638848,11 @@
         "url": "https://blog.cloudflare.com/d1-control-plane/",
         "timestamp": "2026-10-14T23:27:35.204499",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rustuna: A faster Optuna implementation in Rust",
+        "url": "https://rustuna.readthedocs.io/en/latest/",
+        "timestamp": "2026-10-14T23:27:35.204529",
+        "source": "Hacker News"
     }
 ]
