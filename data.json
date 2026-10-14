@@ -638290,5 +638290,11 @@
         "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
         "timestamp": "2026-10-14T20:42:12.014646",
         "source": "Hacker News"
+    },
+    {
+        "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
+        "url": "https://github.com/bealesh/neckbeard",
+        "timestamp": "2026-10-14T20:42:12.014669",
+        "source": "Hacker News"
     }
 ]
