@@ -637684,5 +637684,11 @@
         "url": "https://searchlify.saposs.com",
         "timestamp": "2026-10-14T12:13:59.338485",
         "source": "Hacker News"
+    },
+    {
+        "title": "Let's Build a Transformer in C#, One GPU Kernel at a Time",
+        "url": "https://andrewphunter.com/writing/cradle-01-the-cradle/",
+        "timestamp": "2026-10-14T12:13:59.338519",
+        "source": "Hacker News"
     }
 ]
