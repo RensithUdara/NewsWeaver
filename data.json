@@ -637612,5 +637612,11 @@
         "url": "https://github.com/timescale/pg_vectorsearch",
         "timestamp": "2026-10-14T12:13:59.231278",
         "source": "Hacker News"
+    },
+    {
+        "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
+        "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
+        "timestamp": "2026-10-14T12:13:59.231311",
+        "source": "Hacker News"
     }
 ]
