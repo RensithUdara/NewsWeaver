@@ -638038,5 +638038,11 @@
         "url": "https://lapcatsoftware.com/articles/2026/10/4.html",
         "timestamp": "2026-10-14T17:12:32.682459",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: BitRun, 1-bit LLM runner on CPU (100T/s on Apple Silicon)",
+        "url": "https://github.com/IshekKhal/bitrun",
+        "timestamp": "2026-10-14T17:12:32.682490",
+        "source": "Hacker News"
     }
 ]
