@@ -638842,5 +638842,11 @@
         "url": "https://lamoom.com/",
         "timestamp": "2026-10-14T23:27:35.204468",
         "source": "Hacker News"
+    },
+    {
+        "title": "Under the hood, off the hot path: How D1 scales to databases",
+        "url": "https://blog.cloudflare.com/d1-control-plane/",
+        "timestamp": "2026-10-14T23:27:35.204499",
+        "source": "Hacker News"
     }
 ]
