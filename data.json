@@ -637552,5 +637552,11 @@
         "url": "https://notesfrompoland.com/2026/10/12/israeli-producer-had-access-to-data-harvested-by-poland-using-pegasus-spyware-say-prosecutors/",
         "timestamp": "2026-10-14T06:29:00.868486",
         "source": "Hacker News"
+    },
+    {
+        "title": "LeanLLM: An LLM SDK for applications written in Lean 4",
+        "url": "https://github.com/theoriclabs/leanllm",
+        "timestamp": "2026-10-14T06:29:00.868521",
+        "source": "Hacker News"
     }
 ]
