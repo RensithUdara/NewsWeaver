@@ -637534,5 +637534,11 @@
         "url": "https://propalens.com/",
         "timestamp": "2026-10-14T06:29:00.868368",
         "source": "Hacker News"
+    },
+    {
+        "title": "Floco: Using Nix to put NPM and Yarn in a coffin",
+        "url": "https://github.com/alex-ameen/floco",
+        "timestamp": "2026-10-14T06:29:00.868400",
+        "source": "Hacker News"
     }
 ]
