@@ -638752,5 +638752,11 @@
         "url": "https://en.wikipedia.org/wiki/GGUF",
         "timestamp": "2026-10-14T23:27:35.203975",
         "source": "Hacker News"
+    },
+    {
+        "title": "Frontier models score under 2/100 controlling a simulated humanoid",
+        "url": "https://www.vals.ai/benchmarks/robo_bench",
+        "timestamp": "2026-10-14T23:27:35.204010",
+        "source": "Hacker News"
     }
 ]
