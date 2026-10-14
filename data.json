@@ -637438,5 +637438,11 @@
         "url": "https://www.zachdaniel.dev/p/the-carpenter",
         "timestamp": "2026-10-14T06:29:00.867804",
         "source": "Hacker News"
+    },
+    {
+        "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+        "url": "https://github.com/android/ndk/issues/2260",
+        "timestamp": "2026-10-14T06:29:00.867840",
+        "source": "Hacker News"
     }
 ]
