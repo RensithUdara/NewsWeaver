@@ -638278,5 +638278,11 @@
         "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
         "timestamp": "2026-10-14T20:42:12.014577",
         "source": "Hacker News"
+    },
+    {
+        "title": "Better HTTP/1 connection reuse in Go 1.27",
+        "url": "https://go.dev/blog/http-connection-reuse",
+        "timestamp": "2026-10-14T20:42:12.014622",
+        "source": "Hacker News"
     }
 ]
