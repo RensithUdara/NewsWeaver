@@ -637744,5 +637744,11 @@
         "url": "https://www.bbc.com/future/article/20261013-the-rare-behaviour-showing-elephant-grief",
         "timestamp": "2026-10-14T12:13:59.338816",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Fuel Gauge – Claude knows its own usage limits and stops at 95%",
+        "url": "https://github.com/LuisPCFialho/claude-fuel-gauge",
+        "timestamp": "2026-10-14T12:13:59.338848",
+        "source": "Hacker News"
     }
 ]
