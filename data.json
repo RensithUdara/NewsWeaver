@@ -637606,5 +637606,11 @@
         "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
         "timestamp": "2026-10-14T12:13:59.231209",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+        "url": "https://github.com/timescale/pg_vectorsearch",
+        "timestamp": "2026-10-14T12:13:59.231278",
+        "source": "Hacker News"
     }
 ]
