@@ -637414,5 +637414,11 @@
         "url": "https://www.lemonde.fr/en/international/article/2026/10/13/france-accuses-elon-musk-of-online-harassment-of-europe-leaders_6758569_4.html",
         "timestamp": "2026-10-14T06:29:00.867667",
         "source": "Hacker News"
+    },
+    {
+        "title": "A UAF turned RCE – RCE in curl",
+        "url": "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/",
+        "timestamp": "2026-10-14T06:29:00.867700",
+        "source": "Hacker News"
     }
 ]
