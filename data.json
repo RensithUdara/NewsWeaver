@@ -637936,5 +637936,11 @@
         "url": "https://github.com/graphicle-ai/graphicle",
         "timestamp": "2026-10-14T17:12:32.575482",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running Windows desktop tests from Linux with disposable VMs",
+        "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+        "timestamp": "2026-10-14T17:12:32.575518",
+        "source": "Hacker News"
     }
 ]
