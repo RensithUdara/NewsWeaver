@@ -639502,5 +639502,11 @@
         "url": "https://github.com/sequico/server-noonien",
         "timestamp": "2026-10-15T11:48:27.591684",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Rails-preflight, a static check of what blocks your next Rails upgrade",
+        "url": "https://github.com/aslam/rails-preflight",
+        "timestamp": "2026-10-15T11:48:27.591717",
+        "source": "Hacker News"
     }
 ]
