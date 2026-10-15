@@ -639886,5 +639886,11 @@
         "url": "https://unwall.app/",
         "timestamp": "2026-10-15T15:45:51.000832",
         "source": "Hacker News"
+    },
+    {
+        "title": "Unpacking Mir0Auth Attack",
+        "url": "https://guardz.com/blog/unpacking-mir0auth-attack/",
+        "timestamp": "2026-10-15T15:45:51.000864",
+        "source": "Hacker News"
     }
 ]
