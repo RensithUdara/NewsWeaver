@@ -639832,5 +639832,11 @@
         "url": "https://danq.me/2026/10/01/firefox-157-vertical-tabs/",
         "timestamp": "2026-10-15T15:45:51.000531",
         "source": "Hacker News"
+    },
+    {
+        "title": "Authenticated SQL Injection in Backuply WordPress Plugin Affects 600k Sites",
+        "url": "https://www.wordfence.com/blog/2026/10/600000-wordpress-sites-affected-by-sql-injection-vulnerability-in-backuply-wordpress-plugin/",
+        "timestamp": "2026-10-15T15:45:51.000565",
+        "source": "Hacker News"
     }
 ]
