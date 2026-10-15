@@ -640186,5 +640186,11 @@
         "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
         "timestamp": "2026-10-15T19:25:33.054420",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cicada: Sub-ms Go Zero-Trust gateway and gVisor firewall for AI agents Apache 2",
+        "url": "https://github.com/affinity-ops/OS-Cicada",
+        "timestamp": "2026-10-15T19:25:33.054453",
+        "source": "Hacker News"
     }
 ]
