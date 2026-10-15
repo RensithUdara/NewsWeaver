@@ -639742,5 +639742,11 @@
         "url": "https://www.cppstories.com/2026/cpp26_contracts/",
         "timestamp": "2026-10-15T15:45:50.911196",
         "source": "Hacker News"
+    },
+    {
+        "title": "Prompt injection in HTTP headers: what 217M web responses show",
+        "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+        "timestamp": "2026-10-15T15:45:50.911228",
+        "source": "Hacker News"
     }
 ]
