@@ -639562,5 +639562,11 @@
         "url": "http://shed-skin.blogspot.com/2026/10/cpython-315-jit-performance-showdown.html",
         "timestamp": "2026-10-15T11:48:27.592041",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Spedo, a single-node RESP runtime for rebuildable KV/JSON",
+        "url": "https://spedo.dev/",
+        "timestamp": "2026-10-15T11:48:27.592076",
+        "source": "Hacker News"
     }
 ]
