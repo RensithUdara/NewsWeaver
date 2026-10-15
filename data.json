@@ -640192,5 +640192,11 @@
         "url": "https://github.com/affinity-ops/OS-Cicada",
         "timestamp": "2026-10-15T19:25:33.054453",
         "source": "Hacker News"
+    },
+    {
+        "title": "SGLang – High-performance serving framework for LLM's and multimodal models",
+        "url": "https://github.com/sgl-project/sglang",
+        "timestamp": "2026-10-15T19:25:33.054486",
+        "source": "Hacker News"
     }
 ]
