@@ -640222,5 +640222,11 @@
         "url": "https://notesbylex.com/building-an-agent-harness-from-scratch",
         "timestamp": "2026-10-15T19:25:33.054622",
         "source": "Hacker News"
+    },
+    {
+        "title": "CSV import performance of Scriptella/JDBC and csvsql on PostgreSQL and MariaDB",
+        "url": "https://github.com/scriptella/scriptella-benchmarks",
+        "timestamp": "2026-10-15T19:25:33.054654",
+        "source": "Hacker News"
     }
 ]
