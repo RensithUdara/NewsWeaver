@@ -640480,5 +640480,11 @@
         "url": "https://www.meta.com/superintelligence/",
         "timestamp": "2026-10-15T22:31:41.504061",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+        "timestamp": "2026-10-15T22:31:41.504095",
+        "source": "Hacker News"
     }
 ]
