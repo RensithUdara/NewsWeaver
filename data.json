@@ -639034,5 +639034,11 @@
         "url": "https://news.ycombinator.com/item?id=50097942",
         "timestamp": "2026-10-15T01:37:49.297333",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Shazbot – A sandboxed SSH tunnel manager for the Mac menu bar",
+        "url": "https://zardecki.dev/blog/why-i-built-shazbot.html",
+        "timestamp": "2026-10-15T01:37:49.297351",
+        "source": "Hacker News"
     }
 ]
