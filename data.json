@@ -639856,5 +639856,11 @@
         "url": "https://blog.postman.com/introducing-code-based-mocks-in-postman/",
         "timestamp": "2026-10-15T15:45:51.000667",
         "source": "Hacker News"
+    },
+    {
+        "title": "Toward a Self-Improving Agentic Code Review Loop",
+        "url": "https://www.robinwieruch.de/agentic-code-review-loop/",
+        "timestamp": "2026-10-15T15:45:51.000699",
+        "source": "Hacker News"
     }
 ]
