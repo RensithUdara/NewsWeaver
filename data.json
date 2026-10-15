@@ -639100,5 +639100,11 @@
         "url": "https://capsem.org/",
         "timestamp": "2026-10-15T01:37:49.297527",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
+        "url": "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
+        "timestamp": "2026-10-15T01:37:49.297559",
+        "source": "Hacker News"
     }
 ]
