@@ -639094,5 +639094,11 @@
         "url": "https://github.com/ot-ii/OregonTrailII/",
         "timestamp": "2026-10-15T01:37:49.297511",
         "source": "Hacker News"
+    },
+    {
+        "title": "Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs",
+        "url": "https://capsem.org/",
+        "timestamp": "2026-10-15T01:37:49.297527",
+        "source": "Hacker News"
     }
 ]
