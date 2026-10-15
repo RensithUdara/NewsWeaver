@@ -640150,5 +640150,11 @@
         "url": "https://blog.matterbeam.com/the-problem-didnt-change-who-has-it-did/",
         "timestamp": "2026-10-15T19:25:33.054191",
         "source": "Hacker News"
+    },
+    {
+        "title": "A deep dive into LangChain and LangGraph",
+        "url": "https://flaviocopes.com/langchain-langgraph/",
+        "timestamp": "2026-10-15T19:25:33.054224",
+        "source": "Hacker News"
     }
 ]
