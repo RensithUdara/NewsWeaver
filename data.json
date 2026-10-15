@@ -639442,5 +639442,11 @@
         "url": "https://uji.sh/ito/",
         "timestamp": "2026-10-15T11:48:27.333270",
         "source": "Hacker News"
+    },
+    {
+        "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+        "url": "https://github.com/awslabs/aidlc-workflows",
+        "timestamp": "2026-10-15T11:48:27.333366",
+        "source": "Hacker News"
     }
 ]
