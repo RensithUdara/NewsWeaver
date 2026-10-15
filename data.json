@@ -640060,5 +640060,11 @@
         "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
         "timestamp": "2026-10-15T19:25:32.794189",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
+        "url": "https://proa.so/",
+        "timestamp": "2026-10-15T19:25:32.794223",
+        "source": "Hacker News"
     }
 ]
