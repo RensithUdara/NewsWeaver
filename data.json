@@ -639610,5 +639610,11 @@
         "url": "https://mastodon.social/@mcc/117436256447438940",
         "timestamp": "2026-10-15T11:48:27.592365",
         "source": "Hacker News"
+    },
+    {
+        "title": "How Do You Validate `unknown` in TypeScript Without a Schema Library? 🛡️",
+        "url": "https://dev.to/nyaomaru/how-do-you-validate-unknown-in-typescript-without-a-schema-library-1a11",
+        "timestamp": "2026-10-15T11:48:27.669512",
+        "source": "Dev.to"
     }
 ]
