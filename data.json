@@ -642358,5 +642358,11 @@
         "url": "https://ozilai.net/",
         "timestamp": "2026-10-16T23:17:47.710505",
         "source": "Hacker News"
+    },
+    {
+        "title": "Emara: Deterministic feature slicing and dead-code reachability without LLMs",
+        "url": "https://github.com/mohamedswe/emara",
+        "timestamp": "2026-10-16T23:17:47.710525",
+        "source": "Hacker News"
     }
 ]
