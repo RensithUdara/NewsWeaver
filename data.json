@@ -640948,5 +640948,11 @@
         "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
         "timestamp": "2026-10-16T05:05:43.895995",
         "source": "Hacker News"
+    },
+    {
+        "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "timestamp": "2026-10-16T05:05:43.896029",
+        "source": "Hacker News"
     }
 ]
