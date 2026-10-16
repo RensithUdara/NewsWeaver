@@ -641986,5 +641986,11 @@
         "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
         "timestamp": "2026-10-16T20:59:37.737886",
         "source": "Hacker News"
+    },
+    {
+        "title": "How the Claude Code team does code review",
+        "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+        "timestamp": "2026-10-16T20:59:37.737933",
+        "source": "Hacker News"
     }
 ]
