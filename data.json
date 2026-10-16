@@ -641404,5 +641404,11 @@
         "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
         "timestamp": "2026-10-16T14:17:57.577696",
         "source": "Hacker News"
+    },
+    {
+        "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+        "url": "https://huggingface.co/blog/reflection-beam",
+        "timestamp": "2026-10-16T14:17:57.577734",
+        "source": "Hacker News"
     }
 ]
