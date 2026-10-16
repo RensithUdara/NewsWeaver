@@ -641386,5 +641386,11 @@
         "url": "https://9to5mac.com/2026/10/16/iphone-duo-pre-orders-now-backordered-to-next-year/",
         "timestamp": "2026-10-16T14:17:57.577581",
         "source": "Hacker News"
+    },
+    {
+        "title": "MeshXFS: A clustered filesystem built on XFS, written by AI",
+        "url": "https://github.com/sshoecraft/meshxfs",
+        "timestamp": "2026-10-16T14:17:57.577613",
+        "source": "Hacker News"
     }
 ]
