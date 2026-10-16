@@ -641146,5 +641146,11 @@
         "url": "https://github.com/antirez/c64-hw-simulator",
         "timestamp": "2026-10-16T09:40:48.614824",
         "source": "Hacker News"
+    },
+    {
+        "title": "Python 3.14 Subinterpreters vs. Celery. Here is why my RAM usage dropped by 48%",
+        "url": "https://pypi.org/project/solid-jobs-py/",
+        "timestamp": "2026-10-16T09:40:48.614854",
+        "source": "Hacker News"
     }
 ]
