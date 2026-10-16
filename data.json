@@ -641812,5 +641812,11 @@
         "url": "https://tetracube.fun/",
         "timestamp": "2026-10-16T18:07:09.258381",
         "source": "Hacker News"
+    },
+    {
+        "title": "Training Natural Language Verifiers with Lean",
+        "url": "https://huggingface.co/papers/2610.17697",
+        "timestamp": "2026-10-16T18:07:09.258418",
+        "source": "Hacker News"
     }
 ]
