@@ -642214,5 +642214,11 @@
         "url": "https://precious.bearblog.dev/fear/",
         "timestamp": "2026-10-16T20:59:37.887507",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2022-49149",
+        "url": "https://nvd.nist.gov/vuln/detail/cve-2022-49149",
+        "timestamp": "2026-10-16T20:59:37.887523",
+        "source": "Hacker News"
     }
 ]
