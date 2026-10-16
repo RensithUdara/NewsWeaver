@@ -641980,5 +641980,11 @@
         "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
         "timestamp": "2026-10-16T20:59:37.737871",
         "source": "Hacker News"
+    },
+    {
+        "title": "C++26: The New Debugging Header",
+        "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+        "timestamp": "2026-10-16T20:59:37.737886",
+        "source": "Hacker News"
     }
 ]
