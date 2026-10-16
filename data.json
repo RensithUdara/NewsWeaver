@@ -642274,5 +642274,11 @@
         "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
         "timestamp": "2026-10-16T23:17:47.710204",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: CtxWise – MCP schema tree-shaker and firewall for Claude and Codex",
+        "url": "https://github.com/FramY2/ctxwise",
+        "timestamp": "2026-10-16T23:17:47.710226",
+        "source": "Hacker News"
     }
 ]
