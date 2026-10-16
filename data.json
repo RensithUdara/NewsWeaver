@@ -641110,5 +641110,11 @@
         "url": "https://www.ssp.sh/brain/writing-books-with-ai-study/",
         "timestamp": "2026-10-16T09:40:48.614608",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-99999: Linux IPv4: validate checksum_start before completing checksum",
+        "url": "https://app.opencve.io/cve/CVE-2026-99999",
+        "timestamp": "2026-10-16T09:40:48.614639",
+        "source": "Hacker News"
     }
 ]
