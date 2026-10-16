@@ -641080,5 +641080,11 @@
         "url": "https://www.yahoo.com/news/articles/exclusive-order-limit-starshield-ukraine-230733575.html",
         "timestamp": "2026-10-16T09:40:48.614437",
         "source": "Hacker News"
+    },
+    {
+        "title": "GHC 9.14.1 is now bootstrappable from C via Hugs and MicroHs",
+        "url": "https://discourse.haskell.org/t/what-s-needed-to-bootstrap-ghc-with-hugs/6205?page=5",
+        "timestamp": "2026-10-16T09:40:48.614475",
+        "source": "Hacker News"
     }
 ]
