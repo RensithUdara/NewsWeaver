@@ -641428,5 +641428,11 @@
         "url": "https://www.notateslaapp.com/news/4837/tesla-roadster-event-recap-it-flies-flips-and-hits-0-60-in-081s",
         "timestamp": "2026-10-16T14:17:57.577832",
         "source": "Hacker News"
+    },
+    {
+        "title": "CUDA Matrix Multiplication Optimization: From Naive to Near-cuBLAS",
+        "url": "https://www.abhik.ai/articles/cuda-matrix-multiplication-optimization",
+        "timestamp": "2026-10-16T14:17:57.577863",
+        "source": "Hacker News"
     }
 ]
