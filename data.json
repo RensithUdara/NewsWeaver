@@ -640678,5 +640678,11 @@
         "url": "https://radpdfs.pages.dev/",
         "timestamp": "2026-10-16T00:41:10.624405",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sealenv encrypt .env files and run commands without writing them to disk",
+        "url": "https://github.com/sozenka/sealenv",
+        "timestamp": "2026-10-16T00:41:10.624426",
+        "source": "Hacker News"
     }
 ]
