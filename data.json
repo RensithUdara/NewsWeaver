@@ -642088,5 +642088,11 @@
         "url": "https://app.simplystream.com/",
         "timestamp": "2026-10-16T20:59:37.887165",
         "source": "Hacker News"
+    },
+    {
+        "title": "GPU-Accelerated PostGIS",
+        "url": "https://github.com/landstats-us/postgis-cuda",
+        "timestamp": "2026-10-16T20:59:37.887190",
+        "source": "Hacker News"
     }
 ]
