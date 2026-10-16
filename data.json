@@ -641374,5 +641374,11 @@
         "url": "https://corbt.com/posts/it-aint-agi-until-h100s-go-for-30-an-hour",
         "timestamp": "2026-10-16T14:17:57.577517",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI Support Agent That Carries Context Between Email and WhatsApp (Python)",
+        "url": "https://github.com/team-telnyx/telnyx-code-examples/tree/main/email-whatsapp-support-python",
+        "timestamp": "2026-10-16T14:17:57.577550",
+        "source": "Hacker News"
     }
 ]
