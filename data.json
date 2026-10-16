@@ -642184,5 +642184,11 @@
         "url": "https://nymag.com/intelligencer/2017/01/how-steve-jobs-faked-his-way-through-unveiling-the-iphone.html",
         "timestamp": "2026-10-16T20:59:37.887430",
         "source": "Hacker News"
+    },
+    {
+        "title": "From Redis pressure to a healthier service",
+        "url": "https://devblogs.microsoft.com/powerplatform/azure-managed-redis-migration/",
+        "timestamp": "2026-10-16T20:59:37.887447",
+        "source": "Hacker News"
     }
 ]
