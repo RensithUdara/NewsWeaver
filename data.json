@@ -641596,5 +641596,11 @@
         "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
         "timestamp": "2026-10-16T18:07:08.999227",
         "source": "Hacker News"
+    },
+    {
+        "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+        "url": "https://calif.io/research/big-fish",
+        "timestamp": "2026-10-16T18:07:08.999323",
+        "source": "Hacker News"
     }
 ]
