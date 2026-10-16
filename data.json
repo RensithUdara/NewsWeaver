@@ -642124,5 +642124,11 @@
         "url": "https://github.com/pebeto/woverview",
         "timestamp": "2026-10-16T20:59:37.887274",
         "source": "Hacker News"
+    },
+    {
+        "title": "I never authorized an integration that scans my secrets",
+        "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+        "timestamp": "2026-10-16T20:59:37.887289",
+        "source": "Hacker News"
     }
 ]
