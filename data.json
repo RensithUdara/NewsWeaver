@@ -641734,5 +641734,11 @@
         "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
         "timestamp": "2026-10-16T18:07:09.257969",
         "source": "Hacker News"
+    },
+    {
+        "title": "Clojurific: ClojureScript compiler fork, optimized for modern JavaScript",
+        "url": "https://github.com/WhimsicalCode/clojurific",
+        "timestamp": "2026-10-16T18:07:09.258001",
+        "source": "Hacker News"
     }
 ]
