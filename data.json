@@ -641140,5 +641140,11 @@
         "url": "https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech",
         "timestamp": "2026-10-16T09:40:48.614794",
         "source": "Hacker News"
+    },
+    {
+        "title": "C64-hw-SIM simulates the motherboard of the Commodore 64",
+        "url": "https://github.com/antirez/c64-hw-simulator",
+        "timestamp": "2026-10-16T09:40:48.614824",
+        "source": "Hacker News"
     }
 ]
