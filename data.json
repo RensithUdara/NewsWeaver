@@ -642094,5 +642094,11 @@
         "url": "https://github.com/landstats-us/postgis-cuda",
         "timestamp": "2026-10-16T20:59:37.887190",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I benchmarked 6 MCP proxies in Claude Code, then built my own",
+        "url": "https://rabin-a.github.io/mcp-router/#benchmark",
+        "timestamp": "2026-10-16T20:59:37.887208",
+        "source": "Hacker News"
     }
 ]
