@@ -641116,5 +641116,11 @@
         "url": "https://app.opencve.io/cve/CVE-2026-99999",
         "timestamp": "2026-10-16T09:40:48.614639",
         "source": "Hacker News"
+    },
+    {
+        "title": "Unified Harness Protocol",
+        "url": "https://unifiedharnessprotocol.org/",
+        "timestamp": "2026-10-16T09:40:48.614701",
+        "source": "Hacker News"
     }
 ]
