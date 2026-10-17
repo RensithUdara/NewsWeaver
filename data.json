@@ -642754,5 +642754,11 @@
         "url": "https://www.vercat.dev",
         "timestamp": "2026-10-17T05:46:31.128843",
         "source": "Hacker News"
+    },
+    {
+        "title": "Decoding base64 in Python at 10 gigabytes per second",
+        "url": "https://lemire.me/blog/2026/10/17/decoding-base64-in-python-at-10-gigabytes-per-second/",
+        "timestamp": "2026-10-17T05:46:31.128877",
+        "source": "Hacker News"
     }
 ]
