@@ -643216,5 +643216,11 @@
         "url": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust",
         "timestamp": "2026-10-17T13:14:29.152170",
         "source": "Hacker News"
+    },
+    {
+        "title": "Better Algorithms for Benign Bandits (2011) [pdf]",
+        "url": "https://www.jmlr.org/papers/volume12/hazan11a/hazan11a.pdf",
+        "timestamp": "2026-10-17T13:14:29.152186",
+        "source": "Hacker News"
     }
 ]
