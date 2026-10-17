@@ -642598,5 +642598,11 @@
         "url": "https://www.reuters.com/sports/la-restaurant-group-used-60000-dodgers-bet-hedge-playoff-risk-kalshi-says-2026-10-16/",
         "timestamp": "2026-10-17T01:20:41.311199",
         "source": "Hacker News"
+    },
+    {
+        "title": "Neo4j pulls another quiet close-source move, this time with its browser",
+        "url": "https://github.com/neo4j/neo4j-browser/commit/100090cff0d1ec2b07af164c660d49ed553d420a",
+        "timestamp": "2026-10-17T01:20:41.311250",
+        "source": "Hacker News"
     }
 ]
