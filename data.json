@@ -643666,5 +643666,11 @@
         "url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
         "timestamp": "2026-10-17T18:39:29.679552",
         "source": "Hacker News"
+    },
+    {
+        "title": "We shrank Whisper large-v3 by 68%, below the size of turbo – Tileward",
+        "url": "https://tileward.com/research/a-smaller-speech-recogniser/",
+        "timestamp": "2026-10-17T18:39:29.679567",
+        "source": "Hacker News"
     }
 ]
