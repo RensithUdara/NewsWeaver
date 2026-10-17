@@ -642556,5 +642556,11 @@
         "url": "https://litexlang.com/",
         "timestamp": "2026-10-17T01:20:41.310979",
         "source": "Hacker News"
+    },
+    {
+        "title": "Python's binary wheels and supply chain attacks",
+        "url": "https://rushter.com/blog/python-binary-wheels/",
+        "timestamp": "2026-10-17T01:20:41.311011",
+        "source": "Hacker News"
     }
 ]
