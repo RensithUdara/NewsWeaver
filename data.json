@@ -643648,5 +643648,11 @@
         "url": "https://www.eff.org/deeplinks/2026/10/when-no-id-means-no-internet-age-verification-and-right-access-information",
         "timestamp": "2026-10-17T18:39:29.679507",
         "source": "Hacker News"
+    },
+    {
+        "title": "Getting my TOTP data out of Twilio's Authy app thanks to the GDPR",
+        "url": "https://blog.tomayac.com/2026/10/17/getting-my-totp-data-out-of-twilios-authy-app-thanks-to-the-gdpr/",
+        "timestamp": "2026-10-17T18:39:29.679523",
+        "source": "Hacker News"
     }
 ]
