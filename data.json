@@ -643486,5 +643486,11 @@
         "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
         "timestamp": "2026-10-17T16:26:15.028782",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pg_lake 3.5: Universal Iceberg REST Catalog Support for Postgres",
+        "url": "https://www.snowflake.com/en/blog/engineering/pg-lake-iceberg-rest-catalog/",
+        "timestamp": "2026-10-17T16:26:15.028813",
+        "source": "Hacker News"
     }
 ]
