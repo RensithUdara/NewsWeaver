@@ -643738,5 +643738,11 @@
         "url": "https://ayoships.com/breakdowns/block-blast",
         "timestamp": "2026-10-17T18:39:29.679761",
         "source": "Hacker News"
+    },
+    {
+        "title": "OLTP is expensive, you can ClickHouse it",
+        "url": "https://clickhouse.com/blog/oltp-is-expensive-you-can-clickhouse-it",
+        "timestamp": "2026-10-17T18:39:29.679774",
+        "source": "Hacker News"
     }
 ]
