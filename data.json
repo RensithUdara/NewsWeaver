@@ -643600,5 +643600,11 @@
         "url": "https://furifont.antfu.me/",
         "timestamp": "2026-10-17T18:39:29.478657",
         "source": "Hacker News"
+    },
+    {
+        "title": "tsc-ts: TypeScript written in TypeScript",
+        "url": "https://github.com/vercel-labs/tsc-ts",
+        "timestamp": "2026-10-17T18:39:29.478720",
+        "source": "Hacker News"
     }
 ]
