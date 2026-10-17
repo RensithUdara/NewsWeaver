@@ -643852,5 +643852,11 @@
         "url": "https://www.derekwessman.com/blog-1/natural",
         "timestamp": "2026-10-17T20:56:33.812785",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
+        "url": "https://github.com/Kapendev/parin",
+        "timestamp": "2026-10-17T20:56:33.812817",
+        "source": "Hacker News"
     }
 ]
