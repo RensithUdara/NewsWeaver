@@ -643528,5 +643528,11 @@
         "url": "https://pele.run/",
         "timestamp": "2026-10-17T16:26:15.029005",
         "source": "Hacker News"
+    },
+    {
+        "title": "Galera cluster's hardest problem was never the replication library",
+        "url": "https://www.percona.com/blog/your-galera-clusters-hardest-problem-was-never-the-replication-library/",
+        "timestamp": "2026-10-17T16:26:15.029037",
+        "source": "Hacker News"
     }
 ]
