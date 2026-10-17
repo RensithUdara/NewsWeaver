@@ -642844,5 +642844,11 @@
         "url": "https://llmspeed.dev/",
         "timestamp": "2026-10-17T05:46:31.129383",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tiered caching: the checkbox that cuts origin load and almost nobody checks",
+        "url": "https://plimie.com/blog/tiered-caching-origin-load/",
+        "timestamp": "2026-10-17T05:46:31.129415",
+        "source": "Hacker News"
     }
 ]
