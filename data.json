@@ -642760,5 +642760,11 @@
         "url": "https://lemire.me/blog/2026/10/17/decoding-base64-in-python-at-10-gigabytes-per-second/",
         "timestamp": "2026-10-17T05:46:31.128877",
         "source": "Hacker News"
+    },
+    {
+        "title": "EPGM: Execution Provenance for Budgeted Agent Memory Retrieval",
+        "url": "https://arxiv.org/abs/2609.25913",
+        "timestamp": "2026-10-17T05:46:31.128912",
+        "source": "Hacker News"
     }
 ]
