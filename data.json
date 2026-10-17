@@ -642850,5 +642850,11 @@
         "url": "https://plimie.com/blog/tiered-caching-origin-load/",
         "timestamp": "2026-10-17T05:46:31.129415",
         "source": "Hacker News"
+    },
+    {
+        "title": "CDN cache hit ratio is lying to you",
+        "url": "https://plimie.com/blog/cdn-cache-hit-ratio-lying/",
+        "timestamp": "2026-10-17T05:46:31.129449",
+        "source": "Hacker News"
     }
 ]
