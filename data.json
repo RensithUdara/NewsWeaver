@@ -644152,5 +644152,11 @@
         "url": "https://news.ycombinator.com/item?id=50135643",
         "timestamp": "2026-10-17T22:48:33.658033",
         "source": "Hacker News"
+    },
+    {
+        "title": "Proposal: Every vulnerability report < HIGH is immediately public",
+        "url": "https://curl.se/mail/lib-2026-10/0006.html",
+        "timestamp": "2026-10-17T22:48:33.658065",
+        "source": "Hacker News"
     }
 ]
