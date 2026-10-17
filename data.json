@@ -643324,5 +643324,11 @@
         "url": "https://www.bloomberg.com/features/2026-grand-theft-auto-6-making-of/",
         "timestamp": "2026-10-17T13:14:29.152482",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Built a Cozy 60 FPS AI Agent Bakery Game (Built with Gemma 4 & Antigravity) to Teach RAG, Guardrails & Multi-Agent Orchestration",
+        "url": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek",
+        "timestamp": "2026-10-17T13:14:29.356753",
+        "source": "Dev.to"
     }
 ]
