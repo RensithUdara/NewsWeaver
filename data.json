@@ -643744,5 +643744,11 @@
         "url": "https://clickhouse.com/blog/oltp-is-expensive-you-can-clickhouse-it",
         "timestamp": "2026-10-17T18:39:29.679774",
         "source": "Hacker News"
+    },
+    {
+        "title": "Continuous Accountability for Verified Bots",
+        "url": "https://blog.cloudflare.com/verified-bots-accountability/",
+        "timestamp": "2026-10-17T18:39:29.679787",
+        "source": "Hacker News"
     }
 ]
