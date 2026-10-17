@@ -642928,5 +642928,11 @@
         "url": "https://nymag.com/intelligencer/2018/08/general-magic-oral-history-of-the-influential-tech-company.html",
         "timestamp": "2026-10-17T09:42:28.830238",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: WGSL linter with Tint parity and a full suite of LSP niceties",
+        "url": "https://github.com/elringus/wgsl-linter",
+        "timestamp": "2026-10-17T09:42:28.830272",
+        "source": "Hacker News"
     }
 ]
