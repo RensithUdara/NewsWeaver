@@ -642508,5 +642508,11 @@
         "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
         "timestamp": "2026-10-17T01:20:41.310711",
         "source": "Hacker News"
+    },
+    {
+        "title": "A library to stream Lichess games as GIFs",
+        "url": "https://github.com/lichess-org/lila-gif",
+        "timestamp": "2026-10-17T01:20:41.310744",
+        "source": "Hacker News"
     }
 ]
