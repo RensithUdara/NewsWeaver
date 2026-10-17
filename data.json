@@ -644224,5 +644224,11 @@
         "url": "https://openjdk.org/projects/jdk/28/",
         "timestamp": "2026-10-17T22:48:33.658452",
         "source": "Hacker News"
+    },
+    {
+        "title": "One Hash Bloom Filters",
+        "url": "https://calabro.io/ohbf",
+        "timestamp": "2026-10-17T22:48:33.658484",
+        "source": "Hacker News"
     }
 ]
