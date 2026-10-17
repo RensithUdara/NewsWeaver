@@ -642484,5 +642484,11 @@
         "url": "https://en.wikipedia.org/wiki/National_Smokers_Alliance",
         "timestamp": "2026-10-17T01:20:41.310578",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Bastion – Authn/Authz, traceability and auditability for SSH accesses",
+        "url": "https://github.com/ovh/the-bastion",
+        "timestamp": "2026-10-17T01:20:41.310613",
+        "source": "Hacker News"
     }
 ]
