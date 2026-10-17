@@ -642964,5 +642964,11 @@
         "url": "https://flux3klein.net",
         "timestamp": "2026-10-17T09:42:28.830443",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scaling Indic Pretraining: 2.8T Tokens and an Open Data Generation Pipeline",
+        "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+        "timestamp": "2026-10-17T09:42:28.830476",
+        "source": "Hacker News"
     }
 ]
