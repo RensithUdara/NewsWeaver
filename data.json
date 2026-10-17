@@ -644050,5 +644050,11 @@
         "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
         "timestamp": "2026-10-17T20:56:34.264873",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Codex Desktop continuously generates Crashpad pending dumps",
+        "url": "https://github.com/openai/codex/issues/25921",
+        "timestamp": "2026-10-17T22:48:33.565322",
+        "source": "Hacker News"
     }
 ]
