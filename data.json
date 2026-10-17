@@ -643396,5 +643396,11 @@
         "url": "https://dl.acm.org/doi/10.1145/358453.358459",
         "timestamp": "2026-10-17T16:26:14.769126",
         "source": "Hacker News"
+    },
+    {
+        "title": "What changes when your search index lives on S3?",
+        "url": "https://infino.ai/blog/search-index-on-s3/",
+        "timestamp": "2026-10-17T16:26:14.769660",
+        "source": "Hacker News"
     }
 ]
