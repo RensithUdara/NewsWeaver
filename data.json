@@ -645706,5 +645706,11 @@
         "url": "https://github.com/Netflix/vmaf",
         "timestamp": "2026-10-18T21:10:12.286542",
         "source": "Hacker News"
+    },
+    {
+        "title": "Amazon Acquires DuckLabs and Integrates DuckDB in Amazon Aurora PostgreSQL",
+        "url": "https://www.infoq.com/news/2026/10/amazon-acquires-ducklabs/",
+        "timestamp": "2026-10-18T21:10:12.286576",
+        "source": "Hacker News"
     }
 ]
