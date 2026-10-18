@@ -645304,5 +645304,11 @@
         "url": "https://zweiundeins.gmbh/en/blog/spa-vs-hypermedia-a-collaborative-kanban-board-measured-against-planka",
         "timestamp": "2026-10-18T16:35:22.999725",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Problem with C++ Safety: Why \"It Works\" Isn't Good Enough",
+        "url": "https://www.modernescpp.com/index.php/cpp-and-memory-safety-part-1/",
+        "timestamp": "2026-10-18T16:35:22.999747",
+        "source": "Hacker News"
     }
 ]
