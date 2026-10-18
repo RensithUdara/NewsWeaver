@@ -645256,5 +645256,11 @@
         "url": "https://dominokit.com/vertick/",
         "timestamp": "2026-10-18T16:35:22.999553",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Intel 8087 chip: floating-point addition and subtraction",
+        "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+        "timestamp": "2026-10-18T16:35:22.999574",
+        "source": "Hacker News"
     }
 ]
