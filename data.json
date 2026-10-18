@@ -645940,5 +645940,11 @@
         "url": "https://khalidhamadeh.com/writing/rc2-pi-table",
         "timestamp": "2026-10-18T23:14:26.678356",
         "source": "Hacker News"
+    },
+    {
+        "title": "2x Tesla p100s, q6_k quant, Qwen 3.8 27B ~60tps",
+        "url": "https://github.com/Kmic-68/llama.cpp",
+        "timestamp": "2026-10-18T23:14:26.678383",
+        "source": "Hacker News"
     }
 ]
