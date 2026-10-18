@@ -645616,5 +645616,11 @@
         "url": "https://www.anthropic.com/news/public-benefit-fund",
         "timestamp": "2026-10-18T18:52:04.998105",
         "source": "Hacker News"
+    },
+    {
+        "title": "Interactive Refactoring in Gopls",
+        "url": "https://go.dev/blog/interactive-refactoring",
+        "timestamp": "2026-10-18T18:52:04.998137",
+        "source": "Hacker News"
     }
 ]
