@@ -644620,5 +644620,11 @@
         "url": "https://api-docs.deepseek.com/guides/search/",
         "timestamp": "2026-10-18T09:13:31.076144",
         "source": "Hacker News"
+    },
+    {
+        "title": "Teal – A statically-typed dialect of Lua",
+        "url": "https://teal-language.org/",
+        "timestamp": "2026-10-18T09:13:31.076288",
+        "source": "Hacker News"
     }
 ]
