@@ -645730,5 +645730,11 @@
         "url": "https://aroma-taste-matrix.vercel.app/",
         "timestamp": "2026-10-18T21:10:12.286671",
         "source": "Hacker News"
+    },
+    {
+        "title": "Next-Concept Modeling: 9–31× faster than diffusion baselines",
+        "url": "https://github.com/HazyResearch/ncm",
+        "timestamp": "2026-10-18T21:10:12.286702",
+        "source": "Hacker News"
     }
 ]
