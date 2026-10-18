@@ -645796,5 +645796,11 @@
         "url": "https://www.wsj.com/world/uk/a-ludicrously-ugly-bridge-is-exhibit-a-that-britain-has-lost-its-mojo-7015a654",
         "timestamp": "2026-10-18T21:10:12.287070",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Glider: A single-node vector database with S3 as its only durable state",
+        "url": "https://github.com/omerfeyzioglu/glider",
+        "timestamp": "2026-10-18T21:10:12.287102",
+        "source": "Hacker News"
     }
 ]
