@@ -645484,5 +645484,11 @@
         "url": "https://www.washingtonpost.com/opinions/2026/10/15/nathan-fielder-elizabeth-holmes-documentary-is-mind-bender/",
         "timestamp": "2026-10-18T18:52:04.997352",
         "source": "Hacker News"
+    },
+    {
+        "title": "Row Locks with Joins Can Produce Surprising Results in PostgreSQL",
+        "url": "https://hakibenita.com/postgres-row-lock-with-join",
+        "timestamp": "2026-10-18T18:52:04.997384",
+        "source": "Hacker News"
     }
 ]
