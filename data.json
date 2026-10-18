@@ -644398,5 +644398,11 @@
         "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
         "timestamp": "2026-10-18T00:26:10.255330",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Serve Nix closures to k8s pods",
+        "url": "https://github.com/Kranzes/nix-store-csi",
+        "timestamp": "2026-10-18T00:26:10.255365",
+        "source": "Hacker News"
     }
 ]
