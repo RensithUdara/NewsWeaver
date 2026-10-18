@@ -645508,5 +645508,11 @@
         "url": "https://github.com/quint-co/quint",
         "timestamp": "2026-10-18T18:52:04.997486",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Token-by-Token Guide to Prompt Caching",
+        "url": "https://www.sithankanna.com/posts/prompt-caching-vs-kv-caching.html",
+        "timestamp": "2026-10-18T18:52:04.997518",
+        "source": "Hacker News"
     }
 ]
