@@ -644980,5 +644980,11 @@
         "url": "https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html",
         "timestamp": "2026-10-18T13:19:08.730746",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hyper Optimizing Kimi K3 in vLLM",
+        "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
+        "timestamp": "2026-10-18T13:19:08.730777",
+        "source": "Hacker News"
     }
 ]
