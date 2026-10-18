@@ -645214,5 +645214,11 @@
         "url": "https://hedgepick.com/",
         "timestamp": "2026-10-18T16:35:22.999386",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Serving static assets with 4.5x higher throughput using eBPF",
+        "url": "https://github.com/lerboe/beeper",
+        "timestamp": "2026-10-18T16:35:22.999418",
+        "source": "Hacker News"
     }
 ]
