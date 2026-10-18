@@ -645148,5 +645148,11 @@
         "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
         "timestamp": "2026-10-18T16:35:22.904528",
         "source": "Hacker News"
+    },
+    {
+        "title": "Java sealed classes and exhaustive pattern matching",
+        "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+        "timestamp": "2026-10-18T16:35:22.904600",
+        "source": "Hacker News"
     }
 ]
