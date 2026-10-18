@@ -645328,5 +645328,11 @@
         "url": "https://thenewstack.io/torvalds-claude-code-kernel/",
         "timestamp": "2026-10-18T16:35:22.999810",
         "source": "Hacker News"
+    },
+    {
+        "title": "Anarchon – Leaderless cron for multi-instance Node.js services",
+        "url": "https://github.com/aristoteliss/anarchon",
+        "timestamp": "2026-10-18T16:35:22.999830",
+        "source": "Hacker News"
     }
 ]
