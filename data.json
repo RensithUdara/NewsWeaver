@@ -645964,5 +645964,11 @@
         "url": "https://www.statnews.com/2026/10/16/readout-loud-podcast-hospitals-longevity-clinics-northwestern/",
         "timestamp": "2026-10-18T23:14:26.678462",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dissecting CVE-2026-27280: An OOB write in Android's DNG rendering engine",
+        "url": "https://blog.chess-set.eu/en/posts/dissecting-cve-2026-27280/",
+        "timestamp": "2026-10-18T23:14:26.678488",
+        "source": "Hacker News"
     }
 ]
