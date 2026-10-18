@@ -645322,5 +645322,11 @@
         "url": "https://t3.at/blog/2025-08-28-side-effect-decoherence/",
         "timestamp": "2026-10-18T16:35:22.999790",
         "source": "Hacker News"
+    },
+    {
+        "title": "Torvalds use Claude for bottleneck fix, but race discovered",
+        "url": "https://thenewstack.io/torvalds-claude-code-kernel/",
+        "timestamp": "2026-10-18T16:35:22.999810",
+        "source": "Hacker News"
     }
 ]
