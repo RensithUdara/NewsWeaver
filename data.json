@@ -645502,5 +645502,11 @@
         "url": "https://www.birdsaroundworld.com/",
         "timestamp": "2026-10-18T18:52:04.997453",
         "source": "Hacker News"
+    },
+    {
+        "title": "An executable specification language based on temporal logic of actions (TLA)",
+        "url": "https://github.com/quint-co/quint",
+        "timestamp": "2026-10-18T18:52:04.997486",
+        "source": "Hacker News"
     }
 ]
