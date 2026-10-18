@@ -644476,5 +644476,11 @@
         "url": "https://twitter.com/nikitabier/status/2111281464742662307",
         "timestamp": "2026-10-18T04:52:01.513483",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ghidra + CBMC = Assembly Model Checker",
+        "url": "https://www.philipzucker.com/asmc_cpp/",
+        "timestamp": "2026-10-18T04:52:01.513583",
+        "source": "Hacker News"
     }
 ]
