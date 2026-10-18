@@ -645856,5 +645856,11 @@
         "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
         "timestamp": "2026-10-18T21:10:12.592085",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+        "url": "https://github.com/finereli/whatsapp-mcp",
+        "timestamp": "2026-10-18T23:14:26.586443",
+        "source": "Hacker News"
     }
 ]
