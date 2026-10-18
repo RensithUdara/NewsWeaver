@@ -645646,5 +645646,11 @@
         "url": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
         "timestamp": "2026-10-18T21:10:11.992845",
         "source": "Hacker News"
+    },
+    {
+        "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
+        "url": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
+        "timestamp": "2026-10-18T21:10:11.992974",
+        "source": "Hacker News"
     }
 ]
