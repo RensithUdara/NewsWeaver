@@ -645970,5 +645970,11 @@
         "url": "https://blog.chess-set.eu/en/posts/dissecting-cve-2026-27280/",
         "timestamp": "2026-10-18T23:14:26.678488",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dissecting CVE-2026-27280: An OOB write in Android's DNG rendering engine",
+        "url": "https://news.ycombinator.com/item?id=50146236",
+        "timestamp": "2026-10-18T23:14:26.678525",
+        "source": "Hacker News"
     }
 ]
