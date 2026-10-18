@@ -645334,5 +645334,11 @@
         "url": "https://github.com/aristoteliss/anarchon",
         "timestamp": "2026-10-18T16:35:22.999830",
         "source": "Hacker News"
+    },
+    {
+        "title": "Replacing an LLM judge with a deterministic model: 9.2x faster, 4.5x cheaper",
+        "url": "https://medium.com/@gbenga-awodokun/building-clinical-ai-agents-with-langchain-and-jev-decision-healthcare-trustworthy-ai-lab-v2-1b81e271f1c9",
+        "timestamp": "2026-10-18T16:35:22.999851",
+        "source": "Hacker News"
     }
 ]
