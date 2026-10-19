@@ -646252,5 +646252,11 @@
         "url": "https://apistack.online/mcp",
         "timestamp": "2026-10-19T01:17:43.235952",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Hypereffect, a hypermedia protocol that renders reactive UIs everywhere",
+        "url": "https://hypereffect.dev",
+        "timestamp": "2026-10-19T01:17:43.236007",
+        "source": "Hacker News"
     }
 ]
