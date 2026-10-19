@@ -646144,5 +646144,11 @@
         "url": "https://news.ycombinator.com/item?id=50147076",
         "timestamp": "2026-10-19T01:17:43.234940",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cohere Transcribe hits 1.46% WER clean, 2.5x worse than claimed on real audio",
+        "url": "https://inferencebench.io/blog/cohere-transcribe-03-2026-benchmark",
+        "timestamp": "2026-10-19T01:17:43.234973",
+        "source": "Hacker News"
     }
 ]
