@@ -646444,5 +646444,11 @@
         "url": "https://deriveapp.com/s/v2/",
         "timestamp": "2026-10-19T06:16:38.511523",
         "source": "Hacker News"
+    },
+    {
+        "title": "A New Lens on Multi-GPU Comms: API-Level Memory Models for Portable Optimization",
+        "url": "https://arxiv.org/abs/2610.16190",
+        "timestamp": "2026-10-19T06:16:38.511556",
+        "source": "Hacker News"
     }
 ]
