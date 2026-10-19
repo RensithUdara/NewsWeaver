@@ -646186,5 +646186,11 @@
         "url": "https://github.com/interplains/zero-breach",
         "timestamp": "2026-10-19T01:17:43.235307",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rbit – fast, self hosted Git in a single Rust binary",
+        "url": "https://github.com/GitRbit/rbit",
+        "timestamp": "2026-10-19T01:17:43.235360",
+        "source": "Hacker News"
     }
 ]
