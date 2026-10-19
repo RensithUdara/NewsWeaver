@@ -647050,5 +647050,11 @@
         "url": "https://news.ycombinator.com/item?id=50156655",
         "timestamp": "2026-10-19T19:23:07.520400",
         "source": "Hacker News"
+    },
+    {
+        "title": "Git-style diffing for DuckLake tables",
+        "url": "https://www.cocoalemana.com/integrations/ducklake/",
+        "timestamp": "2026-10-19T19:23:07.520415",
+        "source": "Hacker News"
     }
 ]
