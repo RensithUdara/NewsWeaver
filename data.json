@@ -646978,5 +646978,11 @@
         "url": "https://www.lttlabs.com/articles/2026/10/16/usb-c-magnetic-connect",
         "timestamp": "2026-10-19T19:23:07.520215",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why does the compiler sometimes use ud2 and sometimes int 3?",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20261006-00/?p=112757/",
+        "timestamp": "2026-10-19T19:23:07.520234",
+        "source": "Hacker News"
     }
 ]
