@@ -646618,5 +646618,11 @@
         "url": "https://oxide.computer/blog/oxide-computer-company-and-l-labs",
         "timestamp": "2026-10-19T13:24:55.478397",
         "source": "Hacker News"
+    },
+    {
+        "title": "objectbox-python: on-device object & vector database for Python",
+        "url": "https://github.com/objectbox/objectbox-python",
+        "timestamp": "2026-10-19T13:24:55.478429",
+        "source": "Hacker News"
     }
 ]
