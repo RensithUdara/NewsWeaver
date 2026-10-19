@@ -646198,5 +646198,11 @@
         "url": "https://es3d.org/",
         "timestamp": "2026-10-19T01:17:43.235414",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rusteerio: 4x faster Rust port of Cheerio",
+        "url": "https://www.context.dev/blog/introducing-context-highlights",
+        "timestamp": "2026-10-19T01:17:43.235466",
+        "source": "Hacker News"
     }
 ]
