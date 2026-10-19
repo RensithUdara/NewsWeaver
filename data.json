@@ -647356,5 +647356,11 @@
         "url": "https://next.elysiajs.com/blog/elysia-20-rc/",
         "timestamp": "2026-10-19T22:57:22.283398",
         "source": "Hacker News"
+    },
+    {
+        "title": "PyTorch-native TPU back end for vLLM",
+        "url": "https://github.com/vllm-project/vllm-torchtpu",
+        "timestamp": "2026-10-19T22:57:22.283431",
+        "source": "Hacker News"
     }
 ]
