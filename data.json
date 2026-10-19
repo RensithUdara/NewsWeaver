@@ -646090,5 +646090,11 @@
         "url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
         "timestamp": "2026-10-19T01:17:43.151339",
         "source": "Hacker News"
+    },
+    {
+        "title": "A new way to think about borrow checking (in reverse)",
+        "url": "https://verdagon.dev/blog/reverse-borrow-checking",
+        "timestamp": "2026-10-19T01:17:43.151535",
+        "source": "Hacker News"
     }
 ]
