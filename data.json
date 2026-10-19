@@ -646822,5 +646822,11 @@
         "url": "https://www.minimax.io/blog/minimax-m31f",
         "timestamp": "2026-10-19T19:23:07.311232",
         "source": "Hacker News"
+    },
+    {
+        "title": "Wine ported to OpenBSD",
+        "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+        "timestamp": "2026-10-19T19:23:07.311265",
+        "source": "Hacker News"
     }
 ]
