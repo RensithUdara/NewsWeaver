@@ -647056,5 +647056,11 @@
         "url": "https://www.cocoalemana.com/integrations/ducklake/",
         "timestamp": "2026-10-19T19:23:07.520415",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pcodec is 15% smaller and 2x faster than ClickHouse's DoubleDelta in compression",
+        "url": "https://tomalard.github.io/posts/pcodec-is-awesome/",
+        "timestamp": "2026-10-19T19:23:07.520438",
+        "source": "Hacker News"
     }
 ]
