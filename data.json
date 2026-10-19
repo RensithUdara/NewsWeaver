@@ -646966,5 +646966,11 @@
         "url": "https://dovepass.com",
         "timestamp": "2026-10-19T19:23:07.520180",
         "source": "Hacker News"
+    },
+    {
+        "title": "OVHcloud CLI compromised: hacker planted secret-stealing binary in 5 releases",
+        "url": "https://agihunt.info/en/p/1a155330a675b4c1b09f82bb3ec",
+        "timestamp": "2026-10-19T19:23:07.520199",
+        "source": "Hacker News"
     }
 ]
