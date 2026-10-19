@@ -647092,5 +647092,11 @@
         "url": "https://stevekrouse.com/ends",
         "timestamp": "2026-10-19T19:23:07.520511",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built ReRoute, a modern Chrome extension to modify, redirect, and mock Request",
+        "url": "https://chromewebstore.google.com/detail/reroute-redirect-modify-m/aajcenoihcddonbbbakmopcmihgjgpga",
+        "timestamp": "2026-10-19T19:23:07.520526",
+        "source": "Hacker News"
     }
 ]
