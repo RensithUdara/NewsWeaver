@@ -647254,5 +647254,11 @@
         "url": "https://josie.lol/blog/linux-rtx-spark",
         "timestamp": "2026-10-19T22:57:22.122945",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+        "url": "https://bsd.network/@brynet/117407035545900963",
+        "timestamp": "2026-10-19T22:57:22.123073",
+        "source": "Hacker News"
     }
 ]
