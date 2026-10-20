@@ -647674,5 +647674,11 @@
         "url": "https://news.ycombinator.com/item?id=50159886",
         "timestamp": "2026-10-20T01:30:32.608420",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making DNS_Erlang Fast: Binary Tricks for the Beam",
+        "url": "https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/",
+        "timestamp": "2026-10-20T01:30:32.608440",
+        "source": "Hacker News"
     }
 ]
