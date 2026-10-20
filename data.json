@@ -647752,5 +647752,11 @@
         "url": "https://www.macrumors.com/2026/10/19/eff-privacy-badger-safari/",
         "timestamp": "2026-10-20T06:31:14.186982",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zombiecost – find the AWS resources that should be dead but still bill you",
+        "url": "https://github.com/arabo11/zombiecost",
+        "timestamp": "2026-10-20T06:31:14.187014",
+        "source": "Hacker News"
     }
 ]
