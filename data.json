@@ -649012,5 +649012,11 @@
         "url": "https://gogotofu.vercel.app/",
         "timestamp": "2026-10-20T23:11:33.597276",
         "source": "Hacker News"
+    },
+    {
+        "title": "A script that tests whether your network breaks large uploads to the Claude API",
+        "url": "https://github.com/memorykit-maker/claude-net-check",
+        "timestamp": "2026-10-20T23:11:33.597296",
+        "source": "Hacker News"
     }
 ]
