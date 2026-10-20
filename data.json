@@ -647860,5 +647860,11 @@
         "url": "https://woextractor.com/",
         "timestamp": "2026-10-20T06:31:14.187277",
         "source": "Hacker News"
+    },
+    {
+        "title": "GitHub: Some Git over HTTPS may temporarily require authentication",
+        "url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication/",
+        "timestamp": "2026-10-20T06:31:14.187292",
+        "source": "Hacker News"
     }
 ]
