@@ -647788,5 +647788,11 @@
         "url": "https://www.theregister.com/networks/2026/10/20/icann-testing-tech-to-let-law-enforcement-access-non-public-whois-info/5304036",
         "timestamp": "2026-10-20T06:31:14.187096",
         "source": "Hacker News"
+    },
+    {
+        "title": "AegisKernel – Zero-Trust deterministic security runtime for AI agents",
+        "url": "https://github.com/adikshatriyag-crypto/aegis-kernel",
+        "timestamp": "2026-10-20T06:31:14.187110",
+        "source": "Hacker News"
     }
 ]
