@@ -647644,5 +647644,11 @@
         "url": "https://proton.me/blog/google-selfie-video",
         "timestamp": "2026-10-20T01:30:32.608320",
         "source": "Hacker News"
+    },
+    {
+        "title": "OBSD 8",
+        "url": "https://cdn.openbsd.org/pub/OpenBSD/8.0/ANNOUNCEMENT",
+        "timestamp": "2026-10-20T01:30:32.608339",
+        "source": "Hacker News"
     }
 ]
