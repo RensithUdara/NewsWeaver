@@ -649078,5 +649078,11 @@
         "url": "https://www.amytis.io/blog/manage-multiple-data-sources-with-amytis",
         "timestamp": "2026-10-20T23:11:33.597508",
         "source": "Hacker News"
+    },
+    {
+        "title": "How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+        "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+        "timestamp": "2026-10-20T23:11:33.597529",
+        "source": "Hacker News"
     }
 ]
