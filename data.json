@@ -647728,5 +647728,11 @@
         "url": "https://deathplanswitch.com/",
         "timestamp": "2026-10-20T06:31:13.988097",
         "source": "Hacker News"
+    },
+    {
+        "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+        "url": "https://github.com/golang/go/issues/82345",
+        "timestamp": "2026-10-20T06:31:13.988150",
+        "source": "Hacker News"
     }
 ]
