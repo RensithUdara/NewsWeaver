@@ -649084,5 +649084,11 @@
         "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
         "timestamp": "2026-10-20T23:11:33.597529",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fleet of AI agents used httpbin to get past their sandbox",
+        "url": "https://kennethreitz.org/essays/2026-10-20-i_built_the_escape_hatch",
+        "timestamp": "2026-10-20T23:11:33.597548",
+        "source": "Hacker News"
     }
 ]
