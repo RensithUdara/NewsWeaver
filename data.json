@@ -648310,5 +648310,11 @@
         "url": "https://tyma.com/my-cringe-story/",
         "timestamp": "2026-10-20T16:50:35.626159",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tsrs: A Port of TypeScript to Rust",
+        "url": "https://blog.cloudflare.com/typescript-rust-port/",
+        "timestamp": "2026-10-20T16:50:35.626194",
+        "source": "Hacker News"
     }
 ]
