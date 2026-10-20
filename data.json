@@ -647884,5 +647884,11 @@
         "url": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8eea/6ad6013f8ae0364b2cd03c53_c8c5526bc88434b2e47f6ffc3b27deca_Quantum-Error-Correction-Well-Below-the-Color-Code-Threshold.pdf",
         "timestamp": "2026-10-20T06:31:14.187337",
         "source": "Hacker News"
+    },
+    {
+        "title": "Field access in a Rust debug REPL, without reflection",
+        "url": "https://github.com/100010/pry-rs",
+        "timestamp": "2026-10-20T06:31:14.187352",
+        "source": "Hacker News"
     }
 ]
