@@ -649090,5 +649090,11 @@
         "url": "https://kennethreitz.org/essays/2026-10-20-i_built_the_escape_hatch",
         "timestamp": "2026-10-20T23:11:33.597548",
         "source": "Hacker News"
+    },
+    {
+        "title": "TiDB Breached",
+        "url": "https://www.pingcap.com/trust-hub/security/security-update-october-2026/",
+        "timestamp": "2026-10-20T23:11:33.597572",
+        "source": "Hacker News"
     }
 ]
