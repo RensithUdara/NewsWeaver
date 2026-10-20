@@ -648022,5 +648022,11 @@
         "url": "https://www.privatemode.ai/office-integration",
         "timestamp": "2026-10-20T12:02:15.977701",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLM-d 1.0, an open source stack for distributed inference",
+        "url": "https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference",
+        "timestamp": "2026-10-20T12:02:15.977718",
+        "source": "Hacker News"
     }
 ]
