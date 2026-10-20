@@ -647944,5 +647944,11 @@
         "url": "https://github.com/deepseek-ai/DeepInfer",
         "timestamp": "2026-10-20T12:02:15.764282",
         "source": "Hacker News"
+    },
+    {
+        "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+        "url": "https://github.com/microg/GmsCore/wiki",
+        "timestamp": "2026-10-20T12:02:15.764335",
+        "source": "Hacker News"
     }
 ]
