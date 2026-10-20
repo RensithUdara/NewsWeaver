@@ -647602,5 +647602,11 @@
         "url": "https://demo.costura.ai/overview",
         "timestamp": "2026-10-20T01:30:32.608125",
         "source": "Hacker News"
+    },
+    {
+        "title": "Self-hosted AI spend attribution",
+        "url": "https://github.com/CosturaAI/costura",
+        "timestamp": "2026-10-20T01:30:32.608147",
+        "source": "Hacker News"
     }
 ]
