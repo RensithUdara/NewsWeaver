@@ -648532,5 +648532,11 @@
         "url": "https://estherweidauer.com/articles/why-resist-generative-ai.html",
         "timestamp": "2026-10-20T16:50:35.740346",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Topology of an LLM Agent Loop with Tool Use",
+        "url": "https://blog.exe.dev/topology",
+        "timestamp": "2026-10-20T16:50:35.740401",
+        "source": "Hacker News"
     }
 ]
