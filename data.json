@@ -648952,5 +648952,11 @@
         "url": "https://www.thebeliever.net/the-other-epidemic/",
         "timestamp": "2026-10-20T23:11:33.532308",
         "source": "Hacker News"
+    },
+    {
+        "title": "Meta's GB{2,3}00 Cluster",
+        "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+        "timestamp": "2026-10-20T23:11:33.532400",
+        "source": "Hacker News"
     }
 ]
