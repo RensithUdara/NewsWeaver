@@ -648322,5 +648322,11 @@
         "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
         "timestamp": "2026-10-20T16:50:35.626230",
         "source": "Hacker News"
+    },
+    {
+        "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+        "url": "https://github.com/google-pytorch/torch_tpu",
+        "timestamp": "2026-10-20T16:50:35.626265",
+        "source": "Hacker News"
     }
 ]
