@@ -648406,5 +648406,11 @@
         "url": "https://www.techdirt.com/2026/10/19/whoops-grok-bot-spills-tech-ceos-bank-data-in-public-slack/",
         "timestamp": "2026-10-20T16:50:35.739202",
         "source": "Hacker News"
+    },
+    {
+        "title": "Patch your Plex media server before someone hacks it",
+        "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+        "timestamp": "2026-10-20T16:50:35.739239",
+        "source": "Hacker News"
     }
 ]
