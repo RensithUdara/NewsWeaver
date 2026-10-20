@@ -648646,5 +648646,11 @@
         "url": "https://permit.petercai.com/",
         "timestamp": "2026-10-20T20:12:15.938253",
         "source": "Hacker News"
+    },
+    {
+        "title": "Jepsen: Orkes Conductor 5.3.2",
+        "url": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
+        "timestamp": "2026-10-20T20:12:15.938411",
+        "source": "Hacker News"
     }
 ]
