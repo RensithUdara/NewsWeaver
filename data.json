@@ -649450,5 +649450,11 @@
         "url": "https://antelang.org/blog/safe_cyclic_mutability/",
         "timestamp": "2026-10-21T06:30:50.434414",
         "source": "Hacker News"
+    },
+    {
+        "title": "PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)",
+        "url": "https://jackalsyn.com/posts/php-up-2026.html",
+        "timestamp": "2026-10-21T06:30:50.434442",
+        "source": "Hacker News"
     }
 ]
