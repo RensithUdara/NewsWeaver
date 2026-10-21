@@ -650416,5 +650416,11 @@
         "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
         "timestamp": "2026-10-21T17:17:09.299611",
         "source": "TechCrunch"
+    },
+    {
+        "title": "GitLab CVSS 10.0 Integer Overflow issue",
+        "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+        "timestamp": "2026-10-21T20:39:37.605156",
+        "source": "Hacker News"
     }
 ]
