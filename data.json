@@ -650050,5 +650050,11 @@
         "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
         "timestamp": "2026-10-21T17:17:08.794010",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust off Rails: The opinionated web stack for the AI era",
+        "url": "https://rustoffrails.org/",
+        "timestamp": "2026-10-21T17:17:08.794131",
+        "source": "Hacker News"
     }
 ]
