@@ -650278,5 +650278,11 @@
         "url": "https://www.cnbc.com/2026/10/21/government-websites-go-dark-as-software-flaw-sparks-security-scramble.html",
         "timestamp": "2026-10-21T17:17:09.049691",
         "source": "Hacker News"
+    },
+    {
+        "title": "Jax4j: NumPy-style tensors and automatic differentiation for Java",
+        "url": "https://nablatensor.com/blog/numpy-for-java-jax4j",
+        "timestamp": "2026-10-21T17:17:09.049722",
+        "source": "Hacker News"
     }
 ]
