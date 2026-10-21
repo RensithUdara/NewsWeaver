@@ -650818,5 +650818,11 @@
         "url": "https://loco.rs/",
         "timestamp": "2026-10-21T23:36:19.889668",
         "source": "Hacker News"
+    },
+    {
+        "title": "Κ = 0.003 for integer multiplication crossed",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441",
+        "timestamp": "2026-10-21T23:36:19.889701",
+        "source": "Hacker News"
     }
 ]
