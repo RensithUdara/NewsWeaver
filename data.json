@@ -649216,5 +649216,11 @@
         "url": "https://bhargav.dev/writing/shipping-a-latex-compiler-behind-an-edge-app",
         "timestamp": "2026-10-21T01:36:27.711282",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Gemma 4 26B at 100 tok/s on a Mac, using the Neural Engine and 2GB RAM",
+        "url": "https://github.com/zw5/ane-fieldfare",
+        "timestamp": "2026-10-21T01:36:27.985054",
+        "source": "Hacker News"
     }
 ]
