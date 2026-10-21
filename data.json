@@ -649444,5 +649444,11 @@
         "url": "https://beyondloom.com/blog/fouryearsdecker.html",
         "timestamp": "2026-10-21T06:30:50.434400",
         "source": "Hacker News"
+    },
+    {
+        "title": "Borrow Checking Zero-Cost Cyclic Mutability",
+        "url": "https://antelang.org/blog/safe_cyclic_mutability/",
+        "timestamp": "2026-10-21T06:30:50.434414",
+        "source": "Hacker News"
     }
 ]
