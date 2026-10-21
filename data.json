@@ -650140,5 +650140,11 @@
         "url": "https://businessclassdata.com/posts/mex-tokyo-ana-aeroplan",
         "timestamp": "2026-10-21T17:17:09.048871",
         "source": "Hacker News"
+    },
+    {
+        "title": "The PHP fix for CVE-2026-109618 and CVE-2026-109619: +11556 lines",
+        "url": "https://github.com/php/php-src/commit/31c0ea7d7ff1d1fccb6492e52dab544011628065",
+        "timestamp": "2026-10-21T17:17:09.048920",
+        "source": "Hacker News"
     }
 ]
