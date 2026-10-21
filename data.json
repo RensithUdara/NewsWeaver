@@ -649558,5 +649558,11 @@
         "url": "https://www.youtube.com/watch?v=1V_o8tfuGdw",
         "timestamp": "2026-10-21T06:30:50.647785",
         "source": "Hacker News"
+    },
+    {
+        "title": "C vs. C#: racing VLC's Gaussian blur",
+        "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
+        "timestamp": "2026-10-21T06:30:50.647799",
+        "source": "Hacker News"
     }
 ]
