@@ -650326,5 +650326,11 @@
         "url": "https://dev.to/hubedav/im-building-a-hiring-platform-that-starts-with-people-not-job-descriptions-ha6",
         "timestamp": "2026-10-21T17:17:09.094863",
         "source": "Dev.to"
+    },
+    {
+        "title": "Your agent's retry bug isn't an AI problem. It's a distributed-systems problem with an LLM on top.",
+        "url": "https://dev.to/cyclopt_dimitrisk/your-agents-retry-bug-isnt-an-ai-problem-its-a-distributed-systems-problem-with-an-llm-on-top-1i6k",
+        "timestamp": "2026-10-21T17:17:09.094870",
+        "source": "Dev.to"
     }
 ]
