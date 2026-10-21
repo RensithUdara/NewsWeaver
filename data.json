@@ -649210,5 +649210,11 @@
         "url": "https://www.microagi.ai/",
         "timestamp": "2026-10-21T01:36:27.711229",
         "source": "Hacker News"
+    },
+    {
+        "title": "Shipping a LaTeX Compiler Behind an Edge App",
+        "url": "https://bhargav.dev/writing/shipping-a-latex-compiler-behind-an-edge-app",
+        "timestamp": "2026-10-21T01:36:27.711282",
+        "source": "Hacker News"
     }
 ]
