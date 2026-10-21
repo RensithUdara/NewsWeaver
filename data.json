@@ -649510,5 +649510,11 @@
         "url": "https://pragtical.dev/blog/pragtical-v3140-release",
         "timestamp": "2026-10-21T06:30:50.647645",
         "source": "Hacker News"
+    },
+    {
+        "title": "MagicRoute: Routing Without Physical Routers",
+        "url": "https://tailscale.com/blog/magicroute-beta",
+        "timestamp": "2026-10-21T06:30:50.647661",
+        "source": "Hacker News"
     }
 ]
