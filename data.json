@@ -649696,5 +649696,11 @@
         "url": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
         "timestamp": "2026-10-21T12:17:14.728920",
         "source": "Hacker News"
+    },
+    {
+        "title": "C# now beats Rust on WASM size",
+        "url": "https://github.com/zion-sati/NetWasm",
+        "timestamp": "2026-10-21T12:17:14.728978",
+        "source": "Hacker News"
     }
 ]
