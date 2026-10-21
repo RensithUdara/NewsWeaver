@@ -650212,5 +650212,11 @@
         "url": "https://www.youtube.com/watch?v=rlh0U2aHUA4",
         "timestamp": "2026-10-21T17:17:09.049319",
         "source": "Hacker News"
+    },
+    {
+        "title": "TorchNeuron: Native PyTorch Back End for AWS Trainium",
+        "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/",
+        "timestamp": "2026-10-21T17:17:09.049350",
+        "source": "Hacker News"
     }
 ]
