@@ -649264,5 +649264,11 @@
         "url": "https://www.entrepreneur.com/business-news/this-princeton-ph-d-has-applied-to-2300-jobs-in-2-years-he-still-cant-find-a-job",
         "timestamp": "2026-10-21T01:36:27.985210",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open replacement firmware for the Siglent SDS1000CML+ oscilloscope",
+        "url": "https://github.com/labeth/open-sds1000cml",
+        "timestamp": "2026-10-21T01:36:27.985229",
+        "source": "Hacker News"
     }
 ]
