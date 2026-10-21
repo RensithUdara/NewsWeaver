@@ -650062,5 +650062,11 @@
         "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
         "timestamp": "2026-10-21T17:17:08.794253",
         "source": "Hacker News"
+    },
+    {
+        "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+        "url": "https://www.wiz.io/blog/php2shell-php-rce",
+        "timestamp": "2026-10-21T17:17:08.794315",
+        "source": "Hacker News"
     }
 ]
