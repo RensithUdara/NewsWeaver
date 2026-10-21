@@ -649366,5 +649366,11 @@
         "url": "https://urbancourtyard.substack.com/p/north-shattuck-courtyard-proposal",
         "timestamp": "2026-10-21T01:36:27.985539",
         "source": "Hacker News"
+    },
+    {
+        "title": "Real Transactions Are Serializable",
+        "url": "https://www.cockroachlabs.com/blog/acid-rain/",
+        "timestamp": "2026-10-21T01:36:27.985557",
+        "source": "Hacker News"
     }
 ]
