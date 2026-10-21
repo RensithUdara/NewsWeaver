@@ -649474,5 +649474,11 @@
         "url": "https://saasisdead.si/",
         "timestamp": "2026-10-21T06:30:50.434536",
         "source": "Hacker News"
+    },
+    {
+        "title": "Using Claude to reduce the attack surface of code",
+        "url": "https://www.anthropic.com/research/attack-surface-reduction",
+        "timestamp": "2026-10-21T06:30:50.434549",
+        "source": "Hacker News"
     }
 ]
