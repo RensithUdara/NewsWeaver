@@ -650254,5 +650254,11 @@
         "url": "https://github.com/openai/php2shell-checker",
         "timestamp": "2026-10-21T17:17:09.049564",
         "source": "Hacker News"
+    },
+    {
+        "title": "I made the fastest EC2 price comparator",
+        "url": "https://ec2-prices.designobo.com/",
+        "timestamp": "2026-10-21T17:17:09.049595",
+        "source": "Hacker News"
     }
 ]
