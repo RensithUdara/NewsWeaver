@@ -650014,5 +650014,11 @@
         "url": "https://www.producthunt.com/products/koi-2",
         "timestamp": "2026-10-21T12:17:15.757064",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "PHP 8.2.35",
+        "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+        "timestamp": "2026-10-21T17:17:08.793603",
+        "source": "Hacker News"
     }
 ]
