@@ -650056,5 +650056,11 @@
         "url": "https://rustoffrails.org/",
         "timestamp": "2026-10-21T17:17:08.794131",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cloudflare deploys protections against php2shell vulnerability",
+        "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+        "timestamp": "2026-10-21T17:17:08.794253",
+        "source": "Hacker News"
     }
 ]
