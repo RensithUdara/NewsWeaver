@@ -650026,5 +650026,11 @@
         "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
         "timestamp": "2026-10-21T17:17:08.793709",
         "source": "Hacker News"
+    },
+    {
+        "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+        "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+        "timestamp": "2026-10-21T17:17:08.793790",
+        "source": "Hacker News"
     }
 ]
