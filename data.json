@@ -649846,5 +649846,11 @@
         "url": "https://store.steampowered.com/app/4989230/Baryum/",
         "timestamp": "2026-10-21T12:17:14.881312",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Ambiguous State Trap: Why I Disabled Claude's Auto-Memory",
+        "url": "https://huggingface.co/blog/dacorvo/the-ambiguous-state-trap",
+        "timestamp": "2026-10-21T12:17:14.881327",
+        "source": "Hacker News"
     }
 ]
