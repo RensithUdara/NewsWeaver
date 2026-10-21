@@ -650596,5 +650596,11 @@
         "url": "https://jacobin.com/2026/10/fielder-holmes-documentary-theranos-tech",
         "timestamp": "2026-10-21T20:39:37.817034",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: QAmcp – Automated test runner for MCP servers in your terminal",
+        "url": "https://github.com/QAmcp/qamcp-cli",
+        "timestamp": "2026-10-21T20:39:37.817054",
+        "source": "Hacker News"
     }
 ]
