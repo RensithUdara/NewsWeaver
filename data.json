@@ -650224,5 +650224,11 @@
         "url": "https://news.ycombinator.com/item?id=50184126",
         "timestamp": "2026-10-21T17:17:09.049382",
         "source": "Hacker News"
+    },
+    {
+        "title": "A new Speculative decoding drafter for vLLM and SGLang called EAGLE-4",
+        "url": "https://github.com/eagle-hq/EAGLE-4",
+        "timestamp": "2026-10-21T17:17:09.049413",
+        "source": "Hacker News"
     }
 ]
