@@ -652624,5 +652624,11 @@
         "url": "https://www.anthropic.com/research/formal-verification",
         "timestamp": "2026-10-22T23:35:07.111477",
         "source": "Hacker News"
+    },
+    {
+        "title": "Death to long-lived static credentials",
+        "url": "https://vercel.com/blog/death-to-long-lived-static-credentials",
+        "timestamp": "2026-10-22T23:35:07.111508",
+        "source": "Hacker News"
     }
 ]
