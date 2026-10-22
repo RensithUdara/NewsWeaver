@@ -651190,5 +651190,11 @@
         "url": "https://twitter.com/gdb/status/2112921529650688312",
         "timestamp": "2026-10-22T01:47:22.036053",
         "source": "Hacker News"
+    },
+    {
+        "title": "LiteLLM Security Update",
+        "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
+        "timestamp": "2026-10-22T01:47:22.036085",
+        "source": "Hacker News"
     }
 ]
