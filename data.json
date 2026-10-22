@@ -652480,5 +652480,11 @@
         "url": "https://www.asimov.press/p/flowers",
         "timestamp": "2026-10-22T23:35:06.950890",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
+        "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
+        "timestamp": "2026-10-22T23:35:06.951045",
+        "source": "Hacker News"
     }
 ]
