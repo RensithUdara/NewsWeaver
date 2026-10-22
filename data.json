@@ -651874,5 +651874,11 @@
         "url": "https://eigenmoon.vercel.app/",
         "timestamp": "2026-10-22T17:24:31.113271",
         "source": "Hacker News"
+    },
+    {
+        "title": "OCRia-1: A new SOTA 4B document parser",
+        "url": "https://www.llamaindex.ai/blog/parse-ocria-1",
+        "timestamp": "2026-10-22T17:24:31.315122",
+        "source": "Hacker News"
     }
 ]
