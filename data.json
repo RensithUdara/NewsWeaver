@@ -652234,5 +652234,11 @@
         "url": "https://hadarg.com/blog/nyt-games/",
         "timestamp": "2026-10-22T20:39:47.552948",
         "source": "Hacker News"
+    },
+    {
+        "title": "Taking 'execute logging' a bit too seriously – CVE-2026-88771",
+        "url": "https://cert.europa.eu/blog/taking-execute-logging-a-bit-too-literally-cve-2026-88771",
+        "timestamp": "2026-10-22T20:39:47.553023",
+        "source": "Hacker News"
     }
 ]
