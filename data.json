@@ -651160,5 +651160,11 @@
         "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
         "timestamp": "2026-10-22T01:47:22.035883",
         "source": "Hacker News"
+    },
+    {
+        "title": "Qutebrowser still trusts eMudhra: QtWebEngine does not check cert revocation",
+        "url": "https://github.com/qutebrowser/qutebrowser/issues/9032",
+        "timestamp": "2026-10-22T01:47:22.035916",
+        "source": "Hacker News"
     }
 ]
