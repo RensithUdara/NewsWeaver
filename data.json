@@ -651274,5 +651274,11 @@
         "url": "https://github.com/openai/openai-cli",
         "timestamp": "2026-10-22T06:37:38.894557",
         "source": "Hacker News"
+    },
+    {
+        "title": "Using LLM for confidence scoring is a bad idea",
+        "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+        "timestamp": "2026-10-22T06:37:38.894634",
+        "source": "Hacker News"
     }
 ]
