@@ -651016,5 +651016,11 @@
         "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
         "timestamp": "2026-10-21T23:36:20.399765",
         "source": "TechCrunch"
+    },
+    {
+        "title": "mitmproxy adds --emudhra option",
+        "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+        "timestamp": "2026-10-22T01:47:21.778468",
+        "source": "Hacker News"
     }
 ]
