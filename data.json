@@ -651466,5 +651466,11 @@
         "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
         "timestamp": "2026-10-22T12:20:31.638405",
         "source": "Hacker News"
+    },
+    {
+        "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+        "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+        "timestamp": "2026-10-22T12:20:31.638433",
+        "source": "Hacker News"
     }
 ]
