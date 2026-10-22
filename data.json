@@ -651460,5 +651460,11 @@
         "url": "https://pawmc-demo.kolaegipet.workers.dev/?demo=1",
         "timestamp": "2026-10-22T06:37:39.045909",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+        "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+        "timestamp": "2026-10-22T12:20:31.638405",
+        "source": "Hacker News"
     }
 ]
