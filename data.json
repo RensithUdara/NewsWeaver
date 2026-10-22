@@ -651862,5 +651862,11 @@
         "url": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
         "timestamp": "2026-10-22T17:24:31.113136",
         "source": "Hacker News"
+    },
+    {
+        "title": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
+        "url": "https://github.com/rhargreaves/vmmouse-nt3",
+        "timestamp": "2026-10-22T17:24:31.113163",
+        "source": "Hacker News"
     }
 ]
