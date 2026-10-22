@@ -651994,5 +651994,11 @@
         "url": "https://sanjeev.substack.com/p/im-building-my-own-personal-buddy",
         "timestamp": "2026-10-22T17:24:31.315406",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext ema",
+        "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+        "timestamp": "2026-10-22T17:24:31.315420",
+        "source": "Hacker News"
     }
 ]
