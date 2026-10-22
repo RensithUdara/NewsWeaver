@@ -652318,5 +652318,11 @@
         "url": "https://www.cnet.com/health/sleep/new-device-bricks-phone-when-enter-bedroom/",
         "timestamp": "2026-10-22T20:39:47.553498",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linus Torvalds Eliminates Unsafe __get_user() __put_user() Functions In 7.4",
+        "url": "https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux",
+        "timestamp": "2026-10-22T20:39:47.553531",
+        "source": "Hacker News"
     }
 ]
