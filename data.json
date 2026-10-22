@@ -651124,5 +651124,11 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
         "timestamp": "2026-10-22T01:47:22.035619",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making COUNTs and the Rest of Search Fast in Postgres",
+        "url": "https://www.paradedb.com/blog/opening-a-closed-tin-part-2",
+        "timestamp": "2026-10-22T01:47:22.035695",
+        "source": "Hacker News"
     }
 ]
