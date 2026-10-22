@@ -651502,5 +651502,11 @@
         "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
         "timestamp": "2026-10-22T12:20:31.638655",
         "source": "Hacker News"
+    },
+    {
+        "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+        "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+        "timestamp": "2026-10-22T12:20:31.638695",
+        "source": "Hacker News"
     }
 ]
