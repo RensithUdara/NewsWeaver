@@ -652372,5 +652372,11 @@
         "url": "https://kb.isc.org/docs/cve-2026-94300",
         "timestamp": "2026-10-22T20:39:47.553925",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sandboxable port of busybox for agents in Go",
+        "url": "https://github.com/rcarmo/go-busybox",
+        "timestamp": "2026-10-22T20:39:47.553958",
+        "source": "Hacker News"
     }
 ]
