@@ -652618,5 +652618,11 @@
         "url": "https://tangled.org/oppi.li/naut",
         "timestamp": "2026-10-22T23:35:07.111444",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLMs are making formal software verification feasible at a much larger scale",
+        "url": "https://www.anthropic.com/research/formal-verification",
+        "timestamp": "2026-10-22T23:35:07.111477",
+        "source": "Hacker News"
     }
 ]
