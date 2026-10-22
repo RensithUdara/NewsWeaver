@@ -652264,5 +652264,11 @@
         "url": "https://www.affectui.com/",
         "timestamp": "2026-10-22T20:39:47.553196",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to Run Turing-Complete Malware in PyTorch's Backward Pass",
+        "url": "https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/",
+        "timestamp": "2026-10-22T20:39:47.553230",
+        "source": "Hacker News"
     }
 ]
