@@ -651682,5 +651682,11 @@
         "url": "https://www.reuters.com/world/asia-pacific/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-2026-10-22/",
         "timestamp": "2026-10-22T12:20:31.778954",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Built slothd: A Local-First, Offline-Capable AI Daemon That Patiently Organizes Your Messy Workspace",
+        "url": "https://dev.to/dj29/i-built-slothd-a-local-first-offline-capable-ai-daemon-that-patiently-organizes-your-messy-53e7",
+        "timestamp": "2026-10-22T12:20:31.883024",
+        "source": "Dev.to"
     }
 ]
