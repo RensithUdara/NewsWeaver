@@ -651214,5 +651214,11 @@
         "url": "https://nvd.nist.gov/vuln/detail/cve-2026-109618",
         "timestamp": "2026-10-22T01:47:22.036182",
         "source": "Hacker News"
+    },
+    {
+        "title": "FreeBSD 16.0-CURRENT/aarch64 guest boots on Apple Virtualization.framework",
+        "url": "https://github.com/tjfontaine/freebsd-apple-virtualization",
+        "timestamp": "2026-10-22T01:47:22.036215",
+        "source": "Hacker News"
     }
 ]
