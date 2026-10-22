@@ -651208,5 +651208,11 @@
         "url": "https://news.ycombinator.com/item?id=50189771",
         "timestamp": "2026-10-22T01:47:22.036149",
         "source": "Hacker News"
+    },
+    {
+        "title": "PHP 9.2 Critical Memory Corruption CVE",
+        "url": "https://nvd.nist.gov/vuln/detail/cve-2026-109618",
+        "timestamp": "2026-10-22T01:47:22.036182",
+        "source": "Hacker News"
     }
 ]
