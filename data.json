@@ -652612,5 +652612,11 @@
         "url": "https://eng.snap.com/alchemist",
         "timestamp": "2026-10-22T23:35:07.111411",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tangled knot that runs on Cloudflare Workers",
+        "url": "https://tangled.org/oppi.li/naut",
+        "timestamp": "2026-10-22T23:35:07.111444",
+        "source": "Hacker News"
     }
 ]
