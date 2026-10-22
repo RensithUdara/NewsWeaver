@@ -651952,5 +651952,11 @@
         "url": "https://pvrlabs.xyz/aibadger/codemap/",
         "timestamp": "2026-10-22T17:24:31.315306",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a VMM from scratch, #0.5: Booting Linux in 190 lines of C",
+        "url": "https://blog.boxlite.ai/building-a-vmm-from-scratch-0-5-booting-linux-in-190-lines-of-c",
+        "timestamp": "2026-10-22T17:24:31.315320",
+        "source": "Hacker News"
     }
 ]
