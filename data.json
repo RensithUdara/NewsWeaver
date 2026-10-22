@@ -652582,5 +652582,11 @@
         "url": "https://php2shell.censys.com",
         "timestamp": "2026-10-22T23:35:07.111216",
         "source": "Hacker News"
+    },
+    {
+        "title": "DuckDB 2.0 and the Query Farm extension repository",
+        "url": "https://query.farm/blog/duckdb-2-query-farm-repository/",
+        "timestamp": "2026-10-22T23:35:07.111248",
+        "source": "Hacker News"
     }
 ]
