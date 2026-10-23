@@ -652756,5 +652756,11 @@
         "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
         "timestamp": "2026-10-23T01:51:56.537755",
         "source": "Hacker News"
+    },
+    {
+        "title": "Offline FairPlay DRM Decryption",
+        "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+        "timestamp": "2026-10-23T01:51:56.537771",
+        "source": "Hacker News"
     }
 ]
