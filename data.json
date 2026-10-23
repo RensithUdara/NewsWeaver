@@ -652870,5 +652870,11 @@
         "url": "https://www.grillmyprofile.com",
         "timestamp": "2026-10-23T01:51:56.538070",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dagger – Automation to build, test and ship; locally, in CI, or in the cloud",
+        "url": "https://github.com/dagger/dagger",
+        "timestamp": "2026-10-23T01:51:56.538086",
+        "source": "Hacker News"
     }
 ]
