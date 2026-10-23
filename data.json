@@ -653212,5 +653212,11 @@
         "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
         "timestamp": "2026-10-23T12:09:58.842872",
         "source": "Hacker News"
+    },
+    {
+        "title": "Remove pgrust: the entry is cheating",
+        "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+        "timestamp": "2026-10-23T12:09:58.842937",
+        "source": "Hacker News"
     }
 ]
