@@ -653110,5 +653110,11 @@
         "url": "https://chromewebstore.google.com/detail/yapmaxxer-â-ai-replies-in/mliokepdopdfkhfdiepjcbcfkamjbdle",
         "timestamp": "2026-10-23T06:43:15.798152",
         "source": "Hacker News"
+    },
+    {
+        "title": "PHP2Shell (CVE-2026-109618) Exploit",
+        "url": "https://www.exploit-db.com/exploits/52704",
+        "timestamp": "2026-10-23T06:43:15.798177",
+        "source": "Hacker News"
     }
 ]
