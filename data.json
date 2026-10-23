@@ -652852,5 +652852,11 @@
         "url": "https://supastack.dev",
         "timestamp": "2026-10-23T01:51:56.538021",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE Tracker",
+        "url": "https://cve.0xosprey.com/",
+        "timestamp": "2026-10-23T01:51:56.538038",
+        "source": "Hacker News"
     }
 ]
