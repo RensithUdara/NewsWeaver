@@ -653050,5 +653050,11 @@
         "url": "https://postmelee.github.io/pear/",
         "timestamp": "2026-10-23T06:43:15.797884",
         "source": "Hacker News"
+    },
+    {
+        "title": "PHP2Shell (CVE-2026-109618): Zero-Downtime Mitigations and Upgrade Runbook",
+        "url": "https://sazm.in/articles/php2shell-cve-2026-109618-mitigation",
+        "timestamp": "2026-10-23T06:43:15.797910",
+        "source": "Hacker News"
     }
 ]
