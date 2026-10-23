@@ -653500,5 +653500,11 @@
         "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
         "timestamp": "2026-10-23T17:00:58.093314",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+        "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
+        "timestamp": "2026-10-23T17:00:58.093372",
+        "source": "Hacker News"
     }
 ]
