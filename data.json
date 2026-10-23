@@ -653254,5 +653254,11 @@
         "url": "https://getframecap.com/",
         "timestamp": "2026-10-23T12:09:58.906244",
         "source": "Hacker News"
+    },
+    {
+        "title": "Is your project vulnerable or cooked? I made a skill that checks it for CVEs",
+        "url": "https://github.com/noushiFlex/am-i-cooked",
+        "timestamp": "2026-10-23T12:09:58.906271",
+        "source": "Hacker News"
     }
 ]
