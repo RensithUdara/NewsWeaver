@@ -652906,5 +652906,11 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
         "timestamp": "2026-10-23T01:51:56.538180",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
+        "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
+        "timestamp": "2026-10-23T01:51:56.866074",
+        "source": "Dev.to"
     }
 ]
