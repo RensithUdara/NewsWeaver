@@ -654148,5 +654148,11 @@
         "url": "https://nishantjosh.dev/blogs/conservation-of-compute/",
         "timestamp": "2026-10-23T23:16:05.108799",
         "source": "Hacker News"
+    },
+    {
+        "title": "I ran the full 2.8T-parameter Kimi-K3 on a 64GB Mac Mini",
+        "url": "https://github.com/sjdthree/kimi-k3-mlx-macmini",
+        "timestamp": "2026-10-23T23:16:05.108820",
+        "source": "Hacker News"
     }
 ]
