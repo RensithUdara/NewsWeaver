@@ -654004,5 +654004,11 @@
         "url": "https://queue.acm.org/doi/10.1145/945131.945155",
         "timestamp": "2026-10-23T23:16:05.045278",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
+        "url": "https://rune.build/blog/rune-1-3-release",
+        "timestamp": "2026-10-23T23:16:05.045298",
+        "source": "Hacker News"
     }
 ]
