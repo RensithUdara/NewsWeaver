@@ -652750,5 +652750,11 @@
         "url": "https://vllm.ai/blog/2026-10-21-humming",
         "timestamp": "2026-10-23T01:51:56.537738",
         "source": "Hacker News"
+    },
+    {
+        "title": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
+        "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
+        "timestamp": "2026-10-23T01:51:56.537755",
+        "source": "Hacker News"
     }
 ]
