@@ -654124,5 +654124,11 @@
         "url": "https://www.caltech.edu/about/news/elections-are-more-predictable-than-they-look",
         "timestamp": "2026-10-23T23:16:05.108719",
         "source": "Hacker News"
+    },
+    {
+        "title": "Small, calm welcome screen for Emacs (a warm extensible dashboard)",
+        "url": "https://codeberg.org/jjba23/welkomscherm.el",
+        "timestamp": "2026-10-23T23:16:05.108739",
+        "source": "Hacker News"
     }
 ]
