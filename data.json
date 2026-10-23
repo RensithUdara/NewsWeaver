@@ -653368,5 +653368,11 @@
         "url": "https://www.youtube.com/watch?v=_AANsj5Jz1M",
         "timestamp": "2026-10-23T12:09:58.906707",
         "source": "Hacker News"
+    },
+    {
+        "title": "Azure CLI still trusts compromised eMudhra CA; fix targeted for November 16",
+        "url": "https://github.com/Azure/azure-cli/pull/34250",
+        "timestamp": "2026-10-23T12:09:58.906727",
+        "source": "Hacker News"
     }
 ]
