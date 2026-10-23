@@ -652744,5 +652744,11 @@
         "url": "https://cadence.moe/blog/2026-09-10-we-spoke-with-entrepreneurs-living-the-7-vibe-3-lifestyle",
         "timestamp": "2026-10-23T01:51:56.537720",
         "source": "Hacker News"
+    },
+    {
+        "title": "Humming: Fast, Flexible Kernels for Quantized Inference",
+        "url": "https://vllm.ai/blog/2026-10-21-humming",
+        "timestamp": "2026-10-23T01:51:56.537738",
+        "source": "Hacker News"
     }
 ]
