@@ -652810,5 +652810,11 @@
         "url": "https://pointercam.com/",
         "timestamp": "2026-10-23T01:51:56.537904",
         "source": "Hacker News"
+    },
+    {
+        "title": "A tale of two PHP remote vulnerabilities",
+        "url": "https://calif.io/php2shell.x/",
+        "timestamp": "2026-10-23T01:51:56.537919",
+        "source": "Hacker News"
     }
 ]
