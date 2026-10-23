@@ -653632,5 +653632,11 @@
         "url": "https://www.henrikkarlsson.xyz/p/music",
         "timestamp": "2026-10-23T17:00:58.325401",
         "source": "Hacker News"
+    },
+    {
+        "title": "Debunking \"Faster Than Rust\": Malicious Benchmarks in Tov",
+        "url": "https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/",
+        "timestamp": "2026-10-23T17:00:58.325417",
+        "source": "Hacker News"
     }
 ]
