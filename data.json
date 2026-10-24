@@ -655216,5 +655216,11 @@
         "url": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
         "timestamp": "2026-10-24T17:36:50.531386",
         "source": "Hacker News"
+    },
+    {
+        "title": "Parsing EDIFACT in Python with syntax trees",
+        "url": "https://github.com/AmadeusITGroup/Edison",
+        "timestamp": "2026-10-24T17:36:50.531441",
+        "source": "Hacker News"
     }
 ]
