@@ -655258,5 +655258,11 @@
         "url": "https://ricuicui.com/en/versions/0-5-7",
         "timestamp": "2026-10-24T17:36:50.717441",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Art of Unix Programming",
+        "url": "http://www.catb.org/esr/writings/taoup/",
+        "timestamp": "2026-10-24T17:36:50.717460",
+        "source": "Hacker News"
     }
 ]
