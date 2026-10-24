@@ -654604,5 +654604,11 @@
         "url": "https://www.bitflux.ai/blog/memory-is-slow-part3/",
         "timestamp": "2026-10-24T06:24:48.769759",
         "source": "Hacker News"
+    },
+    {
+        "title": "Real-time streaming with IBM StreamSets",
+        "url": "https://www.ibm.com/products/streamsets",
+        "timestamp": "2026-10-24T06:24:48.769775",
+        "source": "Hacker News"
     }
 ]
