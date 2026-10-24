@@ -654802,5 +654802,11 @@
         "url": "https://itwire.com/it-industry-news/telecoms-and-nbn/telstra-ends-australias-long-rcs-wait-android-from-16-november-iphone-after-decembers-ios-update",
         "timestamp": "2026-10-24T11:20:35.828083",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+        "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+        "timestamp": "2026-10-24T11:20:35.828117",
+        "source": "Hacker News"
     }
 ]
