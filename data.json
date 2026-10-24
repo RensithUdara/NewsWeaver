@@ -655006,5 +655006,11 @@
         "url": "https://news.ycombinator.com/item?id=50221673",
         "timestamp": "2026-10-24T14:41:35.805792",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: TenseMem – deterministic memory for AI agents",
+        "url": "https://github.com/tensemem/tensemem",
+        "timestamp": "2026-10-24T14:41:35.805827",
+        "source": "Hacker News"
     }
 ]
