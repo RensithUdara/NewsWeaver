@@ -654454,5 +654454,11 @@
         "url": "https://www.producthunt.com/products/monish",
         "timestamp": "2026-10-24T01:37:18.429060",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "How close can pure functional programming get to C?",
+        "url": "https://rtfeldman.com/fp-vs-c",
+        "timestamp": "2026-10-24T06:24:48.559234",
+        "source": "Hacker News"
     }
 ]
