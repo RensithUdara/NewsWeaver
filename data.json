@@ -654484,5 +654484,11 @@
         "url": "https://www.youtube.com/watch?v=S_2eVAaw1UM",
         "timestamp": "2026-10-24T06:24:48.559417",
         "source": "Hacker News"
+    },
+    {
+        "title": "OBS Studio 33",
+        "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+        "timestamp": "2026-10-24T06:24:48.559431",
+        "source": "Hacker News"
     }
 ]
