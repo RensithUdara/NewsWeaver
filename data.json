@@ -655636,5 +655636,11 @@
         "url": "https://news.ycombinator.com/item?id=50224094",
         "timestamp": "2026-10-24T19:44:21.300823",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Mini-batch k-means clustering for PyTorch tensors",
+        "url": "https://github.com/mb-14/minibatch-kmeans",
+        "timestamp": "2026-10-24T19:44:21.300855",
+        "source": "Hacker News"
     }
 ]
