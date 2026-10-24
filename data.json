@@ -655930,5 +655930,11 @@
         "url": "https://github.com/0x4D31/honeypot-data/blob/main/reports/php2shell/2026-10-24-confirmed-rce.md",
         "timestamp": "2026-10-24T23:51:44.719189",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why Gopher in 2026?",
+        "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+        "timestamp": "2026-10-24T23:51:44.719205",
+        "source": "Hacker News"
     }
 ]
