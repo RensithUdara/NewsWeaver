@@ -655582,5 +655582,11 @@
         "url": "https://www.speedcrunch.org/",
         "timestamp": "2026-10-24T19:44:21.300487",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bun fixes an HTTP/3 bug that could stall a server with a 20 KB request",
+        "url": "https://github.com/oven-sh/bun/security/advisories/GHSA-cf8x-9m69-3gg3",
+        "timestamp": "2026-10-24T19:44:21.300519",
+        "source": "Hacker News"
     }
 ]
