@@ -655552,5 +655552,11 @@
         "url": "https://news.ycombinator.com/item?id=50224269",
         "timestamp": "2026-10-24T19:44:21.300326",
         "source": "Hacker News"
+    },
+    {
+        "title": "\"I made base-1353 encoding, so I can fit 256-bit values\"",
+        "url": "https://bsky.app/profile/zooko2.bsky.social/post/3mylxgh6vm22k",
+        "timestamp": "2026-10-24T19:44:21.300359",
+        "source": "Hacker News"
     }
 ]
