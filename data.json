@@ -655240,5 +655240,11 @@
         "url": "http://www.catb.org/~esr/writings/sf-history.html",
         "timestamp": "2026-10-24T17:36:50.717370",
         "source": "Hacker News"
+    },
+    {
+        "title": "Batchplan: Plan batches of robot motions, use for execution or training data",
+        "url": "https://github.com/natsuku-lab/batchplan",
+        "timestamp": "2026-10-24T17:36:50.717403",
+        "source": "Hacker News"
     }
 ]
