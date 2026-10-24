@@ -654706,5 +654706,11 @@
         "url": "https://security.apple.com/research-device/",
         "timestamp": "2026-10-24T11:20:35.567928",
         "source": "Hacker News"
+    },
+    {
+        "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+        "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+        "timestamp": "2026-10-24T11:20:35.568053",
+        "source": "Hacker News"
     }
 ]
