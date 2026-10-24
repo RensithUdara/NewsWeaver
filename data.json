@@ -655012,5 +655012,11 @@
         "url": "https://github.com/tensemem/tensemem",
         "timestamp": "2026-10-24T14:41:35.805827",
         "source": "Hacker News"
+    },
+    {
+        "title": "BeNice Closing the Inference-Memory Gap of Looped Models with KV-Sharing",
+        "url": "https://sandyresearch.github.io/benice/",
+        "timestamp": "2026-10-24T14:41:35.805864",
+        "source": "Hacker News"
     }
 ]
