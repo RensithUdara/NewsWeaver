@@ -655924,5 +655924,11 @@
         "url": "https://www.nytimes.com/2026/10/09/books/review/reading-east-of-eden.html",
         "timestamp": "2026-10-24T23:51:44.719174",
         "source": "Hacker News"
+    },
+    {
+        "title": "PHP2Shell exploitation observed: packet-to-process RCE evidence",
+        "url": "https://github.com/0x4D31/honeypot-data/blob/main/reports/php2shell/2026-10-24-confirmed-rce.md",
+        "timestamp": "2026-10-24T23:51:44.719189",
+        "source": "Hacker News"
     }
 ]
