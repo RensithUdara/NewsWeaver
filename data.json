@@ -655042,5 +655042,11 @@
         "url": "https://firefighter.sh/",
         "timestamp": "2026-10-24T14:41:35.805995",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Visual Studio extension that shows decimal and hex in the debugger",
+        "url": "https://github.com/JochenBaier/AlwaysHex",
+        "timestamp": "2026-10-24T14:41:35.806032",
+        "source": "Hacker News"
     }
 ]
