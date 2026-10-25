@@ -656278,5 +656278,11 @@
         "url": "https://melty.gg",
         "timestamp": "2026-10-25T07:37:45.477146",
         "source": "Hacker News"
+    },
+    {
+        "title": "Termlet – Modern cross-platform SSH terminal and SFTP client",
+        "url": "https://github.com/Amanbig/termlet/releases",
+        "timestamp": "2026-10-25T07:37:45.477169",
+        "source": "Hacker News"
     }
 ]
