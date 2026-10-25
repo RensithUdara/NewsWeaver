@@ -656110,5 +656110,11 @@
         "url": "https://bykozy.me/blog/ai-performance-at-the-security-theater/",
         "timestamp": "2026-10-25T02:16:54.576023",
         "source": "Hacker News"
+    },
+    {
+        "title": "OneMemory – self-hosted shared memory for AI agents over MCP",
+        "url": "https://github.com/calasdan-sketch/onememory",
+        "timestamp": "2026-10-25T02:16:54.576043",
+        "source": "Hacker News"
     }
 ]
