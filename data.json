@@ -657376,5 +657376,11 @@
         "url": "https://papers.lisdex.sh/hermes/paper.pdf",
         "timestamp": "2026-10-25T21:56:49.991239",
         "source": "Hacker News"
+    },
+    {
+        "title": "Aster My HobbyOS with a custom C toolchain and network stack (runs on 128MB RAM)",
+        "url": "https://github.com/antoniodev84/Aster",
+        "timestamp": "2026-10-25T21:56:49.991270",
+        "source": "Hacker News"
     }
 ]
