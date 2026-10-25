@@ -656704,5 +656704,11 @@
         "url": "https://entropicthoughts.com/why-you-should-buy-into-the-emacs-platform",
         "timestamp": "2026-10-25T12:44:45.989666",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nops: Read SOPS-encrypted secrets in .NET without the sops binary",
+        "url": "https://github.com/atulmish/Nops",
+        "timestamp": "2026-10-25T12:44:45.989690",
+        "source": "Hacker News"
     }
 ]
