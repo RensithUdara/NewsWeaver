@@ -657646,5 +657646,11 @@
         "url": "https://kitao.dev/playload/",
         "timestamp": "2026-10-25T23:42:46.158584",
         "source": "Hacker News"
+    },
+    {
+        "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+        "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+        "timestamp": "2026-10-25T23:42:46.158616",
+        "source": "Hacker News"
     }
 ]
