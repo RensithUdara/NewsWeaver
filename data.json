@@ -657562,5 +657562,11 @@
         "url": "https://huggingface.co/coolcoder613/omnivoice-latin-lora-1",
         "timestamp": "2026-10-25T23:42:46.158104",
         "source": "Hacker News"
+    },
+    {
+        "title": "Palo Alto retracts claim of PHP2Shell exploitation at European government agency",
+        "url": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+        "timestamp": "2026-10-25T23:42:46.158137",
+        "source": "Hacker News"
     }
 ]
