@@ -656812,5 +656812,11 @@
         "url": "https://github.com/usejunior-sh/junior",
         "timestamp": "2026-10-25T16:50:13.783645",
         "source": "Hacker News"
+    },
+    {
+        "title": "Impersonate-HTTP – byte-exact browser TLS fingerprints for Go's http.Client",
+        "url": "https://github.com/North-web-dev/impersonate-http",
+        "timestamp": "2026-10-25T16:50:13.783676",
+        "source": "Hacker News"
     }
 ]
