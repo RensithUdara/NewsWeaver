@@ -657574,5 +657574,11 @@
         "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
         "timestamp": "2026-10-25T23:42:46.158169",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: simdown – use SIMD to parse Markdown at ~1 GB/s",
+        "url": "https://github.com/trevorah/simdown",
+        "timestamp": "2026-10-25T23:42:46.158201",
+        "source": "Hacker News"
     }
 ]
