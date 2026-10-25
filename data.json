@@ -657106,5 +657106,11 @@
         "url": "https://zubspace.gg/",
         "timestamp": "2026-10-25T19:22:48.869308",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+        "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+        "timestamp": "2026-10-25T19:22:48.869328",
+        "source": "Hacker News"
     }
 ]
