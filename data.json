@@ -657550,5 +657550,11 @@
         "url": "https://www.fromtheroad.ford.com/img/en/articles/2026/simpson-desert-ranger-super-duty-counting-dunes",
         "timestamp": "2026-10-25T23:42:46.158037",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: QuickRust replaces cargo, sets up sccache, centralizes build cache",
+        "url": "https://machinefabric.com/quickrust/",
+        "timestamp": "2026-10-25T23:42:46.158071",
+        "source": "Hacker News"
     }
 ]
