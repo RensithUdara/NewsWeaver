@@ -656224,5 +656224,11 @@
         "url": "https://adrs.systems",
         "timestamp": "2026-10-25T02:16:54.576439",
         "source": "Hacker News"
+    },
+    {
+        "title": "The State of Context Engineering",
+        "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+        "timestamp": "2026-10-25T02:16:54.576459",
+        "source": "Hacker News"
     }
 ]
