@@ -656392,5 +656392,11 @@
         "url": "https://www.youtube.com/watch?v=ZumXpZzDsgo",
         "timestamp": "2026-10-25T07:37:45.477544",
         "source": "Hacker News"
+    },
+    {
+        "title": "Elevated errors for Claude Sonnet 5.5",
+        "url": "https://status.claude.com/incidents/334jvgbrc4ff",
+        "timestamp": "2026-10-25T07:37:45.477564",
+        "source": "Hacker News"
     }
 ]
