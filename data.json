@@ -656686,5 +656686,11 @@
         "url": "https://4-dna.com",
         "timestamp": "2026-10-25T12:44:45.989622",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Shrinking my 159-byte x86-64 Hello World ELF to 153 bytes",
+        "url": "https://blog.lohr.dev/hello-world-contd",
+        "timestamp": "2026-10-25T12:44:45.989637",
+        "source": "Hacker News"
     }
 ]
