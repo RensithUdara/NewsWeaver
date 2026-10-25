@@ -656650,5 +656650,11 @@
         "url": "https://stockholmsteelband.se/pan/tuning/pdf/pantuning.pdf",
         "timestamp": "2026-10-25T12:44:45.989534",
         "source": "Hacker News"
+    },
+    {
+        "title": "MoltenVK (Vulkan on Metal) was deprecated in favor of KosmicKrisp",
+        "url": "https://github.com/KhronosGroup/MoltenVK",
+        "timestamp": "2026-10-25T12:44:45.989549",
+        "source": "Hacker News"
     }
 ]
