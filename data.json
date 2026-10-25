@@ -656668,5 +656668,11 @@
         "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
         "timestamp": "2026-10-25T12:44:45.989579",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Find overlapping Rust tests with mutation testing",
+        "url": "https://github.com/yasuyuky/cargo-test-prune",
+        "timestamp": "2026-10-25T12:44:45.989594",
+        "source": "Hacker News"
     }
 ]
