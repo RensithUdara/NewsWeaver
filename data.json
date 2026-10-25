@@ -656638,5 +656638,11 @@
         "url": "https://t3x.org/bits/doomed/index.html",
         "timestamp": "2026-10-25T12:44:45.989505",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mozilla reported HTTP2Shell with proof of RCE in April",
+        "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2029458",
+        "timestamp": "2026-10-25T12:44:45.989520",
+        "source": "Hacker News"
     }
 ]
