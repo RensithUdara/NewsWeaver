@@ -656692,5 +656692,11 @@
         "url": "https://blog.lohr.dev/hello-world-contd",
         "timestamp": "2026-10-25T12:44:45.989637",
         "source": "Hacker News"
+    },
+    {
+        "title": "Partial Operator Precedence",
+        "url": "https://ziglang.org/devlog/2026/#2026-10-24",
+        "timestamp": "2026-10-25T12:44:45.989651",
+        "source": "Hacker News"
     }
 ]
