@@ -656794,5 +656794,11 @@
         "url": "https://news.ycombinator.com/item?id=50232407",
         "timestamp": "2026-10-25T16:50:13.675516",
         "source": "Hacker News"
+    },
+    {
+        "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
+        "url": "https://broccoli2shell.com/",
+        "timestamp": "2026-10-25T16:50:13.675541",
+        "source": "Hacker News"
     }
 ]
