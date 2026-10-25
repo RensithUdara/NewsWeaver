@@ -657520,5 +657520,11 @@
         "url": "https://latent.space/p/ai-is-getting-good-at-math/",
         "timestamp": "2026-10-25T23:42:46.157804",
         "source": "Hacker News"
+    },
+    {
+        "title": "Securing a DuckDB Server in Production",
+        "url": "https://blog.starlake.ai/securing-duckdb-server-in-production",
+        "timestamp": "2026-10-25T23:42:46.157837",
+        "source": "Hacker News"
     }
 ]
