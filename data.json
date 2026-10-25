@@ -656350,5 +656350,11 @@
         "url": "https://notpalantir.eu/",
         "timestamp": "2026-10-25T07:37:45.477403",
         "source": "Hacker News"
+    },
+    {
+        "title": "Prompt Injection Techniques Every Red Teamer Should Test",
+        "url": "https://fdzdev.medium.com/20-prompt-injection-techniques-every-red-teamer-should-test-b22359bfd57d",
+        "timestamp": "2026-10-25T07:37:45.477423",
+        "source": "Hacker News"
     }
 ]
