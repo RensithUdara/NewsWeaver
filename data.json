@@ -657970,5 +657970,11 @@
         "url": "https://github.com/caotic123/PyMagic/",
         "timestamp": "2026-10-26T07:00:55.807985",
         "source": "Hacker News"
+    },
+    {
+        "title": "When a glibc update accidentally breaks Chromium's audio (2021)",
+        "url": "https://refi64.dev/posts/chromium-audio-break.html",
+        "timestamp": "2026-10-26T07:00:55.808015",
+        "source": "Hacker News"
     }
 ]
