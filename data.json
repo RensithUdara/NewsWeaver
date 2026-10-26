@@ -659164,5 +659164,11 @@
         "url": "https://www.youtube.com/watch?v=_Xe2JAoMwIA",
         "timestamp": "2026-10-26T23:27:10.057845",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cross-request KV cache leakage in SGLang PD disaggregation",
+        "url": "https://www.lmsys.org/blog/2026-10-26-cf-security/",
+        "timestamp": "2026-10-26T23:27:10.057864",
+        "source": "Hacker News"
     }
 ]
