@@ -658726,5 +658726,11 @@
         "url": "https://news.ycombinator.com/item?id=50249836",
         "timestamp": "2026-10-26T19:52:33.126720",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scaling self-hosted Convex: compilation of TypeScript Convex functions into WASM",
+        "url": "https://convex-in-prod.github.io/posts/convex-wasm-compiler/",
+        "timestamp": "2026-10-26T19:52:33.126738",
+        "source": "Hacker News"
     }
 ]
