@@ -657964,5 +657964,11 @@
         "url": "https://github.com/ykisana/skill-spotter",
         "timestamp": "2026-10-26T07:00:55.807968",
         "source": "Hacker News"
+    },
+    {
+        "title": "A tiny Python library/DSL to construct Python formal models",
+        "url": "https://github.com/caotic123/PyMagic/",
+        "timestamp": "2026-10-26T07:00:55.807985",
+        "source": "Hacker News"
     }
 ]
