@@ -658666,5 +658666,11 @@
         "url": "https://initlabs.si/",
         "timestamp": "2026-10-26T19:52:33.126524",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hacker News Semantic Map",
+        "url": "https://atlas.nomic.ai/data/andrewgao22/hacker-news/map",
+        "timestamp": "2026-10-26T19:52:33.126556",
+        "source": "Hacker News"
     }
 ]
