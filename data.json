@@ -657874,5 +657874,11 @@
         "url": "https://titleart.dvy.io/",
         "timestamp": "2026-10-26T07:00:55.586169",
         "source": "Hacker News"
+    },
+    {
+        "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+        "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+        "timestamp": "2026-10-26T07:00:55.586203",
+        "source": "Hacker News"
     }
 ]
