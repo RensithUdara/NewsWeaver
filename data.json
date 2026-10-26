@@ -658534,5 +658534,11 @@
         "url": "https://wordpress-1242695-4567563.cloudwaysapps.com/using-and-styling-the-dialog-element/",
         "timestamp": "2026-10-26T14:08:05.713490",
         "source": "CSS-Tricks"
+    },
+    {
+        "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
+        "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+        "timestamp": "2026-10-26T19:52:32.914220",
+        "source": "Hacker News"
     }
 ]
