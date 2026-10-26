@@ -658114,5 +658114,11 @@
         "url": "https://blocks.manifold3d.ch/",
         "timestamp": "2026-10-26T14:08:03.327684",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fixing Tool-Call Accuracy in vLLM",
+        "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+        "timestamp": "2026-10-26T14:08:03.327762",
+        "source": "Hacker News"
     }
 ]
