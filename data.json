@@ -658996,5 +658996,11 @@
         "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
         "timestamp": "2026-10-26T23:27:09.986491",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+        "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+        "timestamp": "2026-10-26T23:27:09.986556",
+        "source": "Hacker News"
     }
 ]
