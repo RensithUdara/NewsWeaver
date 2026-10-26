@@ -657772,5 +657772,11 @@
         "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
         "timestamp": "2026-10-26T01:45:39.595507",
         "source": "Hacker News"
+    },
+    {
+        "title": "Setup Home Lab Static Website: Rasp Pi, Astro, Nginx Proxy Mgmt, Cloudflare",
+        "url": "https://blog.jacq.cc/guides/static-blog-raspberry-pi-nginx-proxy-manager-cloudflare/",
+        "timestamp": "2026-10-26T01:45:39.595531",
+        "source": "Hacker News"
     }
 ]
