@@ -659194,5 +659194,11 @@
         "url": "https://www.brangus.io/survival-llm",
         "timestamp": "2026-10-26T23:27:10.057949",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Limits of Fingerprint Blocklists: A Reproducible Java Certificate Bypass",
+        "url": "https://www.sonatype.com/blog/the-limits-of-fingerprint-blocklists-a-reproducible-java-certificate-bypass",
+        "timestamp": "2026-10-26T23:27:10.057968",
+        "source": "Hacker News"
     }
 ]
