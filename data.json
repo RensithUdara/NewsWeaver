@@ -659152,5 +659152,11 @@
         "url": "https://jennywanger.com/articles/get-your-hair-wet/",
         "timestamp": "2026-10-26T23:27:10.057806",
         "source": "Hacker News"
+    },
+    {
+        "title": "A hardcoded C++ standard broke the One Definition Rule",
+        "url": "https://train-it.eu/blog/hardcoded-cpp-standard-odr-violation/",
+        "timestamp": "2026-10-26T23:27:10.057825",
+        "source": "Hacker News"
     }
 ]
