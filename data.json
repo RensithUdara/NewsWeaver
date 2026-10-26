@@ -659020,5 +659020,11 @@
         "url": "https://github.com/FrigadeHQ/hob",
         "timestamp": "2026-10-26T23:27:09.986694",
         "source": "Hacker News"
+    },
+    {
+        "title": "Native Prometheus Integration with Nginx",
+        "url": "https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/",
+        "timestamp": "2026-10-26T23:27:09.986733",
+        "source": "Hacker News"
     }
 ]
