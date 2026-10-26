@@ -658660,5 +658660,11 @@
         "url": "https://www.youtube.com/watch?v=0Gi5Z51KdUE",
         "timestamp": "2026-10-26T19:52:32.914776",
         "source": "Hacker News"
+    },
+    {
+        "title": "Init – a Rust agent harness that recompiles and hot-swaps its own core mid-task",
+        "url": "https://initlabs.si/",
+        "timestamp": "2026-10-26T19:52:33.126524",
+        "source": "Hacker News"
     }
 ]
