@@ -658180,5 +658180,11 @@
         "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/topics/app-store-distribution-and-marketing/app-store-distribution-and-marketing-app-review",
         "timestamp": "2026-10-26T14:08:03.503874",
         "source": "Hacker News"
+    },
+    {
+        "title": "Markdown Is the New Executable: Attackers Drop Agent Instructions into Downloads",
+        "url": "https://forever.security/blog/hijacking-ai-agents-via-downloads-folder/",
+        "timestamp": "2026-10-26T14:08:03.503926",
+        "source": "Hacker News"
     }
 ]
