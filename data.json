@@ -659992,5 +659992,11 @@
         "url": "https://www.theguardian.com/commentisfree/2026/oct/27/defund-elon-musk",
         "timestamp": "2026-10-27T18:59:28.312536",
         "source": "Hacker News"
+    },
+    {
+        "title": "Popcorn 1.0 Released: Moving from AtomVM to Full Erlang VM",
+        "url": "https://swmansion.com/blog/popcorn-1-0-moving-from-atom-vm-to-otp-beam/",
+        "timestamp": "2026-10-27T18:59:28.312565",
+        "source": "Hacker News"
     }
 ]
