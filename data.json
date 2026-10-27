@@ -659272,5 +659272,11 @@
         "url": "https://tiltmeter.dev/",
         "timestamp": "2026-10-27T02:15:21.615063",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: How do you handle time-series metrics at scale without a large bill?",
+        "url": "https://news.ycombinator.com/item?id=50253890",
+        "timestamp": "2026-10-27T02:15:21.615106",
+        "source": "Hacker News"
     }
 ]
