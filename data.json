@@ -659278,5 +659278,11 @@
         "url": "https://news.ycombinator.com/item?id=50253890",
         "timestamp": "2026-10-27T02:15:21.615106",
         "source": "Hacker News"
+    },
+    {
+        "title": "Avoiding Dirty Reads: Umem-Cache Achieves Strong Consistency",
+        "url": "https://github.com/imchuncai/umem-cache/blob/master/Documentation/consistency.rst",
+        "timestamp": "2026-10-27T02:15:21.615142",
+        "source": "Hacker News"
     }
 ]
