@@ -659746,5 +659746,11 @@
         "url": "https://news.ycombinator.com/item?id=50259219",
         "timestamp": "2026-10-27T13:44:40.208703",
         "source": "Hacker News"
+    },
+    {
+        "title": "SqueakJS – A Squeak VM in JavaScript",
+        "url": "https://squeak.js.org/demo/simple.html",
+        "timestamp": "2026-10-27T13:44:40.208753",
+        "source": "Hacker News"
     }
 ]
