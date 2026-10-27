@@ -659518,5 +659518,11 @@
         "url": "https://asonix.io",
         "timestamp": "2026-10-27T07:54:08.415617",
         "source": "Hacker News"
+    },
+    {
+        "title": "Repairing Broken Access Control in Web Applications with LLMs",
+        "url": "https://arxiv.org/abs/2610.34290",
+        "timestamp": "2026-10-27T07:54:08.415648",
+        "source": "Hacker News"
     }
 ]
