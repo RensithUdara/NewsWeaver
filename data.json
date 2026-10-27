@@ -660124,5 +660124,11 @@
         "url": "https://idratherbewriting.com/blog/make-documentation-agent-friendly",
         "timestamp": "2026-10-27T18:59:28.313143",
         "source": "Hacker News"
+    },
+    {
+        "title": "New CodeRabbit Features: Security Agents for Multi-Repo Deep Scans",
+        "url": "https://www.coderabbit.ai/blog/coderabbit-secure-cross-repository-security",
+        "timestamp": "2026-10-27T18:59:28.313170",
+        "source": "Hacker News"
     }
 ]
