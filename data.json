@@ -660514,5 +660514,11 @@
         "url": "https://www.agno.com/blog/towards-self-improving-agent-infrastructure",
         "timestamp": "2026-10-27T22:52:20.344695",
         "source": "Hacker News"
+    },
+    {
+        "title": "SOML: A Config Format for Humans",
+        "url": "https://github.com/soml-lang/soml",
+        "timestamp": "2026-10-27T22:52:20.344727",
+        "source": "Hacker News"
     }
 ]
