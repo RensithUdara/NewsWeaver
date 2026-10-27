@@ -659560,5 +659560,11 @@
         "url": "https://play.google.com/store/apps/details?id=com.sentiomind&hl=en_US",
         "timestamp": "2026-10-27T07:54:08.415862",
         "source": "Hacker News"
+    },
+    {
+        "title": "DoveORM – Small, security-hardened Python ORM with built-in migrations",
+        "url": "https://github.com/imaradesk/doveorm",
+        "timestamp": "2026-10-27T07:54:08.415896",
+        "source": "Hacker News"
     }
 ]
