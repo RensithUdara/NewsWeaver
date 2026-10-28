@@ -660934,5 +660934,11 @@
         "url": "https://seekstar.app",
         "timestamp": "2026-10-28T07:43:13.377172",
         "source": "Hacker News"
+    },
+    {
+        "title": "Discovering and exploiting vulnerabilities in critical software with Claude",
+        "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+        "timestamp": "2026-10-28T07:43:13.377188",
+        "source": "Hacker News"
     }
 ]
