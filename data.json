@@ -661180,5 +661180,11 @@
         "url": "https://support.apple.com/en-us/149555",
         "timestamp": "2026-10-28T14:31:21.670697",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making SIMD Code Scale to Any Vector Width",
+        "url": "https://streamhpc.com/blog/2026-10-28/making-simd-code-scale-to-any-vector-width/",
+        "timestamp": "2026-10-28T14:31:21.754424",
+        "source": "Hacker News"
     }
 ]
