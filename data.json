@@ -660616,5 +660616,11 @@
         "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
         "timestamp": "2026-10-28T01:54:40.723602",
         "source": "Hacker News"
+    },
+    {
+        "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+        "url": "https://github.com/maharmstone/moxnox",
+        "timestamp": "2026-10-28T01:54:40.723689",
+        "source": "Hacker News"
     }
 ]
