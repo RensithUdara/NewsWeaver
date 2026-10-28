@@ -661264,5 +661264,11 @@
         "url": "https://worksinprogress.co/issue/chinas-growth-machine/",
         "timestamp": "2026-10-28T14:31:21.754963",
         "source": "Hacker News"
+    },
+    {
+        "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+        "url": "https://divagr.com/blog/qwenputer",
+        "timestamp": "2026-10-28T14:31:21.754994",
+        "source": "Hacker News"
     }
 ]
