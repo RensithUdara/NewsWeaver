@@ -661498,5 +661498,11 @@
         "url": "https://arxiv.org/abs/2610.36341",
         "timestamp": "2026-10-28T19:49:16.497681",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+        "timestamp": "2026-10-28T19:49:16.497745",
+        "source": "Hacker News"
     }
 ]
