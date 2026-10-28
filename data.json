@@ -661696,5 +661696,11 @@
         "url": "https://dev.to/aws-builders/mcp-token-cost-i-cut-my-mcp-server-from-15-tools-to-4-cek",
         "timestamp": "2026-10-28T19:49:16.978708",
         "source": "Dev.to"
+    },
+    {
+        "title": "MQTT Doesn't Have Message Queues. Inside the 2-Byte Protocol Powering Modern IoT.",
+        "url": "https://dev.to/smtahosin/mqtt-doesnt-have-message-queues-inside-the-2-byte-protocol-powering-modern-iot-161",
+        "timestamp": "2026-10-28T19:49:16.978709",
+        "source": "Dev.to"
     }
 ]
