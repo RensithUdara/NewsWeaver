@@ -661282,5 +661282,11 @@
         "url": "https://www.reuters.com/investigates/special-report/usa-data-centers-unions/",
         "timestamp": "2026-10-28T14:31:21.755067",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cisco open-sources Project Quarry, a detection language for AI agent behavior",
+        "url": "https://blogs.cisco.com/ai/project-quarry-agent-security-detections",
+        "timestamp": "2026-10-28T14:31:21.755100",
+        "source": "Hacker News"
     }
 ]
