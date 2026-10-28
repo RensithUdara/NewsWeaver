@@ -661300,5 +661300,11 @@
         "url": "https://news.ycombinator.com/item?id=50273976",
         "timestamp": "2026-10-28T14:31:21.755165",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Sulci – a semantic cache that knows when not to answer",
+        "url": "https://github.com/sulci-io/sulci-oss",
+        "timestamp": "2026-10-28T14:31:21.755197",
+        "source": "Hacker News"
     }
 ]
