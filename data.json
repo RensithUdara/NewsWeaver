@@ -663010,5 +663010,11 @@
         "url": "https://github.com/lonthq/overtone-captions",
         "timestamp": "2026-10-29T20:40:15.387223",
         "source": "Hacker News"
+    },
+    {
+        "title": "noalloc: Tooling and libraries to enforce zero heap allocations in Golang",
+        "url": "https://github.com/theconsensuslabs/noalloc",
+        "timestamp": "2026-10-29T20:40:15.387315",
+        "source": "Hacker News"
     }
 ]
