@@ -662692,5 +662692,11 @@
         "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
         "timestamp": "2026-10-29T15:49:10.538668",
         "source": "Hacker News"
+    },
+    {
+        "title": "MCP tools should disclose LLM and external API dependencies",
+        "url": "https://santurcesoftware.com/mcp-tools-should-disclose-llm-and-api-calls",
+        "timestamp": "2026-10-29T15:49:10.538701",
+        "source": "Hacker News"
     }
 ]
