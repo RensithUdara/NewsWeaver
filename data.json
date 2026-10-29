@@ -662056,5 +662056,11 @@
         "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
         "timestamp": "2026-10-28T23:38:04.479046",
         "source": "TechCrunch"
+    },
+    {
+        "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+        "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+        "timestamp": "2026-10-29T02:48:35.895984",
+        "source": "Hacker News"
     }
 ]
