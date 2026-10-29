@@ -662296,5 +662296,11 @@
         "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
         "timestamp": "2026-10-29T08:57:35.351333",
         "source": "Hacker News"
+    },
+    {
+        "title": "A new faster algorithm to compute 64-bit signed floor division",
+        "url": "https://www.benjoffe.com/fast-floordiv",
+        "timestamp": "2026-10-29T08:57:35.351436",
+        "source": "Hacker News"
     }
 ]
