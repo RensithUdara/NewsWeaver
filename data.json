@@ -662242,5 +662242,11 @@
         "url": "https://3pm.ninja/",
         "timestamp": "2026-10-29T02:48:35.958929",
         "source": "Hacker News"
+    },
+    {
+        "title": "A zero-dependency auditor for AI agent exposure (secrets, SSH, configs)",
+        "url": "https://ai-agent-antivirus.space/",
+        "timestamp": "2026-10-29T02:48:35.958944",
+        "source": "Hacker News"
     }
 ]
