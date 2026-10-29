@@ -662980,5 +662980,11 @@
         "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
         "timestamp": "2026-10-29T20:40:15.387028",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
+        "url": "https://github.com/emmilco/us-tax-model",
+        "timestamp": "2026-10-29T20:40:15.387063",
+        "source": "Hacker News"
     }
 ]
