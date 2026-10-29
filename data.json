@@ -662128,5 +662128,11 @@
         "url": "https://deep-learning-alchemy.github.io/",
         "timestamp": "2026-10-29T02:48:35.958476",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agentic CI/CD with Azure Cosmos DB: Isolated Envs for a Swarm of AI Agents",
+        "url": "https://devblogs.microsoft.com/cosmosdb/agentic-ci-cd-with-azure-cosmos-db-isolated-environments-for-a-swarm-of-ai-agents/",
+        "timestamp": "2026-10-29T02:48:35.958492",
+        "source": "Hacker News"
     }
 ]
