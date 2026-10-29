@@ -662740,5 +662740,11 @@
         "url": "https://brianbriscoe.dev/blog/i-tested-39-llms-on-solving-rubiks-cubes",
         "timestamp": "2026-10-29T15:49:10.538950",
         "source": "Hacker News"
+    },
+    {
+        "title": "From 22 GB to 5.3 GB: all of Hacker News, searchable offline",
+        "url": "https://discuss.ai.google.dev/t/searching-all-of-hacker-news-with-embeddinggemma-2-on-a-laptop-49-3m-items-5-3-gb/196641",
+        "timestamp": "2026-10-29T15:49:10.538990",
+        "source": "Hacker News"
     }
 ]
