@@ -662350,5 +662350,11 @@
         "url": "https://aetheriammorpg.online/",
         "timestamp": "2026-10-29T08:57:35.606541",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cache Me If You Can: XSS in Cloudflare's /CDN-CGI/Image/",
+        "url": "https://www.slcyber.io/research/cache-me-if-you-can-xss-in-cloudflares-cdn-cgi-image",
+        "timestamp": "2026-10-29T08:57:35.606561",
+        "source": "Hacker News"
     }
 ]
