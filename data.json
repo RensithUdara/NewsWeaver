@@ -662398,5 +662398,11 @@
         "url": "https://hackaday.com/2026/10/28/does-running-an-e-paper-display-at-30-fps-destroy-it/",
         "timestamp": "2026-10-29T08:57:35.606742",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Mist – a tool pairing SAST and Fuzzing for smarter Bug Hunting",
+        "url": "https://github.com/alessandroPalazzolo/mist",
+        "timestamp": "2026-10-29T08:57:35.606761",
+        "source": "Hacker News"
     }
 ]
