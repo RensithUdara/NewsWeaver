@@ -662314,5 +662314,11 @@
         "url": "https://smsofdeath.com/",
         "timestamp": "2026-10-29T08:57:35.351478",
         "source": "Hacker News"
+    },
+    {
+        "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
+        "url": "https://dmux.github.io/minilake/",
+        "timestamp": "2026-10-29T08:57:35.351590",
+        "source": "Hacker News"
     }
 ]
