@@ -662254,5 +662254,11 @@
         "url": "https://lwn.net/SubscriberLink/1102738/e124c97f934a717e/",
         "timestamp": "2026-10-29T02:48:35.958973",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A Prolog-powered reverse WAF logic perimeter with SIMD acceleration",
+        "url": "https://prologwaf.site/",
+        "timestamp": "2026-10-29T02:48:35.958994",
+        "source": "Hacker News"
     }
 ]
