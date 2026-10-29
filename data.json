@@ -662596,5 +662596,11 @@
         "url": "https://trakkr.ai/trakkr-research/zombie-stats",
         "timestamp": "2026-10-29T15:49:10.293687",
         "source": "Hacker News"
+    },
+    {
+        "title": "Java's new AOT cache feature is in a rough state",
+        "url": "https://xpipe.io/blog/java-aot-cache",
+        "timestamp": "2026-10-29T15:49:10.293721",
+        "source": "Hacker News"
     }
 ]
