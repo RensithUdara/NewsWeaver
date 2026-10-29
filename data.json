@@ -663064,5 +663064,11 @@
         "url": "https://www.pulsetoday.co.uk/news/breaking-news/gp-practices-websites-taken-down-after-company-enters-administration/",
         "timestamp": "2026-10-29T20:40:15.532696",
         "source": "Hacker News"
+    },
+    {
+        "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+        "url": "https://github.com/SheepSeb/tinyworldformer",
+        "timestamp": "2026-10-29T20:40:15.532720",
+        "source": "Hacker News"
     }
 ]
