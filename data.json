@@ -664420,5 +664420,11 @@
         "url": "https://www.youtube.com/watch?v=m7hL3bVoUuQ",
         "timestamp": "2026-10-30T18:13:48.422951",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI review of the research of Emmanuel Saez and Gabriel Zucman",
+        "url": "https://saez-zucman-audit-replication.vercel.app/",
+        "timestamp": "2026-10-30T18:13:48.422970",
+        "source": "Hacker News"
     }
 ]
