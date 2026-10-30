@@ -663790,5 +663790,11 @@
         "url": "https://www.youtube.com/watch?v=J5lwZU7Q5U0",
         "timestamp": "2026-10-30T06:07:03.336452",
         "source": "Hacker News"
+    },
+    {
+        "title": "Radio-in-a-box: Self-hosted internet radio with Icecast, Liquidsoap and Rust CLI",
+        "url": "https://github.com/skorotkiewicz/radio-in-a-box",
+        "timestamp": "2026-10-30T06:07:03.336484",
+        "source": "Hacker News"
     }
 ]
