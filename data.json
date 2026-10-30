@@ -664210,5 +664210,11 @@
         "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
         "timestamp": "2026-10-30T18:13:48.186798",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Working Nintendo in ~1GB of Qwen Weights",
+        "url": "https://github.com/dbreunig/nesformer",
+        "timestamp": "2026-10-30T18:13:48.186819",
+        "source": "Hacker News"
     }
 ]
