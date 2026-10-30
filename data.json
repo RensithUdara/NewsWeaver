@@ -664372,5 +664372,11 @@
         "url": "https://www.mnhn.fr/fr/concours-litteraire-artistes",
         "timestamp": "2026-10-30T18:13:48.422766",
         "source": "Hacker News"
+    },
+    {
+        "title": "An open-source firewall for the next LiteLLM attack",
+        "url": "https://www.strix.ai/blog/firewall-announcement",
+        "timestamp": "2026-10-30T18:13:48.422787",
+        "source": "Hacker News"
     }
 ]
