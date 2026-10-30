@@ -664756,5 +664756,11 @@
         "url": "https://www.theguardian.com/us-news/2026/oct/28/jared-kushner-book-claims",
         "timestamp": "2026-10-30T22:22:30.740070",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a honeypot for LLMs, will a agent take the bait?",
+        "url": "https://victorribeiro.com/bots/",
+        "timestamp": "2026-10-30T22:22:30.740102",
+        "source": "Hacker News"
     }
 ]
