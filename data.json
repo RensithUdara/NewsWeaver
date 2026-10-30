@@ -664744,5 +664744,11 @@
         "url": "https://www.afr.com/technology/inside-the-biggest-feud-in-artificial-intelligence-20261026-p618lx",
         "timestamp": "2026-10-30T22:22:30.740007",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Fail2Ban Notifier",
+        "url": "https://github.com/eyeskiller/fail2ban-notifier",
+        "timestamp": "2026-10-30T22:22:30.740038",
+        "source": "Hacker News"
     }
 ]
