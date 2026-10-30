@@ -663634,5 +663634,11 @@
         "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
         "timestamp": "2026-10-30T06:07:03.110575",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+        "url": "https://github.com/Millillion/lasm",
+        "timestamp": "2026-10-30T06:07:03.110860",
+        "source": "Hacker News"
     }
 ]
