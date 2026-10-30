@@ -663496,5 +663496,11 @@
         "url": "https://broutonlab.com/blog/deterministic-ai/",
         "timestamp": "2026-10-30T00:25:52.273824",
         "source": "Hacker News"
+    },
+    {
+        "title": "An Open Field Guide to Inference Engineering",
+        "url": "https://docs.modelplane.ai/main/guides/inference_guide",
+        "timestamp": "2026-10-30T00:25:52.273847",
+        "source": "Hacker News"
     }
 ]
