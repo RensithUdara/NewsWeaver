@@ -663628,5 +663628,11 @@
         "url": "https://github.com/picocss/pico/discussions/754",
         "timestamp": "2026-10-30T06:07:03.110508",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+        "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
+        "timestamp": "2026-10-30T06:07:03.110575",
+        "source": "Hacker News"
     }
 ]
