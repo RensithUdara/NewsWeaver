@@ -664204,5 +664204,11 @@
         "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
         "timestamp": "2026-10-30T18:13:48.186775",
         "source": "Hacker News"
+    },
+    {
+        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+        "timestamp": "2026-10-30T18:13:48.186798",
+        "source": "Hacker News"
     }
 ]
