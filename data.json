@@ -664804,5 +664804,11 @@
         "url": "https://www.chainalysis.com/blog/security-incident-october-30/",
         "timestamp": "2026-10-30T22:22:30.740377",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ggwave – Data-over-Sound Library",
+        "url": "https://github.com/ggerganov/ggwave",
+        "timestamp": "2026-10-30T22:22:30.740412",
+        "source": "Hacker News"
     }
 ]
