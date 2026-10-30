@@ -664060,5 +664060,11 @@
         "url": "https://commanding-heights.com/",
         "timestamp": "2026-10-30T12:43:22.250713",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cookie expiry capping for CNAME cloaking should not apply to YouTube and Google",
+        "url": "https://github.com/WebKit/WebKit/pull/78492",
+        "timestamp": "2026-10-30T12:43:22.250749",
+        "source": "Hacker News"
     }
 ]
