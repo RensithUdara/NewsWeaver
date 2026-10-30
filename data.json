@@ -664378,5 +664378,11 @@
         "url": "https://www.strix.ai/blog/firewall-announcement",
         "timestamp": "2026-10-30T18:13:48.422787",
         "source": "Hacker News"
+    },
+    {
+        "title": "How we detect frontier model misalignment",
+        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
+        "timestamp": "2026-10-30T18:13:48.422808",
+        "source": "Hacker News"
     }
 ]
