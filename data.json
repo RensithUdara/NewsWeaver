@@ -663676,5 +663676,11 @@
         "url": "https://www.euronews.com/2026/10/29/eu-lawmakers-press-beijing-to-rein-in-exports-during-beijing-visit",
         "timestamp": "2026-10-30T06:07:03.335792",
         "source": "Hacker News"
+    },
+    {
+        "title": "Experimenting with Bindless Textures in WebGPU",
+        "url": "https://toji.dev/2026/10/06/webgpu-bindless.html",
+        "timestamp": "2026-10-30T06:07:03.335827",
+        "source": "Hacker News"
     }
 ]
