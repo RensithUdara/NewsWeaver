@@ -663514,5 +663514,11 @@
         "url": "https://cra.mr/a-little-determinism/",
         "timestamp": "2026-10-30T00:25:52.273888",
         "source": "Hacker News"
+    },
+    {
+        "title": "Critical TCP use-after-free: CVE-2026-98432",
+        "url": "https://www.rescana.com/post/linux-kernel-tcp-cve-2026-98432-use-after-free-prepare-now",
+        "timestamp": "2026-10-30T00:25:52.273908",
+        "source": "Hacker News"
     }
 ]
