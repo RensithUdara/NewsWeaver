@@ -663832,5 +663832,11 @@
         "url": "https://twitter.com/youhatefive/status/2115847903696527589",
         "timestamp": "2026-10-30T06:07:03.336674",
         "source": "Hacker News"
+    },
+    {
+        "title": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken",
+        "url": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
+        "timestamp": "2026-10-30T06:07:03.918585",
+        "source": "Dev.to"
     }
 ]
