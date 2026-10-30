@@ -664324,5 +664324,11 @@
         "url": "https://github.com/primemindai/macmonitor",
         "timestamp": "2026-10-30T18:13:48.422580",
         "source": "Hacker News"
+    },
+    {
+        "title": "ExLisp: A Lisp implementation running on Elixir / BEAM",
+        "url": "https://github.com/nakagami/exlisp",
+        "timestamp": "2026-10-30T18:13:48.422619",
+        "source": "Hacker News"
     }
 ]
