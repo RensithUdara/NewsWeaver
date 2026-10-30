@@ -663772,5 +663772,11 @@
         "url": "https://www.marutpandya.com/posts/2026/10/my-mac-started-reading-json-aloud/",
         "timestamp": "2026-10-30T06:07:03.336328",
         "source": "Hacker News"
+    },
+    {
+        "title": "Who needs VMs? Run systemd and full Linux desktop apps in gVisor",
+        "url": "https://gvisor.dev/blog/2026/09/17/systemd-in-gvisor/",
+        "timestamp": "2026-10-30T06:07:03.336360",
+        "source": "Hacker News"
     }
 ]
