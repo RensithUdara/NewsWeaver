@@ -663742,5 +663742,11 @@
         "url": "https://zyvop.com/",
         "timestamp": "2026-10-30T06:07:03.336164",
         "source": "Hacker News"
+    },
+    {
+        "title": "Trojanized Claude Code Extension Plants an SSH Backdoor",
+        "url": "https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor",
+        "timestamp": "2026-10-30T06:07:03.336201",
+        "source": "Hacker News"
     }
 ]
