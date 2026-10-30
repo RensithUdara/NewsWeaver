@@ -664246,5 +664246,11 @@
         "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
         "timestamp": "2026-10-30T18:13:48.186963",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Spinf-serve – inference server for bulk scoring and decisions",
+        "url": "https://github.com/spinfinc/spinf-serve",
+        "timestamp": "2026-10-30T18:13:48.186984",
+        "source": "Hacker News"
     }
 ]
