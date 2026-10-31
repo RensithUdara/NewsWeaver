@@ -665194,5 +665194,11 @@
         "url": "http://adaged.blogspot.com/2020/04/good-writing-is-business-advantage.html",
         "timestamp": "2026-10-31T07:30:58.138101",
         "source": "Hacker News"
+    },
+    {
+        "title": "Non-autoregressive NC LLM spits tokens 21x faster than text diffusion",
+        "url": "https://hazyresearch.stanford.edu/blog/2026-10-12-ncm",
+        "timestamp": "2026-10-31T07:30:58.138132",
+        "source": "Hacker News"
     }
 ]
