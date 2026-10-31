@@ -666322,5 +666322,11 @@
         "url": "https://github.com/dctian/google-photo-wallpaper",
         "timestamp": "2026-10-31T23:57:30.163485",
         "source": "Hacker News"
+    },
+    {
+        "title": "Speeding up GPU copies by permuting iteration spaces",
+        "url": "https://futhark-lang.org/blog/2026-10-31-faster-copying.html",
+        "timestamp": "2026-10-31T23:57:30.163515",
+        "source": "Hacker News"
     }
 ]
