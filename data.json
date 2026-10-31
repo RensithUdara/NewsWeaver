@@ -665740,5 +665740,11 @@
         "url": "https://web.archive.org/web/20120121035139/http://ycombinator.com/rfs9.html",
         "timestamp": "2026-10-31T17:58:11.889209",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cloudflare: Tracking exploitation and patching of eMudhra's weak keys",
+        "url": "https://blog.cloudflare.com/emudhra-patching/",
+        "timestamp": "2026-10-31T17:58:11.889226",
+        "source": "Hacker News"
     }
 ]
