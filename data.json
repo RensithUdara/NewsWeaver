@@ -666070,5 +666070,11 @@
         "url": "https://cloudy.chat/",
         "timestamp": "2026-10-31T20:59:15.727411",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Haskell processor running on an FPGA",
+        "url": "https://bathtub-01.github.io/technical/ouros-demo/",
+        "timestamp": "2026-10-31T20:59:15.727445",
+        "source": "Hacker News"
     }
 ]
