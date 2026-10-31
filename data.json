@@ -665488,5 +665488,11 @@
         "url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
         "timestamp": "2026-10-31T13:49:29.006851",
         "source": "Hacker News"
+    },
+    {
+        "title": "DeepSeek open-sources dsh-superagent, a coding agent largely built by agents",
+        "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+        "timestamp": "2026-10-31T13:49:29.006885",
+        "source": "Hacker News"
     }
 ]
