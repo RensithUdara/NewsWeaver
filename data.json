@@ -665248,5 +665248,11 @@
         "url": "https://news.ycombinator.com/item?id=50313645",
         "timestamp": "2026-10-31T07:30:58.138380",
         "source": "Hacker News"
+    },
+    {
+        "title": "Automated Subtle Emergent Misalignment Research",
+        "url": "https://alignment.anthropic.com/2026/automated-em-search/",
+        "timestamp": "2026-10-31T07:30:58.138417",
+        "source": "Hacker News"
     }
 ]
