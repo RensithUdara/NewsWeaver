@@ -666196,5 +666196,11 @@
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
         "timestamp": "2026-10-31T23:57:29.987656",
         "source": "Hacker News"
+    },
+    {
+        "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+        "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+        "timestamp": "2026-10-31T23:57:29.987854",
+        "source": "Hacker News"
     }
 ]
