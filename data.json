@@ -665914,5 +665914,11 @@
         "url": "https://karpathy.bearblog.dev/hacker-tube/",
         "timestamp": "2026-10-31T20:59:15.482411",
         "source": "Hacker News"
+    },
+    {
+        "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+        "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+        "timestamp": "2026-10-31T20:59:15.482467",
+        "source": "Hacker News"
     }
 ]
