@@ -666100,5 +666100,11 @@
         "url": "https://www.jpl.nasa.gov/news/nasas-voyager-1-conserves-power-resolves-brief-communications-pause/",
         "timestamp": "2026-10-31T20:59:15.727568",
         "source": "Hacker News"
+    },
+    {
+        "title": "macOS 27 Golden Gate does not support CoreStorage or HFS+ volumes",
+        "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+        "timestamp": "2026-10-31T20:59:15.727614",
+        "source": "Hacker News"
     }
 ]
