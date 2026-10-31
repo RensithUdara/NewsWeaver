@@ -665602,5 +665602,11 @@
         "url": "https://github.com/ImranR98/Obtainium",
         "timestamp": "2026-10-31T13:49:29.007552",
         "source": "Hacker News"
+    },
+    {
+        "title": "Semgrep and SonarQube found zero of 232 access-control bugs",
+        "url": "https://medium.com/meetcyber/semgrep-and-sonarqube-found-zero-of-232-access-control-bugs-1c17c6b76395",
+        "timestamp": "2026-10-31T13:49:29.007582",
+        "source": "Hacker News"
     }
 ]
