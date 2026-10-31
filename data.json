@@ -664888,5 +664888,11 @@
         "url": "https://tng.episodle.com/",
         "timestamp": "2026-10-31T01:41:19.585072",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cloudflare Turnstile solver library (no headless browser required)",
+        "url": "https://github.com/chris124567/cfsolve",
+        "timestamp": "2026-10-31T01:41:19.585131",
+        "source": "Hacker News"
     }
 ]
