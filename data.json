@@ -667426,5 +667426,11 @@
         "url": "https://www.youtube.com/watch?v=M97H4umU3pE",
         "timestamp": "2026-11-01T21:07:47.676476",
         "source": "Hacker News"
+    },
+    {
+        "title": "FerroUI a cross-platform UI framework for Rust",
+        "url": "https://ferroui.github.io/website/",
+        "timestamp": "2026-11-01T21:07:47.676507",
+        "source": "Hacker News"
     }
 ]
