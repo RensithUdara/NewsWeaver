@@ -666802,5 +666802,11 @@
         "url": "https://www.sciencedaily.com/releases/2015/12/151209091224.htm",
         "timestamp": "2026-11-01T11:12:51.607156",
         "source": "Hacker News"
+    },
+    {
+        "title": "QwenPU: An LLM running inside another LLM's weights",
+        "url": "https://huggingface.co/divagr1925/QwenPU",
+        "timestamp": "2026-11-01T11:12:51.607222",
+        "source": "Hacker News"
     }
 ]
