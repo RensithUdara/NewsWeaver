@@ -666478,5 +666478,11 @@
         "url": "https://blog.rodmena.com/entry/cve_2026_98432_and_the_ipv4_options_nobody_sends",
         "timestamp": "2026-11-01T04:07:31.351565",
         "source": "Hacker News"
+    },
+    {
+        "title": "Do you still need embeddings for semantic search? - my little experiment",
+        "url": "https://internals.laxmena.com/p/can-an-llm-and-a-keyword-index-replace",
+        "timestamp": "2026-11-01T04:07:31.351598",
+        "source": "Hacker News"
     }
 ]
