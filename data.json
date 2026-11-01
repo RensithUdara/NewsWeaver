@@ -667030,5 +667030,11 @@
         "url": "https://www.nature.com/articles/d41586-026-03248-z",
         "timestamp": "2026-11-01T17:07:18.684289",
         "source": "Hacker News"
+    },
+    {
+        "title": "GPUlayer: Train PyTorch on every GPU you can reach-faster than PyTorch Lightning",
+        "url": "https://www.gpulayer.dev/",
+        "timestamp": "2026-11-01T17:07:18.684324",
+        "source": "Hacker News"
     }
 ]
