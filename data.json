@@ -666814,5 +666814,11 @@
         "url": "https://github.com/fl0ri0/fruth",
         "timestamp": "2026-11-01T11:12:51.607257",
         "source": "Hacker News"
+    },
+    {
+        "title": "Avoid Public Functions Calling Other Public Functions",
+        "url": "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
+        "timestamp": "2026-11-01T11:12:51.607294",
+        "source": "Hacker News"
     }
 ]
