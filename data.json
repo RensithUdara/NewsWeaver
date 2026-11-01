@@ -666400,5 +666400,11 @@
         "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
         "timestamp": "2026-11-01T04:07:31.276388",
         "source": "Hacker News"
+    },
+    {
+        "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+        "url": "https://arxiv.org/abs/2409.02292",
+        "timestamp": "2026-11-01T04:07:31.276454",
+        "source": "Hacker News"
     }
 ]
