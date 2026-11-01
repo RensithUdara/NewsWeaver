@@ -667312,5 +667312,11 @@
         "url": "https://news.ycombinator.com/item?id=50329840",
         "timestamp": "2026-11-01T21:07:47.675798",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Epochnbd – Crash-Consistent Linux NBD Block Device on GCS/Google Drive",
+        "url": "https://github.com/c789a123/epochnbd",
+        "timestamp": "2026-11-01T21:07:47.675836",
+        "source": "Hacker News"
     }
 ]
