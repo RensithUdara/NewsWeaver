@@ -666988,5 +666988,11 @@
         "url": "https://news.ycombinator.com/item?id=50326727",
         "timestamp": "2026-11-01T17:07:18.540702",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+        "url": "https://github.com/ivankovic/omnidiff",
+        "timestamp": "2026-11-01T17:07:18.540764",
+        "source": "Hacker News"
     }
 ]
