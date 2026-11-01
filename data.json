@@ -666466,5 +666466,11 @@
         "url": "https://zeitgame.net/archives/17619",
         "timestamp": "2026-11-01T04:07:31.351490",
         "source": "Hacker News"
+    },
+    {
+        "title": "Vroot – Instant, daemonless root sandboxes from a single flag",
+        "url": "https://github.com/gairxx/vroot/tree/main",
+        "timestamp": "2026-11-01T04:07:31.351529",
+        "source": "Hacker News"
     }
 ]
