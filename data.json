@@ -667102,5 +667102,11 @@
         "url": "https://github.com/talos-kernel/Talos/releases/tag/v0.20.0-rc.2",
         "timestamp": "2026-11-01T17:07:18.684695",
         "source": "Hacker News"
+    },
+    {
+        "title": "Proper Playwright Project Structure",
+        "url": "https://software-testing-tutorials-automation.com/2026/04/playwright-project-structure-typescript.html",
+        "timestamp": "2026-11-01T17:07:18.684756",
+        "source": "Hacker News"
     }
 ]
