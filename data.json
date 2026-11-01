@@ -667318,5 +667318,11 @@
         "url": "https://github.com/c789a123/epochnbd",
         "timestamp": "2026-11-01T21:07:47.675836",
         "source": "Hacker News"
+    },
+    {
+        "title": "ATmega-compatible 8-bit core in SystemVerilog on Skywater 130nm",
+        "url": "https://github.com/wkoszek/akmega",
+        "timestamp": "2026-11-01T21:07:47.675868",
+        "source": "Hacker News"
     }
 ]
