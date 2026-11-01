@@ -666808,5 +666808,11 @@
         "url": "https://huggingface.co/divagr1925/QwenPU",
         "timestamp": "2026-11-01T11:12:51.607222",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fruth – A semantic state inference engine for AI",
+        "url": "https://github.com/fl0ri0/fruth",
+        "timestamp": "2026-11-01T11:12:51.607257",
+        "source": "Hacker News"
     }
 ]
