@@ -666676,5 +666676,11 @@
         "url": "https://unsung.aresluna.org/pac-mans-siren-call/",
         "timestamp": "2026-11-01T11:12:51.365248",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenIDEA: The IDE you know, rebuilt in Rust",
+        "url": "https://github.com/l0ng-ai/openidea",
+        "timestamp": "2026-11-01T11:12:51.365408",
+        "source": "Hacker News"
     }
 ]
