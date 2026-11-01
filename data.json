@@ -667246,5 +667246,11 @@
         "url": "https://github.com/raphlinus/nibnib",
         "timestamp": "2026-11-01T21:07:47.521269",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tips for more effective fuzz testing with AFL++",
+        "url": "https://nullprogram.com/blog/2025/02/05/",
+        "timestamp": "2026-11-01T21:07:47.521363",
+        "source": "Hacker News"
     }
 ]
