@@ -667600,5 +667600,11 @@
         "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
         "timestamp": "2026-11-02T00:36:39.952039",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dispatch: A local GUI for manually running GitHub Actions workflows",
+        "url": "https://github.com/skorotkiewicz/dispatch-workflows",
+        "timestamp": "2026-11-02T00:36:39.952069",
+        "source": "Hacker News"
     }
 ]
