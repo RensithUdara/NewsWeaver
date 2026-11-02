@@ -668086,5 +668086,11 @@
         "url": "https://medium.com/bits-and-behavior/how-to-drown-an-expert-b2a7f35274b8",
         "timestamp": "2026-11-02T16:34:01.624483",
         "source": "Hacker News"
+    },
+    {
+        "title": "How Android Apps Leak Device Identifiers Across the Native–Web Boundary",
+        "url": "https://sohom.dev/writeups/cross-boundary-mobile-tracking",
+        "timestamp": "2026-11-02T16:34:01.624513",
+        "source": "Hacker News"
     }
 ]
