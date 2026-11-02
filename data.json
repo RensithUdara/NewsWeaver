@@ -668170,5 +668170,11 @@
         "url": "https://huggingface.co/KoljaB/backchannel-cue-32m",
         "timestamp": "2026-11-02T16:34:01.624762",
         "source": "Hacker News"
+    },
+    {
+        "title": "Trick or Type Guard? Surviving `unknown` with is-kit 🎃",
+        "url": "https://dev.to/nyaomaru/trick-or-type-guard-surviving-unknown-with-is-kit-4oc2",
+        "timestamp": "2026-11-02T16:34:01.738870",
+        "source": "Dev.to"
     }
 ]
