@@ -667564,5 +667564,11 @@
         "url": "https://www.pnas.org/doi/10.1073/pnas.2620747123",
         "timestamp": "2026-11-02T00:36:39.951856",
         "source": "Hacker News"
+    },
+    {
+        "title": "What does Nix see when it reads a shell.nix?",
+        "url": "https://www.labcraft.dev/blog/nix-expressions",
+        "timestamp": "2026-11-02T00:36:39.951886",
+        "source": "Hacker News"
     }
 ]
