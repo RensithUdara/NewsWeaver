@@ -668530,5 +668530,11 @@
         "url": "https://www.collaboraonline.com/",
         "timestamp": "2026-11-02T23:39:29.379684",
         "source": "Hacker News"
+    },
+    {
+        "title": "Beating Tailscale with Userspace IPsec",
+        "url": "https://ranet3.com/benchmarks/",
+        "timestamp": "2026-11-02T23:39:29.379704",
+        "source": "Hacker News"
     }
 ]
