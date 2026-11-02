@@ -667732,5 +667732,11 @@
         "url": "https://news.ycombinator.com/user?id=oliversant",
         "timestamp": "2026-11-02T06:44:49.506413",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rocky Linux Creator Built a New 'Not Linux' Kernel in 11 Days Using AI",
+        "url": "https://github.com/gmkurtzer/ginux",
+        "timestamp": "2026-11-02T06:44:49.506429",
+        "source": "Hacker News"
     }
 ]
