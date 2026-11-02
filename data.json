@@ -667912,5 +667912,11 @@
         "url": "https://news.ycombinator.com/item?id=50338728",
         "timestamp": "2026-11-02T16:34:01.418592",
         "source": "Hacker News"
+    },
+    {
+        "title": "We halved DNS build delay and cut memory use by 85%",
+        "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+        "timestamp": "2026-11-02T16:34:01.418614",
+        "source": "Hacker News"
     }
 ]
