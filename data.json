@@ -668512,5 +668512,11 @@
         "url": "https://medium.com/@vektormemory/vektor-2-0-4-hacker-news-books-videos-added-node-js-sqlite-security-upgrades-0a47d13d75f1",
         "timestamp": "2026-11-02T23:39:29.379615",
         "source": "Hacker News"
+    },
+    {
+        "title": "cvise: Super-parallel Python port of C-Reduce",
+        "url": "https://github.com/marxin/cvise",
+        "timestamp": "2026-11-02T23:39:29.379642",
+        "source": "Hacker News"
     }
 ]
