@@ -668380,5 +668380,11 @@
         "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
         "timestamp": "2026-11-02T23:39:29.309725",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+        "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+        "timestamp": "2026-11-02T23:39:29.309747",
+        "source": "Hacker News"
     }
 ]
