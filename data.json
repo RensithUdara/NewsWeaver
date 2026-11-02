@@ -668188,5 +668188,11 @@
         "url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af",
         "timestamp": "2026-11-02T16:34:01.738872",
         "source": "Dev.to"
+    },
+    {
+        "title": "MoE Offloading Isn’t Always Faster: I Tested 5 Models on a 16GB GPU",
+        "url": "https://dev.to/sizzlebop/moe-offloading-isnt-always-faster-i-tested-5-models-on-a-16gb-gpu-498a",
+        "timestamp": "2026-11-02T16:34:01.738874",
+        "source": "Dev.to"
     }
 ]
