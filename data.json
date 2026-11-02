@@ -667996,5 +667996,11 @@
         "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
         "timestamp": "2026-11-02T16:34:01.419036",
         "source": "Hacker News"
+    },
+    {
+        "title": "A 37KB deterministic embedded C malware classifier with 34ns latency",
+        "url": "https://www.secwest.net/realigned/presentations/open-the-box-not-the-weights-a-two-tier-disclosure-model-for-auditable-edge-security-engines",
+        "timestamp": "2026-11-02T16:34:01.624181",
+        "source": "Hacker News"
     }
 ]
