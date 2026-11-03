@@ -669130,5 +669130,11 @@
         "url": "https://app.dealroom.co/news/feed/crowdstrike-launches-ai-kill-switch-to-terminate-rogue-ai-agents",
         "timestamp": "2026-11-03T11:50:06.708753",
         "source": "Hacker News"
+    },
+    {
+        "title": "BudHist Benchmark: Testing the Knowledge of Buddhist History in Open-Weight LLMs",
+        "url": "https://mbingenheimer.net/budhistbenchmark/",
+        "timestamp": "2026-11-03T11:50:06.708776",
+        "source": "Hacker News"
     }
 ]
