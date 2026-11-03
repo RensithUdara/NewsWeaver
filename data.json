@@ -668752,5 +668752,11 @@
         "url": "https://arxiv.org/abs/2608.25820",
         "timestamp": "2026-11-03T04:00:18.875443",
         "source": "Hacker News"
+    },
+    {
+        "title": "V100 SXM2 pinout and NVLink reference",
+        "url": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
+        "timestamp": "2026-11-03T04:00:18.875629",
+        "source": "Hacker News"
     }
 ]
