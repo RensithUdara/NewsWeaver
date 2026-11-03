@@ -669064,5 +669064,11 @@
         "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
         "timestamp": "2026-11-03T11:50:06.645438",
         "source": "Hacker News"
+    },
+    {
+        "title": "Slurm GPU scheduling, orchestration and execution: what each layer does",
+        "url": "https://nodeox.com/blog/gpu-scheduling-orchestration-execution",
+        "timestamp": "2026-11-03T11:50:06.708497",
+        "source": "Hacker News"
     }
 ]
