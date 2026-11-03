@@ -669598,5 +669598,11 @@
         "url": "https://hn-recommends.vercel.app/",
         "timestamp": "2026-11-03T18:40:41.532607",
         "source": "Hacker News"
+    },
+    {
+        "title": "Death Comes for XSLT",
+        "url": "https://dbushell.com/2026/11/03/xslt-rip/",
+        "timestamp": "2026-11-03T18:40:41.532645",
+        "source": "Hacker News"
     }
 ]
