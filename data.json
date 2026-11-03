@@ -669970,5 +669970,11 @@
         "url": "https://compend.org/",
         "timestamp": "2026-11-03T23:42:26.847167",
         "source": "Hacker News"
+    },
+    {
+        "title": "FlashProve: Zero-knowledge proofs of AI inference",
+        "url": "https://github.com/anthropics/FlashProve",
+        "timestamp": "2026-11-03T23:42:26.847198",
+        "source": "Hacker News"
     }
 ]
