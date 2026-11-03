@@ -669352,5 +669352,11 @@
         "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
         "timestamp": "2026-11-03T18:40:41.315405",
         "source": "Hacker News"
+    },
+    {
+        "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+        "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+        "timestamp": "2026-11-03T18:40:41.315484",
+        "source": "Hacker News"
     }
 ]
