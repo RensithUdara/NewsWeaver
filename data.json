@@ -669094,5 +669094,11 @@
         "url": "https://www.youtube.com/watch?v=VW_NUH-6kv0",
         "timestamp": "2026-11-03T11:50:06.708614",
         "source": "Hacker News"
+    },
+    {
+        "title": "Max-severity bug in widely used OT programming tool exploited to deliver malware",
+        "url": "https://www.theregister.com/security/2026/11/02/max-severity-bug-in-widely-used-ot-programming-tool-exploited-to-deliver-linux-malware/5307086",
+        "timestamp": "2026-11-03T11:50:06.708640",
+        "source": "Hacker News"
     }
 ]
