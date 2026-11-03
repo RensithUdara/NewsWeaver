@@ -669034,5 +669034,11 @@
         "url": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
         "timestamp": "2026-11-03T11:50:06.645126",
         "source": "Hacker News"
+    },
+    {
+        "title": "433MHz TUI scanner: using a FT232H connected to a CC1101",
+        "url": "https://blog.jacq.cc/guides/cc1101-433mhz-scanner-ft232h/",
+        "timestamp": "2026-11-03T11:50:06.645214",
+        "source": "Hacker News"
     }
 ]
