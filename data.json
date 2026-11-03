@@ -669100,5 +669100,11 @@
         "url": "https://www.theregister.com/security/2026/11/02/max-severity-bug-in-widely-used-ot-programming-tool-exploited-to-deliver-linux-malware/5307086",
         "timestamp": "2026-11-03T11:50:06.708640",
         "source": "Hacker News"
+    },
+    {
+        "title": "Grouped Value Attention: Efficient KV Caching via On-Demand Key Reconstruction",
+        "url": "https://arxiv.org/abs/2609.13285",
+        "timestamp": "2026-11-03T11:50:06.708662",
+        "source": "Hacker News"
     }
 ]
