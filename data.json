@@ -669550,5 +669550,11 @@
         "url": "https://arxiv.org/abs/2610.40700",
         "timestamp": "2026-11-03T18:40:41.532311",
         "source": "Hacker News"
+    },
+    {
+        "title": "Voxl: Fast remote desktop streaming written in Rust",
+        "url": "https://github.com/tembo/voxl",
+        "timestamp": "2026-11-03T18:40:41.532343",
+        "source": "Hacker News"
     }
 ]
