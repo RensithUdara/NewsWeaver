@@ -669988,5 +669988,11 @@
         "url": "https://statsig.substack.com/p/deepseek-flash-v41-explained-through",
         "timestamp": "2026-11-03T23:42:26.847259",
         "source": "Hacker News"
+    },
+    {
+        "title": "How your transcript knows where each word is spoken",
+        "url": "https://elevenlabs.io/blog/cue-aligner",
+        "timestamp": "2026-11-03T23:42:26.847291",
+        "source": "Hacker News"
     }
 ]
