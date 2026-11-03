@@ -669592,5 +669592,11 @@
         "url": "https://zachholman.com/posts/angel-investor-death",
         "timestamp": "2026-11-03T18:40:41.532571",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Every book, film and game HN has recommended since 2006",
+        "url": "https://hn-recommends.vercel.app/",
+        "timestamp": "2026-11-03T18:40:41.532607",
+        "source": "Hacker News"
     }
 ]
