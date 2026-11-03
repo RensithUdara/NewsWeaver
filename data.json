@@ -669040,5 +669040,11 @@
         "url": "https://blog.jacq.cc/guides/cc1101-433mhz-scanner-ft232h/",
         "timestamp": "2026-11-03T11:50:06.645214",
         "source": "Hacker News"
+    },
+    {
+        "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
+        "url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
+        "timestamp": "2026-11-03T11:50:06.645235",
+        "source": "Hacker News"
     }
 ]
