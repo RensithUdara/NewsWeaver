@@ -669898,5 +669898,11 @@
         "url": "https://sw.kovidgoyal.net/kitty/changelog/#id1",
         "timestamp": "2026-11-03T23:42:26.846791",
         "source": "Hacker News"
+    },
+    {
+        "title": "What a Compromised VS Code Extension Could Do Before You Write a Line of Code",
+        "url": "https://octri.dev/blog/compromised-vs-code-extension",
+        "timestamp": "2026-11-03T23:42:26.846822",
+        "source": "Hacker News"
     }
 ]
