@@ -668776,5 +668776,11 @@
         "url": "https://nflscorigami.com/",
         "timestamp": "2026-11-03T04:00:19.127892",
         "source": "Hacker News"
+    },
+    {
+        "title": "What can an LLM build with only 32 CPU instructions?",
+        "url": "https://github.com/AlwaysFocus/picos",
+        "timestamp": "2026-11-03T04:00:19.127944",
+        "source": "Hacker News"
     }
 ]
