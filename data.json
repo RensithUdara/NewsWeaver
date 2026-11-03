@@ -669394,5 +669394,11 @@
         "url": "https://honnibal.dev/blog/astra-read-write-misleading",
         "timestamp": "2026-11-03T18:40:41.315820",
         "source": "Hacker News"
+    },
+    {
+        "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+        "url": "https://arxiv.org/abs/2611.02618",
+        "timestamp": "2026-11-03T18:40:41.315852",
+        "source": "Hacker News"
     }
 ]
