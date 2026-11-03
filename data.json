@@ -669628,5 +669628,11 @@
         "url": "https://www.veludocs.com/blog/building-a-help-center-pipeline/",
         "timestamp": "2026-11-03T18:40:41.532775",
         "source": "Hacker News"
+    },
+    {
+        "title": "StateBench: Testing how language models track state changes over long documents",
+        "url": "https://allenai.org/blog/statebench",
+        "timestamp": "2026-11-03T18:40:41.532806",
+        "source": "Hacker News"
     }
 ]
