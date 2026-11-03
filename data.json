@@ -669874,5 +669874,11 @@
         "url": "https://alonbochman.substack.com/p/seven-things-i-believed-about-coding",
         "timestamp": "2026-11-03T23:42:26.846644",
         "source": "Hacker News"
+    },
+    {
+        "title": "Craft CMS 5.12.0: Added an authenticated HTTP MCP server",
+        "url": "https://github.com/craftcms/cms/releases/tag/5.12.0",
+        "timestamp": "2026-11-03T23:42:26.846685",
+        "source": "Hacker News"
     }
 ]
