@@ -668818,5 +668818,11 @@
         "url": "https://www.databricks.com/blog/open-table-formats",
         "timestamp": "2026-11-03T04:00:19.128189",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mass attempted replication of old findings of LLMs with new models",
+        "url": "https://zou-group.github.io/llm-claims-shelf-life/",
+        "timestamp": "2026-11-03T04:00:19.128221",
+        "source": "Hacker News"
     }
 ]
