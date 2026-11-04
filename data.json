@@ -670522,5 +670522,11 @@
         "url": "https://news.ycombinator.com/item?id=50363685",
         "timestamp": "2026-11-04T11:09:57.025094",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Tab Trail, a bookmarklet that draws a page's tab order and finds gaps",
+        "url": "https://matjazkorosec.com/tools/tab-trail",
+        "timestamp": "2026-11-04T11:09:57.025110",
+        "source": "Hacker News"
     }
 ]
