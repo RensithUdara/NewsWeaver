@@ -670492,5 +670492,11 @@
         "url": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
         "timestamp": "2026-11-04T11:09:57.024999",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running quantum circuits inside llama.cpp",
+        "url": "https://github.com/dakk/qullama",
+        "timestamp": "2026-11-04T11:09:57.025014",
+        "source": "Hacker News"
     }
 ]
