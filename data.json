@@ -670366,5 +670366,11 @@
         "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
         "timestamp": "2026-11-04T11:09:56.834208",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+        "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+        "timestamp": "2026-11-04T11:09:56.834247",
+        "source": "Hacker News"
     }
 ]
