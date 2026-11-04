@@ -670390,5 +670390,11 @@
         "url": "https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb",
         "timestamp": "2026-11-04T11:09:56.834301",
         "source": "Hacker News"
+    },
+    {
+        "title": "Told to reboot a server, it destroyed systemd, destroyed containers, ran random",
+        "url": "https://github.com/openai/codex/issues/59060",
+        "timestamp": "2026-11-04T11:09:56.834318",
+        "source": "Hacker News"
     }
 ]
