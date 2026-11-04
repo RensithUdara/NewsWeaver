@@ -670408,5 +670408,11 @@
         "url": "https://milkman.dev/",
         "timestamp": "2026-11-04T11:09:56.834348",
         "source": "Hacker News"
+    },
+    {
+        "title": "The lost malloc()",
+        "url": "https://napcakes.nekoweb.org/posts/malloc/",
+        "timestamp": "2026-11-04T11:09:56.834391",
+        "source": "Hacker News"
     }
 ]
