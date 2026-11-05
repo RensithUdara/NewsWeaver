@@ -671068,5 +671068,11 @@
         "url": "https://dev.to/varshithvhegde/codex-was-torching-your-ssd-and-nobody-noticed-for-months-4c5h",
         "timestamp": "2026-11-05T19:17:54.383053",
         "source": "Dev.to"
+    },
+    {
+        "title": "Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Signals, and Direct DOM Mutations Actually Work Under the Hood",
+        "url": "https://dev.to/smtahosin/svelte-5-isnt-pure-compiler-magic-how-runes-fine-grained-signals-and-direct-dom-mutations-36a3",
+        "timestamp": "2026-11-05T19:17:54.383056",
+        "source": "Dev.to"
     }
 ]
