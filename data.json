@@ -670954,5 +670954,11 @@
         "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
         "timestamp": "2026-11-05T19:17:54.309447",
         "source": "Hacker News"
+    },
+    {
+        "title": "Distributed Inference Benchmarks: [K]Inference vs. Plain Kubernetes",
+        "url": "https://www.buoyant.io/blog/distributed-inference-benchmarks-kinference-vs-plain-kubernetes",
+        "timestamp": "2026-11-05T19:17:54.309466",
+        "source": "Hacker News"
     }
 ]
