@@ -671470,5 +671470,11 @@
         "url": "https://kimjongun.vc/",
         "timestamp": "2026-11-05T22:47:47.626787",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Simulating three LA wildfires in the browser with WebGPU",
+        "url": "https://mattduran.dev/firedemo/fire/woolsey-2018",
+        "timestamp": "2026-11-05T22:47:47.626820",
+        "source": "Hacker News"
     }
 ]
