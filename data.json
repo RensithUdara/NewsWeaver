@@ -671368,5 +671368,11 @@
         "url": "https://eunomia.dev/agentsight/",
         "timestamp": "2026-11-05T22:47:47.626187",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dbt-lineage – see what a dbt change breaks, without a warehouse",
+        "url": "https://github.com/sipemu/dbt-lineage-viewer",
+        "timestamp": "2026-11-05T22:47:47.626221",
+        "source": "Hacker News"
     }
 ]
