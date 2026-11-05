@@ -671320,5 +671320,11 @@
         "url": "https://www.tandfonline.com/doi/full/10.1080/00031305.2026.2742880",
         "timestamp": "2026-11-05T22:47:47.625923",
         "source": "Hacker News"
+    },
+    {
+        "title": "VibeSys on Trainium: Agents Build/Tune Qwen3.8 Serving Engines on AWS Trainium2",
+        "url": "https://syfi.cs.washington.edu/blog/2026-11-04-vibesys-trainium/",
+        "timestamp": "2026-11-05T22:47:47.625958",
+        "source": "Hacker News"
     }
 ]
