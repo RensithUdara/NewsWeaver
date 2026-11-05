@@ -670960,5 +670960,11 @@
         "url": "https://www.buoyant.io/blog/distributed-inference-benchmarks-kinference-vs-plain-kubernetes",
         "timestamp": "2026-11-05T19:17:54.309466",
         "source": "Hacker News"
+    },
+    {
+        "title": "The platform for inference, training, and execution",
+        "url": "https://www.baseten.co/blog/the-building-blocks-of-the-open-frontier",
+        "timestamp": "2026-11-05T19:17:54.309494",
+        "source": "Hacker News"
     }
 ]
