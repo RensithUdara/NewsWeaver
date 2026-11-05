@@ -670690,5 +670690,11 @@
         "url": "https://sshhole.com",
         "timestamp": "2026-11-05T19:17:54.174217",
         "source": "Hacker News"
+    },
+    {
+        "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+        "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+        "timestamp": "2026-11-05T19:17:54.174256",
+        "source": "Hacker News"
     }
 ]
