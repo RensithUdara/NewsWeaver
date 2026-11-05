@@ -670774,5 +670774,11 @@
         "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
         "timestamp": "2026-11-05T19:17:54.174544",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+        "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+        "timestamp": "2026-11-05T19:17:54.174564",
+        "source": "Hacker News"
     }
 ]
