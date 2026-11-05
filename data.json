@@ -670750,5 +670750,11 @@
         "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
         "timestamp": "2026-11-05T19:17:54.174460",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+        "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+        "timestamp": "2026-11-05T19:17:54.174482",
+        "source": "Hacker News"
     }
 ]
