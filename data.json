@@ -671260,5 +671260,11 @@
         "url": "https://kagi.com/changelog",
         "timestamp": "2026-11-05T22:47:47.381590",
         "source": "Hacker News"
+    },
+    {
+        "title": "MS Paint Remote Code Execution Vulnerability",
+        "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+        "timestamp": "2026-11-05T22:47:47.381645",
+        "source": "Hacker News"
     }
 ]
