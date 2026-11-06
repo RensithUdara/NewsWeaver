@@ -672610,5 +672610,11 @@
         "url": "https://halfnarp.events.ccc.de",
         "timestamp": "2026-11-06T22:21:13.403042",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+        "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+        "timestamp": "2026-11-06T22:21:13.403084",
+        "source": "Hacker News"
     }
 ]
