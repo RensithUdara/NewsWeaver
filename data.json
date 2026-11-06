@@ -672526,5 +672526,11 @@
         "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
         "timestamp": "2026-11-06T22:21:13.402758",
         "source": "Hacker News"
+    },
+    {
+        "title": "Firecracker VM Escape: PwnEscape Part 2",
+        "url": "https://pwn.ai/blog/firecracker-escape",
+        "timestamp": "2026-11-06T22:21:13.402777",
+        "source": "Hacker News"
     }
 ]
