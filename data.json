@@ -672760,5 +672760,11 @@
         "url": "https://journalistic.tech/",
         "timestamp": "2026-11-06T22:21:13.605601",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Realtime sync engine without any new infra",
+        "url": "https://github.com/tanishqkancharla/tandem",
+        "timestamp": "2026-11-06T22:21:13.605615",
+        "source": "Hacker News"
     }
 ]
