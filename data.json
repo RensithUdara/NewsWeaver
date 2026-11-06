@@ -671560,5 +671560,11 @@
         "url": "https://www.fgc.org.br/comunicado",
         "timestamp": "2026-11-06T02:51:57.034421",
         "source": "Hacker News"
+    },
+    {
+        "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+        "url": "https://github.com/matthewmrichter/mooftcp",
+        "timestamp": "2026-11-06T02:51:57.034452",
+        "source": "Hacker News"
     }
 ]
