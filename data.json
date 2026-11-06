@@ -671812,5 +671812,11 @@
         "url": "https://pwn.college/",
         "timestamp": "2026-11-06T10:12:19.954378",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nvidia Kubernetes Engine (NVKE)",
+        "url": "https://github.com/dsx-ai-factory/nvke",
+        "timestamp": "2026-11-06T10:12:19.954391",
+        "source": "Hacker News"
     }
 ]
