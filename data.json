@@ -672268,5 +672268,11 @@
         "url": "https://news.ycombinator.com/item?id=50395390",
         "timestamp": "2026-11-06T17:31:31.756353",
         "source": "Hacker News"
+    },
+    {
+        "title": "Just how far can the FOR UPDATE SKIP LOCKED Postgres queue go?",
+        "url": "https://garbagecollected.io/posts/postgres-task-queue-where-it-breaks/",
+        "timestamp": "2026-11-06T17:31:31.756369",
+        "source": "Hacker News"
     }
 ]
