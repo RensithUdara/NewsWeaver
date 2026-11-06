@@ -671608,5 +671608,11 @@
         "url": "https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests",
         "timestamp": "2026-11-06T02:51:57.269881",
         "source": "Hacker News"
+    },
+    {
+        "title": "Native Shell is a native UI framework built in Rust",
+        "url": "https://github.com/longbridge/nsh",
+        "timestamp": "2026-11-06T02:51:57.269930",
+        "source": "Hacker News"
     }
 ]
