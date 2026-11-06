@@ -671722,5 +671722,11 @@
         "url": "http://ruina.tam.cornell.edu/Book/",
         "timestamp": "2026-11-06T02:51:57.270865",
         "source": "Hacker News"
+    },
+    {
+        "title": "Moving a Go CMS to encoding/JSON/v2",
+        "url": "https://hatamoto.dev/post/moving-hatamoto-to-encoding-json-v2",
+        "timestamp": "2026-11-06T02:51:57.270926",
+        "source": "Hacker News"
     }
 ]
