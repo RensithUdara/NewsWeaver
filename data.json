@@ -672580,5 +672580,11 @@
         "url": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
         "timestamp": "2026-11-06T22:21:13.402959",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+        "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
+        "timestamp": "2026-11-06T22:21:13.402973",
+        "source": "Hacker News"
     }
 ]
