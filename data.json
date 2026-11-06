@@ -671542,5 +671542,11 @@
         "url": "https://thinkingmachines.ai/news/inkling-2-small/",
         "timestamp": "2026-11-06T02:51:57.034131",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+        "url": "https://firenook.dev/",
+        "timestamp": "2026-11-06T02:51:57.034261",
+        "source": "Hacker News"
     }
 ]
