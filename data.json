@@ -672172,5 +672172,11 @@
         "url": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
         "timestamp": "2026-11-06T17:31:31.495972",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+        "url": "https://github.com/anomalyco/rune",
+        "timestamp": "2026-11-06T17:31:31.495987",
+        "source": "Hacker News"
     }
 ]
