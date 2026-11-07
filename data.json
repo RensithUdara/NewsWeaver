@@ -673264,5 +673264,11 @@
         "url": "https://sheets.works/data-viz/cpu-dies",
         "timestamp": "2026-11-07T08:41:48.636857",
         "source": "Hacker News"
+    },
+    {
+        "title": "A lighter and less costly SDD workflow comapared to openspec",
+        "url": "https://github.com/iswalterwu/dev-circuit-ultra",
+        "timestamp": "2026-11-07T08:41:48.636872",
+        "source": "Hacker News"
     }
 ]
