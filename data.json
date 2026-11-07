@@ -673930,5 +673930,11 @@
         "url": "https://psuvanguard.com/the-death-of-the-natural-soundscape/",
         "timestamp": "2026-11-07T19:27:38.766993",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fixing IDN hostname validation in a Java JSON Schema library (IDNA2003 → 2008)",
+        "url": "https://news.ycombinator.com/item?id=50406931",
+        "timestamp": "2026-11-07T19:27:38.767024",
+        "source": "Hacker News"
     }
 ]
