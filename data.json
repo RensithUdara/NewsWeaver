@@ -673858,5 +673858,11 @@
         "url": "https://www.milieu.cloud/blog/from-the-server-to-sqlite-to-reactive-svelte-state",
         "timestamp": "2026-11-07T19:27:38.766608",
         "source": "Hacker News"
+    },
+    {
+        "title": "Flash C – Open-source C Compiler and (Turbo-C like) IDE for Linux x86-64",
+        "url": "https://github.com/dilshan/flash-c",
+        "timestamp": "2026-11-07T19:27:38.766641",
+        "source": "Hacker News"
     }
 ]
