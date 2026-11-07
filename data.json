@@ -672952,5 +672952,11 @@
         "url": "https://a90.com/experiments/88x31/",
         "timestamp": "2026-11-07T02:07:58.820071",
         "source": "Hacker News"
+    },
+    {
+        "title": "GitHub's new Git storage architecture",
+        "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+        "timestamp": "2026-11-07T02:07:58.820084",
+        "source": "Hacker News"
     }
 ]
