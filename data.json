@@ -673984,5 +673984,11 @@
         "url": "https://biodiorama.com/",
         "timestamp": "2026-11-07T19:27:38.767301",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run",
+        "url": "https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g",
+        "timestamp": "2026-11-07T19:27:38.910524",
+        "source": "Dev.to"
     }
 ]
