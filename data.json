@@ -673054,5 +673054,11 @@
         "url": "https://prod.codes/blog/reverse-engineering-with-ai-your-decompiler-can-lie-to-you/",
         "timestamp": "2026-11-07T02:07:58.868796",
         "source": "Hacker News"
+    },
+    {
+        "title": "When Alexa can't answer, Claude takes over",
+        "url": "https://github.com/rg321/hey-claude",
+        "timestamp": "2026-11-07T02:07:58.868810",
+        "source": "Hacker News"
     }
 ]
