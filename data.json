@@ -673936,5 +673936,11 @@
         "url": "https://news.ycombinator.com/item?id=50406931",
         "timestamp": "2026-11-07T19:27:38.767024",
         "source": "Hacker News"
+    },
+    {
+        "title": "Trace-engine-CLI: analyse DevTools traces with agents",
+        "url": "https://github.com/ChromeDevTools/trace-engine-cli",
+        "timestamp": "2026-11-07T19:27:38.767055",
+        "source": "Hacker News"
     }
 ]
