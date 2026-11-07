@@ -673312,5 +673312,11 @@
         "url": "https://zenodo.org/records/24029901",
         "timestamp": "2026-11-07T08:41:48.636975",
         "source": "Hacker News"
+    },
+    {
+        "title": "GenAI generates GenAI – A Diffusion Model That Generates Neural Networks",
+        "url": "https://github.com/vagrillo/nngen",
+        "timestamp": "2026-11-07T08:41:48.636988",
+        "source": "Hacker News"
     }
 ]
