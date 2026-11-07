@@ -673798,5 +673798,11 @@
         "url": "https://www.sussi.dk/terry-pratchetts-study",
         "timestamp": "2026-11-07T19:27:38.697830",
         "source": "Hacker News"
+    },
+    {
+        "title": "ZeBridge – PostgreSQL replicas on devices, synchronized over NATS",
+        "url": "https://github.com/ndrean/ZeBridge",
+        "timestamp": "2026-11-07T19:27:38.697863",
+        "source": "Hacker News"
     }
 ]
