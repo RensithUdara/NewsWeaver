@@ -673066,5 +673066,11 @@
         "url": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
         "timestamp": "2026-11-07T02:07:58.868823",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: CLI calls spend their time starting up. I cut it by 4.5x, same output",
+        "url": "https://github.com/anthonyGosme/speedrunner",
+        "timestamp": "2026-11-07T02:07:58.868836",
+        "source": "Hacker News"
     }
 ]
