@@ -672940,5 +672940,11 @@
         "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
         "timestamp": "2026-11-07T02:07:58.820018",
         "source": "Hacker News"
+    },
+    {
+        "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+        "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+        "timestamp": "2026-11-07T02:07:58.820031",
+        "source": "Hacker News"
     }
 ]
