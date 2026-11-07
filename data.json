@@ -673198,5 +673198,11 @@
         "url": "https://github.com/AmpereComputing/panthera",
         "timestamp": "2026-11-07T08:41:48.506393",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+        "url": "https://github.com/andrewboldi/tmux-restore",
+        "timestamp": "2026-11-07T08:41:48.506422",
+        "source": "Hacker News"
     }
 ]
