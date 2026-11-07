@@ -673720,5 +673720,11 @@
         "url": "https://blog.bosscher.ch/posts/openstick/",
         "timestamp": "2026-11-07T19:27:38.697039",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+        "url": "https://github.com/hedgerow-dev/coldframe",
+        "timestamp": "2026-11-07T19:27:38.697075",
+        "source": "Hacker News"
     }
 ]
