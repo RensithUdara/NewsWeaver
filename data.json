@@ -673624,5 +673624,11 @@
         "url": "https://certadomain.com/en/index.html",
         "timestamp": "2026-11-07T15:12:08.283261",
         "source": "Hacker News"
+    },
+    {
+        "title": "One-day knowledge tests hide forgetting: LoRA 96% to 26.7% over four nights",
+        "url": "https://huggingface.co/datasets/fintanlabs/overnight-four-nights-2026-11",
+        "timestamp": "2026-11-07T15:12:08.283296",
+        "source": "Hacker News"
     }
 ]
