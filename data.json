@@ -674140,5 +674140,11 @@
         "url": "https://intrinsica.io/",
         "timestamp": "2026-11-07T22:54:32.767472",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
+        "url": "https://undeadly.org/cgi?action=article;sid=20261106104957",
+        "timestamp": "2026-11-07T22:54:32.767493",
+        "source": "Hacker News"
     }
 ]
