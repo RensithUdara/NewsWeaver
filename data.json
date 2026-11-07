@@ -674152,5 +674152,11 @@
         "url": "https://twitter.com/RichardSSutton/status/2119142310894334262",
         "timestamp": "2026-11-07T22:54:32.767515",
         "source": "Hacker News"
+    },
+    {
+        "title": "Enthusiast abandons self-hosted MS Exchange after 27 years, for Microsoft 365",
+        "url": "https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates",
+        "timestamp": "2026-11-07T22:54:32.767536",
+        "source": "Hacker News"
     }
 ]
