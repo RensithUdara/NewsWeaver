@@ -673252,5 +673252,11 @@
         "url": "https://github.com/OrcaSlicer/OrcaSlicer/releases/tag/v2.5.0",
         "timestamp": "2026-11-07T08:41:48.636829",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sonda – An open-source static analysis tool built in Rust",
+        "url": "https://www.sonda.sh/",
+        "timestamp": "2026-11-07T08:41:48.636843",
+        "source": "Hacker News"
     }
 ]
