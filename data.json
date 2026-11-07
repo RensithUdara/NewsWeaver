@@ -673474,5 +673474,11 @@
         "url": "https://ejfox.com/projects/nbc-big-board",
         "timestamp": "2026-11-07T15:12:08.208795",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
+        "url": "https://github.com/hyphatech/spindle",
+        "timestamp": "2026-11-07T15:12:08.208828",
+        "source": "Hacker News"
     }
 ]
