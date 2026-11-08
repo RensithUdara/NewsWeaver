@@ -675430,5 +675430,11 @@
         "url": "https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new",
         "timestamp": "2026-11-08T23:22:43.328515",
         "source": "Hacker News"
+    },
+    {
+        "title": "Six GPUs on One X16 Slot: R9700s and RTX 3090s Behind a PCIe Switch",
+        "url": "https://doug.sh/posts/six-gpus-one-x16-slot/",
+        "timestamp": "2026-11-08T23:22:43.328546",
+        "source": "Hacker News"
     }
 ]
