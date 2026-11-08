@@ -674800,5 +674800,11 @@
         "url": "https://krthr.co/person-of-interest/",
         "timestamp": "2026-11-08T15:34:30.123473",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agent memory needs its OpenTelemetry moment",
+        "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+        "timestamp": "2026-11-08T15:34:30.123616",
+        "source": "Hacker News"
     }
 ]
