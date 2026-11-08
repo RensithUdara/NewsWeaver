@@ -675334,5 +675334,11 @@
         "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
         "timestamp": "2026-11-08T23:22:43.152315",
         "source": "Hacker News"
+    },
+    {
+        "title": "Designing Rust APIs around KEM, AEAD and key derivation workflows",
+        "url": "https://github.com/lecodev-26/nexus-q",
+        "timestamp": "2026-11-08T23:22:43.152362",
+        "source": "Hacker News"
     }
 ]
