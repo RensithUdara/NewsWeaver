@@ -675400,5 +675400,11 @@
         "url": "https://www.aljazeera.com/news/2026/11/8/rent-a-grandchild-businesses-offering-companions-to-elderly-grow-in-india",
         "timestamp": "2026-11-08T23:22:43.328351",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI to find vulnerabilities in global legislation (on Git)",
+        "url": "https://github.com/lexifina/global-law/tree/main/vulnerabilities",
+        "timestamp": "2026-11-08T23:22:43.328384",
+        "source": "Hacker News"
     }
 ]
