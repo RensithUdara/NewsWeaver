@@ -674302,5 +674302,11 @@
         "url": "https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/",
         "timestamp": "2026-11-08T01:57:58.841430",
         "source": "Hacker News"
+    },
+    {
+        "title": "Harness adapters: Safe RL for efficient agentic development",
+        "url": "https://huggingface.co/blog/harness-hub/harness-adapters",
+        "timestamp": "2026-11-08T01:57:58.841463",
+        "source": "Hacker News"
     }
 ]
