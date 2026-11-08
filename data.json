@@ -674326,5 +674326,11 @@
         "url": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
         "timestamp": "2026-11-08T01:57:58.841534",
         "source": "Hacker News"
+    },
+    {
+        "title": "WebRTC for Node.js, React Native and Browser",
+        "url": "https://github.com/LuKks/webrtc-runtime",
+        "timestamp": "2026-11-08T01:57:58.841554",
+        "source": "Hacker News"
     }
 ]
