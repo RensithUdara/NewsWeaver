@@ -675322,5 +675322,11 @@
         "url": "https://chimera-vocal-synth.vercel.app/",
         "timestamp": "2026-11-08T23:22:43.152130",
         "source": "Hacker News"
+    },
+    {
+        "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+        "url": "https://ketchup3d.github.io/app/",
+        "timestamp": "2026-11-08T23:22:43.152254",
+        "source": "Hacker News"
     }
 ]
