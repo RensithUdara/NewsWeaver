@@ -674944,5 +674944,11 @@
         "url": "https://aircheck.dev",
         "timestamp": "2026-11-08T15:34:30.286967",
         "source": "Hacker News"
+    },
+    {
+        "title": "Interactive text adventure device on ESP32, e-ink, and Gemini",
+        "url": "https://github.com/Jeremy-Ngai-Sew-Poh/InkQuest-ESP32",
+        "timestamp": "2026-11-08T15:34:30.286986",
+        "source": "Hacker News"
     }
 ]
