@@ -674698,5 +674698,11 @@
         "url": "https://lens.maximos.work/",
         "timestamp": "2026-11-08T08:38:51.639268",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fourteen MB Hinglish STT pWER 29, stary words 2.3/100",
+        "url": "https://hitl.systems/models/lipi-hn/",
+        "timestamp": "2026-11-08T08:38:51.639293",
+        "source": "Hacker News"
     }
 ]
