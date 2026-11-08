@@ -675478,5 +675478,11 @@
         "url": "https://twitter.com/fabynou/status/2119534594794156300",
         "timestamp": "2026-11-08T23:22:43.328771",
         "source": "Hacker News"
+    },
+    {
+        "title": "N6k – Let users and agents run untrusted SQL on production databases",
+        "url": "https://github.com/n6k-io/n6kd",
+        "timestamp": "2026-11-08T23:22:43.328834",
+        "source": "Hacker News"
     }
 ]
