@@ -675100,5 +675100,11 @@
         "url": "https://0.security/",
         "timestamp": "2026-11-08T19:55:56.467946",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Minimalistic roguelike game about hiking in Clojure",
+        "url": "https://github.com/postboy/roguehike",
+        "timestamp": "2026-11-08T19:55:56.467995",
+        "source": "Hacker News"
     }
 ]
