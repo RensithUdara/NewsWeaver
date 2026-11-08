@@ -674830,5 +674830,11 @@
         "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
         "timestamp": "2026-11-08T15:34:30.123755",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mizu – zero-copy parallel R and Python over shared memory",
+        "url": "https://github.com/shikokuchuo/pymizu",
+        "timestamp": "2026-11-08T15:34:30.123838",
+        "source": "Hacker News"
     }
 ]
