@@ -674488,5 +674488,11 @@
         "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
         "timestamp": "2026-11-08T08:38:51.415741",
         "source": "Hacker News"
+    },
+    {
+        "title": "Clj.rs – a Clojure dialect implemented in Rust",
+        "url": "https://clj.rs/",
+        "timestamp": "2026-11-08T08:38:51.415841",
+        "source": "Hacker News"
     }
 ]
