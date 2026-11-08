@@ -675172,5 +675172,11 @@
         "url": "https://amutable.com/blog/systemd-loves-rust",
         "timestamp": "2026-11-08T19:55:56.468415",
         "source": "Hacker News"
+    },
+    {
+        "title": "Optimizing Reference Deletions in Git",
+        "url": "https://nayak.im/posts/optimizing-reference-deletion/",
+        "timestamp": "2026-11-08T19:55:56.468448",
+        "source": "Hacker News"
     }
 ]
