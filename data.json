@@ -674908,5 +674908,11 @@
         "url": "https://www.economist.com/asia/2026/11/08/why-indians-should-have-higher-standards",
         "timestamp": "2026-11-08T15:34:30.286841",
         "source": "Hacker News"
+    },
+    {
+        "title": "DSpine for Qwen3.8-27B",
+        "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
+        "timestamp": "2026-11-08T15:34:30.286862",
+        "source": "Hacker News"
     }
 ]
