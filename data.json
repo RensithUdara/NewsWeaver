@@ -674512,5 +674512,11 @@
         "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
         "timestamp": "2026-11-08T08:38:51.416177",
         "source": "Hacker News"
+    },
+    {
+        "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+        "url": "https://github.com/crmne/zapfast",
+        "timestamp": "2026-11-08T08:38:51.416287",
+        "source": "Hacker News"
     }
 ]
