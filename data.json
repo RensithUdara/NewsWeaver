@@ -674914,5 +674914,11 @@
         "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
         "timestamp": "2026-11-08T15:34:30.286862",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
+        "url": "https://github.com/sshah03/recalc",
+        "timestamp": "2026-11-08T15:34:30.286883",
+        "source": "Hacker News"
     }
 ]
