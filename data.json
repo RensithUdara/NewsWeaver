@@ -674854,5 +674854,11 @@
         "url": "https://www.youtube.com/watch?v=q239HgsrHQM",
         "timestamp": "2026-11-08T15:34:30.286650",
         "source": "Hacker News"
+    },
+    {
+        "title": "Byward – put any MCP server behind OAuth 2.1 and Entra ID",
+        "url": "https://github.com/byward-dev/byward",
+        "timestamp": "2026-11-08T15:34:30.286672",
+        "source": "Hacker News"
     }
 ]
