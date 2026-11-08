@@ -675010,5 +675010,11 @@
         "url": "https://joshuadd79.github.io/bring-your-own-brain/",
         "timestamp": "2026-11-08T15:34:30.287222",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code was mailing your email address to every website it visited: the User-Agent leak, the 5-month system-prompt issue, and the 5-point check",
+        "url": "https://dev.to/slabb/claude-code-was-mailing-your-email-address-to-every-website-it-visited-the-user-agent-leak-the-12k6",
+        "timestamp": "2026-11-08T15:34:30.460532",
+        "source": "Dev.to"
     }
 ]
