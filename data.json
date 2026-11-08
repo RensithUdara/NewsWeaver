@@ -674776,5 +674776,11 @@
         "url": "https://www.producthunt.com/products/hacker-noon",
         "timestamp": "2026-11-08T08:38:51.871966",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "url": "https://github.com/synchopate/llama-modchip",
+        "timestamp": "2026-11-08T15:34:30.123359",
+        "source": "Hacker News"
     }
 ]
