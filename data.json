@@ -675574,5 +675574,11 @@
         "url": "https://isocpp.org/files/papers/P4454R0.pdf",
         "timestamp": "2026-11-09T02:50:46.893488",
         "source": "Hacker News"
+    },
+    {
+        "title": "Taco: The Tensor Algebra Compiler",
+        "url": "http://tensor-compiler.org/",
+        "timestamp": "2026-11-09T02:50:46.893647",
+        "source": "Hacker News"
     }
 ]
