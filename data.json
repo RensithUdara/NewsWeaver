@@ -675994,5 +675994,11 @@
         "url": "https://peng.fyi/post/sysfs-superblock-race/",
         "timestamp": "2026-11-09T10:42:22.456683",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Fs-relay – Mount remote folders over HTTP 10x faster than s3fs (Go)",
+        "url": "https://jadmadi.net/posts/mounting-remote-directories-over-http/",
+        "timestamp": "2026-11-09T10:42:22.456703",
+        "source": "Hacker News"
     }
 ]
