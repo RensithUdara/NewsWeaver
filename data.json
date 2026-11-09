@@ -675988,5 +675988,11 @@
         "url": "https://www.youtube.com/watch?v=XxiLs3mAZJ8",
         "timestamp": "2026-11-09T10:42:22.456664",
         "source": "Hacker News"
+    },
+    {
+        "title": "Remount sysfs to make its superblock rw: mount -O remount,rw /sys",
+        "url": "https://peng.fyi/post/sysfs-superblock-race/",
+        "timestamp": "2026-11-09T10:42:22.456683",
+        "source": "Hacker News"
     }
 ]
