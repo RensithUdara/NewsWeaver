@@ -676396,5 +676396,11 @@
         "url": "https://github.com/humanethq/airgap-check",
         "timestamp": "2026-11-09T21:07:22.619967",
         "source": "Hacker News"
+    },
+    {
+        "title": "Triton for MTIA: Bridging the Programming Model Gaps for Custom AI Accelerators",
+        "url": "https://arxiv.org/abs/2608.00325",
+        "timestamp": "2026-11-09T21:07:22.619990",
+        "source": "Hacker News"
     }
 ]
