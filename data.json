@@ -676390,5 +676390,11 @@
         "url": "https://emeraldbook.org/news/jun-3026-3/",
         "timestamp": "2026-11-09T21:07:22.619947",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Airgap-check – find what your AI app silently downloads offline",
+        "url": "https://github.com/humanethq/airgap-check",
+        "timestamp": "2026-11-09T21:07:22.619967",
+        "source": "Hacker News"
     }
 ]
