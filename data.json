@@ -676162,5 +676162,11 @@
         "url": "https://meowdisplay.app/",
         "timestamp": "2026-11-09T21:07:22.479764",
         "source": "Hacker News"
+    },
+    {
+        "title": "A primer on GPUs and kernel optimization",
+        "url": "https://www.nabo.dev/blogs/kernel-primer",
+        "timestamp": "2026-11-09T21:07:22.479785",
+        "source": "Hacker News"
     }
 ]
