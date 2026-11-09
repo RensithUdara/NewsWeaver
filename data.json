@@ -675802,5 +675802,11 @@
         "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
         "timestamp": "2026-11-09T10:42:22.402129",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+        "url": "https://github.com/OmniJev/Flide",
+        "timestamp": "2026-11-09T10:42:22.402148",
+        "source": "Hacker News"
     }
 ]
