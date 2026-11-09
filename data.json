@@ -676180,5 +676180,11 @@
         "url": "https://news.ycombinator.com/item?id=50427934",
         "timestamp": "2026-11-09T21:07:22.479844",
         "source": "Hacker News"
+    },
+    {
+        "title": "What is malloc doing, anyway?",
+        "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+        "timestamp": "2026-11-09T21:07:22.479864",
+        "source": "Hacker News"
     }
 ]
