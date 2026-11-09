@@ -676126,5 +676126,11 @@
         "url": "https://www.foldableflight.com",
         "timestamp": "2026-11-09T21:07:22.479641",
         "source": "Hacker News"
+    },
+    {
+        "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+        "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+        "timestamp": "2026-11-09T21:07:22.479662",
+        "source": "Hacker News"
     }
 ]
