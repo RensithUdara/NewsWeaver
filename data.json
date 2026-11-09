@@ -675892,5 +675892,11 @@
         "url": "https://electrek.co/2026/11/05/uk-ev-sales-october-2026-electric-cars-overtake-petrol/",
         "timestamp": "2026-11-09T10:42:22.456276",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: nocopy – An APCu-compatible PHP extension with zero-copy reads",
+        "url": "https://github.com/chrfritsch/nocopy",
+        "timestamp": "2026-11-09T10:42:22.456296",
+        "source": "Hacker News"
     }
 ]
