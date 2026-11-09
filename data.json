@@ -676288,5 +676288,11 @@
         "url": "https://news.vanderbilt.edu/2026/11/09/nov-9-active-cybersecurity-incident-updates/",
         "timestamp": "2026-11-09T21:07:22.619568",
         "source": "Hacker News"
+    },
+    {
+        "title": "AetherScope v2.2.1 – open-source SAST",
+        "url": "https://github.com/maxxwwim/AetherScope-SAST-150-CWE-MCP",
+        "timestamp": "2026-11-09T21:07:22.619590",
+        "source": "Hacker News"
     }
 ]
