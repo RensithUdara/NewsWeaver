@@ -675844,5 +675844,11 @@
         "url": "https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai",
         "timestamp": "2026-11-09T10:42:22.402370",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
+        "url": "https://github.com/rkaehn/uniform",
+        "timestamp": "2026-11-09T10:42:22.402391",
+        "source": "Hacker News"
     }
 ]
