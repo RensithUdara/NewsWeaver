@@ -676258,5 +676258,11 @@
         "url": "https://queue.acm.org/doi/10.1145/3858607",
         "timestamp": "2026-11-09T21:07:22.619440",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A Terminal UI for Hacker News, and CLI for Agents",
+        "url": "https://github.com/kaushalvivek/hn-cli",
+        "timestamp": "2026-11-09T21:07:22.619463",
+        "source": "Hacker News"
     }
 ]
