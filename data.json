@@ -677734,5 +677734,11 @@
         "url": "https://www.youtube.com/watch?v=de-CszI9YXc",
         "timestamp": "2026-11-10T23:45:58.993200",
         "source": "Hacker News"
+    },
+    {
+        "title": "Exporting 150M SQL Server rows to Parquet: reading the .bak beats the DB",
+        "url": "https://blog.arpe.io/fastbcp-vs-duckdb-sql-server-to-parquet-benchmark",
+        "timestamp": "2026-11-10T23:45:58.993235",
+        "source": "Hacker News"
     }
 ]
