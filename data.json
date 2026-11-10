@@ -676948,5 +676948,11 @@
         "url": "https://www.heise.de/en/news/Merz-Google-Cloud-is-sovereign-enough-for-intelligence-agencies-11508564.html",
         "timestamp": "2026-11-10T11:36:35.693512",
         "source": "Hacker News"
+    },
+    {
+        "title": "Critical Xen Orchestra authentication bypass is being actively exploited",
+        "url": "https://docs.vates.tech/security-advisories/advisories/2026/vates-sa-2026-062/",
+        "timestamp": "2026-11-10T11:36:35.693539",
+        "source": "Hacker News"
     }
 ]
