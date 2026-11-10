@@ -677038,5 +677038,11 @@
         "url": "https://openai.com/supply/co-lab/chromatic/",
         "timestamp": "2026-11-10T11:36:35.693949",
         "source": "Hacker News"
+    },
+    {
+        "title": "Native Shell: Build once, native everywhere with Rust",
+        "url": "https://nsh.dev/",
+        "timestamp": "2026-11-10T11:36:35.693974",
+        "source": "Hacker News"
     }
 ]
