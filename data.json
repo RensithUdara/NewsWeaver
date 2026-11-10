@@ -677278,5 +677278,11 @@
         "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
         "timestamp": "2026-11-10T18:48:21.888052",
         "source": "Hacker News"
+    },
+    {
+        "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+        "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+        "timestamp": "2026-11-10T18:48:21.888083",
+        "source": "Hacker News"
     }
 ]
