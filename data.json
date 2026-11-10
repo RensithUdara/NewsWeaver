@@ -676702,5 +676702,11 @@
         "url": "https://github.com/Gathin23/cleanyourtv",
         "timestamp": "2026-11-10T03:29:28.890153",
         "source": "Hacker News"
+    },
+    {
+        "title": "Serc: CPython bytecode compiler written in Rust (2-4x speedup, Codex built)",
+        "url": "https://github.com/astral-experiments/serc",
+        "timestamp": "2026-11-10T03:29:28.890175",
+        "source": "Hacker News"
     }
 ]
