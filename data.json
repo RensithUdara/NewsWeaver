@@ -677326,5 +677326,11 @@
         "url": "https://www.forethought.org/research/two-kinds-of-test-time-scaling",
         "timestamp": "2026-11-10T18:48:22.133570",
         "source": "Hacker News"
+    },
+    {
+        "title": "Async FFI Framework for Rust <-> C# Interop",
+        "url": "https://www.scylladb.com/2026/08/31/async-ffi-framework-for-rust-c-interop/",
+        "timestamp": "2026-11-10T18:48:22.133619",
+        "source": "Hacker News"
     }
 ]
