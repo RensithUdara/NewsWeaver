@@ -676642,5 +676642,11 @@
         "url": "https://ai-chs.com/",
         "timestamp": "2026-11-10T03:29:28.889901",
         "source": "Hacker News"
+    },
+    {
+        "title": "QNet: Post-quantum Layer-1 in Rust using native ML-DSA-65 signatures",
+        "url": "https://github.com/AIQnetLab/QNet-Blockchain",
+        "timestamp": "2026-11-10T03:29:28.889923",
+        "source": "Hacker News"
     }
 ]
