@@ -676630,5 +676630,11 @@
         "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
         "timestamp": "2026-11-10T03:29:28.889855",
         "source": "Hacker News"
+    },
+    {
+        "title": "Slack bot can now generate its own UI on demand",
+        "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
+        "timestamp": "2026-11-10T03:29:28.889878",
+        "source": "Hacker News"
     }
 ]
