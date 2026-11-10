@@ -676954,5 +676954,11 @@
         "url": "https://docs.vates.tech/security-advisories/advisories/2026/vates-sa-2026-062/",
         "timestamp": "2026-11-10T11:36:35.693539",
         "source": "Hacker News"
+    },
+    {
+        "title": "Music For Robots – 26 unquantized acoustic tracks for multimodal LLM evaluation",
+        "url": "https://github.com/luchtan-GIT/m4r-data",
+        "timestamp": "2026-11-10T11:36:35.693567",
+        "source": "Hacker News"
     }
 ]
