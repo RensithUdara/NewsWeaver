@@ -677500,5 +677500,11 @@
         "url": "https://shanedowling.com/posts/2026-11-10-ai-and-the-art-of-work/",
         "timestamp": "2026-11-10T18:48:22.134554",
         "source": "Hacker News"
+    },
+    {
+        "title": "PHP Dies After Every Request. How the Zend Engine Actually Runs Your Code.",
+        "url": "https://dev.to/smtahosin/php-dies-after-every-request-how-the-zend-engine-actually-runs-your-code-2843",
+        "timestamp": "2026-11-10T18:48:22.180635",
+        "source": "Dev.to"
     }
 ]
