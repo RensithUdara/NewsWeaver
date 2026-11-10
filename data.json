@@ -677002,5 +677002,11 @@
         "url": "https://en.wikipedia.org/wiki/Earning_to_give",
         "timestamp": "2026-11-10T11:36:35.693769",
         "source": "Hacker News"
+    },
+    {
+        "title": "Debugging Rust in 2026",
+        "url": "https://blog.jetbrains.com/rust/2026/11/10/debugging-rust/",
+        "timestamp": "2026-11-10T11:36:35.693820",
+        "source": "Hacker News"
     }
 ]
