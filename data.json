@@ -678748,5 +678748,11 @@
         "url": "https://peps.python.org/pep-0020/",
         "timestamp": "2026-11-11T18:06:47.075490",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tang, a compiler that derives GPU kernels and bounds how fast they can run",
+        "url": "https://muni.works/research/tang",
+        "timestamp": "2026-11-11T18:06:47.075510",
+        "source": "Hacker News"
     }
 ]
