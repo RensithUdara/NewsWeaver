@@ -678670,5 +678670,11 @@
         "url": "https://github.com/rochus-keller/Micron",
         "timestamp": "2026-11-11T18:06:46.937386",
         "source": "Hacker News"
+    },
+    {
+        "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
+        "url": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+        "timestamp": "2026-11-11T18:06:46.937407",
+        "source": "Hacker News"
     }
 ]
