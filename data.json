@@ -678400,5 +678400,11 @@
         "url": "https://github.com/symtrace/canontra",
         "timestamp": "2026-11-11T10:46:07.450335",
         "source": "Hacker News"
+    },
+    {
+        "title": "What if any process could handle SIGKILL?",
+        "url": "https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/",
+        "timestamp": "2026-11-11T10:46:07.450356",
+        "source": "Hacker News"
     }
 ]
