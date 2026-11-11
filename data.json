@@ -678814,5 +678814,11 @@
         "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
         "timestamp": "2026-11-11T18:06:47.075712",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ubuntu 26.10 Begins Rolling Out Upki Support for Certificate Revocation",
+        "url": "https://www.phoronix.com/news/Ubuntu-26.10-Does-upki",
+        "timestamp": "2026-11-11T18:06:47.075743",
+        "source": "Hacker News"
     }
 ]
