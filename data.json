@@ -678592,5 +678592,11 @@
         "url": "https://github.com/FrigadeHQ/yogurt",
         "timestamp": "2026-11-11T18:06:46.937068",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pharo in the Browser with WebAssembly",
+        "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+        "timestamp": "2026-11-11T18:06:46.937090",
+        "source": "Hacker News"
     }
 ]
