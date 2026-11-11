@@ -678616,5 +678616,11 @@
         "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
         "timestamp": "2026-11-11T18:06:46.937157",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
+        "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+        "timestamp": "2026-11-11T18:06:46.937178",
+        "source": "Hacker News"
     }
 ]
