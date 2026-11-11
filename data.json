@@ -678628,5 +678628,11 @@
         "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
         "timestamp": "2026-11-11T18:06:46.937199",
         "source": "Hacker News"
+    },
+    {
+        "title": "TimeNet: Open-source data infrastructure for Temporal Foundation Models",
+        "url": "https://github.com/OpenTSLM/TimeNet",
+        "timestamp": "2026-11-11T18:06:46.937219",
+        "source": "Hacker News"
     }
 ]
