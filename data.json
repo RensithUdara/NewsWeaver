@@ -678430,5 +678430,11 @@
         "url": "https://www.jagregory.com/abrash-black-book/#the-challenge-of-separating-all-things-seen-from-all-things-unseen",
         "timestamp": "2026-11-11T10:46:07.450436",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: 130M mutations against Solana's consensus parsers, zero crashes",
+        "url": "https://github.com/latent-9/chainoffuzz",
+        "timestamp": "2026-11-11T10:46:07.450457",
+        "source": "Hacker News"
     }
 ]
