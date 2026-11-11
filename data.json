@@ -678160,5 +678160,11 @@
         "url": "https://restless.run/",
         "timestamp": "2026-11-11T03:06:16.366382",
         "source": "Hacker News"
+    },
+    {
+        "title": "GSD-LQ: Zero-calibration sub-4-bit compression and 7B in 3.78 GB VRAM",
+        "url": "https://github.com/Phantom309-CED/GSD-LQ/tree/main/gsd_lq_v2",
+        "timestamp": "2026-11-11T03:06:16.366396",
+        "source": "Hacker News"
     }
 ]
