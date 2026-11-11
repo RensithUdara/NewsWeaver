@@ -678034,5 +678034,11 @@
         "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
         "timestamp": "2026-11-11T03:06:16.366043",
         "source": "Hacker News"
+    },
+    {
+        "title": "Memory Safety Bugs in Rust Standard Library",
+        "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+        "timestamp": "2026-11-11T03:06:16.366061",
+        "source": "Hacker News"
     }
 ]
