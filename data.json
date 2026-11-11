@@ -678736,5 +678736,11 @@
         "url": "https://news.ycombinator.com/item?id=50456394",
         "timestamp": "2026-11-11T18:06:47.075449",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bagel is a cross‑platform CLI that inspects developer workstations",
+        "url": "https://github.com/boostsecurityio/bagel",
+        "timestamp": "2026-11-11T18:06:47.075470",
+        "source": "Hacker News"
     }
 ]
