@@ -679024,5 +679024,11 @@
         "url": "https://graphics.cs.utah.edu/teapot/",
         "timestamp": "2026-11-12T00:34:13.738367",
         "source": "Hacker News"
+    },
+    {
+        "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+        "url": "https://github.com/huawei-csl/MACaQ",
+        "timestamp": "2026-11-12T00:34:13.738388",
+        "source": "Hacker News"
     }
 ]
