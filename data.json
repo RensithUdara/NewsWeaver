@@ -679636,5 +679636,11 @@
         "url": "https://fable52.games",
         "timestamp": "2026-11-12T16:14:18.793261",
         "source": "Hacker News"
+    },
+    {
+        "title": "A live tree of systemd jobs on the boot console",
+        "url": "https://codeberg.org/wvhulle/bootvine",
+        "timestamp": "2026-11-12T16:14:18.793293",
+        "source": "Hacker News"
     }
 ]
