@@ -678964,5 +678964,11 @@
         "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
         "timestamp": "2026-11-11T18:06:47.549975",
         "source": "TechCrunch"
+    },
+    {
+        "title": "AWS emulator",
+        "url": "https://github.com/aws/aws-emulator",
+        "timestamp": "2026-11-12T00:34:13.738100",
+        "source": "Hacker News"
     }
 ]
