@@ -679006,5 +679006,11 @@
         "url": "https://commandlinesystems.com/magic.txt",
         "timestamp": "2026-11-12T00:34:13.738294",
         "source": "Hacker News"
+    },
+    {
+        "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+        "url": "https://github.com/tylertms/Stela",
+        "timestamp": "2026-11-12T00:34:13.738314",
+        "source": "Hacker News"
     }
 ]
