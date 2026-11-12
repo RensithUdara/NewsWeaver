@@ -679846,5 +679846,11 @@
         "url": "https://flightitinerary.app/",
         "timestamp": "2026-11-12T16:14:19.038230",
         "source": "Hacker News"
+    },
+    {
+        "title": "What happens if you write a TCP stack in Python? (2014)",
+        "url": "https://jvns.ca/blog/2014/08/12/what-happens-if-you-write-a-tcp-stack-in-python/",
+        "timestamp": "2026-11-12T16:14:19.038262",
+        "source": "Hacker News"
     }
 ]
