@@ -679732,5 +679732,11 @@
         "url": "https://nautil.us/the-temperamental-nature-of-alligator-gender-reveal-parties-1286547",
         "timestamp": "2026-11-12T16:14:19.037526",
         "source": "Hacker News"
+    },
+    {
+        "title": "SwiftNIO: Why ByteBuffer Has Two Cursors",
+        "url": "https://ivantokar.com/posts/swiftnio-why-bytebuffer-has-two-cursors/",
+        "timestamp": "2026-11-12T16:14:19.037559",
+        "source": "Hacker News"
     }
 ]
