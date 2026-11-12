@@ -679162,5 +679162,11 @@
         "url": "https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/",
         "timestamp": "2026-11-12T00:34:13.873032",
         "source": "Hacker News"
+    },
+    {
+        "title": "Keeping names, emails and phone numbers out of LLM prompts with a local proxy",
+        "url": "https://github.com/rmpmrepo1278/swapback",
+        "timestamp": "2026-11-12T00:34:13.873053",
+        "source": "Hacker News"
     }
 ]
