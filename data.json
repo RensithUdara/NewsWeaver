@@ -679552,5 +679552,11 @@
         "url": "https://oss-pays.shetty.me/",
         "timestamp": "2026-11-12T07:39:58.927053",
         "source": "Hacker News"
+    },
+    {
+        "title": "I made a CLI focus music player with lo-fi, Pomodoro timer, and Spotify support",
+        "url": "https://github.com/WittmannF/lofi-pomodoro",
+        "timestamp": "2026-11-12T07:39:58.927076",
+        "source": "Hacker News"
     }
 ]
