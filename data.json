@@ -679174,5 +679174,11 @@
         "url": "https://sayjot.xyz/blog/rust-port",
         "timestamp": "2026-11-12T00:34:13.873073",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Tsfm-pg: Run Chronos-2/Timestral forecasts inside Postgres with SQL",
+        "url": "https://github.com/barddoo/tsfm-pg",
+        "timestamp": "2026-11-12T00:34:13.873092",
+        "source": "Hacker News"
     }
 ]
