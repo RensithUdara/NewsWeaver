@@ -679534,5 +679534,11 @@
         "url": "https://www.antfabric.ai/",
         "timestamp": "2026-11-12T07:39:58.926972",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Mad Max-style desert run built from nothing but (procedural) code",
+        "url": "https://webgpu.com/showcase/maad-maxxing-procedural-webgpu-threejs/",
+        "timestamp": "2026-11-12T07:39:58.927013",
+        "source": "Hacker News"
     }
 ]
