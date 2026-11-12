@@ -679168,5 +679168,11 @@
         "url": "https://github.com/rmpmrepo1278/swapback",
         "timestamp": "2026-11-12T00:34:13.873053",
         "source": "Hacker News"
+    },
+    {
+        "title": "Porting my Electron app to Rust: 675 MB to 91 MB",
+        "url": "https://sayjot.xyz/blog/rust-port",
+        "timestamp": "2026-11-12T00:34:13.873073",
+        "source": "Hacker News"
     }
 ]
