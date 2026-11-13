@@ -681292,5 +681292,11 @@
         "url": "https://calibrezen.com/blog/calibre-web-app/",
         "timestamp": "2026-11-13T22:49:43.721001",
         "source": "Hacker News"
+    },
+    {
+        "title": "Home Assistant: the password is not the key – token secrets in cleartext",
+        "url": "https://seclists.org/fulldisclosure/2026/Nov/34",
+        "timestamp": "2026-11-13T22:49:43.721036",
+        "source": "Hacker News"
     }
 ]
