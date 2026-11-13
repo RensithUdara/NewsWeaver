@@ -681202,5 +681202,11 @@
         "url": "https://claude.com/resources/articles/claude-meetings",
         "timestamp": "2026-11-13T22:49:43.444727",
         "source": "Hacker News"
+    },
+    {
+        "title": "Models can now transmit viruses in weight-space",
+        "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+        "timestamp": "2026-11-13T22:49:43.444822",
+        "source": "Hacker News"
     }
 ]
