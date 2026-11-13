@@ -680950,5 +680950,11 @@
         "url": "https://thedungeonrevealed.com",
         "timestamp": "2026-11-13T17:32:51.697768",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gnomon. Git for Postgres data, built for agents",
+        "url": "https://github.com/bitsinfra/gnomon",
+        "timestamp": "2026-11-13T17:32:51.697866",
+        "source": "Hacker News"
     }
 ]
