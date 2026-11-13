@@ -680236,5 +680236,11 @@
         "url": "https://blog.fortirix.com/blog/apache-http2-rce/",
         "timestamp": "2026-11-13T02:39:17.786453",
         "source": "Hacker News"
+    },
+    {
+        "title": "Agent harness for learning difficult things",
+        "url": "https://github.com/amosblomqvist/learnharness",
+        "timestamp": "2026-11-13T02:39:17.786466",
+        "source": "Hacker News"
     }
 ]
