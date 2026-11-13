@@ -680920,5 +680920,11 @@
         "url": "https://projectzero.google/2026/11/disclosure-policy.html",
         "timestamp": "2026-11-13T17:32:51.697609",
         "source": "Hacker News"
+    },
+    {
+        "title": "We read 6 weeks of WordPress plugin releases: 21% of security fixes were silent",
+        "url": "https://blog.wpsec.com/wordpress-plugin-vulnerabilities-other-scanners-miss/",
+        "timestamp": "2026-11-13T17:32:51.697640",
+        "source": "Hacker News"
     }
 ]
