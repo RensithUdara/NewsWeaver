@@ -680230,5 +680230,11 @@
         "url": "https://jules.google/docs/changelog/2026-10-29/",
         "timestamp": "2026-11-13T02:39:17.786427",
         "source": "Hacker News"
+    },
+    {
+        "title": "One Condition Away: Apache's HTTP/2 RCE on the Day It Dropped",
+        "url": "https://blog.fortirix.com/blog/apache-http2-rce/",
+        "timestamp": "2026-11-13T02:39:17.786453",
+        "source": "Hacker News"
     }
 ]
