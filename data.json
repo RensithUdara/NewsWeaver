@@ -680074,5 +680074,11 @@
         "url": "https://status.cloud.microsoft/",
         "timestamp": "2026-11-13T02:39:17.735584",
         "source": "Hacker News"
+    },
+    {
+        "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+        "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+        "timestamp": "2026-11-13T02:39:17.735598",
+        "source": "Hacker News"
     }
 ]
