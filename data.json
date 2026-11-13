@@ -680098,5 +680098,11 @@
         "url": "https://github.com/jjba23/sift",
         "timestamp": "2026-11-13T02:39:17.735669",
         "source": "Hacker News"
+    },
+    {
+        "title": "Relax: JIT compiler for Rust to reduce build times",
+        "url": "https://makepad.github.io/relax/",
+        "timestamp": "2026-11-13T02:39:17.735682",
+        "source": "Hacker News"
     }
 ]
