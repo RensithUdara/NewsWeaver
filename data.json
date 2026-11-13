@@ -681166,5 +681166,11 @@
         "url": "https://www.nature.com/articles/d41586-026-03638-3",
         "timestamp": "2026-11-13T22:49:43.444433",
         "source": "Hacker News"
+    },
+    {
+        "title": "Live-migration support in FreeBSD and bhyve coming",
+        "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+        "timestamp": "2026-11-13T22:49:43.444532",
+        "source": "Hacker News"
     }
 ]
