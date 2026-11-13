@@ -681190,5 +681190,11 @@
         "url": "https://isometricsf.com/",
         "timestamp": "2026-11-13T22:49:43.444631",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+        "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+        "timestamp": "2026-11-13T22:49:43.444663",
+        "source": "Hacker News"
     }
 ]
