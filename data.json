@@ -680806,5 +680806,11 @@
         "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
         "timestamp": "2026-11-13T17:32:51.456289",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+        "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+        "timestamp": "2026-11-13T17:32:51.456393",
+        "source": "Hacker News"
     }
 ]
