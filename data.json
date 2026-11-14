@@ -682066,5 +682066,11 @@
         "url": "https://www.youtube.com/watch?v=EE6lEgeN1_U",
         "timestamp": "2026-11-14T15:57:18.861876",
         "source": "Hacker News"
+    },
+    {
+        "title": "Get Started with Gemini 4: Explicit Context Caching Not Supported",
+        "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/start/get-started-with-gemini-4",
+        "timestamp": "2026-11-14T15:57:18.861900",
+        "source": "Hacker News"
     }
 ]
