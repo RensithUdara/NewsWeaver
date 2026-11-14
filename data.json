@@ -681616,5 +681616,11 @@
         "url": "https://faerywolf.com/iron-pentacle/",
         "timestamp": "2026-11-14T02:44:00.463044",
         "source": "Hacker News"
+    },
+    {
+        "title": "SSH Keys in the Secure Enclave, Without an Agent",
+        "url": "https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent",
+        "timestamp": "2026-11-14T02:44:00.463076",
+        "source": "Hacker News"
     }
 ]
