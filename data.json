@@ -682408,5 +682408,11 @@
         "url": "https://plainlamp.com/blog/new-decision-models",
         "timestamp": "2026-11-14T20:25:30.507427",
         "source": "Hacker News"
+    },
+    {
+        "title": "df-script – 43kB zero-dependency DataFrame engine for TypeScript and JavaScript",
+        "url": "https://df-script.js.org/",
+        "timestamp": "2026-11-14T20:25:30.507442",
+        "source": "Hacker News"
     }
 ]
