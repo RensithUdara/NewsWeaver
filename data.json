@@ -681958,5 +681958,11 @@
         "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
         "timestamp": "2026-11-14T15:57:18.631944",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+        "url": "https://gitlab.com/snipedbywifi/terminactory",
+        "timestamp": "2026-11-14T15:57:18.631985",
+        "source": "Hacker News"
     }
 ]
