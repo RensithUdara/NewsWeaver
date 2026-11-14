@@ -682348,5 +682348,11 @@
         "url": "https://openai.com/fr-FR/index/introducing-chatgpt-wallet/",
         "timestamp": "2026-11-14T20:25:30.507272",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dissecting Spring petclinic (Part 1)",
+        "url": "https://hannomalie.github.io/posts/dissecting-spring-petclinic-blackbox-tests.html",
+        "timestamp": "2026-11-14T20:25:30.507288",
+        "source": "Hacker News"
     }
 ]
