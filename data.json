@@ -681682,5 +681682,11 @@
         "url": "https://monkeyisland.pages.dev/",
         "timestamp": "2026-11-14T09:28:06.608651",
         "source": "Hacker News"
+    },
+    {
+        "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+        "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+        "timestamp": "2026-11-14T09:28:06.608911",
+        "source": "Hacker News"
     }
 ]
