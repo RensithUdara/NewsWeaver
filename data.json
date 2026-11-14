@@ -682006,5 +682006,11 @@
         "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
         "timestamp": "2026-11-14T15:57:18.632142",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+        "url": "https://github.com/paul-nameless/agweb",
+        "timestamp": "2026-11-14T15:57:18.632160",
+        "source": "Hacker News"
     }
 ]
