@@ -682468,5 +682468,11 @@
         "url": "https://spiraldb.com/blog/rows-vs-columns",
         "timestamp": "2026-11-14T20:25:30.507570",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Radiotherapy Delivery Demo Written in Rust and WebAssembly",
+        "url": "https://tps.neuralrad.com",
+        "timestamp": "2026-11-14T20:25:30.507594",
+        "source": "Hacker News"
     }
 ]
