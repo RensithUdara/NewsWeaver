@@ -681538,5 +681538,11 @@
         "url": "https://www.reuters.com/world/us-loses-measles-free-status-after-continued-spread-disease-wsj-reports-2026-11-14/",
         "timestamp": "2026-11-14T02:44:00.462462",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ggml v1.0.0",
+        "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+        "timestamp": "2026-11-14T02:44:00.462520",
+        "source": "Hacker News"
     }
 ]
