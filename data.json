@@ -682918,5 +682918,11 @@
         "url": "https://www.nature.com/articles/s41586-026-11285-x",
         "timestamp": "2026-11-15T06:15:20.914823",
         "source": "Hacker News"
+    },
+    {
+        "title": "Disk encryption on NetBSD – achieving secrecy",
+        "url": "https://netbsd.org/~nia/disk-encrypt/",
+        "timestamp": "2026-11-15T06:15:20.914839",
+        "source": "Hacker News"
     }
 ]
