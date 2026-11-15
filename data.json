@@ -683104,5 +683104,11 @@
         "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
         "timestamp": "2026-11-15T13:58:41.666037",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust and Git worktrees: share one Cargo build",
+        "url": "https://docspring.com/blog/posts/rust-git-worktrees-shared-cargo-build/",
+        "timestamp": "2026-11-15T13:58:41.816371",
+        "source": "Hacker News"
     }
 ]
