@@ -683134,5 +683134,11 @@
         "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
         "timestamp": "2026-11-15T13:58:41.816525",
         "source": "Hacker News"
+    },
+    {
+        "title": "Go 1.27's Generic Methods: Compile-Checked ORM Columns Without Generated Code",
+        "url": "https://skudra.net/blog/field-pointers-as-column-names",
+        "timestamp": "2026-11-15T13:58:41.816558",
+        "source": "Hacker News"
     }
 ]
