@@ -683122,5 +683122,11 @@
         "url": "https://www.nytimes.com/2026/11/15/business/tech-jobs-ai-ecosystem.html",
         "timestamp": "2026-11-15T13:58:41.816458",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+        "url": "https://github.com/db-branch/db-branch",
+        "timestamp": "2026-11-15T13:58:41.816492",
+        "source": "Hacker News"
     }
 ]
