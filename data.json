@@ -683044,5 +683044,11 @@
         "url": "https://space.stackexchange.com/questions/37775",
         "timestamp": "2026-11-15T13:58:41.665017",
         "source": "Hacker News"
+    },
+    {
+        "title": "Understanding Positional Embeddings in Modern LLMs",
+        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+        "timestamp": "2026-11-15T13:58:41.665175",
+        "source": "Hacker News"
     }
 ]
