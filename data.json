@@ -683500,5 +683500,11 @@
         "url": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
         "timestamp": "2026-11-15T19:36:48.455349",
         "source": "Hacker News"
+    },
+    {
+        "title": "Optimizing On-Device Inference for Apple Silicon",
+        "url": "https://www.perplexity.ai/hub/blog/optimizing-on-device-inference-for-apple-silicon",
+        "timestamp": "2026-11-15T19:36:48.455368",
+        "source": "Hacker News"
     }
 ]
