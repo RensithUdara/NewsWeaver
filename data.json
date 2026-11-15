@@ -683590,5 +683590,11 @@
         "url": "https://vor.tech/play",
         "timestamp": "2026-11-15T19:36:48.455687",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: atl, a Rust CLI for Jira, Confluence and Bitbucket with ~15ms overhead",
+        "url": "https://github.com/racetozero/atlassian-toolkit",
+        "timestamp": "2026-11-15T19:36:48.455709",
+        "source": "Hacker News"
     }
 ]
