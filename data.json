@@ -683800,5 +683800,11 @@
         "url": "https://adamcadre.ac/lyttle/2026.html",
         "timestamp": "2026-11-15T23:30:21.687291",
         "source": "Hacker News"
+    },
+    {
+        "title": "Shen-rust, A port of the Shen programming language to Rust",
+        "url": "https://github.com/pyrex41/shen-rust",
+        "timestamp": "2026-11-15T23:30:21.687355",
+        "source": "Hacker News"
     }
 ]
