@@ -683566,5 +683566,11 @@
         "url": "https://github.com/taskless/cli",
         "timestamp": "2026-11-15T19:36:48.455607",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Aegis – A Layer-4 Postgres proxy in Go to block destructive AI SQL",
+        "url": "https://github.com/raymondhani/aegis-proxy",
+        "timestamp": "2026-11-15T19:36:48.455627",
+        "source": "Hacker News"
     }
 ]
