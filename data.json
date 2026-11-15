@@ -683452,5 +683452,11 @@
         "url": "https://ykiko.me/en/articles/2105384023094834022/",
         "timestamp": "2026-11-15T19:36:48.223818",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+        "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+        "timestamp": "2026-11-15T19:36:48.223859",
+        "source": "Hacker News"
     }
 ]
