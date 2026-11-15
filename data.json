@@ -682720,5 +682720,11 @@
         "url": "https://brainsaver.app",
         "timestamp": "2026-11-15T00:00:32.608296",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sword Coast Map 3D (Rust to WebGL, Mobile Friendly)",
+        "url": "https://swordcoastmap.com/?cam=5053,1505,12450,-1.0,50.0&t=12.90&weather=clear",
+        "timestamp": "2026-11-15T00:00:32.608318",
+        "source": "Hacker News"
     }
 ]
