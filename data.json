@@ -683050,5 +683050,11 @@
         "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
         "timestamp": "2026-11-15T13:58:41.665175",
         "source": "Hacker News"
+    },
+    {
+        "title": "Strictly monotonic timestamps and gapless sequences in Rust",
+        "url": "https://tsoracle.rs/",
+        "timestamp": "2026-11-15T13:58:41.665214",
+        "source": "Hacker News"
     }
 ]
