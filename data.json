@@ -682660,5 +682660,11 @@
         "url": "https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F",
         "timestamp": "2026-11-15T00:00:32.608064",
         "source": "Hacker News"
+    },
+    {
+        "title": "Granite 4.2 LLMs: How They're Built",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+        "timestamp": "2026-11-15T00:00:32.608088",
+        "source": "Hacker News"
     }
 ]
