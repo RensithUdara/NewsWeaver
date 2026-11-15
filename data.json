@@ -683854,5 +683854,11 @@
         "url": "https://lastcomplication.com/",
         "timestamp": "2026-11-15T23:30:21.687681",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built an open-source multi-agent DAG orchestrator and AST RAG engine on Termux",
+        "url": "https://github.com/KrypticKode007/Golden-Agent",
+        "timestamp": "2026-11-15T23:30:21.687712",
+        "source": "Hacker News"
     }
 ]
