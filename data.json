@@ -684538,5 +684538,11 @@
         "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
         "timestamp": "2026-11-16T20:41:33.001185",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+        "url": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
+        "timestamp": "2026-11-16T20:41:33.001221",
+        "source": "Hacker News"
     }
 ]
