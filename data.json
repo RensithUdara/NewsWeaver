@@ -684070,5 +684070,11 @@
         "url": "https://www.stripeeconomics.com/p/ai-and-the-city",
         "timestamp": "2026-11-16T02:57:44.545220",
         "source": "Hacker News"
+    },
+    {
+        "title": "A hard rain's a-gonna fall: parsing JSON in Rust",
+        "url": "https://bitfieldconsulting.com/posts/hard-rain-json-rust",
+        "timestamp": "2026-11-16T02:57:44.545234",
+        "source": "Hacker News"
     }
 ]
