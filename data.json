@@ -684214,5 +684214,11 @@
         "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
         "timestamp": "2026-11-16T10:40:52.914877",
         "source": "Hacker News"
+    },
+    {
+        "title": "Parcel: A desktop mail client for Linux, built with Zig",
+        "url": "https://tangled.org/rockorager.dev/parcel",
+        "timestamp": "2026-11-16T10:40:52.914979",
+        "source": "Hacker News"
     }
 ]
