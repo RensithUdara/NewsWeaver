@@ -683950,5 +683950,11 @@
         "url": "https://qwen.ai/blog?id=qwen4-max",
         "timestamp": "2026-11-16T02:57:44.352763",
         "source": "Hacker News"
+    },
+    {
+        "title": "Do we still have to denormalize? Have your schema and search it too",
+        "url": "https://www.paradedb.com/blog/joins",
+        "timestamp": "2026-11-16T02:57:44.352807",
+        "source": "Hacker News"
     }
 ]
