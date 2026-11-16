@@ -684376,5 +684376,11 @@
         "url": "https://medium.com/data-science-collective/open-sesame-said-the-freezer-3d6ba294a587",
         "timestamp": "2026-11-16T10:40:53.118010",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: IronSurf – Browser in full Rust with cookie containers and userscripts",
+        "url": "https://github.com/h4sh5/ironsurf",
+        "timestamp": "2026-11-16T10:40:53.118030",
+        "source": "Hacker News"
     }
 ]
