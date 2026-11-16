@@ -684490,5 +684490,11 @@
         "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
         "timestamp": "2026-11-16T20:41:33.000883",
         "source": "Hacker News"
+    },
+    {
+        "title": "Jiff 1.0: A datetime library for Rust",
+        "url": "https://burntsushi.net/jiff/",
+        "timestamp": "2026-11-16T20:41:33.000922",
+        "source": "Hacker News"
     }
 ]
