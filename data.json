@@ -684196,5 +684196,11 @@
         "url": "https://yugen-tsuki.github.io/unbelievablesort.html",
         "timestamp": "2026-11-16T10:40:52.914773",
         "source": "Hacker News"
+    },
+    {
+        "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
+        "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
+        "timestamp": "2026-11-16T10:40:52.914815",
+        "source": "Hacker News"
     }
 ]
