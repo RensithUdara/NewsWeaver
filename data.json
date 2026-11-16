@@ -683926,5 +683926,11 @@
         "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
         "timestamp": "2026-11-15T23:30:22.074095",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Universal XSS in uBlock Origin from website-driven element picker",
+        "url": "https://iter.ca/post/ubo-uxss/",
+        "timestamp": "2026-11-16T02:57:44.352598",
+        "source": "Hacker News"
     }
 ]
