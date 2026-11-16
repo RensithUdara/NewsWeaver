@@ -684274,5 +684274,11 @@
         "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-nachrichtendienste-1231530",
         "timestamp": "2026-11-16T10:40:53.117604",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Simplex – Self-hosting AArch64 ELF compiler built on a GrapheneOS phone",
+        "url": "https://github.com/gaidardzhiev/simplex",
+        "timestamp": "2026-11-16T10:40:53.117628",
+        "source": "Hacker News"
     }
 ]
