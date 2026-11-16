@@ -684352,5 +684352,11 @@
         "url": "https://grahamdumpleton.me/posts/2026/11/muru-scaling-from-what-the-workers-report/",
         "timestamp": "2026-11-16T10:40:53.117923",
         "source": "Hacker News"
+    },
+    {
+        "title": "Floem: Cross-platform GUI framework for Rust",
+        "url": "https://github.com/lapce/floem",
+        "timestamp": "2026-11-16T10:40:53.117943",
+        "source": "Hacker News"
     }
 ]
