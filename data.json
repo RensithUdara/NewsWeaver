@@ -684982,5 +684982,11 @@
         "url": "https://www.bugmenot.com/",
         "timestamp": "2026-11-17T03:12:37.234545",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running coding agents without handing them my credentials",
+        "url": "https://blog.antonio.cx/running-agents-with-lend",
+        "timestamp": "2026-11-17T03:12:37.234562",
+        "source": "Hacker News"
     }
 ]
