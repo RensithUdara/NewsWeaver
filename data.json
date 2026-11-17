@@ -685750,5 +685750,11 @@
         "url": "https://arxiv.org/abs/2611.18126",
         "timestamp": "2026-11-17T20:25:31.109233",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+        "url": "https://github.com/RunanywhereAI/trnrt",
+        "timestamp": "2026-11-17T20:25:31.109281",
+        "source": "Hacker News"
     }
 ]
