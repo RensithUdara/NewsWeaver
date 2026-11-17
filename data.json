@@ -685144,5 +685144,11 @@
         "url": "https://www.abc.net.au/news/2026-11-16/coles-investigates-cybersecurity-breach-but-little-detail/107390824",
         "timestamp": "2026-11-17T03:12:37.428149",
         "source": "Hacker News"
+    },
+    {
+        "title": "Jitpipe–Sample 25 stdin rows,synthesize regex/Awk filter,stream the rest in Rust",
+        "url": "https://github.com/abhinavm-web/jitpipe",
+        "timestamp": "2026-11-17T03:12:37.428166",
+        "source": "Hacker News"
     }
 ]
