@@ -685042,5 +685042,11 @@
         "url": "https://www.youtube.com/watch?v=ZCAHP50Zly8",
         "timestamp": "2026-11-17T03:12:37.234772",
         "source": "Hacker News"
+    },
+    {
+        "title": "My Quest to push native Three.js quality match AAA Game Engines",
+        "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+        "timestamp": "2026-11-17T03:12:37.234835",
+        "source": "Hacker News"
     }
 ]
