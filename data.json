@@ -685744,5 +685744,11 @@
         "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
         "timestamp": "2026-11-17T20:25:31.109202",
         "source": "Hacker News"
+    },
+    {
+        "title": "Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs",
+        "url": "https://arxiv.org/abs/2611.18126",
+        "timestamp": "2026-11-17T20:25:31.109233",
+        "source": "Hacker News"
     }
 ]
