@@ -685162,5 +685162,11 @@
         "url": "https://www.nature.com/articles/s43587-026-01270-4",
         "timestamp": "2026-11-17T03:12:37.428194",
         "source": "Hacker News"
+    },
+    {
+        "title": "Directly editing a VLA's weights improved its performance, with no fine-tuning",
+        "url": "https://www.abdulrahimmirani.com/research/vla-weight-editing",
+        "timestamp": "2026-11-17T03:12:37.428208",
+        "source": "Hacker News"
     }
 ]
