@@ -685762,5 +685762,11 @@
         "url": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
         "timestamp": "2026-11-17T20:25:31.109314",
         "source": "Hacker News"
+    },
+    {
+        "title": "OS X hack to use your Mouse and Trackpad together with two different screens",
+        "url": "https://github.com/vepkenez/DualCursor",
+        "timestamp": "2026-11-17T20:25:31.222590",
+        "source": "Hacker News"
     }
 ]
