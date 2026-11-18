@@ -686284,5 +686284,11 @@
         "url": "https://www.youtube.com/watch?v=UcEtgDu2t4U",
         "timestamp": "2026-11-18T02:30:15.166396",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Ferrovec Retrace – semantic search over pages you've read, all local",
+        "url": "https://github.com/singhpratech/ferrovec/tree/main/extensions/retrace",
+        "timestamp": "2026-11-18T02:30:15.166417",
+        "source": "Hacker News"
     }
 ]
