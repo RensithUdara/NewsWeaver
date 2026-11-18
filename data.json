@@ -686200,5 +686200,11 @@
         "url": "https://phrack.org/issues/73/escaping-from-a-docker-container-through-vdso_md",
         "timestamp": "2026-11-18T02:30:15.166052",
         "source": "Hacker News"
+    },
+    {
+        "title": "Faster type-aware linting with tsrs",
+        "url": "https://oxc.rs/blog/2026-11-17-faster-type-aware-linting-with-tsrs",
+        "timestamp": "2026-11-18T02:30:15.166082",
+        "source": "Hacker News"
     }
 ]
