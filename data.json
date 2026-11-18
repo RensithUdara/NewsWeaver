@@ -686728,5 +686728,11 @@
         "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
         "timestamp": "2026-11-18T19:02:03.819387",
         "source": "Hacker News"
+    },
+    {
+        "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+        "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+        "timestamp": "2026-11-18T19:02:03.819410",
+        "source": "Hacker News"
     }
 ]
