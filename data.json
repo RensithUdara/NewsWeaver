@@ -686944,5 +686944,11 @@
         "url": "https://wordpress.org/documentation/wordpress-version/version-7-1-5/",
         "timestamp": "2026-11-18T19:02:04.038228",
         "source": "Hacker News"
+    },
+    {
+        "title": "modernc.org/webview: Pure-Go Browser Engine",
+        "url": "https://pkg.go.dev/modernc.org/webview",
+        "timestamp": "2026-11-18T19:02:04.038251",
+        "source": "Hacker News"
     }
 ]
