@@ -686698,5 +686698,11 @@
         "url": "https://www.producthunt.com/products/ody-ai-business-phone",
         "timestamp": "2026-11-18T10:39:12.665714",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+        "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+        "timestamp": "2026-11-18T19:02:03.819273",
+        "source": "Hacker News"
     }
 ]
