@@ -686302,5 +686302,11 @@
         "url": "https://github.com/blagoslov333-cloud/quadgate",
         "timestamp": "2026-11-18T02:30:15.166458",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cutting Web Audit Overhead by 92% with Agentic Chrome DevTools",
+        "url": "https://developer.chrome.com/blog/policybazaar-agentic-audit",
+        "timestamp": "2026-11-18T02:30:15.166479",
+        "source": "Hacker News"
     }
 ]
