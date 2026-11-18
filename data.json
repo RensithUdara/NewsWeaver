@@ -686788,5 +686788,11 @@
         "url": "https://news.ycombinator.com/item?id=50548660",
         "timestamp": "2026-11-18T19:02:03.819639",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
+        "url": "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats",
+        "timestamp": "2026-11-18T19:02:03.819658",
+        "source": "Hacker News"
     }
 ]
