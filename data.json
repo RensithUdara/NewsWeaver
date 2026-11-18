@@ -686116,5 +686116,11 @@
         "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
         "timestamp": "2026-11-18T02:30:14.921542",
         "source": "Hacker News"
+    },
+    {
+        "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+        "url": "https://github.com/microsoft/onnxruntime",
+        "timestamp": "2026-11-18T02:30:14.921563",
+        "source": "Hacker News"
     }
 ]
