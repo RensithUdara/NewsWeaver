@@ -686194,5 +686194,11 @@
         "url": "https://www.youtube.com/watch?v=MbhZd6s3P34",
         "timestamp": "2026-11-18T02:30:15.166030",
         "source": "Hacker News"
+    },
+    {
+        "title": "Escaping from a Docker container through vDSO",
+        "url": "https://phrack.org/issues/73/escaping-from-a-docker-container-through-vdso_md",
+        "timestamp": "2026-11-18T02:30:15.166052",
+        "source": "Hacker News"
     }
 ]
