@@ -686290,5 +686290,11 @@
         "url": "https://github.com/singhpratech/ferrovec/tree/main/extensions/retrace",
         "timestamp": "2026-11-18T02:30:15.166417",
         "source": "Hacker News"
+    },
+    {
+        "title": "Staged Publishing on Nuget.org",
+        "url": "https://devblogs.microsoft.com/dotnet/nuget-staged-publishing/",
+        "timestamp": "2026-11-18T02:30:15.166437",
+        "source": "Hacker News"
     }
 ]
