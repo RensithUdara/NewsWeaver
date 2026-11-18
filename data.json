@@ -686626,5 +686626,11 @@
         "url": "https://www.daytona.io/dotfiles/macos-sandboxes",
         "timestamp": "2026-11-18T10:39:12.363097",
         "source": "Hacker News"
+    },
+    {
+        "title": "C's designated initializers give us named arguments",
+        "url": "https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/",
+        "timestamp": "2026-11-18T10:39:12.363111",
+        "source": "Hacker News"
     }
 ]
