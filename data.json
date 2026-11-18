@@ -686224,5 +686224,11 @@
         "url": "https://github.com/kborer/cells/",
         "timestamp": "2026-11-18T02:30:15.166148",
         "source": "Hacker News"
+    },
+    {
+        "title": "Evolving Infra: Agent-Adaptive LLM Serving at Scale",
+        "url": "https://github.com/mit-han-lab/EvolvingInfra",
+        "timestamp": "2026-11-18T02:30:15.166169",
+        "source": "Hacker News"
     }
 ]
