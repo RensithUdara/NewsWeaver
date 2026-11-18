@@ -686896,5 +686896,11 @@
         "url": "https://arxiv.org/abs/2611.23001",
         "timestamp": "2026-11-18T19:02:04.038061",
         "source": "Hacker News"
+    },
+    {
+        "title": "16M Segmentation Masks",
+        "url": "https://huggingface.co/datasets/ibm-esa-geospatial/TerraMesh-Masks",
+        "timestamp": "2026-11-18T19:02:04.038082",
+        "source": "Hacker News"
     }
 ]
