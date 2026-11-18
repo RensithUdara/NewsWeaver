@@ -686296,5 +686296,11 @@
         "url": "https://devblogs.microsoft.com/dotnet/nuget-staged-publishing/",
         "timestamp": "2026-11-18T02:30:15.166437",
         "source": "Hacker News"
+    },
+    {
+        "title": "QuadGate – 4-gate control plane that keeps agent KV prefix caches warm SHow HN",
+        "url": "https://github.com/blagoslov333-cloud/quadgate",
+        "timestamp": "2026-11-18T02:30:15.166458",
+        "source": "Hacker News"
     }
 ]
