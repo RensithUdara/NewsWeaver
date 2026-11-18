@@ -686086,5 +686086,11 @@
         "url": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
         "timestamp": "2026-11-17T20:25:32.074009",
         "source": "Articles on Smashing Magazine — For Web Designers And Developers"
+    },
+    {
+        "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+        "url": "https://calif.io/java4shell/",
+        "timestamp": "2026-11-18T02:30:14.921407",
+        "source": "Hacker News"
     }
 ]
