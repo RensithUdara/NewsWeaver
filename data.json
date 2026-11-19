@@ -687970,5 +687970,11 @@
         "url": "https://tabbyml.github.io/weight-space-playground/",
         "timestamp": "2026-11-19T17:41:46.142995",
         "source": "Hacker News"
+    },
+    {
+        "title": "It's All about the Allocator",
+        "url": "https://aarol.dev/posts/zig-allocator/",
+        "timestamp": "2026-11-19T17:41:46.143027",
+        "source": "Hacker News"
     }
 ]
