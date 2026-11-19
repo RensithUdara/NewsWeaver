@@ -687244,5 +687244,11 @@
         "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
         "timestamp": "2026-11-19T01:05:56.268061",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+        "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
+        "timestamp": "2026-11-19T01:05:56.268088",
+        "source": "Hacker News"
     }
 ]
