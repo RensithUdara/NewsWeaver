@@ -687754,5 +687754,11 @@
         "url": "https://github.com/trilogy-libraries/trilogy/security/advisories/GHSA-744p-w4gc-m3gh",
         "timestamp": "2026-11-19T08:41:30.091127",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Self-hosted photos app for the Indie Web",
+        "url": "https://github.com/aspizu/dcim",
+        "timestamp": "2026-11-19T08:41:30.091157",
+        "source": "Hacker News"
     }
 ]
