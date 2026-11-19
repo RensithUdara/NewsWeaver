@@ -687652,5 +687652,11 @@
         "url": "https://www.nohat.it/all-editions/2026/recap",
         "timestamp": "2026-11-19T08:41:30.090893",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nudeps: Bundler-like imports, none of the baggage",
+        "url": "https://lea.verou.me/blog/2026/nudeps/",
+        "timestamp": "2026-11-19T08:41:30.090908",
+        "source": "Hacker News"
     }
 ]
