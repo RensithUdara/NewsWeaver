@@ -687604,5 +687604,11 @@
         "url": "https://www.reuters.com/legal/litigation/us-department-of-justice-charges-russian-targeting-palantir-foreign-agent-2026-11-18/",
         "timestamp": "2026-11-19T08:41:30.090769",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Supabase RLS simulator – who can read/insert/update/delete each table",
+        "url": "https://psychevus.com/tools/supabase-rls",
+        "timestamp": "2026-11-19T08:41:30.090786",
+        "source": "Hacker News"
     }
 ]
