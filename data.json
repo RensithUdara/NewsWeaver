@@ -687424,5 +687424,11 @@
         "url": "https://solenroot.com/blog/build-log-1/cabinet-went-quiet-dashboard-did-not-notice-5",
         "timestamp": "2026-11-19T01:05:56.508760",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running distributed ML and AI workloads with wasmCloud (2025)",
+        "url": "https://wasmcloud.com/blog/2025-01-15-running-distributed-ml-and-ai-workloads-with-wasmcloud/",
+        "timestamp": "2026-11-19T01:05:56.508783",
+        "source": "Hacker News"
     }
 ]
