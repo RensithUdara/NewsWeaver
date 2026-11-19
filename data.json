@@ -687772,5 +687772,11 @@
         "url": "https://dev.to/maame-codes/my-linux-course-put-me-to-sleep-so-i-built-something-that-wouldnt-5g4k",
         "timestamp": "2026-11-19T08:41:30.217209",
         "source": "Dev.to"
+    },
+    {
+        "title": "Kubernetes Under the Hood: What Actually Happens When You Run kubectl apply",
+        "url": "https://dev.to/smtahosin/kubernetes-under-the-hood-what-actually-happens-when-you-run-kubectl-apply-5cog",
+        "timestamp": "2026-11-19T08:41:30.217211",
+        "source": "Dev.to"
     }
 ]
