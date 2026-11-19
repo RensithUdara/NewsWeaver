@@ -688126,5 +688126,11 @@
         "url": "https://www.orau.org/health-physics-museum/collection/spinthariscopes/lone-ranger-atom-bomb-ring-spinthariscope.html",
         "timestamp": "2026-11-19T17:41:46.209765",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A 145-line 2D rigid-body physics engine in TypeScript and Canvas demo",
+        "url": "https://m2-md.github.io/canvas-physics-from-scratch/",
+        "timestamp": "2026-11-19T17:41:46.209799",
+        "source": "Hacker News"
     }
 ]
