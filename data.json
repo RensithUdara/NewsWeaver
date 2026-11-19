@@ -688300,5 +688300,11 @@
         "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
         "timestamp": "2026-11-19T23:53:07.601797",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rebuilding my local voice assistant pipeline",
+        "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+        "timestamp": "2026-11-19T23:53:07.601853",
+        "source": "Hacker News"
     }
 ]
