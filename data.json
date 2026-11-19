@@ -688372,5 +688372,11 @@
         "url": "https://stass.github.io/erXos/",
         "timestamp": "2026-11-19T23:53:07.805403",
         "source": "Hacker News"
+    },
+    {
+        "title": "Prime Intellect: Security Advisory PI-SA-2026-001",
+        "url": "https://www.primeintellect.ai/security/advisories/deepseek-v4-1-flash-model-substitution",
+        "timestamp": "2026-11-19T23:53:07.805417",
+        "source": "Hacker News"
     }
 ]
