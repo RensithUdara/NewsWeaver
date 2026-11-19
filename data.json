@@ -687544,5 +687544,11 @@
         "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
         "timestamp": "2026-11-19T01:05:56.797892",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+        "url": "https://verialabs.com/ruby2shell/",
+        "timestamp": "2026-11-19T08:41:29.891652",
+        "source": "Hacker News"
     }
 ]
