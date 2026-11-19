@@ -687748,5 +687748,11 @@
         "url": "https://ishtar.page/wikipedle/",
         "timestamp": "2026-11-19T08:41:30.091113",
         "source": "Hacker News"
+    },
+    {
+        "title": "SQL injection with multibyte encodings in Ruby on Rails (GHSA-744p-w4gc-m3gh)",
+        "url": "https://github.com/trilogy-libraries/trilogy/security/advisories/GHSA-744p-w4gc-m3gh",
+        "timestamp": "2026-11-19T08:41:30.091127",
+        "source": "Hacker News"
     }
 ]
