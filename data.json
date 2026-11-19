@@ -687442,5 +687442,11 @@
         "url": "https://jacobstrauss.bearblog.dev/experiments-in-weight-space-programming/",
         "timestamp": "2026-11-19T01:05:56.508826",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why I Rewrote type-tune from TypeScript to Rust 🦀",
+        "url": "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg",
+        "timestamp": "2026-11-19T01:05:56.593771",
+        "source": "Dev.to"
     }
 ]
