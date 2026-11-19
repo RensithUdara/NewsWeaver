@@ -687208,5 +687208,11 @@
         "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
         "timestamp": "2026-11-19T01:05:56.267769",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLM assisted reverse engineering",
+        "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+        "timestamp": "2026-11-19T01:05:56.267818",
+        "source": "Hacker News"
     }
 ]
