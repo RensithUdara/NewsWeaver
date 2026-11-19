@@ -688318,5 +688318,11 @@
         "url": "https://www.tisonkun.io/posts/ai-repair-program/",
         "timestamp": "2026-11-19T23:53:07.601907",
         "source": "Hacker News"
+    },
+    {
+        "title": "Adding Fortran Support to LLDB (GSoC 2026)",
+        "url": "https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/",
+        "timestamp": "2026-11-19T23:53:07.602048",
+        "source": "Hacker News"
     }
 ]
