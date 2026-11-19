@@ -687202,5 +687202,11 @@
         "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
         "timestamp": "2026-11-19T01:05:56.267742",
         "source": "Hacker News"
+    },
+    {
+        "title": "Multiple vulnerabilities in Regexp and String case conversion",
+        "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+        "timestamp": "2026-11-19T01:05:56.267769",
+        "source": "Hacker News"
     }
 ]
