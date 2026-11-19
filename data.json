@@ -687724,5 +687724,11 @@
         "url": "https://news.ycombinator.com/item?id=50557273",
         "timestamp": "2026-11-19T08:41:30.091057",
         "source": "Hacker News"
+    },
+    {
+        "title": "Screen-relay – stream and control any desktop at 120fps from a browser or a CLI",
+        "url": "https://github.com/vercel-labs/screen-relay",
+        "timestamp": "2026-11-19T08:41:30.091071",
+        "source": "Hacker News"
     }
 ]
