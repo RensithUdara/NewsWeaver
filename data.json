@@ -687670,5 +687670,11 @@
         "url": "https://radar.cloudflare.com/zero-wire",
         "timestamp": "2026-11-19T08:41:30.090935",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Production eBPF and XDP Tracing Toolkit for Linux Kernel Performance",
+        "url": "https://github.com/grfdsasdvef/awesome-ebpf-linux-tracing",
+        "timestamp": "2026-11-19T08:41:30.090950",
+        "source": "Hacker News"
     }
 ]
