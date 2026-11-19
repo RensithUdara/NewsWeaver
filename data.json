@@ -687964,5 +687964,11 @@
         "url": "https://news.ycombinator.com/item?id=50562528",
         "timestamp": "2026-11-19T17:41:46.142932",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Watch weight-space programming in action with WebGPU",
+        "url": "https://tabbyml.github.io/weight-space-playground/",
+        "timestamp": "2026-11-19T17:41:46.142995",
+        "source": "Hacker News"
     }
 ]
