@@ -689512,5 +689512,11 @@
         "url": "https://www.youtube.com/watch?v=Z6_ENp_fO_Y",
         "timestamp": "2026-11-20T21:40:23.763879",
         "source": "Hacker News"
+    },
+    {
+        "title": "TensorLean: Formal verification framework for GPU kernels at the PTX level",
+        "url": "https://tensorlean.ai/",
+        "timestamp": "2026-11-20T21:40:23.763896",
+        "source": "Hacker News"
     }
 ]
