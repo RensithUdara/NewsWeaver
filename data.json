@@ -688618,5 +688618,11 @@
         "url": "https://www.bxfoundry.com/chatgpt_snes/",
         "timestamp": "2026-11-20T05:03:59.216439",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+        "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+        "timestamp": "2026-11-20T05:03:59.216505",
+        "source": "Hacker News"
     }
 ]
