@@ -689014,5 +689014,11 @@
         "url": "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193",
         "timestamp": "2026-11-20T13:57:03.229410",
         "source": "Hacker News"
+    },
+    {
+        "title": "ViReC: The Virtual Register Context Architecture for Efficient Multithreading [pdf]",
+        "url": "https://slam.ece.utexas.edu/pubs/icpp25.ViReC.pdf",
+        "timestamp": "2026-11-20T13:57:03.229433",
+        "source": "Hacker News"
     }
 ]
