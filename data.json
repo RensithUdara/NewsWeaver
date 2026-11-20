@@ -688576,5 +688576,11 @@
         "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
         "timestamp": "2026-11-19T23:53:08.144946",
         "source": "TechCrunch"
+    },
+    {
+        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+        "url": "https://github.com/openssl/openssl/pull/33652",
+        "timestamp": "2026-11-20T05:03:59.216140",
+        "source": "Hacker News"
     }
 ]
