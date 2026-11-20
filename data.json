@@ -688990,5 +688990,11 @@
         "url": "https://www.newsweek.com/rain-california-earthquakes-floods-extreme-weather-1772913",
         "timestamp": "2026-11-20T13:57:03.229317",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Hobby MQTT 3.1.1 broker written in Zig",
+        "url": "https://github.com/threeaccents/zancudo",
+        "timestamp": "2026-11-20T13:57:03.229340",
+        "source": "Hacker News"
     }
 ]
