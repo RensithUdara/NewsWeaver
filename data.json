@@ -689008,5 +689008,11 @@
         "url": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153",
         "timestamp": "2026-11-20T13:57:03.229388",
         "source": "Hacker News"
+    },
+    {
+        "title": "Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP",
+        "url": "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193",
+        "timestamp": "2026-11-20T13:57:03.229410",
+        "source": "Hacker News"
     }
 ]
