@@ -688582,5 +688582,11 @@
         "url": "https://github.com/openssl/openssl/pull/33652",
         "timestamp": "2026-11-20T05:03:59.216140",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+        "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+        "timestamp": "2026-11-20T05:03:59.216158",
+        "source": "Hacker News"
     }
 ]
