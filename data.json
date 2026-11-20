@@ -688654,5 +688654,11 @@
         "url": "https://blog.exe.dev/meet-exe-finops-the-custom-tool-i-built-for-our-billing-data",
         "timestamp": "2026-11-20T05:03:59.322832",
         "source": "Hacker News"
+    },
+    {
+        "title": "Windows Narrator LockScreen Bypass 0day",
+        "url": "https://github.com/MSNightmare/FastUnlock",
+        "timestamp": "2026-11-20T05:03:59.322850",
+        "source": "Hacker News"
     }
 ]
