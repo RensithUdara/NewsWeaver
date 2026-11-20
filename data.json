@@ -688624,5 +688624,11 @@
         "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
         "timestamp": "2026-11-20T05:03:59.216505",
         "source": "Hacker News"
+    },
+    {
+        "title": "PostgreSQL 19",
+        "url": "https://www.postgresql.org/docs/release/19.0/",
+        "timestamp": "2026-11-20T05:03:59.216538",
+        "source": "Hacker News"
     }
 ]
