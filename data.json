@@ -689704,5 +689704,11 @@
         "url": "https://ninlive.com/",
         "timestamp": "2026-11-21T02:51:35.521987",
         "source": "Hacker News"
+    },
+    {
+        "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+        "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+        "timestamp": "2026-11-21T02:51:35.522034",
+        "source": "Hacker News"
     }
 ]
