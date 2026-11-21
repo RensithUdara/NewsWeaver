@@ -690736,5 +690736,11 @@
         "url": "https://allo.joshpuckett.me/",
         "timestamp": "2026-11-21T22:26:09.013349",
         "source": "Hacker News"
+    },
+    {
+        "title": "Onionloom: Tor v3 .onion vanity addresses, CPU tuning, GPU acceleration",
+        "url": "https://github.com/chrisch88dev/onionloom",
+        "timestamp": "2026-11-21T22:26:09.013366",
+        "source": "Hacker News"
     }
 ]
