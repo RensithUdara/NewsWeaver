@@ -689818,5 +689818,11 @@
         "url": "https://www.ft.com/content/8f24b313-1b9a-401d-88e6-089aedc72519",
         "timestamp": "2026-11-21T02:51:35.721124",
         "source": "Hacker News"
+    },
+    {
+        "title": "Discord Rewrites Desktop and Mobile Clients in Rust",
+        "url": "https://www.infoq.com/news/2026/11/discord-rust-rewrite-gpui-zed/",
+        "timestamp": "2026-11-21T02:51:35.721166",
+        "source": "Hacker News"
     }
 ]
