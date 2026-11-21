@@ -690316,5 +690316,11 @@
         "url": "https://klauria.tech/klauria-art/",
         "timestamp": "2026-11-21T17:44:07.677773",
         "source": "Hacker News"
+    },
+    {
+        "title": "RCE in Gnupg",
+        "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+        "timestamp": "2026-11-21T17:44:07.677855",
+        "source": "Hacker News"
     }
 ]
