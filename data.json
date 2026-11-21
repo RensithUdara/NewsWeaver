@@ -689776,5 +689776,11 @@
         "url": "https://www.cbc.ca/news/canada/bolo-program-canada-fugitives-police-ai-9.7428331",
         "timestamp": "2026-11-21T02:51:35.720967",
         "source": "Hacker News"
+    },
+    {
+        "title": "NATS Server 2.15: How we rebuilt scaling and moving streams safely",
+        "url": "https://www.synadia.com/blog/how-we-move-streams-safely-nats-2-15-desired-state-reconciliation",
+        "timestamp": "2026-11-21T02:51:35.720990",
+        "source": "Hacker News"
     }
 ]
