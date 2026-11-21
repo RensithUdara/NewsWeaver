@@ -690766,5 +690766,11 @@
         "url": "https://apps.apple.com/us/app/quadrivia/id6830515751",
         "timestamp": "2026-11-21T22:26:09.013447",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Straum – Live Postgres aggregates without triggers or extensions",
+        "url": "https://github.com/janbjorge/straum",
+        "timestamp": "2026-11-21T22:26:09.013463",
+        "source": "Hacker News"
     }
 ]
