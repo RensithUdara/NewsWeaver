@@ -690292,5 +690292,11 @@
         "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
         "timestamp": "2026-11-21T17:44:07.677631",
         "source": "Hacker News"
+    },
+    {
+        "title": "PostgreSQL Extensions in Go",
+        "url": "https://jespino.github.io/gopgext/",
+        "timestamp": "2026-11-21T17:44:07.677661",
+        "source": "Hacker News"
     }
 ]
