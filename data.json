@@ -690682,5 +690682,11 @@
         "url": "https://www.youtube.com/watch?v=SwX4OoxMaKM",
         "timestamp": "2026-11-21T22:26:09.013197",
         "source": "Hacker News"
+    },
+    {
+        "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+        "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+        "timestamp": "2026-11-21T22:26:09.013213",
+        "source": "Hacker News"
     }
 ]
