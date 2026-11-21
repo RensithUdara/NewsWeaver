@@ -690598,5 +690598,11 @@
         "url": "https://math.mit.edu/~drew/grh/",
         "timestamp": "2026-11-21T22:26:08.876523",
         "source": "Hacker News"
+    },
+    {
+        "title": "Upload2Shell (CVE-2026-125396)",
+        "url": "https://pwn.ai/upload2shell",
+        "timestamp": "2026-11-21T22:26:08.876539",
+        "source": "Hacker News"
     }
 ]
