@@ -690724,5 +690724,11 @@
         "url": "https://robbiewmthompson.com/blog/anecdotes-on-meditation/",
         "timestamp": "2026-11-21T22:26:09.013312",
         "source": "Hacker News"
+    },
+    {
+        "title": "Deterministic IAM engine that proves AWS simulator is wrong",
+        "url": "https://github.com/Pliauga/Bastion",
+        "timestamp": "2026-11-21T22:26:09.013332",
+        "source": "Hacker News"
     }
 ]
