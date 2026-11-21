@@ -689830,5 +689830,11 @@
         "url": "https://www.bbc.co.uk/news/articles/cq7821d0pv49o",
         "timestamp": "2026-11-21T02:51:35.721186",
         "source": "Hacker News"
+    },
+    {
+        "title": "Verifying formal models of Raft implementations",
+        "url": "https://antithesis.com/blog/2026/verifying-formal-models/",
+        "timestamp": "2026-11-21T02:51:35.721208",
+        "source": "Hacker News"
     }
 ]
