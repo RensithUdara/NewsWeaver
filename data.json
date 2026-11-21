@@ -690754,5 +690754,11 @@
         "url": "https://github.com/Yelar/noclip",
         "timestamp": "2026-11-21T22:26:09.013414",
         "source": "Hacker News"
+    },
+    {
+        "title": "VSCode extension to add bib entries from your Zotero library",
+        "url": "https://github.com/justachetan/zotero-live-cite",
+        "timestamp": "2026-11-21T22:26:09.013430",
+        "source": "Hacker News"
     }
 ]
