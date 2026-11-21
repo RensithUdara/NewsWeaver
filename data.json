@@ -689746,5 +689746,11 @@
         "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
         "timestamp": "2026-11-21T02:51:35.522433",
         "source": "Hacker News"
+    },
+    {
+        "title": "Merkle Tree Certificates",
+        "url": "https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/",
+        "timestamp": "2026-11-21T02:51:35.522523",
+        "source": "Hacker News"
     }
 ]
