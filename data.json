@@ -690142,5 +690142,11 @@
         "url": "https://nexupira.com/news/memory-that-saves-itself",
         "timestamp": "2026-11-21T10:29:34.248211",
         "source": "Hacker News"
+    },
+    {
+        "title": "AWS Common Runtime (CRT) v1.0.0 in C",
+        "url": "https://aws.amazon.com/blogs/developer/announcing-aws-common-runtime-crt-v1-0-0/",
+        "timestamp": "2026-11-21T10:29:34.248242",
+        "source": "Hacker News"
     }
 ]
