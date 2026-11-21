@@ -690064,5 +690064,11 @@
         "url": "https://www.bloomberg.com/news/articles/2026-11-19/jensen-huang-s-charity-committed-350-million-to-coreweave",
         "timestamp": "2026-11-21T10:29:34.247768",
         "source": "Hacker News"
+    },
+    {
+        "title": "An experiment with SIMD in Rust using fearless_simd",
+        "url": "https://ankursethi.com/blog/an-experiment-with-simd-in-rust-using-fearless_simd/",
+        "timestamp": "2026-11-21T10:29:34.247804",
+        "source": "Hacker News"
     }
 ]
