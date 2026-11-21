@@ -690502,5 +690502,11 @@
         "url": "https://queue.acm.org/doi/10.1145/3861345",
         "timestamp": "2026-11-21T17:44:07.887716",
         "source": "Hacker News"
+    },
+    {
+        "title": "LibreWakeWord: Real, hardware-based custom wake word support for Android",
+        "url": "https://github.com/w1b/LibreWakeWord",
+        "timestamp": "2026-11-21T17:44:07.887768",
+        "source": "Hacker News"
     }
 ]
