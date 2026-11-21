@@ -690148,5 +690148,11 @@
         "url": "https://aws.amazon.com/blogs/developer/announcing-aws-common-runtime-crt-v1-0-0/",
         "timestamp": "2026-11-21T10:29:34.248242",
         "source": "Hacker News"
+    },
+    {
+        "title": "Three breaches, endless leaks: Your AI supply chain needs canaries",
+        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+        "timestamp": "2026-11-21T10:29:34.248287",
+        "source": "Hacker News"
     }
 ]
