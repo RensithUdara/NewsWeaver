@@ -690340,5 +690340,11 @@
         "url": "https://simple-bench.com/",
         "timestamp": "2026-11-21T17:44:07.678063",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLMs can read and write executables byte by byte from a hex dump",
+        "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+        "timestamp": "2026-11-21T17:44:07.678088",
+        "source": "Hacker News"
     }
 ]
