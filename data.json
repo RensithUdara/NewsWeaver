@@ -690100,5 +690100,11 @@
         "url": "https://phys.org/news/2026-11-meowing-food-cats-human-attention.html",
         "timestamp": "2026-11-21T10:29:34.247994",
         "source": "Hacker News"
+    },
+    {
+        "title": "etcd is a strongly consistent, distributed key-value store",
+        "url": "https://etcd.io/",
+        "timestamp": "2026-11-21T10:29:34.248025",
+        "source": "Hacker News"
     }
 ]
