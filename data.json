@@ -690040,5 +690040,11 @@
         "url": "https://news.ycombinator.com/item?id=50587779",
         "timestamp": "2026-11-21T10:29:34.247642",
         "source": "Hacker News"
+    },
+    {
+        "title": "Verify OpenAI-Generated Content",
+        "url": "https://openai.com/research/verify/",
+        "timestamp": "2026-11-21T10:29:34.247673",
+        "source": "Hacker News"
     }
 ]
