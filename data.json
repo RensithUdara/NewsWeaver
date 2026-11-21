@@ -690790,5 +690790,11 @@
         "url": "https://arxiv.org/abs/2409.00067",
         "timestamp": "2026-11-21T22:26:09.013516",
         "source": "Hacker News"
+    },
+    {
+        "title": "FarmDash (zero-custody DeFi agent API): RFC 9727 catalog, typed webhooks",
+        "url": "https://www.farmdash.one/.well-known/api-catalog",
+        "timestamp": "2026-11-21T22:26:09.013533",
+        "source": "Hacker News"
     }
 ]
