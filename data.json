@@ -691090,5 +691090,11 @@
         "url": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
         "timestamp": "2026-11-22T10:05:49.947859",
         "source": "Hacker News"
+    },
+    {
+        "title": "Is 'fork' missing operation in sandboxes?",
+        "url": "https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable",
+        "timestamp": "2026-11-22T10:05:49.947893",
+        "source": "Hacker News"
     }
 ]
