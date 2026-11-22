@@ -691096,5 +691096,11 @@
         "url": "https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable",
         "timestamp": "2026-11-22T10:05:49.947893",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+        "url": "https://github.com/EL4CTEO/fast-anything",
+        "timestamp": "2026-11-22T10:05:49.947974",
+        "source": "Hacker News"
     }
 ]
