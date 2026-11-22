@@ -691762,5 +691762,11 @@
         "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
         "timestamp": "2026-11-22T22:50:18.679573",
         "source": "Hacker News"
+    },
+    {
+        "title": "Testing Terraform with AWS Emulator",
+        "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+        "timestamp": "2026-11-22T22:50:18.679591",
+        "source": "Hacker News"
     }
 ]
