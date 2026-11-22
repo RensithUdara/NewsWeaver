@@ -691798,5 +691798,11 @@
         "url": "https://linuxiac.com/a-zip-archive-that-boots-your-pc-is-now-a-reality/",
         "timestamp": "2026-11-22T22:50:18.873863",
         "source": "Hacker News"
+    },
+    {
+        "title": "Modernizing iperf/iperf3 and introducing fireperf",
+        "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+        "timestamp": "2026-11-22T22:50:18.873882",
+        "source": "Hacker News"
     }
 ]
