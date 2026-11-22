@@ -691408,5 +691408,11 @@
         "url": "https://news.ycombinator.com/item?id=50555002",
         "timestamp": "2026-11-22T17:46:13.429044",
         "source": "Hacker News"
+    },
+    {
+        "title": "Inside PyPy: First Contact with RPython",
+        "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
+        "timestamp": "2026-11-22T17:46:13.429086",
+        "source": "Hacker News"
     }
 ]
