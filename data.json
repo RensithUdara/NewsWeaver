@@ -691036,5 +691036,11 @@
         "url": "https://www.reuters.com/world/asia-pacific/softbanks-son-explored-1-trillion-buyout-sk-hynix-information-reports-2026-11-21/",
         "timestamp": "2026-11-22T02:28:04.762107",
         "source": "Hacker News"
+    },
+    {
+        "title": "Muru – Rust server for running ASGI and WSGI Python apps",
+        "url": "https://github.com/muruhq/muru",
+        "timestamp": "2026-11-22T02:28:04.762139",
+        "source": "Hacker News"
     }
 ]
