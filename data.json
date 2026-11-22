@@ -691564,5 +691564,11 @@
         "url": "https://good.services/writing/when-services-fail-we-see-what-they-are-made-of",
         "timestamp": "2026-11-22T17:46:13.620635",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Exploitwatch – Alerts for vulnerable Docker containers (e.g. PHP2Shell)",
+        "url": "https://github.com/marioleal/exploitwatch",
+        "timestamp": "2026-11-22T17:46:13.620655",
+        "source": "Hacker News"
     }
 ]
