@@ -691108,5 +691108,11 @@
         "url": "https://www.jacktollenaar.top/articles/split-rc.html",
         "timestamp": "2026-11-22T10:05:49.947990",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Compile the same source for GPUs and CPUs",
+        "url": "https://github.com/ThrudTheBarbarian/xc",
+        "timestamp": "2026-11-22T10:05:49.948040",
+        "source": "Hacker News"
     }
 ]
