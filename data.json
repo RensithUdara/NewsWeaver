@@ -690952,5 +690952,11 @@
         "url": "https://quick.aws.com",
         "timestamp": "2026-11-22T02:28:04.761606",
         "source": "Hacker News"
+    },
+    {
+        "title": "I made my daily notes app open source with free iOS<>Mac syncing",
+        "url": "https://github.com/zlwaterfield/cue",
+        "timestamp": "2026-11-22T02:28:04.761644",
+        "source": "Hacker News"
     }
 ]
