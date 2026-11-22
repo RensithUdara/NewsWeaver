@@ -691138,5 +691138,11 @@
         "url": "https://www.pgedge.com/blog/postgresql-19-is-here-worth-the-wait",
         "timestamp": "2026-11-22T10:05:50.057504",
         "source": "Hacker News"
+    },
+    {
+        "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+        "url": "https://simonwillison.net/2026/Nov/21/muru/",
+        "timestamp": "2026-11-22T10:05:50.057522",
+        "source": "Hacker News"
     }
 ]
