@@ -691834,5 +691834,11 @@
         "url": "https://serendb.com/blog/raise-your-hand-if-you-think-your-aws-api-keys-were-exfiltrated",
         "timestamp": "2026-11-22T22:50:18.873975",
         "source": "Hacker News"
+    },
+    {
+        "title": "Localcode, open source agentic coding on your Mac with one command",
+        "url": "https://github.com/mjwsolo/localcode",
+        "timestamp": "2026-11-22T22:50:18.873995",
+        "source": "Hacker News"
     }
 ]
