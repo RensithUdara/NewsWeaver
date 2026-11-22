@@ -690874,5 +690874,11 @@
         "url": "https://revyl.com/blog/pattern-engineering/",
         "timestamp": "2026-11-22T02:28:04.550134",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention",
+        "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+        "timestamp": "2026-11-22T02:28:04.761071",
+        "source": "Hacker News"
     }
 ]
