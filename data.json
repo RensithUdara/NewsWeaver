@@ -691582,5 +691582,11 @@
         "url": "https://news.ycombinator.com/item?id=50601623",
         "timestamp": "2026-11-22T17:46:13.620696",
         "source": "Hacker News"
+    },
+    {
+        "title": "Liseur: Android ePub Reader",
+        "url": "https://github.com/chmouel/liseur",
+        "timestamp": "2026-11-22T17:46:13.620715",
+        "source": "Hacker News"
     }
 ]
