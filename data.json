@@ -692230,5 +692230,11 @@
         "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
         "timestamp": "2026-11-23T13:24:03.097419",
         "source": "Hacker News"
+    },
+    {
+        "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
+        "url": "https://github.com/elixir-hls/elixir-hls",
+        "timestamp": "2026-11-23T13:24:03.097437",
+        "source": "Hacker News"
     }
 ]
