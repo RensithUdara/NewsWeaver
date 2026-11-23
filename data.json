@@ -692446,5 +692446,11 @@
         "url": "https://kliv.dev/blog/engineering-to-the-99th-percentile",
         "timestamp": "2026-11-23T13:24:03.323495",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code Mode Internals",
+        "url": "https://muthuishere.medium.com/code-mode-internals-and-adapting-them-for-your-clis-and-agent-skills-3a9ae4c9782f",
+        "timestamp": "2026-11-23T13:24:03.323513",
+        "source": "Hacker News"
     }
 ]
