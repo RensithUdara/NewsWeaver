@@ -692308,5 +692308,11 @@
         "url": "https://seenlio.app",
         "timestamp": "2026-11-23T13:24:03.323062",
         "source": "Hacker News"
+    },
+    {
+        "title": "Beating the compiler at signed 32-bit division",
+        "url": "https://lemire.me/blog/2026/10/31/beating-the-compiler-at-signed-32-bit-division/",
+        "timestamp": "2026-11-23T13:24:03.323081",
+        "source": "Hacker News"
     }
 ]
