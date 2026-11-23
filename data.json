@@ -692356,5 +692356,11 @@
         "url": "https://github.com/Water-Run/deepseek-harness-uncensored",
         "timestamp": "2026-11-23T13:24:03.323209",
         "source": "Hacker News"
+    },
+    {
+        "title": "A short history of read streams in Postgres",
+        "url": "https://frn.sh/postgres-io/",
+        "timestamp": "2026-11-23T13:24:03.323226",
+        "source": "Hacker News"
     }
 ]
