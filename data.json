@@ -692278,5 +692278,11 @@
         "url": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
         "timestamp": "2026-11-23T13:24:03.097739",
         "source": "Hacker News"
+    },
+    {
+        "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)",
+        "url": "https://arxiv.org/abs/2506.13771",
+        "timestamp": "2026-11-23T13:24:03.097756",
+        "source": "Hacker News"
     }
 ]
