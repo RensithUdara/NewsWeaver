@@ -691990,5 +691990,11 @@
         "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
         "timestamp": "2026-11-23T03:24:06.473248",
         "source": "Hacker News"
+    },
+    {
+        "title": "What we learned operating auth for 1k APIs",
+        "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+        "timestamp": "2026-11-23T03:24:06.473312",
+        "source": "Hacker News"
     }
 ]
