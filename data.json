@@ -692362,5 +692362,11 @@
         "url": "https://frn.sh/postgres-io/",
         "timestamp": "2026-11-23T13:24:03.323226",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sandboxing AI Coding Agents: Nono vs. Docker Sbx vs. Microsandbox vs. OpenShell",
+        "url": "https://kudelskisecurity.com/research/sandboxing-coding-agents",
+        "timestamp": "2026-11-23T13:24:03.323244",
+        "source": "Hacker News"
     }
 ]
