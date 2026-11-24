@@ -693394,5 +693394,11 @@
         "url": "https://github.com/sous-labs/songe",
         "timestamp": "2026-11-24T20:57:26.132895",
         "source": "Hacker News"
+    },
+    {
+        "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+        "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+        "timestamp": "2026-11-24T20:57:26.133156",
+        "source": "Hacker News"
     }
 ]
