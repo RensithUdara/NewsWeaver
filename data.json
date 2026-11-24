@@ -693628,5 +693628,11 @@
         "url": "https://techstackups.com/articles/grafana-november-2026-security-release/",
         "timestamp": "2026-11-24T20:57:26.187714",
         "source": "Hacker News"
+    },
+    {
+        "title": "UPKI: Browser-grade certificate checking for every TLS client",
+        "url": "https://upki.rustls.dev/funding.html",
+        "timestamp": "2026-11-24T20:57:26.187734",
+        "source": "Hacker News"
     }
 ]
