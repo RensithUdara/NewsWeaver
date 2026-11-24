@@ -693388,5 +693388,11 @@
         "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
         "timestamp": "2026-11-24T20:57:26.132874",
         "source": "Hacker News"
+    },
+    {
+        "title": "A training engine for your local model, using your idle compute",
+        "url": "https://github.com/sous-labs/songe",
+        "timestamp": "2026-11-24T20:57:26.132895",
+        "source": "Hacker News"
     }
 ]
