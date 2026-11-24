@@ -693256,5 +693256,11 @@
         "url": "https://dev.to/ayush_singh_9b0d83152be5b/i-made-my-rag-safer-it-got-worse-under-load-3olm",
         "timestamp": "2026-11-24T10:50:57.459380",
         "source": "Dev.to"
+    },
+    {
+        "title": "Netlify Isn't Just a Static CDN: How Atomic Deploys, Edge Isolates, and Content-Addressed Storage Actually Work Under the Hood",
+        "url": "https://dev.to/smtahosin/netlify-isnt-just-a-static-cdn-how-atomic-deploys-edge-isolates-and-content-addressed-storage-5136",
+        "timestamp": "2026-11-24T10:50:57.459381",
+        "source": "Dev.to"
     }
 ]
