@@ -692596,5 +692596,11 @@
         "url": "https://cobalt27.dev/",
         "timestamp": "2026-11-24T01:05:43.863216",
         "source": "Hacker News"
+    },
+    {
+        "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+        "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+        "timestamp": "2026-11-24T01:05:43.863250",
+        "source": "Hacker News"
     }
 ]
