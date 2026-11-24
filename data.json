@@ -693004,5 +693004,11 @@
         "url": "https://salvageyarddrone.wordpress.com/",
         "timestamp": "2026-11-24T10:50:57.117480",
         "source": "Hacker News"
+    },
+    {
+        "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
+        "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
+        "timestamp": "2026-11-24T10:50:57.117548",
+        "source": "Hacker News"
     }
 ]
