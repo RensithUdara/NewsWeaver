@@ -692662,5 +692662,11 @@
         "url": "https://openai.com/index/introducing-shirudo/",
         "timestamp": "2026-11-24T01:05:43.863823",
         "source": "Hacker News"
+    },
+    {
+        "title": "How should an LLM see a computer?",
+        "url": "https://www.greptile.com/blog/trex-computer-use",
+        "timestamp": "2026-11-24T01:05:43.863855",
+        "source": "Hacker News"
     }
 ]
