@@ -692632,5 +692632,11 @@
         "url": "https://github.com/stass/type-c",
         "timestamp": "2026-11-24T01:05:43.863600",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mutex poisoning is not for everyone",
+        "url": "https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html",
+        "timestamp": "2026-11-24T01:05:43.863631",
+        "source": "Hacker News"
     }
 ]
