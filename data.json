@@ -694468,5 +694468,11 @@
         "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
         "timestamp": "2026-11-25T22:52:59.521643",
         "source": "Hacker News"
+    },
+    {
+        "title": "Defang Security Incident",
+        "url": "https://defang.io/blog/post/security-incident-november-2026/",
+        "timestamp": "2026-11-25T22:52:59.521658",
+        "source": "Hacker News"
     }
 ]
