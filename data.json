@@ -694324,5 +694324,11 @@
         "url": "https://dev.to/thethirdcup/the-third-cup-you-dont-have-to-fly-that-high-3ehd",
         "timestamp": "2026-11-25T13:51:41.537303",
         "source": "Dev.to"
+    },
+    {
+        "title": "Why Your Android App Drops Frames: The Jetpack Compose Architecture Guide That Fixes Recomposition Forever",
+        "url": "https://dev.to/smtahosin/why-your-android-app-drops-frames-the-jetpack-compose-architecture-guide-that-fixes-recomposition-3oh3",
+        "timestamp": "2026-11-25T13:51:41.537304",
+        "source": "Dev.to"
     }
 ]
