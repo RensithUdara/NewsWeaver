@@ -693778,5 +693778,11 @@
         "url": "https://greydanus.github.io/2026/11/12/pengpt/",
         "timestamp": "2026-11-25T03:56:59.227700",
         "source": "Hacker News"
+    },
+    {
+        "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+        "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+        "timestamp": "2026-11-25T03:56:59.227719",
+        "source": "Hacker News"
     }
 ]
