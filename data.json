@@ -693904,5 +693904,11 @@
         "url": "https://om.cloudcell.nz/",
         "timestamp": "2026-11-25T03:56:59.335135",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bypassing Android Hardware Attestation from the Analyst's Chair",
+        "url": "https://blog.quarkslab.com/bypassing-android-hardware-attestation.html",
+        "timestamp": "2026-11-25T03:56:59.335168",
+        "source": "Hacker News"
     }
 ]
