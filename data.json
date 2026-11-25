@@ -694054,5 +694054,11 @@
         "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
         "timestamp": "2026-11-25T03:56:59.663257",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+        "url": "https://github.com/xoxorwr/pw-loudness-eq",
+        "timestamp": "2026-11-25T13:51:41.341133",
+        "source": "Hacker News"
     }
 ]
