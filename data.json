@@ -694144,5 +694144,11 @@
         "url": "https://wayansatya.com/am-i-productive/",
         "timestamp": "2026-11-25T13:51:41.414247",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a URL shortener designed for 1.2M requests per second",
+        "url": "https://learnitmyway.com/url-shortener/",
+        "timestamp": "2026-11-25T13:51:41.414283",
+        "source": "Hacker News"
     }
 ]
