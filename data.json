@@ -694246,5 +694246,11 @@
         "url": "https://torben-ai.com/",
         "timestamp": "2026-11-25T13:51:41.414807",
         "source": "Hacker News"
+    },
+    {
+        "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+        "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+        "timestamp": "2026-11-25T13:51:41.414838",
+        "source": "Hacker News"
     }
 ]
