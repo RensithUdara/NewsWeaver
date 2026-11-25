@@ -693940,5 +693940,11 @@
         "url": "https://github.com/davidcareins-coder/voice-first-smoke-tester",
         "timestamp": "2026-11-25T03:56:59.335270",
         "source": "Hacker News"
+    },
+    {
+        "title": "FastFrames: Video Generation at Interactive Latency",
+        "url": "https://huggingface.co/apple/FastFrames-S",
+        "timestamp": "2026-11-25T03:56:59.335287",
+        "source": "Hacker News"
     }
 ]
