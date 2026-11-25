@@ -693922,5 +693922,11 @@
         "url": "https://www.stylewarning.com/posts/faster-digit-extraction/",
         "timestamp": "2026-11-25T03:56:59.335203",
         "source": "Hacker News"
+    },
+    {
+        "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+        "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+        "timestamp": "2026-11-25T03:56:59.335220",
+        "source": "Hacker News"
     }
 ]
