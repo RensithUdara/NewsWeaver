@@ -693982,5 +693982,11 @@
         "url": "https://vcarl.com/sashay/",
         "timestamp": "2026-11-25T03:56:59.335389",
         "source": "Hacker News"
+    },
+    {
+        "title": "Skip cloud GPUs: batch ML locally on Mac GPU and Neural Engine (up to 11x MLX)",
+        "url": "https://github.com/mikewolfd/fast-silicon",
+        "timestamp": "2026-11-25T03:56:59.335406",
+        "source": "Hacker News"
     }
 ]
