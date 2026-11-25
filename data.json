@@ -693886,5 +693886,11 @@
         "url": "https://provost.unlimitedweb.space/",
         "timestamp": "2026-11-25T03:56:59.335083",
         "source": "Hacker News"
+    },
+    {
+        "title": "A critical vulnerability allowing for arbitrary code execution in Chrome",
+        "url": "https://app.opencve.io/cve/CVE-2026-134401",
+        "timestamp": "2026-11-25T03:56:59.335101",
+        "source": "Hacker News"
     }
 ]
