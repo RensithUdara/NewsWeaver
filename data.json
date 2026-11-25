@@ -693892,5 +693892,11 @@
         "url": "https://app.opencve.io/cve/CVE-2026-134401",
         "timestamp": "2026-11-25T03:56:59.335101",
         "source": "Hacker News"
+    },
+    {
+        "title": "StarPulse – a native macOS menu bar monitor for Starlink",
+        "url": "https://github.com/paulo-amaral/starlink-macos-menubar",
+        "timestamp": "2026-11-25T03:56:59.335118",
+        "source": "Hacker News"
     }
 ]
