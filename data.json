@@ -693994,5 +693994,11 @@
         "url": "https://www.youtube.com/watch?v=Ky48x6LxuYA",
         "timestamp": "2026-11-25T03:56:59.335424",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Mergeon – A native desktop Git client written in Rust with GPUI",
+        "url": "https://github.com/Spilveru/mergeon",
+        "timestamp": "2026-11-25T03:56:59.335490",
+        "source": "Hacker News"
     }
 ]
