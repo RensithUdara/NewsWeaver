@@ -694288,5 +694288,11 @@
         "url": "https://qake.se",
         "timestamp": "2026-11-25T13:51:41.415047",
         "source": "Hacker News"
+    },
+    {
+        "title": "Benchmarking Infinite Table, MUI X, AG Grid and TanStack Table at 1M Rows",
+        "url": "https://infinite-table.com/blog/2026/11/11/benchmarking-infinite-table-mui-x-ag-grid-and-tanstack-table-with-a-million-rows",
+        "timestamp": "2026-11-25T13:51:41.415082",
+        "source": "Hacker News"
     }
 ]
