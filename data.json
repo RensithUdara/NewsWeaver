@@ -694462,5 +694462,11 @@
         "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
         "timestamp": "2026-11-25T22:52:59.521628",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+        "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+        "timestamp": "2026-11-25T22:52:59.521643",
+        "source": "Hacker News"
     }
 ]
