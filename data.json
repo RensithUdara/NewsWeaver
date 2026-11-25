@@ -693958,5 +693958,11 @@
         "url": "https://carry.md/",
         "timestamp": "2026-11-25T03:56:59.335320",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open detection rules for AI agent attack frameworks",
+        "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+        "timestamp": "2026-11-25T03:56:59.335338",
+        "source": "Hacker News"
     }
 ]
