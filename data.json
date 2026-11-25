@@ -694432,5 +694432,11 @@
         "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
         "timestamp": "2026-11-25T22:52:59.521340",
         "source": "Hacker News"
+    },
+    {
+        "title": "Much shorter version of GRH Lean verification from Anthropic",
+        "url": "https://github.com/lsernau/grh-lean",
+        "timestamp": "2026-11-25T22:52:59.521372",
+        "source": "Hacker News"
     }
 ]
