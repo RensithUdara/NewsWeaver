@@ -694276,5 +694276,11 @@
         "url": "https://www.crowdgpt.net/",
         "timestamp": "2026-11-25T13:51:41.414966",
         "source": "Hacker News"
+    },
+    {
+        "title": "Faster CI with Orchestrated Pytest Workers",
+        "url": "https://making.close.com/posts/faster-ci-with-orchestrated-pytest-workers/",
+        "timestamp": "2026-11-25T13:51:41.414998",
+        "source": "Hacker News"
     }
 ]
