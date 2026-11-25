@@ -694192,5 +694192,11 @@
         "url": "https://anon.af/",
         "timestamp": "2026-11-25T13:51:41.414516",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I made a library that combines your devices' memory to train models",
+        "url": "https://github.com/abdallah-swe/layerpool",
+        "timestamp": "2026-11-25T13:51:41.414548",
+        "source": "Hacker News"
     }
 ]
