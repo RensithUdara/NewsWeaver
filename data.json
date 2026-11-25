@@ -694696,5 +694696,11 @@
         "url": "https://www.youtube.com/watch?v=11EoBiBh5QY",
         "timestamp": "2026-11-25T22:52:59.714636",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bare Metal Qwen",
+        "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+        "timestamp": "2026-11-25T22:52:59.714650",
+        "source": "Hacker News"
     }
 ]
