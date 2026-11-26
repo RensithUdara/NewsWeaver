@@ -695656,5 +695656,11 @@
         "url": "https://ftp.mirrorservice.org/sites/ftp.wiretapped.net/pub/security/info/reference/rainbow-books/",
         "timestamp": "2026-11-26T23:08:52.553949",
         "source": "Hacker News"
+    },
+    {
+        "title": "TORtilla with Onion De-Anonymize Tor Browser to Reveal the Real IP",
+        "url": "https://calif.io/research/tortilla-with-onion",
+        "timestamp": "2026-11-26T23:08:52.553984",
+        "source": "Hacker News"
     }
 ]
