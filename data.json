@@ -695380,5 +695380,11 @@
         "url": "https://meetalias.com/",
         "timestamp": "2026-11-26T14:24:53.208370",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bitcoin Hashrate Hijacking Detected on Stratum V1",
+        "url": "https://braiins.com/blog/bitcoin-hashrate-hijacking-unencrypted-stratum-v1",
+        "timestamp": "2026-11-26T14:24:53.208402",
+        "source": "Hacker News"
     }
 ]
