@@ -695242,5 +695242,11 @@
         "url": "https://eng.snap.com/mcp-gateway",
         "timestamp": "2026-11-26T14:24:52.964909",
         "source": "Hacker News"
+    },
+    {
+        "title": "Unconditional Integer Factorization in Subexponential Time",
+        "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+        "timestamp": "2026-11-26T14:24:52.964942",
+        "source": "Hacker News"
     }
 ]
