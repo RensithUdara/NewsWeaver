@@ -695296,5 +695296,11 @@
         "url": "https://iopscience.iop.org/article/10.3847/1538-4357/aeb9cc",
         "timestamp": "2026-11-26T14:24:53.207899",
         "source": "Hacker News"
+    },
+    {
+        "title": "Optimizing Rustc's next trait solver",
+        "url": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
+        "timestamp": "2026-11-26T14:24:53.207931",
+        "source": "Hacker News"
     }
 ]
