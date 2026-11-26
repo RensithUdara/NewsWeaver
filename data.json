@@ -695560,5 +695560,11 @@
         "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
         "timestamp": "2026-11-26T23:08:52.419357",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+        "url": "https://github.com/eisenzopf/rvoip",
+        "timestamp": "2026-11-26T23:08:52.419379",
+        "source": "Hacker News"
     }
 ]
