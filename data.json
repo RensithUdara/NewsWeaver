@@ -695272,5 +695272,11 @@
         "url": "https://sullysuite.com/demo",
         "timestamp": "2026-11-26T14:24:53.207758",
         "source": "Hacker News"
+    },
+    {
+        "title": "Google's Gmail MCP Prompts Don't Stop Agents with Shell Access",
+        "url": "https://www.suncly.com/research/gmail-mcp-prompts",
+        "timestamp": "2026-11-26T14:24:53.207794",
+        "source": "Hacker News"
     }
 ]
