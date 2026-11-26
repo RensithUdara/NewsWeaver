@@ -695740,5 +695740,11 @@
         "url": "https://www.cbc.ca/news/canada/ottawa/buster-the-hamster-home-safe-after-hitching-ride-in-halloween-pumpkin-9.7435959",
         "timestamp": "2026-11-26T23:08:52.554271",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Track people in video locally without AGPL or cloud APIs",
+        "url": "https://github.com/obendidi/trackflow",
+        "timestamp": "2026-11-26T23:08:52.554291",
+        "source": "Hacker News"
     }
 ]
