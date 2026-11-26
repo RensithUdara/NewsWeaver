@@ -695410,5 +695410,11 @@
         "url": "https://spin.atomicobject.com/you-should-write-a-cli-for-your-web-app/",
         "timestamp": "2026-11-26T14:24:53.208532",
         "source": "Hacker News"
+    },
+    {
+        "title": "A direct -O0 code generator for LLVM",
+        "url": "https://maskray.me/blog/llvm-direct-o0-code-generator",
+        "timestamp": "2026-11-26T14:24:53.208565",
+        "source": "Hacker News"
     }
 ]
