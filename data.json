@@ -695542,5 +695542,11 @@
         "url": "https://janlukas.blog/posts/ai-self-hosting",
         "timestamp": "2026-11-26T23:08:52.419286",
         "source": "Hacker News"
+    },
+    {
+        "title": "AMD-specific fork of llama.cpp",
+        "url": "https://devnull.land/amd-specific-llama-cpp",
+        "timestamp": "2026-11-26T23:08:52.419311",
+        "source": "Hacker News"
     }
 ]
