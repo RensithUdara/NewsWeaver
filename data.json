@@ -696202,5 +696202,11 @@
         "url": "https://openai.com/openworks/",
         "timestamp": "2026-11-27T14:44:26.053575",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Pgseal – Zero-data-access Postgres/Supabase schema drift and RLS guard",
+        "url": "https://github.com/yun87457-web/pgseal",
+        "timestamp": "2026-11-27T14:44:26.053618",
+        "source": "Hacker News"
     }
 ]
