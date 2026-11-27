@@ -696052,5 +696052,11 @@
         "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273",
         "timestamp": "2026-11-27T04:58:20.451453",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: An interactive map of the Riemann Hypothesis proof",
+        "url": "https://longbinlai.github.io/riemann-atlas/?lang=en&step=reflection&view=overview",
+        "timestamp": "2026-11-27T04:58:20.451474",
+        "source": "Hacker News"
     }
 ]
