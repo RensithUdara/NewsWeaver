@@ -696010,5 +696010,11 @@
         "url": "https://www.aamc.org/news/doctors-beware-ai-threatens-weaken-your-relationships-patients",
         "timestamp": "2026-11-27T04:58:20.451305",
         "source": "Hacker News"
+    },
+    {
+        "title": "Beating Stockfish 18 in Zero- Dependency Rust with AI [pdf]",
+        "url": "https://github.com/deedy/chess-chatarunga/blob/main/docs/paper.pdf",
+        "timestamp": "2026-11-27T04:58:20.451328",
+        "source": "Hacker News"
     }
 ]
