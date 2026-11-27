@@ -696472,5 +696472,11 @@
         "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
         "timestamp": "2026-11-27T22:59:02.258901",
         "source": "Hacker News"
+    },
+    {
+        "title": "Convex skills send the user's app idea to a remote server without telling them",
+        "url": "https://github.com/convex/convex-backend-skill/issues/64",
+        "timestamp": "2026-11-27T22:59:02.258927",
+        "source": "Hacker News"
     }
 ]
