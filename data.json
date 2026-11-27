@@ -695992,5 +695992,11 @@
         "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
         "timestamp": "2026-11-27T04:58:20.451243",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ansible Fails waiting for privilege escalation on Ubuntu 26",
+        "url": "https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/",
+        "timestamp": "2026-11-27T04:58:20.451264",
+        "source": "Hacker News"
     }
 ]
