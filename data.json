@@ -695968,5 +695968,11 @@
         "url": "https://github.com/geastack/html-renderer",
         "timestamp": "2026-11-27T04:58:20.451143",
         "source": "Hacker News"
+    },
+    {
+        "title": "SSHFS: A network filesystem client to connect to SSH servers",
+        "url": "https://github.com/libfuse/sshfs",
+        "timestamp": "2026-11-27T04:58:20.451165",
+        "source": "Hacker News"
     }
 ]
