@@ -695998,5 +695998,11 @@
         "url": "https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/",
         "timestamp": "2026-11-27T04:58:20.451264",
         "source": "Hacker News"
+    },
+    {
+        "title": "Garage v2.6.0 released with web admin, v1.x EOL and other news",
+        "url": "https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/",
+        "timestamp": "2026-11-27T04:58:20.451284",
+        "source": "Hacker News"
     }
 ]
