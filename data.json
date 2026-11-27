@@ -696670,5 +696670,11 @@
         "url": "https://www.nytimes.com/2026/11/24/style/us-navy-pea-coat-retired.html",
         "timestamp": "2026-11-27T22:59:02.310984",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A CLI that measures whether AI answers cite your site",
+        "url": "https://github.com/routeflags/ai-citation-monitor",
+        "timestamp": "2026-11-27T22:59:02.311004",
+        "source": "Hacker News"
     }
 ]
