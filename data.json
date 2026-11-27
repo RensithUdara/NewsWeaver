@@ -696088,5 +696088,11 @@
         "url": "https://blog.whatsapp.com/stay-connected-on-whatsapp-when-you-travel?_fb_noscript=1",
         "timestamp": "2026-11-27T04:58:20.451579",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: 4K fsync tail latency and SQLite WAL lock failures on a $4/mo VPS",
+        "url": "https://nodebudget.dev/guides/why-cheap-vps-benchmarks-lie/",
+        "timestamp": "2026-11-27T04:58:20.451605",
+        "source": "Hacker News"
     }
 ]
