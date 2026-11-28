@@ -696808,5 +696808,11 @@
         "url": "https://quin.fyi/posts/how-winhelp-files-work.html",
         "timestamp": "2026-11-28T04:36:21.483814",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+        "url": "https://tabernet.es/",
+        "timestamp": "2026-11-28T04:36:21.483912",
+        "source": "Hacker News"
     }
 ]
