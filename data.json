@@ -696766,5 +696766,11 @@
         "url": "https://css-tricks.com/using-light-dark-without-getting-caught-out/",
         "timestamp": "2026-11-27T22:59:04.046686",
         "source": "CSS-Tricks"
+    },
+    {
+        "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+        "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+        "timestamp": "2026-11-28T04:36:21.483419",
+        "source": "Hacker News"
     }
 ]
