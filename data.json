@@ -696862,5 +696862,11 @@
         "url": "https://www.microprocessorreport.com/p/quick-take-amds-helios-appliance",
         "timestamp": "2026-11-28T04:36:21.750018",
         "source": "Hacker News"
+    },
+    {
+        "title": "AMD RT-MLAS Cuts Ray Tracing BVH Memory 92.3%",
+        "url": "https://shattered.io/amd-rt-mlas-vulkan-bvh-memory-92-percent-radeon-rx-9070-nov-26/",
+        "timestamp": "2026-11-28T04:36:21.750055",
+        "source": "Hacker News"
     }
 ]
