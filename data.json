@@ -696946,5 +696946,11 @@
         "url": "https://www.youtube.com/watch?v=lTkRWrhfiRA",
         "timestamp": "2026-11-28T04:36:21.750498",
         "source": "Hacker News"
+    },
+    {
+        "title": "Llm.asm – Pure x86-64 Assembly for LLM Inference and Training",
+        "url": "https://github.com/alesha-pro/llm.asm",
+        "timestamp": "2026-11-28T04:36:21.750529",
+        "source": "Hacker News"
     }
 ]
