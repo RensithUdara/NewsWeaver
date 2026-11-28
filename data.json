@@ -697168,5 +697168,11 @@
         "url": "https://bmxt.diozy.net/",
         "timestamp": "2026-11-28T13:32:38.008426",
         "source": "Hacker News"
+    },
+    {
+        "title": "PostgreSQL 18.7 and 19.0: Expression Aggregates 31.6% Slower",
+        "url": "https://thestacksentinel.com/articles/postgresql-18-7-and-19-0-expression-aggregates-31-6-slower-a64ecb0f/",
+        "timestamp": "2026-11-28T13:32:38.008459",
+        "source": "Hacker News"
     }
 ]
