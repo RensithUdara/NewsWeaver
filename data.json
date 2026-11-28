@@ -697228,5 +697228,11 @@
         "url": "https://en.wikipedia.org/wiki/Icelandic_Naming_Committee",
         "timestamp": "2026-11-28T13:32:38.008791",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ctxblame – \"Git blame\" for LLM agent decisions via counterfactual replay",
+        "url": "https://github.com/kekeandzeyu/ctxblame",
+        "timestamp": "2026-11-28T13:32:38.008825",
+        "source": "Hacker News"
     }
 ]
