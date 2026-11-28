@@ -697090,5 +697090,11 @@
         "url": "https://medium.com/@sankeerthan.kasilingam/early-warning-for-banks-checked-against-their-own-numbers-amiri-agent-on-google-cloud-1e852071227d",
         "timestamp": "2026-11-28T13:32:38.007941",
         "source": "Hacker News"
+    },
+    {
+        "title": "LangChain DevContainer",
+        "url": "https://github.com/langchain-ai/langchain/tree/master/.devcontainer",
+        "timestamp": "2026-11-28T13:32:38.007990",
+        "source": "Hacker News"
     }
 ]
