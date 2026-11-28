@@ -697216,5 +697216,11 @@
         "url": "https://www.nist.gov/news-events/news/2026/11/towards-best-practices-evaluating-si-driven-uplift",
         "timestamp": "2026-11-28T13:32:38.008690",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linux C2 from Scratch 0x01: Virtualising Your Malware",
+        "url": "https://jm33.me/linux-c2-from-scratch-0x01-virtualising-your-malware.html",
+        "timestamp": "2026-11-28T13:32:38.008722",
+        "source": "Hacker News"
     }
 ]
