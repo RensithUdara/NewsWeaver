@@ -697036,5 +697036,11 @@
         "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
         "timestamp": "2026-11-28T13:32:37.743977",
         "source": "Hacker News"
+    },
+    {
+        "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+        "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+        "timestamp": "2026-11-28T13:32:37.744013",
+        "source": "Hacker News"
     }
 ]
